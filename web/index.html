@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>Cooking For Myself — Meal Browser</title>
+<meta name="description" content="Browse the Cooking For Myself open meal dataset and draft new meals.">
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="#/">Cooking&nbsp;For&nbsp;Myself</a>
+  <div class="controls">
+    <input id="search" type="search" placeholder="Search meals…" autocomplete="off" aria-label="Search meals">
+    <label class="lang">
+      <span class="sr-only">Language</span>
+      <select id="lang" aria-label="Display language"></select>
+    </label>
+    <a class="btn" href="#/add">+ Add a meal</a>
+  </div>
+</header>
+<main id="view" aria-live="polite"><p class="loading">Loading dataset…</p></main>
+<footer class="sitefoot">
+  <span id="datasetInfo"></span>
+  Data <a href="https://opendatacommons.org/licenses/by/1-0/" rel="noopener">ODC-BY-1.0</a> ·
+  Images <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">CC-BY-4.0</a> ·
+  <a href="https://github.com/imitation-alpha/cooking-for-myself-data" rel="noopener">Source</a>
+</footer>
+<script type="module" src="./app.js"></script>
+</body>
+</html>
