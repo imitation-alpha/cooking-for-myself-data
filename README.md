@@ -14,6 +14,23 @@ This repository is the canonical source for meal metadata, ingredient metadata, 
 
 For app, website, and SDK integration guidance, see [docs/developer-guide.md](docs/developer-guide.md).
 
+## Browse the dataset
+
+A static browser is published via GitHub Pages:
+**https://imitation-alpha.github.io/cooking-for-myself-data/**
+
+Traverse meals (prev/next, search, restriction-tag filter, language switch) and draft a
+new meal with the in-page form — it produces a `status:"draft"` record and opens a
+prefilled pull request that CI validates. No server or account setup required beyond a
+GitHub account to submit.
+
+Build and preview locally:
+
+```bash
+npm run build:site     # validates, exports the seed, assembles _site/
+npm run preview:site   # serves _site/ at http://localhost:8080
+```
+
 ## Image Policy
 
 Primary dataset images must be realistic photos. Meal images use `contentStyle: "realistic_food_photo"` and should look like home-cooked food. Ingredient images use `contentStyle: "realistic_ingredient_photo"` and should look like grocery or lightly prepped ingredient reference photos.
