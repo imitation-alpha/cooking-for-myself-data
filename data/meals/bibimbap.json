@@ -1,0 +1,273 @@
+{
+  "id": "bibimbap",
+  "status": "approved",
+  "names": {
+    "zhHant": "拌飯",
+    "zhHans": "拌饭",
+    "en": "Bibimbap",
+    "ja": "ビビンバ",
+    "ko": "비빔밥",
+    "th": null,
+    "vi": null,
+    "id": "Bibimbap",
+    "tl": "Bibimbap",
+    "yue": "拌飯"
+  },
+  "summary": {
+    "zhHant": "拌飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "拌飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "拌飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "3 隻",
+        "zhHans": "3 隻",
+        "en": "3 eggs",
+        "ja": "3個",
+        "ko": "3개",
+        "th": null,
+        "vi": null,
+        "id": "3 butir",
+        "tl": "3 piraso",
+        "yue": "3 隻"
+      }
+    },
+    {
+      "ingredientId": "soybean-sprouts",
+      "amounts": {
+        "zhHant": "250 克",
+        "zhHans": "250 克",
+        "en": "250 g",
+        "ja": "250 g",
+        "ko": "250 g",
+        "th": null,
+        "vi": null,
+        "id": "250 g",
+        "tl": "250 g",
+        "yue": "250 克"
+      }
+    },
+    {
+      "ingredientId": "gochujang",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "egg",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "白米煮飯豆芽洗淨",
+        "yue": "白米煮飯豆芽洗淨",
+        "zhHans": "白米煮飯豆芽洗淨",
+        "en": "Cook rice and rinse soybean sprouts",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯洗至水較清，放入飯煲煮飯。豆芽 250 克沖洗後瀝乾，蒜頭 3 瓣切碎，蔥 2 條切粒；雞蛋 3 隻先放室溫旁待用。",
+        "yue": "白米 1 杯洗至水較清，放入飯煲煮飯。豆芽 250 克沖洗後瀝乾，蒜頭 3 瓣切碎，蔥 2 條切粒；雞蛋 3 隻先放室溫旁待用。",
+        "zhHans": "白米 1 杯洗至水較清，放入飯煲煮飯。豆芽 250 克沖洗後瀝乾，蒜頭 3 瓣切碎，蔥 2 條切粒；雞蛋 3 隻先放室溫旁待用。",
+        "en": "Rinse 1 cup white rice until the water is clearer and cook it in the rice cooker. Rinse 250 g soybean sprouts and drain well, mince 3 cloves garlic, finely cut 2 stalks scallions, and keep 3 eggs nearby at room temperature.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "豆芽蒜香炒至爽脆",
+        "yue": "豆芽蒜香炒至爽脆",
+        "zhHans": "豆芽蒜香炒至爽脆",
+        "en": "Cook sprouts until crisp-tender",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鍋加油用中火燒熱，下蒜碎炒 20 秒。加入豆芽，翻炒 2 至 3 分鐘至豆芽剛變軟但仍爽脆，拌入生抽 1 湯匙後盛起，保留少量汁液。",
+        "yue": "平底鍋加油用中火燒熱，下蒜碎炒 20 秒。加入豆芽，翻炒 2 至 3 分鐘至豆芽剛變軟但仍爽脆，拌入生抽 1 湯匙後盛起，保留少量汁液。",
+        "zhHans": "平底鍋加油用中火燒熱，下蒜碎炒 20 秒。加入豆芽，翻炒 2 至 3 分鐘至豆芽剛變軟但仍爽脆，拌入生抽 1 湯匙後盛起，保留少量汁液。",
+        "en": "Heat oil in a skillet over medium heat and cook the minced garlic for 20 seconds. Add the soybean sprouts and stir-fry for 2-3 minutes until just softened but still crisp, then mix in 1 tbsp light soy sauce and lift them out with a little of their juices.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煎蛋留流心或嫩面",
+        "yue": "煎蛋留流心或嫩面",
+        "zhHans": "煎蛋留流心或嫩面",
+        "en": "Fry eggs with soft centers",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "同一鍋補少量油，打入雞蛋 3 隻，用中小火煎 2 至 3 分鐘。蛋白要凝固，蛋黃可保持流心；若不想流心，翻面再煎 30 至 60 秒。",
+        "yue": "同一鍋補少量油，打入雞蛋 3 隻，用中小火煎 2 至 3 分鐘。蛋白要凝固，蛋黃可保持流心；若不想流心，翻面再煎 30 至 60 秒。",
+        "zhHans": "同一鍋補少量油，打入雞蛋 3 隻，用中小火煎 2 至 3 分鐘。蛋白要凝固，蛋黃可保持流心；若不想流心，翻面再煎 30 至 60 秒。",
+        "en": "Add a little oil to the same pan, crack in 3 eggs, and cook over medium-low heat for 2-3 minutes. The whites should set while the yolks can stay runny; for firmer eggs, turn them and cook 30-60 seconds more.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "辣醬飯碗拌開",
+        "yue": "辣醬飯碗拌開",
+        "zhHans": "辣醬飯碗拌開",
+        "en": "Mix the gochujang rice bowl",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "熱飯盛碗，分區放豆芽和煎蛋，加入韓式辣醬 1 湯匙，灑蔥粒。上桌時把蛋黃、辣醬和豆芽汁拌入飯中，飯粒要沾上紅色醬香但不變成濕粥。",
+        "yue": "熱飯盛碗，分區放豆芽和煎蛋，加入韓式辣醬 1 湯匙，灑蔥粒。上桌時把蛋黃、辣醬和豆芽汁拌入飯中，飯粒要沾上紅色醬香但不變成濕粥。",
+        "zhHans": "熱飯盛碗，分區放豆芽和煎蛋，加入韓式辣醬 1 湯匙，灑蔥粒。上桌時把蛋黃、辣醬和豆芽汁拌入飯中，飯粒要沾上紅色醬香但不變成濕粥。",
+        "en": "Spoon hot rice into bowls, arrange the sprouts and fried eggs in sections, add 1 tbsp gochujang, and scatter over the scallions. At the table, mix the yolk, gochujang, and sprout juices through the rice so the grains take on red sauce without turning soupy.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/bibimbap/cover-1.png",
+      "alt": "Generated meal cover image for bibimbap",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#bibimbap",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#bibimbap",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

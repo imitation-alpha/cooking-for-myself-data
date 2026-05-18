@@ -1,0 +1,228 @@
+{
+  "id": "jajangmyeon",
+  "status": "approved",
+  "names": {
+    "zhHant": "炸醬麵",
+    "zhHans": "炸酱面",
+    "en": "Jajangmyeon",
+    "ja": "ジャージャー麺",
+    "ko": "짜장면",
+    "th": null,
+    "vi": null,
+    "id": "Jajangmyeon",
+    "tl": "Jajangmyeon",
+    "yue": "炸醬麵"
+  },
+  "summary": {
+    "zhHant": "炸醬麵 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "炸醬麵 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "炸醬麵 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "dried-noodle",
+      "amounts": {
+        "zhHant": "2 個麵餅",
+        "zhHans": "2 个面饼",
+        "en": "2 noodle nests",
+        "ja": "2玉",
+        "ko": "2개",
+        "th": null,
+        "vi": null,
+        "id": "2 gulung",
+        "tl": "2 pugad",
+        "yue": "2 個麵餅"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "egg",
+    "wheatGluten",
+    "soy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "乾麵煮到有咬口",
+        "yue": "乾麵煮到有咬口",
+        "zhHans": "乾麵煮到有咬口",
+        "en": "Boil the noodles with bite",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "乾麵 2 個麵餅放入滾水，煮 3 至 4 分鐘至麵身散開而中心仍有咬口。撈起後沖水洗走表面澱粉，瀝乾；蒜頭 3 瓣切碎，蔥 2 條分蔥白和蔥綠切粒。",
+        "yue": "乾麵 2 個麵餅放入滾水，煮 3 至 4 分鐘至麵身散開而中心仍有咬口。撈起後沖水洗走表面澱粉，瀝乾；蒜頭 3 瓣切碎，蔥 2 條分蔥白和蔥綠切粒。",
+        "zhHans": "乾麵 2 個麵餅放入滾水，煮 3 至 4 分鐘至麵身散開而中心仍有咬口。撈起後沖水洗走表面澱粉，瀝乾；蒜頭 3 瓣切碎，蔥 2 條分蔥白和蔥綠切粒。",
+        "en": "Add 2 dried noodle nests to boiling water and cook for 3-4 minutes until the strands separate but the centers still have bite. Drain, rinse off surface starch, and drain well; mince 3 cloves garlic and separate 2 stalks scallions into whites and greens.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "蒜蔥白做清淡醬底",
+        "yue": "蒜蔥白做清淡醬底",
+        "zhHans": "蒜蔥白做清淡醬底",
+        "en": "Make a light garlic-scallion sauce base",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "小鑊或平底鍋加油，用中火下蒜碎和蔥白炒 20 至 30 秒。蒜香一出便加入生抽 1 湯匙和 3 湯匙水，讓醬汁輕微起泡，不要煮乾。",
+        "yue": "小鑊或平底鍋加油，用中火下蒜碎和蔥白炒 20 至 30 秒。蒜香一出便加入生抽 1 湯匙和 3 湯匙水，讓醬汁輕微起泡，不要煮乾。",
+        "zhHans": "小鑊或平底鍋加油，用中火下蒜碎和蔥白炒 20 至 30 秒。蒜香一出便加入生抽 1 湯匙和 3 湯匙水，讓醬汁輕微起泡，不要煮乾。",
+        "en": "Heat oil in a small wok or skillet over medium heat, then cook the minced garlic and scallion whites for 20-30 seconds. As soon as they smell fragrant, add 1 tbsp light soy sauce and 3 tbsp water, letting the sauce bubble lightly without drying out.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "麵條吸入生抽香",
+        "yue": "麵條吸入生抽香",
+        "zhHans": "麵條吸入生抽香",
+        "en": "Let the noodles absorb the soy aroma",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把瀝乾的乾麵加入鍋中，轉中大火，用筷子挑鬆並翻動 1 至 2 分鐘。麵條應該均勻沾上淡啡色醬汁，鍋底只剩少量濕潤醬汁。",
+        "yue": "把瀝乾的乾麵加入鍋中，轉中大火，用筷子挑鬆並翻動 1 至 2 分鐘。麵條應該均勻沾上淡啡色醬汁，鍋底只剩少量濕潤醬汁。",
+        "zhHans": "把瀝乾的乾麵加入鍋中，轉中大火，用筷子挑鬆並翻動 1 至 2 分鐘。麵條應該均勻沾上淡啡色醬汁，鍋底只剩少量濕潤醬汁。",
+        "en": "Add the drained noodles to the pan, raise the heat to medium-high, and loosen and toss them with chopsticks for 1-2 minutes. The noodles should be evenly coated in a light brown sauce, with only a small amount of moisture left on the bottom.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "蔥綠拌面說明版本",
+        "yue": "蔥綠拌面說明版本",
+        "zhHans": "蔥綠拌面說明版本",
+        "en": "Fold in scallion greens and label the limitation",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "關火後拌入蔥綠，趁麵條仍滑身時上碟。這碟麵沒有炸醬麵應有的黑豆醬厚汁和配菜，只能作為蒜蔥生抽麵的簡化替代。",
+        "yue": "關火後拌入蔥綠，趁麵條仍滑身時上碟。這碟麵沒有炸醬麵應有的黑豆醬厚汁和配菜，只能作為蒜蔥生抽麵的簡化替代。",
+        "zhHans": "關火後拌入蔥綠，趁麵條仍滑身時上碟。這碟麵沒有炸醬麵應有的黑豆醬厚汁和配菜，只能作為蒜蔥生抽麵的簡化替代。",
+        "en": "Turn off the heat, fold in the scallion greens, and plate while the noodles are still slick. This plate lacks the thick black bean sauce and vegetables expected in jajangmyeon, so it is only a simplified garlic-scallion soy noodle substitute.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/jajangmyeon/cover-1.png",
+      "alt": "Generated meal cover image for jajangmyeon",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#jajangmyeon",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#jajangmyeon",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

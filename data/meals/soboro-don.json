@@ -1,0 +1,242 @@
+{
+  "id": "soboro-don",
+  "status": "approved",
+  "names": {
+    "zhHant": "雞肉鬆丼",
+    "zhHans": "鸡肉松丼",
+    "en": "Soboro don",
+    "ja": "そぼろ丼",
+    "ko": "소보로동",
+    "th": null,
+    "vi": null,
+    "id": "Soboro don",
+    "tl": "Soboro don",
+    "yue": "雞肉鬆丼"
+  },
+  "summary": {
+    "zhHant": "雞肉鬆丼 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "雞肉鬆丼 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "雞肉鬆丼 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "2 件",
+        "zhHans": "2 件",
+        "en": "2 thighs",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 potong",
+        "tl": "2 piraso",
+        "yue": "2 件"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "白飯和雞髀肉剁碎",
+        "yue": "白飯和雞髀肉剁碎",
+        "zhHans": "白飯和雞髀肉剁碎",
+        "en": "Cook rice and mince chicken thighs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯洗至水較清，放入飯煲煮飯。雞髀肉 2 件抹乾，先切幼條再剁成小粒，越細越接近肉鬆口感；蒜頭 3 瓣切碎，蔥 2 條切幼粒。",
+        "yue": "白米 1 杯洗至水較清，放入飯煲煮飯。雞髀肉 2 件抹乾，先切幼條再剁成小粒，越細越接近肉鬆口感；蒜頭 3 瓣切碎，蔥 2 條切幼粒。",
+        "zhHans": "白米 1 杯洗至水較清，放入飯煲煮飯。雞髀肉 2 件抹乾，先切幼條再剁成小粒，越細越接近肉鬆口感；蒜頭 3 瓣切碎，蔥 2 條切幼粒。",
+        "en": "Rinse 1 cup rice until the water is clearer, then cook it in the rice cooker. Pat 2 chicken thighs dry, slice them into thin strips, then chop into small pieces; the finer the chop, the closer it gets to soboro texture. Mince 3 cloves garlic and finely cut 2 stalks scallions.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "蒜香炒散雞肉粒",
+        "yue": "蒜香炒散雞肉粒",
+        "zhHans": "蒜香炒散雞肉粒",
+        "en": "Break chicken into garlic crumbles",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鑊加油用中火燒熱，下蒜碎炒 20 秒。加入雞肉粒，立即用鑊鏟壓散，炒 4 至 5 分鐘至肉粒由粉紅轉白啡色，盡量不要結成大塊。",
+        "yue": "平底鑊加油用中火燒熱，下蒜碎炒 20 秒。加入雞肉粒，立即用鑊鏟壓散，炒 4 至 5 分鐘至肉粒由粉紅轉白啡色，盡量不要結成大塊。",
+        "zhHans": "平底鑊加油用中火燒熱，下蒜碎炒 20 秒。加入雞肉粒，立即用鑊鏟壓散，炒 4 至 5 分鐘至肉粒由粉紅轉白啡色，盡量不要結成大塊。",
+        "en": "Heat oil in a skillet over medium heat and cook the minced garlic for 20 seconds. Add the chopped chicken and immediately press it apart with a spatula. Cook for 4-5 minutes until the pieces turn from pink to pale brown, keeping them from clumping into large chunks.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "生抽少水煮成濕潤肉鬆",
+        "yue": "生抽少水煮成濕潤肉鬆",
+        "zhHans": "生抽少水煮成濕潤肉鬆",
+        "en": "Moisten crumbles with soy and water",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入生抽 1 湯匙和 2 至 3 湯匙水，轉中小火，一邊煮一邊壓散 3 至 4 分鐘。雞肉要全熟無粉紅，鑊底只剩少量鹹香汁，肉粒濕潤但不是湯水。",
+        "yue": "加入生抽 1 湯匙和 2 至 3 湯匙水，轉中小火，一邊煮一邊壓散 3 至 4 分鐘。雞肉要全熟無粉紅，鑊底只剩少量鹹香汁，肉粒濕潤但不是湯水。",
+        "zhHans": "加入生抽 1 湯匙和 2 至 3 湯匙水，轉中小火，一邊煮一邊壓散 3 至 4 分鐘。雞肉要全熟無粉紅，鑊底只剩少量鹹香汁，肉粒濕潤但不是湯水。",
+        "en": "Add 1 tbsp light soy sauce and 2-3 tbsp water, lower to medium-low, and cook for 3-4 minutes while pressing the chicken apart. The chicken should be fully cooked with no pink, with only a little savory liquid left in the pan; the crumbles should be moist, not soupy.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "雞肉鬆鋪成丼飯",
+        "yue": "雞肉鬆鋪成丼飯",
+        "zhHans": "雞肉鬆鋪成丼飯",
+        "en": "Spoon chicken soboro over rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "熱飯盛入碗，把雞肉鬆連少量汁鋪在飯面半邊或全碗，灑蔥粒。理想效果是細碎雞肉可以和飯粒一起入口，汁剛好沾飯，不會流到碗底成湯。",
+        "yue": "熱飯盛入碗，把雞肉鬆連少量汁鋪在飯面半邊或全碗，灑蔥粒。理想效果是細碎雞肉可以和飯粒一起入口，汁剛好沾飯，不會流到碗底成湯。",
+        "zhHans": "熱飯盛入碗，把雞肉鬆連少量汁鋪在飯面半邊或全碗，灑蔥粒。理想效果是細碎雞肉可以和飯粒一起入口，汁剛好沾飯，不會流到碗底成湯。",
+        "en": "Spoon the hot rice into bowls and spread the chicken crumbles, with their small amount of juice, over half or all of the rice surface. Scatter the scallions on top. The fine chicken pieces should mix easily with the rice grains, and the sauce should cling to the rice without pooling at the bottom.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/soboro-don/cover-1.png",
+      "alt": "Generated meal cover image for soboro-don",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#soboro-don",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#soboro-don",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

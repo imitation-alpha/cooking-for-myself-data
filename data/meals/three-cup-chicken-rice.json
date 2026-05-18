@@ -1,0 +1,273 @@
+{
+  "id": "three-cup-chicken-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "三杯雞飯",
+    "zhHans": "三杯鸡饭",
+    "en": "Three cup chicken rice",
+    "ja": "三杯鶏ご飯",
+    "ko": "삼배계 밥",
+    "th": null,
+    "vi": null,
+    "id": "Three cup chicken rice",
+    "tl": "Three cup chicken rice",
+    "yue": "三杯雞飯"
+  },
+  "summary": {
+    "zhHant": "三杯雞飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "三杯雞飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "三杯雞飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Taiwanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Taiwanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Taiwanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "2 件",
+        "zhHans": "2 件",
+        "en": "2 thighs",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 potong",
+        "tl": "2 piraso",
+        "yue": "2 件"
+      }
+    },
+    {
+      "ingredientId": "three-cup-sauce",
+      "amounts": {
+        "zhHant": "3 湯匙",
+        "zhHans": "3 汤匙",
+        "en": "3 tbsp",
+        "ja": "大さじ3",
+        "ko": "3큰술",
+        "th": null,
+        "vi": null,
+        "id": "3 sdm",
+        "tl": "3 kutsara",
+        "yue": "3 湯匙"
+      }
+    },
+    {
+      "ingredientId": "basil",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "sesame",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "白飯先煮雞髀切件",
+        "yue": "白飯先煮雞髀切件",
+        "zhHans": "白飯先煮雞髀切件",
+        "en": "Cook rice and cut chicken thigh pieces",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯洗至水較清，放入飯煲煮飯。雞髀肉 2 件抹乾，切成一口大小；蒜頭 3 瓣拍裂，蔥 2 條分蔥白和蔥綠切段，九層塔 1 杯洗淨瀝乾。",
+        "yue": "白米 1 杯洗至水較清，放入飯煲煮飯。雞髀肉 2 件抹乾，切成一口大小；蒜頭 3 瓣拍裂，蔥 2 條分蔥白和蔥綠切段，九層塔 1 杯洗淨瀝乾。",
+        "zhHans": "白米 1 杯洗至水較清，放入飯煲煮飯。雞髀肉 2 件抹乾，切成一口大小；蒜頭 3 瓣拍裂，蔥 2 條分蔥白和蔥綠切段，九層塔 1 杯洗淨瀝乾。",
+        "en": "Rinse 1 cup white rice until the water is clearer and cook it in the rice cooker. Pat 2 chicken thighs dry and cut them into bite-size pieces; crack 3 cloves garlic, separate 2 stalks scallions into whites and greens, and rinse and drain 1 cup basil.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "雞件煎到邊位金黃",
+        "yue": "雞件煎到邊位金黃",
+        "zhHans": "雞件煎到邊位金黃",
+        "en": "Brown the chicken edges",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "深平底鍋加油，用中大火燒熱。雞件皮面或較平的一面先落鍋，煎 3 至 4 分鐘再翻動，至表面金黃、鍋底有雞油香。",
+        "yue": "深平底鍋加油，用中大火燒熱。雞件皮面或較平的一面先落鍋，煎 3 至 4 分鐘再翻動，至表面金黃、鍋底有雞油香。",
+        "zhHans": "深平底鍋加油，用中大火燒熱。雞件皮面或較平的一面先落鍋，煎 3 至 4 分鐘再翻動，至表面金黃、鍋底有雞油香。",
+        "en": "Heat oil in a deep skillet over medium-high heat. Add the chicken pieces skin-side or flatter-side down first, sear for 3-4 minutes before turning, and cook until the surfaces are golden and the pan smells rich with chicken fat.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "三杯汁小火收成亮面",
+        "yue": "三杯汁小火收成亮面",
+        "zhHans": "三杯汁小火收成亮面",
+        "en": "Glaze chicken with three cup sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入蒜頭和蔥白炒 30 秒，倒入三杯汁 3 湯匙、生抽 1 湯匙和 2 至 3 湯匙水。轉中小火半蓋煮 6 至 8 分鐘，至雞肉熟透、醬汁變亮並能薄薄包住雞件。",
+        "yue": "加入蒜頭和蔥白炒 30 秒，倒入三杯汁 3 湯匙、生抽 1 湯匙和 2 至 3 湯匙水。轉中小火半蓋煮 6 至 8 分鐘，至雞肉熟透、醬汁變亮並能薄薄包住雞件。",
+        "zhHans": "加入蒜頭和蔥白炒 30 秒，倒入三杯汁 3 湯匙、生抽 1 湯匙和 2 至 3 湯匙水。轉中小火半蓋煮 6 至 8 分鐘，至雞肉熟透、醬汁變亮並能薄薄包住雞件。",
+        "en": "Add the garlic and scallion whites for 30 seconds, then pour in 3 tbsp three cup sauce, 1 tbsp light soy sauce and 2-3 tbsp water. Lower to medium-low, half-cover, and cook for 6-8 minutes until the chicken is cooked through and the glossy sauce lightly coats each piece.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "九層塔離火拌飯",
+        "yue": "九層塔離火拌飯",
+        "zhHans": "九層塔離火拌飯",
+        "en": "Wilt basil off heat and serve over rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "關火前加入九層塔 1 杯和蔥綠，翻拌 20 至 30 秒至葉片剛軟。把雞件和醬汁鋪在熱白飯上；理想口感是雞肉多汁、醬汁濃香但不成湯。",
+        "yue": "關火前加入九層塔 1 杯和蔥綠，翻拌 20 至 30 秒至葉片剛軟。把雞件和醬汁鋪在熱白飯上；理想口感是雞肉多汁、醬汁濃香但不成湯。",
+        "zhHans": "關火前加入九層塔 1 杯和蔥綠，翻拌 20 至 30 秒至葉片剛軟。把雞件和醬汁鋪在熱白飯上；理想口感是雞肉多汁、醬汁濃香但不成湯。",
+        "en": "Add 1 cup basil and the scallion greens just before turning off the heat, tossing for 20-30 seconds until the leaves just wilt. Spoon the chicken and sauce over hot white rice; the chicken should be juicy and the sauce rich, glossy and not soupy.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/three-cup-chicken-rice/cover-1.png",
+      "alt": "Generated meal cover image for three-cup-chicken-rice",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#three-cup-chicken-rice",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#three-cup-chicken-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

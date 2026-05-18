@@ -1,0 +1,55 @@
+{
+  "id": "peanut",
+  "status": "approved",
+  "names": {
+    "zhHant": "花生",
+    "zhHans": "花生",
+    "en": "Peanuts",
+    "ja": "ピーナッツ",
+    "ko": "땅콩",
+    "th": null,
+    "vi": null,
+    "id": "Peanuts",
+    "tl": "Peanuts",
+    "yue": "花生"
+  },
+  "section": "dryGoods",
+  "aliases": [
+    "roasted peanuts"
+  ],
+  "storeNotes": {
+    "zhHant": "乾貨或主食走廊；適合一次補貨。",
+    "en": "乾貨或主食走廊；適合一次補貨。",
+    "yue": "乾貨或主食走廊；適合一次補貨。"
+  },
+  "substitutions": {
+    "zhHant": "花生限制時避免，改用生抽、蒜蓉和少量糖調味。",
+    "en": "花生限制時避免，改用生抽、蒜蓉和少量糖調味。",
+    "yue": "花生限制時避免，改用生抽、蒜蓉和少量糖調味。"
+  },
+  "tags": [
+    "peanut"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/peanut.png",
+      "alt": "Generated ingredient image for peanut",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#peanut",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/peanut",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

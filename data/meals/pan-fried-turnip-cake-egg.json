@@ -1,0 +1,245 @@
+{
+  "id": "pan-fried-turnip-cake-egg",
+  "status": "approved",
+  "names": {
+    "zhHant": "煎蘿蔔糕蛋餐",
+    "zhHans": "煎萝卜糕蛋餐",
+    "en": "Pan-fried turnip cake with egg",
+    "ja": "大根餅と卵焼き",
+    "ko": "무떡 달걀부침",
+    "th": null,
+    "vi": null,
+    "id": "Pan-fried turnip cake with egg",
+    "tl": "Pan-fried turnip cake with egg",
+    "yue": "煎蘿蔔糕蛋餐"
+  },
+  "summary": {
+    "zhHant": "煎蘿蔔糕蛋餐 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "en": "煎蘿蔔糕蛋餐 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "yue": "煎蘿蔔糕蛋餐 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong cafe inspired；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong cafe inspired；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong cafe inspired；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 18,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "daikon-cake",
+      "amounts": {
+        "zhHant": "6 片",
+        "zhHans": "6 片",
+        "en": "6 slices",
+        "ja": "6枚",
+        "ko": "6장",
+        "th": null,
+        "vi": null,
+        "id": "6 iris",
+        "tl": "6 hiwa",
+        "yue": "6 片"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "3 隻",
+        "zhHans": "3 隻",
+        "en": "3 eggs",
+        "ja": "3個",
+        "ko": "3개",
+        "th": null,
+        "vi": null,
+        "id": "3 butir",
+        "tl": "3 piraso",
+        "yue": "3 隻"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "shellfish",
+    "pork",
+    "wheatGluten",
+    "egg",
+    "soy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "蘿蔔糕抹乾蛋打散",
+        "yue": "蘿蔔糕抹乾蛋打散",
+        "zhHans": "蘿蔔糕抹乾蛋打散",
+        "en": "Dry turnip cake and beat eggs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蘿蔔糕 6 片用廚房紙抹乾表面，太厚可切成約 1.5 厘米厚。雞蛋 3 隻打散，加入生抽 1 湯匙；蒜頭 3 瓣切碎，蔥 2 條切粒。",
+        "yue": "蘿蔔糕 6 片用廚房紙抹乾表面，太厚可切成約 1.5 厘米厚。雞蛋 3 隻打散，加入生抽 1 湯匙；蒜頭 3 瓣切碎，蔥 2 條切粒。",
+        "zhHans": "蘿蔔糕 6 片用廚房紙抹乾表面，太厚可切成約 1.5 厘米厚。雞蛋 3 隻打散，加入生抽 1 湯匙；蒜頭 3 瓣切碎，蔥 2 條切粒。",
+        "en": "Pat 6 slices daikon cake dry with paper towels; if they are thick, cut them to about 1.5 cm thick. Beat 3 eggs with 1 tbsp light soy sauce; mince 3 cloves garlic and finely cut 2 stalks scallions.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "慢煎蘿蔔糕兩面",
+        "yue": "慢煎蘿蔔糕兩面",
+        "zhHans": "慢煎蘿蔔糕兩面",
+        "en": "Brown both sides of the turnip cake",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鑊加油用中火燒熱，排入蘿蔔糕，不要重疊。每面煎 3 至 4 分鐘，至外層金黃微脆、中心變熱變軟；先夾到鑊邊或碟上。",
+        "yue": "平底鑊加油用中火燒熱，排入蘿蔔糕，不要重疊。每面煎 3 至 4 分鐘，至外層金黃微脆、中心變熱變軟；先夾到鑊邊或碟上。",
+        "zhHans": "平底鑊加油用中火燒熱，排入蘿蔔糕，不要重疊。每面煎 3 至 4 分鐘，至外層金黃微脆、中心變熱變軟；先夾到鑊邊或碟上。",
+        "en": "Heat oil in a skillet over medium heat and add the daikon cake in a single layer. Pan-fry each side for 3-4 minutes until the outside is golden and lightly crisp while the center is hot and soft. Move the pieces to the side of the pan or onto a plate.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "蒜蔥蛋液包住糕邊",
+        "yue": "蒜蔥蛋液包住糕邊",
+        "zhHans": "蒜蔥蛋液包住糕邊",
+        "en": "Set garlic-scallion egg around the cake",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "原鑊轉中小火，加入蒜碎炒 20 秒，放回蘿蔔糕並倒入蛋液。灑入蔥粒，輕推蛋液流到糕邊，煎 2 至 3 分鐘至底部凝固、表面仍微濕。",
+        "yue": "原鑊轉中小火，加入蒜碎炒 20 秒，放回蘿蔔糕並倒入蛋液。灑入蔥粒，輕推蛋液流到糕邊，煎 2 至 3 分鐘至底部凝固、表面仍微濕。",
+        "zhHans": "原鑊轉中小火，加入蒜碎炒 20 秒，放回蘿蔔糕並倒入蛋液。灑入蔥粒，輕推蛋液流到糕邊，煎 2 至 3 分鐘至底部凝固、表面仍微濕。",
+        "en": "Lower the same pan to medium-low, add the minced garlic, and cook for 20 seconds. Return the daikon cake and pour in the eggs. Scatter in the scallions and gently push the egg so it flows around the pieces; cook for 2-3 minutes until the bottom is set and the surface is still slightly moist.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "煎至蛋嫩糕脆",
+        "yue": "煎至蛋嫩糕脆",
+        "zhHans": "煎至蛋嫩糕脆",
+        "en": "Serve with tender egg and crisp edges",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把大塊蛋餅小心翻面，或分件翻面，再煎 30 至 60 秒至蛋剛熟。上碟時蘿蔔糕邊緣要脆，蛋要嫩，不要煎到全乾硬。",
+        "yue": "把大塊蛋餅小心翻面，或分件翻面，再煎 30 至 60 秒至蛋剛熟。上碟時蘿蔔糕邊緣要脆，蛋要嫩，不要煎到全乾硬。",
+        "zhHans": "把大塊蛋餅小心翻面，或分件翻面，再煎 30 至 60 秒至蛋剛熟。上碟時蘿蔔糕邊緣要脆，蛋要嫩，不要煎到全乾硬。",
+        "en": "Carefully flip the egg cake whole, or turn it in sections, and cook for 30-60 seconds more until the egg is just cooked. Serve when the daikon cake edges are crisp and the egg is tender, not dry or hard.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/pan-fried-turnip-cake-egg/cover-1.png",
+      "alt": "Generated meal cover image for pan-fried-turnip-cake-egg",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#pan-fried-turnip-cake-egg",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#pan-fried-turnip-cake-egg",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

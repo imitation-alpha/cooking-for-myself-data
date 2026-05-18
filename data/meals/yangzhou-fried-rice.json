@@ -1,0 +1,258 @@
+{
+  "id": "yangzhou-fried-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "揚州炒飯",
+    "zhHans": "揚州炒饭",
+    "en": "Yangzhou fried rice",
+    "ja": "揚州炒飯",
+    "ko": "양저우 볶음밥",
+    "th": null,
+    "vi": null,
+    "id": "Yangzhou fried rice",
+    "tl": "Yangzhou fried rice",
+    "yue": "揚州炒飯"
+  },
+  "summary": {
+    "zhHant": "揚州炒飯 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "en": "揚州炒飯 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "yue": "揚州炒飯 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "cooked-rice",
+      "amounts": {
+        "zhHant": "2 碗",
+        "zhHans": "2 碗",
+        "en": "2 bowls",
+        "ja": "2杯",
+        "ko": "2그릇",
+        "th": null,
+        "vi": null,
+        "id": "2 mangkuk",
+        "tl": "2 mangkok",
+        "yue": "2 碗"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "3 隻",
+        "zhHans": "3 隻",
+        "en": "3 eggs",
+        "ja": "3個",
+        "ko": "3개",
+        "th": null,
+        "vi": null,
+        "id": "3 butir",
+        "tl": "3 piraso",
+        "yue": "3 隻"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "egg",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "冷飯抓散雞蛋打勻",
+        "yue": "冷飯抓散雞蛋打勻",
+        "zhHans": "冷飯抓散雞蛋打勻",
+        "en": "Break up rice and beat eggs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "冷飯 2 碗用手抓散大飯團；雞蛋 3 隻打至蛋白蛋黃剛混合。蒜頭 3 瓣切碎，蔥 2 條分蔥白和蔥綠切粒，生抽 1 湯匙備用。",
+        "yue": "冷飯 2 碗用手抓散大飯團；雞蛋 3 隻打至蛋白蛋黃剛混合。蒜頭 3 瓣切碎，蔥 2 條分蔥白和蔥綠切粒，生抽 1 湯匙備用。",
+        "zhHans": "冷飯 2 碗用手抓散大飯團；雞蛋 3 隻打至蛋白蛋黃剛混合。蒜頭 3 瓣切碎，蔥 2 條分蔥白和蔥綠切粒，生抽 1 湯匙備用。",
+        "en": "Break up clumps in 2 bowls Cooked rice by hand; beat 3 eggs just until the whites and yolks combine. Chop 3 cloves Garlic, separate 2 stalks Scallions into white and green rounds, and keep 1 tbsp Light soy sauce ready.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "先炒成嫩蛋碎",
+        "yue": "先炒成嫩蛋碎",
+        "zhHans": "先炒成嫩蛋碎",
+        "en": "Scramble tender egg pieces",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "熱鑊落油，倒入雞蛋 3 隻的蛋液；用中大火快速推成小塊，仍帶少少濕潤時盛起，讓蛋碎之後不會乾硬。",
+        "yue": "熱鑊落油，倒入雞蛋 3 隻的蛋液；用中大火快速推成小塊，仍帶少少濕潤時盛起，讓蛋碎之後不會乾硬。",
+        "zhHans": "熱鑊落油，倒入雞蛋 3 隻的蛋液；用中大火快速推成小塊，仍帶少少濕潤時盛起，讓蛋碎之後不會乾硬。",
+        "en": "Heat a wok with oil and pour in the 3 beaten eggs. Push quickly over medium-high heat into small pieces, then lift them out while still slightly moist so they do not become dry later.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "蒜蔥白炒鬆冷飯",
+        "yue": "蒜蔥白炒鬆冷飯",
+        "zhHans": "蒜蔥白炒鬆冷飯",
+        "en": "Fry rice loose with aromatics",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "同鑊補少許油，炒蒜頭和蔥白 20 秒；加入冷飯 2 碗，用鑊鏟壓散，炒 3 至 4 分鐘至飯粒熱透、逐粒分開。",
+        "yue": "同鑊補少許油，炒蒜頭和蔥白 20 秒；加入冷飯 2 碗，用鑊鏟壓散，炒 3 至 4 分鐘至飯粒熱透、逐粒分開。",
+        "zhHans": "同鑊補少許油，炒蒜頭和蔥白 20 秒；加入冷飯 2 碗，用鑊鏟壓散，炒 3 至 4 分鐘至飯粒熱透、逐粒分開。",
+        "en": "Add a little more oil to the wok and cook the Garlic and scallion whites for 20 seconds. Add 2 bowls Cooked rice, press apart with the spatula, and fry 3-4 minutes until hot and separated.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "蛋碎回鑊輕淋生抽",
+        "yue": "蛋碎回鑊輕淋生抽",
+        "zhHans": "蛋碎回鑊輕淋生抽",
+        "en": "Return eggs and season with soy",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蛋碎回鑊，沿鑊邊淋入生抽 1 湯匙，撒蔥綠；大火兜 45 秒至飯粒乾爽帶香，立即上碟，底部不應有濕汁。",
+        "yue": "蛋碎回鑊，沿鑊邊淋入生抽 1 湯匙，撒蔥綠；大火兜 45 秒至飯粒乾爽帶香，立即上碟，底部不應有濕汁。",
+        "zhHans": "蛋碎回鑊，沿鑊邊淋入生抽 1 湯匙，撒蔥綠；大火兜 45 秒至飯粒乾爽帶香，立即上碟，底部不應有濕汁。",
+        "en": "Return the egg pieces, drizzle 1 tbsp Light soy sauce around the wok edge, and add the scallion greens. Toss over high heat for 45 seconds until the rice is dry and fragrant, with no wet sauce at the bottom.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/yangzhou-fried-rice/cover-1.png",
+      "alt": "Generated meal cover image for yangzhou-fried-rice",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#yangzhou-fried-rice",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#yangzhou-fried-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

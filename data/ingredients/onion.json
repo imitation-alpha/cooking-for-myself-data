@@ -1,0 +1,53 @@
+{
+  "id": "onion",
+  "status": "approved",
+  "names": {
+    "zhHant": "洋蔥",
+    "zhHans": "洋葱",
+    "en": "Onion",
+    "ja": "玉ねぎ",
+    "ko": "양파",
+    "th": null,
+    "vi": null,
+    "id": "Onion",
+    "tl": "Onion",
+    "yue": "洋蔥"
+  },
+  "section": "produce",
+  "aliases": [
+    "yellow onion"
+  ],
+  "storeNotes": {
+    "zhHant": "本地亞洲超市蔬果區；先看新鮮度和份量。",
+    "en": "本地亞洲超市蔬果區；先看新鮮度和份量。",
+    "yue": "本地亞洲超市蔬果區；先看新鮮度和份量。"
+  },
+  "substitutions": {
+    "zhHant": "Onion unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Onion unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Onion unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [],
+  "images": [
+    {
+      "path": "assets/ingredients/onion.png",
+      "alt": "Generated ingredient image for onion",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#onion",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/onion",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

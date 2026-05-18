@@ -1,0 +1,55 @@
+{
+  "id": "soybean-sprouts",
+  "status": "approved",
+  "names": {
+    "zhHant": "豆芽",
+    "zhHans": "豆芽",
+    "en": "Soybean sprouts",
+    "ja": "大豆もやし",
+    "ko": "콩나물",
+    "th": null,
+    "vi": null,
+    "id": "Soybean sprouts",
+    "tl": "Soybean sprouts",
+    "yue": "豆芽"
+  },
+  "section": "produce",
+  "aliases": [
+    "kongnamul"
+  ],
+  "storeNotes": {
+    "zhHant": "本地亞洲超市蔬果區；先看新鮮度和份量。",
+    "en": "本地亞洲超市蔬果區；先看新鮮度和份量。",
+    "yue": "本地亞洲超市蔬果區；先看新鮮度和份量。"
+  },
+  "substitutions": {
+    "zhHant": "Soybean sprouts unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Soybean sprouts unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Soybean sprouts unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [
+    "soy"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/soybean-sprouts.png",
+      "alt": "Generated ingredient image for soybean-sprouts",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#soybean-sprouts",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/soybean-sprouts",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

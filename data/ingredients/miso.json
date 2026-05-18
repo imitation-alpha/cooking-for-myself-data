@@ -1,0 +1,55 @@
+{
+  "id": "miso",
+  "status": "approved",
+  "names": {
+    "zhHant": "味噌",
+    "zhHans": "味噌",
+    "en": "Miso",
+    "ja": "味噌",
+    "ko": "미소 된장",
+    "th": null,
+    "vi": null,
+    "id": "Miso",
+    "tl": "Miso",
+    "yue": "味噌"
+  },
+  "section": "sauces",
+  "aliases": [
+    "miso paste"
+  ],
+  "storeNotes": {
+    "zhHant": "調味料走廊；先看英文名和過敏成分。",
+    "en": "調味料走廊；先看英文名和過敏成分。",
+    "yue": "調味料走廊；先看英文名和過敏成分。"
+  },
+  "substitutions": {
+    "zhHant": "Miso unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Miso unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Miso unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [
+    "soy"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/miso.png",
+      "alt": "Generated ingredient image for miso",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#miso",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/miso",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

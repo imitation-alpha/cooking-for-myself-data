@@ -1,0 +1,212 @@
+{
+  "id": "zaru-soba-set",
+  "status": "approved",
+  "names": {
+    "zhHant": "冷蕎麥麵餐",
+    "zhHans": "冷荞麦面餐",
+    "en": "Zaru soba set",
+    "ja": "ざるそばセット",
+    "ko": "자루소바 세트",
+    "th": null,
+    "vi": null,
+    "id": "Zaru soba set",
+    "tl": "Zaru soba set",
+    "yue": "冷蕎麥麵餐"
+  },
+  "summary": {
+    "zhHant": "冷蕎麥麵餐 的本地買餸版本。組合餐方向，重點是先備料再整齊組裝。",
+    "en": "冷蕎麥麵餐 的本地買餸版本。組合餐方向，重點是先備料再整齊組裝。",
+    "yue": "冷蕎麥麵餐 的本地買餸版本。組合餐方向，重點是先備料再整齊組裝。"
+  },
+  "reason": {
+    "zhHant": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 25,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "soba",
+      "amounts": {
+        "zhHant": "180 克",
+        "zhHans": "180 克",
+        "en": "180 g",
+        "ja": "180 g",
+        "ko": "180 g",
+        "th": null,
+        "vi": null,
+        "id": "180 g",
+        "tl": "180 g",
+        "yue": "180 克"
+      }
+    },
+    {
+      "ingredientId": "dried-noodle",
+      "amounts": {
+        "zhHant": "2 個麵餅",
+        "zhHans": "2 个面饼",
+        "en": "2 noodle nests",
+        "ja": "2玉",
+        "ko": "2개",
+        "th": null,
+        "vi": null,
+        "id": "2 gulung",
+        "tl": "2 pugad",
+        "yue": "2 個麵餅"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "3 隻",
+        "zhHans": "3 隻",
+        "en": "3 eggs",
+        "ja": "3個",
+        "ko": "3개",
+        "th": null,
+        "vi": null,
+        "id": "3 butir",
+        "tl": "3 piraso",
+        "yue": "3 隻"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "wheatGluten",
+    "egg"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "分開兩種麵和蛋",
+        "yue": "分開兩種麵和蛋",
+        "zhHans": "分開兩種麵和蛋",
+        "en": "Separate the two noodles and eggs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "準備一鍋滾水和一大碗冷水。蕎麥麵 180 克和乾麵 2 個麵餅分開放好；雞蛋 3 隻打散，先不加未列出的調味料。",
+        "yue": "準備一鍋滾水和一大碗冷水。蕎麥麵 180 克和乾麵 2 個麵餅分開放好；雞蛋 3 隻打散，先不加未列出的調味料。",
+        "zhHans": "準備一鍋滾水和一大碗冷水。蕎麥麵 180 克和乾麵 2 個麵餅分開放好；雞蛋 3 隻打散，先不加未列出的調味料。",
+        "en": "Set up a pot of boiling water and a large bowl of cold water. Keep 180 g soba noodles and 2 dried noodle nests separate; beat 3 eggs without adding any unlisted seasoning.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "煮蕎麥麵後沖冷",
+        "yue": "煮蕎麥麵後沖冷",
+        "zhHans": "煮蕎麥麵後沖冷",
+        "en": "Cook soba and rinse cold",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蕎麥麵放入滾水，按包裝或約 4 至 5 分鐘煮至中心無硬芯但仍有彈性。撈起後立刻用冷水沖洗並輕輕搓走表面黏性，瀝乾到不滴水。",
+        "yue": "蕎麥麵放入滾水，按包裝或約 4 至 5 分鐘煮至中心無硬芯但仍有彈性。撈起後立刻用冷水沖洗並輕輕搓走表面黏性，瀝乾到不滴水。",
+        "zhHans": "蕎麥麵放入滾水，按包裝或約 4 至 5 分鐘煮至中心無硬芯但仍有彈性。撈起後立刻用冷水沖洗並輕輕搓走表面黏性，瀝乾到不滴水。",
+        "en": "Add the soba to boiling water and cook according to the package, or about 4-5 minutes, until the center is no longer hard but the noodles still have spring. Drain, rinse under cold water, gently rub away surface starch, and drain until not dripping.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "乾麵煮熟做另一份冷麵",
+        "yue": "乾麵煮熟做另一份冷麵",
+        "zhHans": "乾麵煮熟做另一份冷麵",
+        "en": "Cook dried noodles as the second cold portion",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "同一鍋水再滾後，放入乾麵 2 個麵餅，煮 3 至 4 分鐘至麵身散開而仍帶咬口。撈起沖冷水，瀝乾後與蕎麥麵分開堆放，口感會較清爽。",
+        "yue": "同一鍋水再滾後，放入乾麵 2 個麵餅，煮 3 至 4 分鐘至麵身散開而仍帶咬口。撈起沖冷水，瀝乾後與蕎麥麵分開堆放，口感會較清爽。",
+        "zhHans": "同一鍋水再滾後，放入乾麵 2 個麵餅，煮 3 至 4 分鐘至麵身散開而仍帶咬口。撈起沖冷水，瀝乾後與蕎麥麵分開堆放，口感會較清爽。",
+        "en": "Bring the same pot back to a boil, add 2 dried noodle nests, and cook for 3-4 minutes until the strands separate but still have bite. Rinse cold, drain well, and keep them in a separate mound from the soba for a cleaner texture.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "煎薄蛋配冷麵",
+        "yue": "煎薄蛋配冷麵",
+        "zhHans": "煎薄蛋配冷麵",
+        "en": "Pan-cook a thin egg sheet for the noodles",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鍋抹少量油，用中小火倒入蛋液，煎成薄蛋皮，約 2 分鐘凝固後翻面 20 至 30 秒。蛋皮切條，放在冷麵旁；因沒有沾汁，食用時只能靠麵香和蛋香，口味會很清淡。",
+        "yue": "平底鍋抹少量油，用中小火倒入蛋液，煎成薄蛋皮，約 2 分鐘凝固後翻面 20 至 30 秒。蛋皮切條，放在冷麵旁；因沒有沾汁，食用時只能靠麵香和蛋香，口味會很清淡。",
+        "zhHans": "平底鍋抹少量油，用中小火倒入蛋液，煎成薄蛋皮，約 2 分鐘凝固後翻面 20 至 30 秒。蛋皮切條，放在冷麵旁；因沒有沾汁，食用時只能靠麵香和蛋香，口味會很清淡。",
+        "en": "Lightly oil a skillet, set it over medium-low heat, and pour in the beaten eggs to make a thin sheet. Cook about 2 minutes until set, turn for 20-30 seconds, then cut into strips and serve beside the cold noodles; without dipping sauce, the set will taste very plain and rely on noodle and egg aroma.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/zaru-soba-set/cover-1.png",
+      "alt": "Generated meal cover image for zaru-soba-set",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#zaru-soba-set",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#zaru-soba-set",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "id": "taiwanese-beef-noodle-soup",
+  "status": "approved",
+  "names": {
+    "zhHant": "紅燒牛肉麵",
+    "zhHans": "红烧牛肉面",
+    "en": "Taiwanese beef noodle soup",
+    "ja": "台湾牛肉麺",
+    "ko": "대만 우육면",
+    "th": null,
+    "vi": null,
+    "id": "Taiwanese beef noodle soup",
+    "tl": "Taiwanese beef noodle soup",
+    "yue": "紅燒牛肉麵"
+  },
+  "summary": {
+    "zhHant": "紅燒牛肉麵 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。",
+    "en": "紅燒牛肉麵 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。",
+    "yue": "紅燒牛肉麵 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。"
+  },
+  "reason": {
+    "zhHant": "Taiwanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Taiwanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Taiwanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 55,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "beef-slice",
+      "amounts": {
+        "zhHant": "250 克",
+        "zhHans": "250 克",
+        "en": "250 g",
+        "ja": "250 g",
+        "ko": "250 g",
+        "th": null,
+        "vi": null,
+        "id": "250 g",
+        "tl": "250 g",
+        "yue": "250 克"
+      }
+    },
+    {
+      "ingredientId": "dried-noodle",
+      "amounts": {
+        "zhHant": "2 個麵餅",
+        "zhHans": "2 个面饼",
+        "en": "2 noodle nests",
+        "ja": "2玉",
+        "ko": "2개",
+        "th": null,
+        "vi": null,
+        "id": "2 gulung",
+        "tl": "2 pugad",
+        "yue": "2 個麵餅"
+      }
+    },
+    {
+      "ingredientId": "beef-brisket",
+      "amounts": {
+        "zhHant": "350 克",
+        "zhHans": "350 克",
+        "en": "350 g",
+        "ja": "350 g",
+        "ko": "350 g",
+        "th": null,
+        "vi": null,
+        "id": "350 g",
+        "tl": "350 g",
+        "yue": "350 克"
+      }
+    },
+    {
+      "ingredientId": "beef-noodle-broth",
+      "amounts": {
+        "zhHant": "700 毫升",
+        "zhHans": "700 毫升",
+        "en": "700 ml",
+        "ja": "700 ml",
+        "ko": "700 ml",
+        "th": null,
+        "vi": null,
+        "id": "700 ml",
+        "tl": "700 ml",
+        "yue": "700 毫升"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "4 片",
+        "zhHans": "4 片",
+        "en": "4 slices",
+        "ja": "4枚",
+        "ko": "4장",
+        "th": null,
+        "vi": null,
+        "id": "4 iris",
+        "tl": "4 hiwa",
+        "yue": "4 片"
+      }
+    },
+    {
+      "ingredientId": "chicken-broth",
+      "amounts": {
+        "zhHant": "600 毫升",
+        "zhHans": "600 毫升",
+        "en": "600 ml",
+        "ja": "600 ml",
+        "ko": "600 ml",
+        "th": null,
+        "vi": null,
+        "id": "600 ml",
+        "tl": "600 ml",
+        "yue": "600 毫升"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "beef",
+    "egg",
+    "wheatGluten",
+    "soy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "牛腩切細薑蔥分好",
+        "yue": "牛腩切細薑蔥分好",
+        "zhHans": "牛腩切細薑蔥分好",
+        "en": "Cut brisket small and set aromatics",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "牛腩 350 克切成約 2 至 3 厘米小塊，牛肉片 250 克攤開備用。蒜頭 3 瓣拍裂，薑 4 片備好，蔥 2 條分蔥白和蔥綠切段；乾麵 2 個麵餅先不要煮。",
+        "yue": "牛腩 350 克切成約 2 至 3 厘米小塊，牛肉片 250 克攤開備用。蒜頭 3 瓣拍裂，薑 4 片備好，蔥 2 條分蔥白和蔥綠切段；乾麵 2 個麵餅先不要煮。",
+        "zhHans": "牛腩 350 克切成約 2 至 3 厘米小塊，牛肉片 250 克攤開備用。蒜頭 3 瓣拍裂，薑 4 片備好，蔥 2 條分蔥白和蔥綠切段；乾麵 2 個麵餅先不要煮。",
+        "en": "Cut 350 g beef brisket into small 2-3 cm pieces and spread out 250 g sliced beef separately. Crack 3 cloves garlic, set out 4 slices ginger, and separate 2 stalks scallions into whites and greens; do not cook the 2 dried noodle nests yet.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "牛腩薑蒜先煮湯底",
+        "yue": "牛腩薑蒜先煮湯底",
+        "zhHans": "牛腩薑蒜先煮湯底",
+        "en": "Start the broth with brisket, ginger and garlic",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "湯鍋加少量油，用中火把牛腩煎 3 至 4 分鐘至表面轉色。加入蒜頭、薑片和蔥白炒 30 秒，倒入紅燒牛肉湯底 700 毫升和雞湯 600 毫升，煮滾後撇走表面浮沫。",
+        "yue": "湯鍋加少量油，用中火把牛腩煎 3 至 4 分鐘至表面轉色。加入蒜頭、薑片和蔥白炒 30 秒，倒入紅燒牛肉湯底 700 毫升和雞湯 600 毫升，煮滾後撇走表面浮沫。",
+        "zhHans": "湯鍋加少量油，用中火把牛腩煎 3 至 4 分鐘至表面轉色。加入蒜頭、薑片和蔥白炒 30 秒，倒入紅燒牛肉湯底 700 毫升和雞湯 600 毫升，煮滾後撇走表面浮沫。",
+        "en": "Heat a little oil in a soup pot over medium heat and sear the brisket for 3-4 minutes until the surface changes color. Add the garlic, ginger and scallion whites for 30 seconds, pour in 700 ml beef noodle broth and 600 ml chicken broth, bring to a boil, and skim foam from the surface.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "小火燉牛腩另煮麵",
+        "yue": "小火燉牛腩另煮麵",
+        "zhHans": "小火燉牛腩另煮麵",
+        "en": "Simmer brisket and boil noodles separately",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把湯轉小火，半蓋煮 35 至 45 分鐘，至牛腩可用筷子插入但仍成形。另起一鍋滾水煮乾麵 2 個麵餅 3 至 4 分鐘，麵身散開後瀝乾放入碗中。",
+        "yue": "把湯轉小火，半蓋煮 35 至 45 分鐘，至牛腩可用筷子插入但仍成形。另起一鍋滾水煮乾麵 2 個麵餅 3 至 4 分鐘，麵身散開後瀝乾放入碗中。",
+        "zhHans": "把湯轉小火，半蓋煮 35 至 45 分鐘，至牛腩可用筷子插入但仍成形。另起一鍋滾水煮乾麵 2 個麵餅 3 至 4 分鐘，麵身散開後瀝乾放入碗中。",
+        "en": "Lower the soup to a gentle simmer, half-cover, and cook for 35-45 minutes until chopsticks can enter the brisket but the pieces still hold their shape. In a separate pot of boiling water, cook 2 dried noodle nests for 3-4 minutes, drain once loosened, and place them in bowls.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "牛肉片燙熟湯麵合碗",
+        "yue": "牛肉片燙熟湯麵合碗",
+        "zhHans": "牛肉片燙熟湯麵合碗",
+        "en": "Poach sliced beef and assemble bowls",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把牛肉片放入熱湯中輕輕撥散，煮 30 至 60 秒至剛轉色。把牛腩、牛肉片和熱湯舀到麵上，灑蔥綠；湯要熱、麵要仍有咬口，牛肉片不要煮到乾硬。",
+        "yue": "把牛肉片放入熱湯中輕輕撥散，煮 30 至 60 秒至剛轉色。把牛腩、牛肉片和熱湯舀到麵上，灑蔥綠；湯要熱、麵要仍有咬口，牛肉片不要煮到乾硬。",
+        "zhHans": "把牛肉片放入熱湯中輕輕撥散，煮 30 至 60 秒至剛轉色。把牛腩、牛肉片和熱湯舀到麵上，灑蔥綠；湯要熱、麵要仍有咬口，牛肉片不要煮到乾硬。",
+        "en": "Add the sliced beef to the hot broth and gently separate the pieces for 30-60 seconds until just changed in color. Ladle brisket, sliced beef and hot broth over the noodles, then scatter scallion greens; the soup should be hot, the noodles still bouncy, and the sliced beef not dry.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/taiwanese-beef-noodle-soup/cover-1.png",
+      "alt": "Generated meal cover image for taiwanese-beef-noodle-soup",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#taiwanese-beef-noodle-soup",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#taiwanese-beef-noodle-soup",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

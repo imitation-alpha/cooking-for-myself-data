@@ -1,0 +1,257 @@
+{
+  "id": "claypot-chicken-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "簡化煲仔雞飯",
+    "zhHans": "简化煲仔鸡饭",
+    "en": "Simplified claypot chicken rice",
+    "ja": "簡単土鍋風鶏ご飯",
+    "ko": "간단 솥밥식 닭고기밥",
+    "th": null,
+    "vi": null,
+    "id": "Simplified claypot chicken rice",
+    "tl": "Simplified claypot chicken rice",
+    "yue": "簡化煲仔雞飯"
+  },
+  "summary": {
+    "zhHant": "簡化煲仔雞飯 的本地買餸版本。一鍋飯方向，重點是米水比例和焗完休息。",
+    "en": "簡化煲仔雞飯 的本地買餸版本。一鍋飯方向，重點是米水比例和焗完休息。",
+    "yue": "簡化煲仔雞飯 的本地買餸版本。一鍋飯方向，重點是米水比例和焗完休息。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 45,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "2 件",
+        "zhHans": "2 件",
+        "en": "2 thighs",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 potong",
+        "tl": "2 piraso",
+        "yue": "2 件"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "4 片",
+        "zhHans": "4 片",
+        "en": "4 slices",
+        "ja": "4枚",
+        "ko": "4장",
+        "th": null,
+        "vi": null,
+        "id": "4 iris",
+        "tl": "4 hiwa",
+        "yue": "4 片"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "雞髀米飯分別準備",
+        "yue": "雞髀米飯分別準備",
+        "zhHans": "雞髀米飯分別準備",
+        "en": "Prepare chicken and rice separately",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯洗淨瀝水；雞髀肉 2 件抹乾切大件，和生抽 1 湯匙、薑 4 片、蒜頭 3 瓣拍扁拌勻。蔥 2 條切粒留最後用。",
+        "yue": "白米 1 杯洗淨瀝水；雞髀肉 2 件抹乾切大件，和生抽 1 湯匙、薑 4 片、蒜頭 3 瓣拍扁拌勻。蔥 2 條切粒留最後用。",
+        "zhHans": "白米 1 杯洗淨瀝水；雞髀肉 2 件抹乾切大件，和生抽 1 湯匙、薑 4 片、蒜頭 3 瓣拍扁拌勻。蔥 2 條切粒留最後用。",
+        "en": "Rinse and drain 1 cup White rice. Pat 2 thighs dry, cut into large pieces, and mix with 1 tbsp Light soy sauce, 4 slices Ginger, and smashed 3 cloves Garlic. Slice 2 stalks Scallions for the end.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "米水先滾成飯底",
+        "yue": "米水先滾成飯底",
+        "zhHans": "米水先滾成飯底",
+        "en": "Cook the rice base first",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把白米 1 杯放入厚底鍋或飯煲，加入平日煮 1 杯米的水量；煮到表面開始見小洞、米面仍濕時，才鋪上雞髀肉。",
+        "yue": "把白米 1 杯放入厚底鍋或飯煲，加入平日煮 1 杯米的水量；煮到表面開始見小洞、米面仍濕時，才鋪上雞髀肉。",
+        "zhHans": "把白米 1 杯放入厚底鍋或飯煲，加入平日煮 1 杯米的水量；煮到表面開始見小洞、米面仍濕時，才鋪上雞髀肉。",
+        "en": "Put 1 cup White rice into a heavy pot or rice cooker with the usual water amount for 1 cup rice. Cook until small holes appear on the surface while the top is still wet, then lay the chicken pieces on top.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "雞肉鋪面焗熟",
+        "yue": "雞肉鋪面焗熟",
+        "zhHans": "雞肉鋪面焗熟",
+        "en": "Steam the chicken over the rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蓋上用小火或飯煲完成餘下烹調；跳掣或米飯收水後不要立即開蓋，焗 10 分鐘，讓雞髀肉中心熟透、肉汁流入飯面。",
+        "yue": "蓋上用小火或飯煲完成餘下烹調；跳掣或米飯收水後不要立即開蓋，焗 10 分鐘，讓雞髀肉中心熟透、肉汁流入飯面。",
+        "zhHans": "蓋上用小火或飯煲完成餘下烹調；跳掣或米飯收水後不要立即開蓋，焗 10 分鐘，讓雞髀肉中心熟透、肉汁流入飯面。",
+        "en": "Cover and finish cooking over low heat or in the rice cooker. When the cooker switches off or the rice absorbs its water, do not open right away; rest covered for 10 minutes so the thigh centers cook through and juices run into the rice.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "翻鬆煲仔雞飯",
+        "yue": "翻鬆煲仔雞飯",
+        "zhHans": "翻鬆煲仔雞飯",
+        "en": "Fluff the chicken rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "確認雞肉全熟後，撒蔥粒，用飯勺由邊位輕輕翻鬆；飯粒應吸到雞汁但不濕爛，鍋底若有微微焦香即可趁熱盛飯。",
+        "yue": "確認雞肉全熟後，撒蔥粒，用飯勺由邊位輕輕翻鬆；飯粒應吸到雞汁但不濕爛，鍋底若有微微焦香即可趁熱盛飯。",
+        "zhHans": "確認雞肉全熟後，撒蔥粒，用飯勺由邊位輕輕翻鬆；飯粒應吸到雞汁但不濕爛，鍋底若有微微焦香即可趁熱盛飯。",
+        "en": "Confirm the chicken is fully cooked, scatter the Scallions, and fluff gently from the sides with a rice paddle. The grains should absorb chicken juices without turning mushy; serve hot if the bottom has a light toasted aroma.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/claypot-chicken-rice/cover-1.png",
+      "alt": "Generated meal cover image for claypot-chicken-rice",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#claypot-chicken-rice",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#claypot-chicken-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

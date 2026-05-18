@@ -1,0 +1,256 @@
+{
+  "id": "thai-green-curry",
+  "status": "approved",
+  "names": {
+    "zhHant": "泰式青咖喱",
+    "zhHans": "泰式青咖喱",
+    "en": "Thai green curry",
+    "ja": "タイグリーンカレー",
+    "ko": "태국 그린 커리",
+    "th": null,
+    "vi": null,
+    "id": "Thai green curry",
+    "tl": "Thai green curry",
+    "yue": "泰式青咖喱"
+  },
+  "summary": {
+    "zhHant": "泰式青咖喱 的本地買餸版本。咖喱方向，重點是先煮軟主料，再收汁。",
+    "en": "泰式青咖喱 的本地買餸版本。咖喱方向，重點是先煮軟主料，再收汁。",
+    "yue": "泰式青咖喱 的本地買餸版本。咖喱方向，重點是先煮軟主料，再收汁。"
+  },
+  "reason": {
+    "zhHant": "Thai home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Thai home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Thai home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 35,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "curry-paste",
+      "amounts": {
+        "zhHant": "2 湯匙",
+        "zhHans": "2 汤匙",
+        "en": "2 tbsp",
+        "ja": "大さじ2",
+        "ko": "2큰술",
+        "th": null,
+        "vi": null,
+        "id": "2 sdm",
+        "tl": "2 kutsara",
+        "yue": "2 湯匙"
+      }
+    },
+    {
+      "ingredientId": "coconut-milk",
+      "amounts": {
+        "zhHant": "300 毫升",
+        "zhHans": "300 毫升",
+        "en": "300 ml",
+        "ja": "300 ml",
+        "ko": "300 ml",
+        "th": null,
+        "vi": null,
+        "id": "300 ml",
+        "tl": "300 ml",
+        "yue": "300 毫升"
+      }
+    },
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "2 件",
+        "zhHans": "2 件",
+        "en": "2 thighs",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 potong",
+        "tl": "2 piraso",
+        "yue": "2 件"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "shellfish"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "雞件切小煮飯",
+        "yue": "雞件切小煮飯",
+        "zhHans": "雞件切小煮飯",
+        "en": "Cut chicken and start rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯先煮飯；雞髀肉 2 件抹乾切成大粒，蒜頭 3 瓣切碎，蔥 2 條切段；咖喱醬 2 湯匙和椰奶 300 毫升開好備用。",
+        "yue": "白米 1 杯先煮飯；雞髀肉 2 件抹乾切成大粒，蒜頭 3 瓣切碎，蔥 2 條切段；咖喱醬 2 湯匙和椰奶 300 毫升開好備用。",
+        "zhHans": "白米 1 杯先煮飯；雞髀肉 2 件抹乾切成大粒，蒜頭 3 瓣切碎，蔥 2 條切段；咖喱醬 2 湯匙和椰奶 300 毫升開好備用。",
+        "en": "Cook 1 cup White rice first. Pat 2 thighs Chicken thigh dry and cut into large bite-size pieces, mince 3 cloves Garlic, cut 2 stalks Scallions into sections, and open 2 tbsp Curry paste and 300 ml Coconut milk.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "炒開青咖喱醬",
+        "yue": "炒開青咖喱醬",
+        "zhHans": "炒開青咖喱醬",
+        "en": "Bloom the green curry paste",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "厚底鍋中火落少量油，炒蒜頭和蔥白 20 秒；加入咖喱醬 2 湯匙，慢慢炒 1 分鐘至顏色變深、香味變集中，不要讓鍋底燒焦。",
+        "yue": "厚底鍋中火落少量油，炒蒜頭和蔥白 20 秒；加入咖喱醬 2 湯匙，慢慢炒 1 分鐘至顏色變深、香味變集中，不要讓鍋底燒焦。",
+        "zhHans": "厚底鍋中火落少量油，炒蒜頭和蔥白 20 秒；加入咖喱醬 2 湯匙，慢慢炒 1 分鐘至顏色變深、香味變集中，不要讓鍋底燒焦。",
+        "en": "Heat a heavy pot over medium heat with a little oil, then cook the Garlic and scallion whites for 20 seconds. Add 2 tbsp Curry paste and fry slowly for 1 minute until darker and aromatic, without letting the bottom burn.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "椰奶小滾煮熟雞",
+        "yue": "椰奶小滾煮熟雞",
+        "zhHans": "椰奶小滾煮熟雞",
+        "en": "Simmer chicken in coconut curry",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "分兩次加入椰奶 300 毫升，先拌到咖喱醬完全散開，再放入雞髀肉 2 件；保持小滾 10 至 12 分鐘，雞肉中心熟透、咖喱汁微微變稠。",
+        "yue": "分兩次加入椰奶 300 毫升，先拌到咖喱醬完全散開，再放入雞髀肉 2 件；保持小滾 10 至 12 分鐘，雞肉中心熟透、咖喱汁微微變稠。",
+        "zhHans": "分兩次加入椰奶 300 毫升，先拌到咖喱醬完全散開，再放入雞髀肉 2 件；保持小滾 10 至 12 分鐘，雞肉中心熟透、咖喱汁微微變稠。",
+        "en": "Add 300 ml Coconut milk in two additions, stirring until the Curry paste fully disperses, then add 2 thighs Chicken thigh. Keep at a gentle simmer for 10-12 minutes, until the chicken is cooked through and the curry slightly thickens.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "咖喱淋飯保留流動",
+        "yue": "咖喱淋飯保留流動",
+        "zhHans": "咖喱淋飯保留流動",
+        "en": "Serve the curry loose over rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入蔥綠再煮 30 秒便離火；青咖喱應濃到可包住雞件但仍能流動，盛在白飯旁邊或淋上飯面，趁椰奶香味熱時食用。",
+        "yue": "加入蔥綠再煮 30 秒便離火；青咖喱應濃到可包住雞件但仍能流動，盛在白飯旁邊或淋上飯面，趁椰奶香味熱時食用。",
+        "zhHans": "加入蔥綠再煮 30 秒便離火；青咖喱應濃到可包住雞件但仍能流動，盛在白飯旁邊或淋上飯面，趁椰奶香味熱時食用。",
+        "en": "Add the scallion greens for the last 30 seconds, then turn off the heat. The green curry should coat the chicken but still flow; serve it beside or over the White rice while the coconut aroma is hot.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/thai-green-curry/cover-1.png",
+      "alt": "Generated meal cover image for thai-green-curry",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#thai-green-curry",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#thai-green-curry",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

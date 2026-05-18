@@ -1,0 +1,243 @@
+{
+  "id": "tofu-minced-pork",
+  "status": "approved",
+  "names": {
+    "zhHant": "肉碎豆腐",
+    "zhHans": "肉碎豆腐",
+    "en": "Tofu with minced pork",
+    "ja": "豆腐の豚ひき肉あん",
+    "ko": "다진 돼지고기 두부",
+    "th": null,
+    "vi": null,
+    "id": "Tofu with minced pork",
+    "tl": "Tofu with minced pork",
+    "yue": "肉碎豆腐"
+  },
+  "summary": {
+    "zhHant": "肉碎豆腐 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "肉碎豆腐 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "肉碎豆腐 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "pork-mince",
+      "amounts": {
+        "zhHant": "220 克",
+        "zhHans": "220 克",
+        "en": "220 g",
+        "ja": "220 g",
+        "ko": "220 g",
+        "th": null,
+        "vi": null,
+        "id": "220 g",
+        "tl": "220 g",
+        "yue": "220 克"
+      }
+    },
+    {
+      "ingredientId": "tofu",
+      "amounts": {
+        "zhHant": "1 盒",
+        "zhHans": "1 盒",
+        "en": "1 block",
+        "ja": "1丁",
+        "ko": "1모",
+        "th": null,
+        "vi": null,
+        "id": "1 blok",
+        "tl": "1 bloke",
+        "yue": "1 盒"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "pork",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "豆腐切件肉碎攤鬆",
+        "yue": "豆腐切件肉碎攤鬆",
+        "zhHans": "豆腐切件肉碎攤鬆",
+        "en": "Cube tofu and loosen the pork",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "豆腐 1 盒倒走盒水，切成大粒；豬肉碎 220 克用筷子攤鬆。蒜頭 3 瓣切碎，蔥 2 條切粒，生抽 1 湯匙放旁邊。",
+        "yue": "豆腐 1 盒倒走盒水，切成大粒；豬肉碎 220 克用筷子攤鬆。蒜頭 3 瓣切碎，蔥 2 條切粒，生抽 1 湯匙放旁邊。",
+        "zhHans": "豆腐 1 盒倒走盒水，切成大粒；豬肉碎 220 克用筷子攤鬆。蒜頭 3 瓣切碎，蔥 2 條切粒，生抽 1 湯匙放旁邊。",
+        "en": "Drain 1 block Tofu from the package and cut into large cubes. Loosen 220 g Pork mince with chopsticks. Chop 3 cloves Garlic, slice 2 stalks Scallions, and keep 1 tbsp Light soy sauce nearby.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "蒜香肉碎炒散",
+        "yue": "蒜香肉碎炒散",
+        "zhHans": "蒜香肉碎炒散",
+        "en": "Brown minced pork with garlic",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鍋燒熱落油，先炒蒜頭 20 秒；加入豬肉碎 220 克，中火壓散炒 3 至 4 分鐘，至肉碎由粉紅轉熟色、鍋邊有肉香。",
+        "yue": "鍋燒熱落油，先炒蒜頭 20 秒；加入豬肉碎 220 克，中火壓散炒 3 至 4 分鐘，至肉碎由粉紅轉熟色、鍋邊有肉香。",
+        "zhHans": "鍋燒熱落油，先炒蒜頭 20 秒；加入豬肉碎 220 克，中火壓散炒 3 至 4 分鐘，至肉碎由粉紅轉熟色、鍋邊有肉香。",
+        "en": "Heat a pan with oil and cook the Garlic for 20 seconds. Add 220 g Pork mince and press it apart over medium heat for 3-4 minutes, until it changes from pink to cooked through and smells savory at the pan edge.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "豆腐入鍋輕煮",
+        "yue": "豆腐入鍋輕煮",
+        "zhHans": "豆腐入鍋輕煮",
+        "en": "Simmer tofu gently in the pan",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "放入豆腐 1 盒和生抽 1 湯匙，沿鍋邊加少量水到豆腐半腰以下；蓋上用中小火煮 5 至 6 分鐘，讓豆腐熱透但不大力翻碎。",
+        "yue": "放入豆腐 1 盒和生抽 1 湯匙，沿鍋邊加少量水到豆腐半腰以下；蓋上用中小火煮 5 至 6 分鐘，讓豆腐熱透但不大力翻碎。",
+        "zhHans": "放入豆腐 1 盒和生抽 1 湯匙，沿鍋邊加少量水到豆腐半腰以下；蓋上用中小火煮 5 至 6 分鐘，讓豆腐熱透但不大力翻碎。",
+        "en": "Add the 1 block Tofu and 1 tbsp Light soy sauce, then pour in a little water around the edge, below halfway up the tofu. Cover and simmer over medium-low heat for 5-6 minutes so the tofu heats through without breaking from hard stirring.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "收成肉碎豆腐汁",
+        "yue": "收成肉碎豆腐汁",
+        "zhHans": "收成肉碎豆腐汁",
+        "en": "Spoon pork sauce over the tofu",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "開蓋用匙羹把肉碎和汁淋到豆腐面，煮多 1 分鐘至汁略少；撒蔥粒，豆腐完整、肉碎貼住表面時連汁上碟。",
+        "yue": "開蓋用匙羹把肉碎和汁淋到豆腐面，煮多 1 分鐘至汁略少；撒蔥粒，豆腐完整、肉碎貼住表面時連汁上碟。",
+        "zhHans": "開蓋用匙羹把肉碎和汁淋到豆腐面，煮多 1 分鐘至汁略少；撒蔥粒，豆腐完整、肉碎貼住表面時連汁上碟。",
+        "en": "Uncover and spoon the pork and pan liquid over the tofu, cooking 1 minute more until the liquid reduces slightly. Scatter the Scallions and serve with the tofu intact and the mince clinging to the surface.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/tofu-minced-pork/cover-1.png",
+      "alt": "Generated meal cover image for tofu-minced-pork",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#tofu-minced-pork",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#tofu-minced-pork",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

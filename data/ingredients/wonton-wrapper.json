@@ -1,0 +1,56 @@
+{
+  "id": "wonton-wrapper",
+  "status": "approved",
+  "names": {
+    "zhHant": "雲吞皮",
+    "zhHans": "云吞皮",
+    "en": "Wonton wrappers",
+    "ja": "ワンタンの皮",
+    "ko": "완탕피",
+    "th": null,
+    "vi": null,
+    "id": "Kulit pangsit",
+    "tl": "Balat ng wonton",
+    "yue": "雲吞皮"
+  },
+  "section": "frozen",
+  "aliases": [
+    "wonton skins"
+  ],
+  "storeNotes": {
+    "zhHant": "急凍櫃；最後才拿，回家盡快冷藏。",
+    "en": "急凍櫃；最後才拿，回家盡快冷藏。",
+    "yue": "急凍櫃；最後才拿，回家盡快冷藏。"
+  },
+  "substitutions": {
+    "zhHant": "小麥／麩質或蛋限制時改用米粉、河粉或其他已標示合適的主食。",
+    "en": "小麥／麩質或蛋限制時改用米粉、河粉或其他已標示合適的主食。",
+    "yue": "小麥／麩質或蛋限制時改用米粉、河粉或其他已標示合適的主食。"
+  },
+  "tags": [
+    "egg",
+    "wheatGluten"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/wonton-wrapper.png",
+      "alt": "Generated ingredient image for wonton-wrapper",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#wonton-wrapper",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/wonton-wrapper",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

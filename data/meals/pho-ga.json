@@ -1,0 +1,269 @@
+{
+  "id": "pho-ga",
+  "status": "approved",
+  "names": {
+    "zhHant": "越式雞湯河",
+    "zhHans": "越式鸡汤河",
+    "en": "Pho ga",
+    "ja": "フォーガー",
+    "ko": "포가",
+    "th": null,
+    "vi": null,
+    "id": "Pho ayam",
+    "tl": "Pho na manok",
+    "yue": "越式雞湯河"
+  },
+  "summary": {
+    "zhHant": "越式雞湯河 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。",
+    "en": "越式雞湯河 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。",
+    "yue": "越式雞湯河 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。"
+  },
+  "reason": {
+    "zhHant": "Vietnamese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Vietnamese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Vietnamese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 40,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "2 件",
+        "zhHans": "2 件",
+        "en": "2 thighs",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 potong",
+        "tl": "2 piraso",
+        "yue": "2 件"
+      }
+    },
+    {
+      "ingredientId": "pho-noodle",
+      "amounts": {
+        "zhHant": "180 克",
+        "zhHans": "180 克",
+        "en": "180 g",
+        "ja": "180 g",
+        "ko": "180 g",
+        "th": null,
+        "vi": null,
+        "id": "180 g",
+        "tl": "180 g",
+        "yue": "180 克"
+      }
+    },
+    {
+      "ingredientId": "bean-sprouts",
+      "amounts": {
+        "zhHant": "150 克",
+        "zhHans": "150 克",
+        "en": "150 g",
+        "ja": "150 g",
+        "ko": "150 g",
+        "th": null,
+        "vi": null,
+        "id": "150 g",
+        "tl": "150 g",
+        "yue": "150 克"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "4 片",
+        "zhHans": "4 片",
+        "en": "4 slices",
+        "ja": "4枚",
+        "ko": "4장",
+        "th": null,
+        "vi": null,
+        "id": "4 iris",
+        "tl": "4 hiwa",
+        "yue": "4 片"
+      }
+    },
+    {
+      "ingredientId": "chicken-broth",
+      "amounts": {
+        "zhHant": "600 毫升",
+        "zhHans": "600 毫升",
+        "en": "600 ml",
+        "ja": "600 ml",
+        "ko": "600 ml",
+        "th": null,
+        "vi": null,
+        "id": "600 ml",
+        "tl": "600 ml",
+        "yue": "600 毫升"
+      }
+    }
+  ],
+  "restrictionTags": [],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "薑蒜蔥分出湯香",
+        "yue": "薑蒜蔥分出湯香",
+        "zhHans": "薑蒜蔥分出湯香",
+        "en": "Separate aromatics for the broth",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "雞髀肉 2 件抹乾；薑 4 片保留大片，蒜頭 3 瓣拍扁，蔥 2 條分開蔥白和蔥綠切段；芽菜 150 克沖洗瀝乾，越式河粉 180 克按包裝用水浸軟。",
+        "yue": "雞髀肉 2 件抹乾；薑 4 片保留大片，蒜頭 3 瓣拍扁，蔥 2 條分開蔥白和蔥綠切段；芽菜 150 克沖洗瀝乾，越式河粉 180 克按包裝用水浸軟。",
+        "zhHans": "雞髀肉 2 件抹乾；薑 4 片保留大片，蒜頭 3 瓣拍扁，蔥 2 條分開蔥白和蔥綠切段；芽菜 150 克沖洗瀝乾，越式河粉 180 克按包裝用水浸軟。",
+        "en": "Pat 2 thighs Chicken thigh dry. Keep 4 slices Ginger large, smash 3 cloves Garlic, and separate 2 stalks Scallions into white and green sections. Rinse and drain 150 g Bean sprouts, and soak 180 g Pho noodles in water as directed on the package.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "雞湯煮熟雞髀",
+        "yue": "雞湯煮熟雞髀",
+        "zhHans": "雞湯煮熟雞髀",
+        "en": "Poach chicken in ginger broth",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鍋中加入雞湯 600 毫升、薑 4 片、蒜頭和蔥白，煮至小滾；放入雞髀肉 2 件，保持微滾 15 至 18 分鐘，直到雞肉中心熟透。",
+        "yue": "鍋中加入雞湯 600 毫升、薑 4 片、蒜頭和蔥白，煮至小滾；放入雞髀肉 2 件，保持微滾 15 至 18 分鐘，直到雞肉中心熟透。",
+        "zhHans": "鍋中加入雞湯 600 毫升、薑 4 片、蒜頭和蔥白，煮至小滾；放入雞髀肉 2 件，保持微滾 15 至 18 分鐘，直到雞肉中心熟透。",
+        "en": "Add 600 ml Chicken broth, 4 slices Ginger, the Garlic, and scallion whites to a pot and bring to a gentle simmer. Add 2 thighs Chicken thigh and poach at a low simmer for 15-18 minutes, until the centers are cooked through.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "河粉燙到柔韌",
+        "yue": "河粉燙到柔韌",
+        "zhHans": "河粉燙到柔韌",
+        "en": "Blanch noodles until supple",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "取出雞髀肉放 3 分鐘再切片；另一鍋水煮滾，越式河粉 180 克燙至柔軟有彈性後瀝乾，芽菜 150 克可在熱水中快速燙 10 秒保持爽脆。",
+        "yue": "取出雞髀肉放 3 分鐘再切片；另一鍋水煮滾，越式河粉 180 克燙至柔軟有彈性後瀝乾，芽菜 150 克可在熱水中快速燙 10 秒保持爽脆。",
+        "zhHans": "取出雞髀肉放 3 分鐘再切片；另一鍋水煮滾，越式河粉 180 克燙至柔軟有彈性後瀝乾，芽菜 150 克可在熱水中快速燙 10 秒保持爽脆。",
+        "en": "Lift out the chicken and rest it for 3 minutes before slicing. Boil a separate pot of water, blanch 180 g Pho noodles until soft and elastic, then drain; blanch 150 g Bean sprouts for 10 seconds if you want them lightly warmed but still crisp.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "熱湯沖入雞河",
+        "yue": "熱湯沖入雞河",
+        "zhHans": "熱湯沖入雞河",
+        "en": "Pour hot broth over chicken noodles",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "河粉分入碗中，放上雞片和芽菜；把雞湯重新煮至熱，隔走大片薑蒜後沖入碗中，撒蔥綠，湯要清熱、河粉不糊、雞肉仍多汁。",
+        "yue": "河粉分入碗中，放上雞片和芽菜；把雞湯重新煮至熱，隔走大片薑蒜後沖入碗中，撒蔥綠，湯要清熱、河粉不糊、雞肉仍多汁。",
+        "zhHans": "河粉分入碗中，放上雞片和芽菜；把雞湯重新煮至熱，隔走大片薑蒜後沖入碗中，撒蔥綠，湯要清熱、河粉不糊、雞肉仍多汁。",
+        "en": "Divide the Pho noodles into bowls and top with sliced chicken and Bean sprouts. Reheat the Chicken broth until hot, strain out the large Ginger and Garlic pieces, pour it into the bowls, and scatter scallion greens; the soup should be clear and hot, the noodles not mushy, and the chicken juicy.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/pho-ga/cover-1.png",
+      "alt": "Generated meal cover image for pho-ga",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#pho-ga",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#pho-ga",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

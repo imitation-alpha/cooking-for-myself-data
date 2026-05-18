@@ -1,0 +1,55 @@
+{
+  "id": "shrimp",
+  "status": "approved",
+  "names": {
+    "zhHant": "蝦仁",
+    "zhHans": "虾仁",
+    "en": "Shrimp",
+    "ja": "むきえび",
+    "ko": "새우",
+    "th": null,
+    "vi": null,
+    "id": "Shrimp",
+    "tl": "Shrimp",
+    "yue": "蝦仁"
+  },
+  "section": "seafood",
+  "aliases": [
+    "prawns"
+  ],
+  "storeNotes": {
+    "zhHant": "海鮮區或急凍櫃；留意是否已去殼去骨。",
+    "en": "海鮮區或急凍櫃；留意是否已去殼去骨。",
+    "yue": "海鮮區或急凍櫃；留意是否已去殼去骨。"
+  },
+  "substitutions": {
+    "zhHant": "貝殼類限制時避免，改用生抽或素蠔油並重新檢查標籤。",
+    "en": "貝殼類限制時避免，改用生抽或素蠔油並重新檢查標籤。",
+    "yue": "貝殼類限制時避免，改用生抽或素蠔油並重新檢查標籤。"
+  },
+  "tags": [
+    "shellfish"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/shrimp.png",
+      "alt": "Generated ingredient image for shrimp",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#shrimp",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/shrimp",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

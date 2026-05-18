@@ -1,0 +1,242 @@
+{
+  "id": "kongnamul-bap",
+  "status": "approved",
+  "names": {
+    "zhHant": "豆芽飯",
+    "zhHans": "豆芽饭",
+    "en": "Soybean sprout rice bowl",
+    "ja": "大豆もやしご飯",
+    "ko": "콩나물밥",
+    "th": null,
+    "vi": null,
+    "id": "Soybean sprout rice bowl",
+    "tl": "Soybean sprout rice bowl",
+    "yue": "豆芽飯"
+  },
+  "summary": {
+    "zhHant": "豆芽飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "豆芽飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "豆芽飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "soybean-sprouts",
+      "amounts": {
+        "zhHant": "250 克",
+        "zhHans": "250 克",
+        "en": "250 g",
+        "ja": "250 g",
+        "ko": "250 g",
+        "th": null,
+        "vi": null,
+        "id": "250 g",
+        "tl": "250 g",
+        "yue": "250 克"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "米洗好豆芽瀝乾",
+        "yue": "米洗好豆芽瀝乾",
+        "zhHans": "米洗好豆芽瀝乾",
+        "en": "Rinse rice and drain soybean sprouts",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯洗至水較清，放入飯煲並加平日煮飯水量。豆芽 250 克沖洗後瀝乾，摘走明顯變色的部分；蒜頭 3 瓣切碎，蔥 2 條切粒。",
+        "yue": "白米 1 杯洗至水較清，放入飯煲並加平日煮飯水量。豆芽 250 克沖洗後瀝乾，摘走明顯變色的部分；蒜頭 3 瓣切碎，蔥 2 條切粒。",
+        "zhHans": "白米 1 杯洗至水較清，放入飯煲並加平日煮飯水量。豆芽 250 克沖洗後瀝乾，摘走明顯變色的部分；蒜頭 3 瓣切碎，蔥 2 條切粒。",
+        "en": "Rinse 1 cup white rice until the water is clearer, then place it in the rice cooker with your usual amount of cooking water. Rinse and drain 250 g soybean sprouts, removing any visibly discolored pieces; mince 3 cloves garlic and finely cut 2 stalks scallions.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "豆芽鋪面一同蒸飯",
+        "yue": "豆芽鋪面一同蒸飯",
+        "zhHans": "豆芽鋪面一同蒸飯",
+        "en": "Steam the sprouts on top of the rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把豆芽平鋪在米面，不要攪入米中。照平日煮飯模式加熱，飯煲跳掣後再焗 8 至 10 分鐘，讓豆芽靠蒸氣熟透但仍保留爽口。",
+        "yue": "把豆芽平鋪在米面，不要攪入米中。照平日煮飯模式加熱，飯煲跳掣後再焗 8 至 10 分鐘，讓豆芽靠蒸氣熟透但仍保留爽口。",
+        "zhHans": "把豆芽平鋪在米面，不要攪入米中。照平日煮飯模式加熱，飯煲跳掣後再焗 8 至 10 分鐘，讓豆芽靠蒸氣熟透但仍保留爽口。",
+        "en": "Spread the soybean sprouts evenly over the rice without stirring them into the grains. Cook on the regular rice setting, then let the cooker rest closed for 8-10 minutes after it switches off so the sprouts steam through but stay crisp.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "蒜蔥生抽做拌飯汁",
+        "yue": "蒜蔥生抽做拌飯汁",
+        "zhHans": "蒜蔥生抽做拌飯汁",
+        "en": "Make garlic scallion soy for mixing",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "飯焗好時，用小鍋加少量油以小火炒蒜碎 20 秒，加入生抽 1 湯匙和 2 湯匙水，煮至剛起泡便關火。拌入一半蔥粒，保留一半作面。",
+        "yue": "飯焗好時，用小鍋加少量油以小火炒蒜碎 20 秒，加入生抽 1 湯匙和 2 湯匙水，煮至剛起泡便關火。拌入一半蔥粒，保留一半作面。",
+        "zhHans": "飯焗好時，用小鍋加少量油以小火炒蒜碎 20 秒，加入生抽 1 湯匙和 2 湯匙水，煮至剛起泡便關火。拌入一半蔥粒，保留一半作面。",
+        "en": "While the rice rests, heat a little oil in a small pan over low heat and cook the minced garlic for 20 seconds. Add 1 tbsp light soy sauce and 2 tbsp water, turn off the heat as soon as it bubbles, then stir in half the scallions and save the rest for topping.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "由底翻鬆保持豆芽脆",
+        "yue": "由底翻鬆保持豆芽脆",
+        "zhHans": "由底翻鬆保持豆芽脆",
+        "en": "Fluff from the bottom and keep sprouts crisp",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "打開飯煲後，由底部把飯和豆芽輕輕翻鬆，不要壓爛豆芽。盛入碗中，淋上蒜蔥生抽汁，灑餘下蔥粒；米飯應乾爽，豆芽有蒸熟的豆香和輕微爽脆。",
+        "yue": "打開飯煲後，由底部把飯和豆芽輕輕翻鬆，不要壓爛豆芽。盛入碗中，淋上蒜蔥生抽汁，灑餘下蔥粒；米飯應乾爽，豆芽有蒸熟的豆香和輕微爽脆。",
+        "zhHans": "打開飯煲後，由底部把飯和豆芽輕輕翻鬆，不要壓爛豆芽。盛入碗中，淋上蒜蔥生抽汁，灑餘下蔥粒；米飯應乾爽，豆芽有蒸熟的豆香和輕微爽脆。",
+        "en": "Open the cooker and gently lift from the bottom to mix the rice and sprouts without crushing them. Bowl it up, spoon over the garlic scallion soy, and scatter the remaining scallions; the rice should be fluffy and the sprouts steamed, bean-sweet and lightly crisp.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/kongnamul-bap/cover-1.png",
+      "alt": "Generated meal cover image for kongnamul-bap",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#kongnamul-bap",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#kongnamul-bap",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

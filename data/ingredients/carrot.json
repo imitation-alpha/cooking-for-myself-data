@@ -1,0 +1,53 @@
+{
+  "id": "carrot",
+  "status": "approved",
+  "names": {
+    "zhHant": "甘筍",
+    "zhHans": "甘笋",
+    "en": "Carrot",
+    "ja": "にんじん",
+    "ko": "당근",
+    "th": null,
+    "vi": null,
+    "id": "Carrot",
+    "tl": "Carrot",
+    "yue": "甘筍"
+  },
+  "section": "produce",
+  "aliases": [
+    "carrots"
+  ],
+  "storeNotes": {
+    "zhHant": "本地亞洲超市蔬果區；先看新鮮度和份量。",
+    "en": "本地亞洲超市蔬果區；先看新鮮度和份量。",
+    "yue": "本地亞洲超市蔬果區；先看新鮮度和份量。"
+  },
+  "substitutions": {
+    "zhHant": "Carrot unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Carrot unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Carrot unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [],
+  "images": [
+    {
+      "path": "assets/ingredients/carrot.png",
+      "alt": "Generated ingredient image for carrot",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#carrot",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/carrot",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

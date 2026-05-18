@@ -1,0 +1,258 @@
+{
+  "id": "steamed-black-bean-spare-ribs-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "豉汁蒸排骨飯",
+    "zhHans": "豉汁蒸排骨饭",
+    "en": "Steamed black bean spare ribs rice",
+    "ja": "豆豉蒸しスペアリブご飯",
+    "ko": "두시 등갈비찜밥",
+    "th": null,
+    "vi": null,
+    "id": "Steamed black bean spare ribs rice",
+    "tl": "Steamed black bean spare ribs rice",
+    "yue": "豉汁蒸排骨飯"
+  },
+  "summary": {
+    "zhHant": "豉汁蒸排骨飯 的本地買餸版本。蒸餸方向，重點是火力穩定和熟度提示。",
+    "en": "豉汁蒸排骨飯 的本地買餸版本。蒸餸方向，重點是火力穩定和熟度提示。",
+    "yue": "豉汁蒸排骨飯 的本地買餸版本。蒸餸方向，重點是火力穩定和熟度提示。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "spare-ribs",
+      "amounts": {
+        "zhHant": "350 克",
+        "zhHans": "350 克",
+        "en": "350 g",
+        "ja": "350 g",
+        "ko": "350 g",
+        "th": null,
+        "vi": null,
+        "id": "350 g",
+        "tl": "350 g",
+        "yue": "350 克"
+      }
+    },
+    {
+      "ingredientId": "black-bean-sauce",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "pork",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "排骨拌豉汁蒜蓉",
+        "yue": "排骨拌豉汁蒜蓉",
+        "zhHans": "排骨拌豉汁蒜蓉",
+        "en": "Coat ribs with black bean garlic sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯先入飯煲煮飯。排骨 350 克抹乾，盡量攤開成小塊；蒜頭 3 瓣切碎，和黑豆醬 1 湯匙、生抽 1 湯匙拌入排骨，讓每件表面都有薄薄醬色。",
+        "yue": "白米 1 杯先入飯煲煮飯。排骨 350 克抹乾，盡量攤開成小塊；蒜頭 3 瓣切碎，和黑豆醬 1 湯匙、生抽 1 湯匙拌入排骨，讓每件表面都有薄薄醬色。",
+        "zhHans": "白米 1 杯先入飯煲煮飯。排骨 350 克抹乾，盡量攤開成小塊；蒜頭 3 瓣切碎，和黑豆醬 1 湯匙、生抽 1 湯匙拌入排骨，讓每件表面都有薄薄醬色。",
+        "en": "Start 1 cup white rice in the rice cooker. Pat 350 g spare ribs dry and spread the pieces out; mince 3 cloves garlic, then mix the ribs with 1 tbsp black bean sauce and 1 tbsp light soy sauce so every piece has a thin coating of sauce.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "平鋪排骨準備蒸",
+        "yue": "平鋪排骨準備蒸",
+        "zhHans": "平鋪排骨準備蒸",
+        "en": "Spread ribs for steaming",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把拌好的排骨放在淺碟，只排一層，不要堆高；碟中加入 1 至 2 湯匙水，蒸出來才有少量豉汁可拌飯。蔥 2 條切幼粒，先留起不入蒸爐。",
+        "yue": "把拌好的排骨放在淺碟，只排一層，不要堆高；碟中加入 1 至 2 湯匙水，蒸出來才有少量豉汁可拌飯。蔥 2 條切幼粒，先留起不入蒸爐。",
+        "zhHans": "把拌好的排骨放在淺碟，只排一層，不要堆高；碟中加入 1 至 2 湯匙水，蒸出來才有少量豉汁可拌飯。蔥 2 條切幼粒，先留起不入蒸爐。",
+        "en": "Put the coated ribs on a shallow plate in a single layer, not piled up. Add 1-2 tbsp water to the plate so a little black bean sauce forms for the rice. Finely cut 2 stalks scallions and keep them aside instead of steaming them from the start.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "大火蒸至骨邊熟透",
+        "yue": "大火蒸至骨邊熟透",
+        "zhHans": "大火蒸至骨邊熟透",
+        "en": "Steam until cooked through by the bone",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蒸鍋水滾後放入排骨碟，保持大火有穩定蒸氣，蒸 18 至 22 分鐘。排骨最厚位置要不見粉紅，骨邊肉汁要清；若仍帶粉紅，再蒸 3 至 5 分鐘。",
+        "yue": "蒸鍋水滾後放入排骨碟，保持大火有穩定蒸氣，蒸 18 至 22 分鐘。排骨最厚位置要不見粉紅，骨邊肉汁要清；若仍帶粉紅，再蒸 3 至 5 分鐘。",
+        "zhHans": "蒸鍋水滾後放入排骨碟，保持大火有穩定蒸氣，蒸 18 至 22 分鐘。排骨最厚位置要不見粉紅，骨邊肉汁要清；若仍帶粉紅，再蒸 3 至 5 分鐘。",
+        "en": "When the steamer water is boiling, set in the plate and keep strong, steady steam for 18-22 minutes. The thickest rib pieces should show no pink, and the juices near the bone should run clear; if any pink remains, steam 3-5 minutes more.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "豉汁排骨蓋熱飯",
+        "yue": "豉汁排骨蓋熱飯",
+        "zhHans": "豉汁排骨蓋熱飯",
+        "en": "Spoon ribs and sauce over hot rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "關火後灑上蔥粒，讓餘熱帶出蔥香。熱飯盛碗，排骨連碟底豉汁一同鋪上；醬汁應該鹹香但不乾，飯面有少量蒸汁最適合趁熱拌食。",
+        "yue": "關火後灑上蔥粒，讓餘熱帶出蔥香。熱飯盛碗，排骨連碟底豉汁一同鋪上；醬汁應該鹹香但不乾，飯面有少量蒸汁最適合趁熱拌食。",
+        "zhHans": "關火後灑上蔥粒，讓餘熱帶出蔥香。熱飯盛碗，排骨連碟底豉汁一同鋪上；醬汁應該鹹香但不乾，飯面有少量蒸汁最適合趁熱拌食。",
+        "en": "Turn off the heat and scatter on the scallions so the residual heat releases their aroma. Spoon hot rice into bowls, then top with the ribs and the black bean juices from the plate; the sauce should be savory and moist, with enough steaming liquid to mix into the rice.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/steamed-black-bean-spare-ribs-rice/cover-1.png",
+      "alt": "Generated meal cover image for steamed-black-bean-spare-ribs-rice",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#steamed-black-bean-spare-ribs-rice",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#steamed-black-bean-spare-ribs-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

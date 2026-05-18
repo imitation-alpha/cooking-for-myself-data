@@ -1,0 +1,53 @@
+{
+  "id": "ho-fun",
+  "status": "approved",
+  "names": {
+    "zhHant": "河粉",
+    "zhHans": "河粉",
+    "en": "Fresh rice noodles",
+    "ja": "生河粉",
+    "ko": "생 쌀국수면",
+    "th": null,
+    "vi": null,
+    "id": "Fresh rice noodles",
+    "tl": "Fresh rice noodles",
+    "yue": "河粉"
+  },
+  "section": "produce",
+  "aliases": [
+    "hor fun"
+  ],
+  "storeNotes": {
+    "zhHant": "本地亞洲超市蔬果區；先看新鮮度和份量。",
+    "en": "本地亞洲超市蔬果區；先看新鮮度和份量。",
+    "yue": "本地亞洲超市蔬果區；先看新鮮度和份量。"
+  },
+  "substitutions": {
+    "zhHant": "Fresh rice noodles unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Fresh rice noodles unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Fresh rice noodles unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [],
+  "images": [
+    {
+      "path": "assets/ingredients/ho-fun.png",
+      "alt": "Generated ingredient image for ho-fun",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#ho-fun",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/ho-fun",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

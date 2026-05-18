@@ -1,0 +1,275 @@
+{
+  "id": "pad-thai",
+  "status": "approved",
+  "names": {
+    "zhHant": "泰式炒金邊粉",
+    "zhHans": "泰式炒金边粉",
+    "en": "Pad Thai",
+    "ja": "パッタイ",
+    "ko": "팟타이",
+    "th": null,
+    "vi": null,
+    "id": "Pad Thai",
+    "tl": "Pad Thai",
+    "yue": "泰式炒金邊粉"
+  },
+  "summary": {
+    "zhHant": "泰式炒金邊粉 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "en": "泰式炒金邊粉 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "yue": "泰式炒金邊粉 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。"
+  },
+  "reason": {
+    "zhHant": "Thai home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Thai home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Thai home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "rice-noodle",
+      "amounts": {
+        "zhHant": "180 克",
+        "zhHans": "180 克",
+        "en": "180 g",
+        "ja": "180 g",
+        "ko": "180 g",
+        "th": null,
+        "vi": null,
+        "id": "180 g",
+        "tl": "180 g",
+        "yue": "180 克"
+      }
+    },
+    {
+      "ingredientId": "shrimp",
+      "amounts": {
+        "zhHant": "180 克",
+        "zhHans": "180 克",
+        "en": "180 g",
+        "ja": "180 g",
+        "ko": "180 g",
+        "th": null,
+        "vi": null,
+        "id": "180 g",
+        "tl": "180 g",
+        "yue": "180 克"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "3 隻",
+        "zhHans": "3 隻",
+        "en": "3 eggs",
+        "ja": "3個",
+        "ko": "3개",
+        "th": null,
+        "vi": null,
+        "id": "3 butir",
+        "tl": "3 piraso",
+        "yue": "3 隻"
+      }
+    },
+    {
+      "ingredientId": "peanut",
+      "amounts": {
+        "zhHant": "2 湯匙",
+        "zhHans": "2 汤匙",
+        "en": "2 tbsp",
+        "ja": "大さじ2",
+        "ko": "2큰술",
+        "th": null,
+        "vi": null,
+        "id": "2 sdm",
+        "tl": "2 kutsara",
+        "yue": "2 湯匙"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "shellfish",
+    "egg",
+    "peanut",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "金邊粉泡軟蝦瀝乾",
+        "yue": "金邊粉泡軟蝦瀝乾",
+        "zhHans": "金邊粉泡軟蝦瀝乾",
+        "en": "Soak noodles and dry shrimp",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "金邊粉 180 克用水浸至可彎但中心仍有少少硬，瀝乾；蝦仁 180 克抹乾，雞蛋 3 隻打散，蒜頭 3 瓣切碎，蔥 2 條切段，花生 2 湯匙略壓碎，生抽 1 湯匙備好。",
+        "yue": "金邊粉 180 克用水浸至可彎但中心仍有少少硬，瀝乾；蝦仁 180 克抹乾，雞蛋 3 隻打散，蒜頭 3 瓣切碎，蔥 2 條切段，花生 2 湯匙略壓碎，生抽 1 湯匙備好。",
+        "zhHans": "金邊粉 180 克用水浸至可彎但中心仍有少少硬，瀝乾；蝦仁 180 克抹乾，雞蛋 3 隻打散，蒜頭 3 瓣切碎，蔥 2 條切段，花生 2 湯匙略壓碎，生抽 1 湯匙備好。",
+        "en": "Soak 180 g Rice noodles in water until bendable but still slightly firm in the center, then drain. Pat 180 g Shrimp dry, beat 3 eggs, mince 3 cloves Garlic, cut 2 stalks Scallions into sections, lightly crush 2 tbsp Peanuts, and measure 1 tbsp Light soy sauce.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "蝦同蛋分開定形",
+        "yue": "蝦同蛋分開定形",
+        "zhHans": "蝦同蛋分開定形",
+        "en": "Set shrimp and eggs separately",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鑊大火燒熱後落油，蝦仁 180 克炒 1 至 2 分鐘至轉粉紅便盛起；同鑊倒入雞蛋 3 隻，推成大塊嫩蛋，中心微濕時也先盛起。",
+        "yue": "鑊大火燒熱後落油，蝦仁 180 克炒 1 至 2 分鐘至轉粉紅便盛起；同鑊倒入雞蛋 3 隻，推成大塊嫩蛋，中心微濕時也先盛起。",
+        "zhHans": "鑊大火燒熱後落油，蝦仁 180 克炒 1 至 2 分鐘至轉粉紅便盛起；同鑊倒入雞蛋 3 隻，推成大塊嫩蛋，中心微濕時也先盛起。",
+        "en": "Heat a wok over high heat with oil. Stir-fry 180 g Shrimp for 1-2 minutes until pink, then remove. In the same wok, pour in 3 eggs and push into large soft curds, lifting them out while the centers are still slightly moist.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "粉條吸收生抽水",
+        "yue": "粉條吸收生抽水",
+        "zhHans": "粉條吸收生抽水",
+        "en": "Let noodles absorb soy water",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "補少許油，炒蒜頭 3 瓣和蔥白 20 秒；加入金邊粉 180 克、生抽 1 湯匙和少量水，中大火翻炒 2 至 3 分鐘，粉條變軟但不要炒斷。",
+        "yue": "補少許油，炒蒜頭 3 瓣和蔥白 20 秒；加入金邊粉 180 克、生抽 1 湯匙和少量水，中大火翻炒 2 至 3 分鐘，粉條變軟但不要炒斷。",
+        "zhHans": "補少許油，炒蒜頭 3 瓣和蔥白 20 秒；加入金邊粉 180 克、生抽 1 湯匙和少量水，中大火翻炒 2 至 3 分鐘，粉條變軟但不要炒斷。",
+        "en": "Add a little more oil, then cook 3 cloves Garlic and the scallion whites for 20 seconds. Add 180 g Rice noodles, 1 tbsp Light soy sauce, and a small splash of water; toss over medium-high heat for 2-3 minutes until the noodles soften without breaking.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "蝦蛋回鑊撒花生",
+        "yue": "蝦蛋回鑊撒花生",
+        "zhHans": "蝦蛋回鑊撒花生",
+        "en": "Return shrimp and egg with peanuts",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把蝦仁和蛋回鑊，加入蔥綠，輕手兜 45 秒至全體熱透；上碟後撒花生 2 湯匙，粉條應濕潤分明，蝦剛熟有彈性。",
+        "yue": "把蝦仁和蛋回鑊，加入蔥綠，輕手兜 45 秒至全體熱透；上碟後撒花生 2 湯匙，粉條應濕潤分明，蝦剛熟有彈性。",
+        "zhHans": "把蝦仁和蛋回鑊，加入蔥綠，輕手兜 45 秒至全體熱透；上碟後撒花生 2 湯匙，粉條應濕潤分明，蝦剛熟有彈性。",
+        "en": "Return the Shrimp and eggs to the wok, add the scallion greens, and toss gently for 45 seconds until everything is hot. Plate and scatter 2 tbsp Peanuts; the noodles should be moist and separate, with springy just-cooked shrimp.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/pad-thai/cover-1.png",
+      "alt": "Generated meal cover image for pad-thai",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#pad-thai",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#pad-thai",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

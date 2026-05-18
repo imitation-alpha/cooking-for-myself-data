@@ -1,0 +1,242 @@
+{
+  "id": "dakgangjeong-rice-plate",
+  "status": "approved",
+  "names": {
+    "zhHant": "甜辣炸雞飯",
+    "zhHans": "甜辣炸鸡饭",
+    "en": "Dakgangjeong chicken rice plate",
+    "ja": "甘辛韓国チキンご飯プレート",
+    "ko": "닭강정 밥 플레이트",
+    "th": null,
+    "vi": null,
+    "id": "Dakgangjeong chicken rice plate",
+    "tl": "Dakgangjeong chicken rice plate",
+    "yue": "甜辣炸雞飯"
+  },
+  "summary": {
+    "zhHant": "甜辣炸雞飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "甜辣炸雞飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "甜辣炸雞飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "2 件",
+        "zhHans": "2 件",
+        "en": "2 thighs",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 potong",
+        "tl": "2 piraso",
+        "yue": "2 件"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "煮飯切雞髀肉",
+        "yue": "煮飯切雞髀肉",
+        "zhHans": "煮飯切雞髀肉",
+        "en": "Cook rice and cut chicken thigh",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯洗至水較清，放入飯煲煮飯。雞髀肉 2 件抹乾，切成約 3 厘米大塊；蒜頭 3 瓣切碎，蔥 2 條分蔥白和蔥綠切粒。",
+        "yue": "白米 1 杯洗至水較清，放入飯煲煮飯。雞髀肉 2 件抹乾，切成約 3 厘米大塊；蒜頭 3 瓣切碎，蔥 2 條分蔥白和蔥綠切粒。",
+        "zhHans": "白米 1 杯洗至水較清，放入飯煲煮飯。雞髀肉 2 件抹乾，切成約 3 厘米大塊；蒜頭 3 瓣切碎，蔥 2 條分蔥白和蔥綠切粒。",
+        "en": "Rinse 1 cup white rice until the water is clearer and cook it in the rice cooker. Pat 2 chicken thighs dry and cut them into pieces about 3 cm wide; mince 3 cloves garlic and separate 2 stalks scallions into whites and greens.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "雞肉煎出金黃邊",
+        "yue": "雞肉煎出金黃邊",
+        "zhHans": "雞肉煎出金黃邊",
+        "en": "Brown chicken pieces in one layer",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鍋加油用中火燒熱，雞肉鋪成一層，先煎 3 分鐘不要急翻。翻面後再煎 3 分鐘，之後轉中小火多煎 2 至 3 分鐘，至中心全熟無粉紅。",
+        "yue": "平底鍋加油用中火燒熱，雞肉鋪成一層，先煎 3 分鐘不要急翻。翻面後再煎 3 分鐘，之後轉中小火多煎 2 至 3 分鐘，至中心全熟無粉紅。",
+        "zhHans": "平底鍋加油用中火燒熱，雞肉鋪成一層，先煎 3 分鐘不要急翻。翻面後再煎 3 分鐘，之後轉中小火多煎 2 至 3 分鐘，至中心全熟無粉紅。",
+        "en": "Heat oil in a skillet over medium heat and spread the chicken in one layer, then sear for 3 minutes before turning. Cook the other side for 3 minutes, lower to medium-low, and cook 2-3 minutes more until the centers are fully cooked with no pink.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "生抽蒜汁裹雞",
+        "yue": "生抽蒜汁裹雞",
+        "zhHans": "生抽蒜汁裹雞",
+        "en": "Coat chicken with garlic soy",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把雞肉推到鍋邊，空位下蒜碎和蔥白炒 20 秒。加入生抽 1 湯匙和 1 湯匙水，快速翻動 30 至 45 秒，讓雞肉表面有薄薄醬色而不煮爛外層。",
+        "yue": "把雞肉推到鍋邊，空位下蒜碎和蔥白炒 20 秒。加入生抽 1 湯匙和 1 湯匙水，快速翻動 30 至 45 秒，讓雞肉表面有薄薄醬色而不煮爛外層。",
+        "zhHans": "把雞肉推到鍋邊，空位下蒜碎和蔥白炒 20 秒。加入生抽 1 湯匙和 1 湯匙水，快速翻動 30 至 45 秒，讓雞肉表面有薄薄醬色而不煮爛外層。",
+        "en": "Push the chicken to the side of the pan, then cook the minced garlic and scallion whites in the open space for 20 seconds. Add 1 tbsp light soy sauce and 1 tbsp water, and toss for 30-45 seconds so the chicken gets a thin soy coating without stewing the browned surface.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "雞塊蓋飯灑蔥綠",
+        "yue": "雞塊蓋飯灑蔥綠",
+        "zhHans": "雞塊蓋飯灑蔥綠",
+        "en": "Serve chicken over rice with scallion greens",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "熱白飯盛碗，鋪上雞塊和鍋中少量蒜香生抽汁，灑蔥綠。雞肉應該外緣帶煎香、內裡多汁；因沒有粉漿和甜辣醬，成品不是脆身甜辣炸雞。",
+        "yue": "熱白飯盛碗，鋪上雞塊和鍋中少量蒜香生抽汁，灑蔥綠。雞肉應該外緣帶煎香、內裡多汁；因沒有粉漿和甜辣醬，成品不是脆身甜辣炸雞。",
+        "zhHans": "熱白飯盛碗，鋪上雞塊和鍋中少量蒜香生抽汁，灑蔥綠。雞肉應該外緣帶煎香、內裡多汁；因沒有粉漿和甜辣醬，成品不是脆身甜辣炸雞。",
+        "en": "Spoon hot white rice into bowls, top with the chicken and the small amount of garlic-soy pan sauce, then scatter on the scallion greens. The chicken should have browned edges and juicy centers; without batter and sweet-spicy sauce, the result is not crisp sweet-spicy fried chicken.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/dakgangjeong-rice-plate/cover-1.png",
+      "alt": "Generated meal cover image for dakgangjeong-rice-plate",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#dakgangjeong-rice-plate",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#dakgangjeong-rice-plate",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

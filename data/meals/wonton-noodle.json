@@ -1,0 +1,275 @@
+{
+  "id": "wonton-noodle",
+  "status": "approved",
+  "names": {
+    "zhHant": "雲吞麵",
+    "zhHans": "云吞面",
+    "en": "Wonton noodles",
+    "ja": "ワンタン麺",
+    "ko": "완탕면",
+    "th": null,
+    "vi": null,
+    "id": "Mi pangsit",
+    "tl": "Pancit na may wonton",
+    "yue": "雲吞麵"
+  },
+  "summary": {
+    "zhHant": "雲吞麵 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "雲吞麵 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "雲吞麵 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 50,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "wonton-wrapper",
+      "amounts": {
+        "zhHant": "16 張",
+        "zhHans": "16 张",
+        "en": "16 wrappers",
+        "ja": "16枚",
+        "ko": "16장",
+        "th": null,
+        "vi": null,
+        "id": "16 lembar",
+        "tl": "16 piraso",
+        "yue": "16 張"
+      }
+    },
+    {
+      "ingredientId": "pork-mince",
+      "amounts": {
+        "zhHant": "220 克",
+        "zhHans": "220 克",
+        "en": "220 g",
+        "ja": "220 g",
+        "ko": "220 g",
+        "th": null,
+        "vi": null,
+        "id": "220 g",
+        "tl": "220 g",
+        "yue": "220 克"
+      }
+    },
+    {
+      "ingredientId": "shrimp",
+      "amounts": {
+        "zhHant": "180 克",
+        "zhHans": "180 克",
+        "en": "180 g",
+        "ja": "180 g",
+        "ko": "180 g",
+        "th": null,
+        "vi": null,
+        "id": "180 g",
+        "tl": "180 g",
+        "yue": "180 克"
+      }
+    },
+    {
+      "ingredientId": "dried-noodle",
+      "amounts": {
+        "zhHant": "2 個麵餅",
+        "zhHans": "2 个面饼",
+        "en": "2 noodle nests",
+        "ja": "2玉",
+        "ko": "2개",
+        "th": null,
+        "vi": null,
+        "id": "2 gulung",
+        "tl": "2 pugad",
+        "yue": "2 個麵餅"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "egg",
+    "wheatGluten",
+    "pork",
+    "shellfish",
+    "soy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "豬蝦餡拌到黏身",
+        "yue": "豬蝦餡拌到黏身",
+        "zhHans": "豬蝦餡拌到黏身",
+        "en": "Mix pork and shrimp filling until tacky",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "豬肉碎 220 克和蝦 180 克切細後拌勻，加入生抽 1 湯匙、蒜頭 3 瓣的蒜蓉和蔥 2 條中的一半蔥粒；攪到餡料有黏性。",
+        "yue": "豬肉碎 220 克和蝦 180 克切細後拌勻，加入生抽 1 湯匙、蒜頭 3 瓣的蒜蓉和蔥 2 條中的一半蔥粒；攪到餡料有黏性。",
+        "zhHans": "豬肉碎 220 克和蝦 180 克切細後拌勻，加入生抽 1 湯匙、蒜頭 3 瓣的蒜蓉和蔥 2 條中的一半蔥粒；攪到餡料有黏性。",
+        "en": "Finely chop 180 g Shrimp and mix with 220 g Pork mince. Add 1 tbsp Light soy sauce, minced 3 cloves Garlic, and half of the sliced 2 stalks Scallions, then stir until the filling turns tacky.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "包十六粒雲吞",
+        "yue": "包十六粒雲吞",
+        "zhHans": "包十六粒雲吞",
+        "en": "Fold sixteen wontons",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "雲吞皮 16 張逐張放少量餡，邊位沾水對摺壓實，再把兩角扣在一起；每粒餡不要過多，煮時中心才容易熟。",
+        "yue": "雲吞皮 16 張逐張放少量餡，邊位沾水對摺壓實，再把兩角扣在一起；每粒餡不要過多，煮時中心才容易熟。",
+        "zhHans": "雲吞皮 16 張逐張放少量餡，邊位沾水對摺壓實，再把兩角扣在一起；每粒餡不要過多，煮時中心才容易熟。",
+        "en": "Place a small amount of filling on each of 16 wrappers, wet the edges with water, fold and press to seal, then bring the two corners together. Do not overfill, so the centers cook through easily.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "雲吞同麵分開煮",
+        "yue": "雲吞同麵分開煮",
+        "zhHans": "雲吞同麵分開煮",
+        "en": "Boil wontons and noodles separately",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "一鍋水滾後先煮雲吞 4 至 5 分鐘，見雲吞浮起、皮變透明、餡料熟透就撈起；另用滾水煮乾麵 2 個麵餅至鬆開有彈性。",
+        "yue": "一鍋水滾後先煮雲吞 4 至 5 分鐘，見雲吞浮起、皮變透明、餡料熟透就撈起；另用滾水煮乾麵 2 個麵餅至鬆開有彈性。",
+        "zhHans": "一鍋水滾後先煮雲吞 4 至 5 分鐘，見雲吞浮起、皮變透明、餡料熟透就撈起；另用滾水煮乾麵 2 個麵餅至鬆開有彈性。",
+        "en": "Bring a pot of water to a boil and cook the wontons for 4-5 minutes, until they float, the skins look translucent, and the filling is cooked through. In fresh boiling water, cook 2 noodle nests until loosened and springy.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "清湯水組成雲吞麵",
+        "yue": "清湯水組成雲吞麵",
+        "zhHans": "清湯水組成雲吞麵",
+        "en": "Assemble with a light cooking-water broth",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "碗中加入熱水或煮麵水作湯底，放入麵、雲吞和餘下蔥粒；因沒有湯底材料，味道會清淡，趁麵仍爽口時上碗。",
+        "yue": "碗中加入熱水或煮麵水作湯底，放入麵、雲吞和餘下蔥粒；因沒有湯底材料，味道會清淡，趁麵仍爽口時上碗。",
+        "zhHans": "碗中加入熱水或煮麵水作湯底，放入麵、雲吞和餘下蔥粒；因沒有湯底材料，味道會清淡，趁麵仍爽口時上碗。",
+        "en": "Add hot water or noodle cooking water to bowls as the broth, then add the noodles, wontons, and remaining Scallions. Because no soup stock is listed, the flavor will be light; serve while the noodles are still springy.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/wonton-noodle/cover-1.png",
+      "alt": "Generated meal cover image for wonton-noodle",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#wonton-noodle",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#wonton-noodle",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

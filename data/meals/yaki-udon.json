@@ -1,0 +1,242 @@
+{
+  "id": "yaki-udon",
+  "status": "approved",
+  "names": {
+    "zhHant": "炒烏冬",
+    "zhHans": "炒乌冬",
+    "en": "Yaki udon",
+    "ja": "焼きうどん",
+    "ko": "야키우동",
+    "th": null,
+    "vi": null,
+    "id": "Yaki udon",
+    "tl": "Yaki udon",
+    "yue": "炒烏冬"
+  },
+  "summary": {
+    "zhHant": "炒烏冬 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "en": "炒烏冬 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "yue": "炒烏冬 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。"
+  },
+  "reason": {
+    "zhHant": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "udon",
+      "amounts": {
+        "zhHant": "2 包",
+        "zhHans": "2 包",
+        "en": "2 packs",
+        "ja": "2袋",
+        "ko": "2팩",
+        "th": null,
+        "vi": null,
+        "id": "2 pak",
+        "tl": "2 pakete",
+        "yue": "2 包"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "wheatGluten",
+    "soy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "洗米鬆開烏冬",
+        "yue": "洗米鬆開烏冬",
+        "zhHans": "洗米鬆開烏冬",
+        "en": "Rinse rice and loosen udon",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯洗至水較清，放入飯煲用平日煮飯水量煮飯。烏冬 2 包用熱水沖 20 至 30 秒至麵條鬆開，立即瀝乾；蒜頭 3 瓣切碎，蔥 2 條分開蔥白和蔥綠切粒。",
+        "yue": "白米 1 杯洗至水較清，放入飯煲用平日煮飯水量煮飯。烏冬 2 包用熱水沖 20 至 30 秒至麵條鬆開，立即瀝乾；蒜頭 3 瓣切碎，蔥 2 條分開蔥白和蔥綠切粒。",
+        "zhHans": "白米 1 杯洗至水較清，放入飯煲用平日煮飯水量煮飯。烏冬 2 包用熱水沖 20 至 30 秒至麵條鬆開，立即瀝乾；蒜頭 3 瓣切碎，蔥 2 條分開蔥白和蔥綠切粒。",
+        "en": "Rinse 1 cup white rice until the water is clearer, then cook it in the rice cooker with your usual water level. Rinse 2 packs udon noodles with hot water for 20-30 seconds until the strands loosen, then drain right away; mince 3 cloves garlic and separate 2 stalks scallions into whites and greens.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "蒜蔥白先香鑊",
+        "yue": "蒜蔥白先香鑊",
+        "zhHans": "蒜蔥白先香鑊",
+        "en": "Fragrance the pan with garlic and scallion whites",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鑊或大平底鍋加油，用中大火燒至油面發亮。下蒜碎和蔥白炒 20 至 30 秒，聞到香味便立刻下烏冬，不要把蒜炒焦。",
+        "yue": "鑊或大平底鍋加油，用中大火燒至油面發亮。下蒜碎和蔥白炒 20 至 30 秒，聞到香味便立刻下烏冬，不要把蒜炒焦。",
+        "zhHans": "鑊或大平底鍋加油，用中大火燒至油面發亮。下蒜碎和蔥白炒 20 至 30 秒，聞到香味便立刻下烏冬，不要把蒜炒焦。",
+        "en": "Heat oil in a wok or large skillet over medium-high heat until the oil looks glossy. Add the minced garlic and scallion whites for 20-30 seconds, then add the udon as soon as they smell fragrant; do not let the garlic brown.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "生抽水汽炒入麵身",
+        "yue": "生抽水汽炒入麵身",
+        "zhHans": "生抽水汽炒入麵身",
+        "en": "Steam soy into the noodles",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "沿鑊邊淋入生抽 1 湯匙和 1 至 2 湯匙水，讓水汽幫麵條受熱。用筷子或鑊鏟翻動 2 至 3 分鐘，至烏冬熱透、表面有淡淡醬色而不積水。",
+        "yue": "沿鑊邊淋入生抽 1 湯匙和 1 至 2 湯匙水，讓水汽幫麵條受熱。用筷子或鑊鏟翻動 2 至 3 分鐘，至烏冬熱透、表面有淡淡醬色而不積水。",
+        "zhHans": "沿鑊邊淋入生抽 1 湯匙和 1 至 2 湯匙水，讓水汽幫麵條受熱。用筷子或鑊鏟翻動 2 至 3 分鐘，至烏冬熱透、表面有淡淡醬色而不積水。",
+        "en": "Pour 1 tbsp light soy sauce and 1-2 tbsp water around the edge of the pan so the steam heats the noodles. Toss with chopsticks or a spatula for 2-3 minutes until the udon is hot through, lightly stained with soy, and not sitting in liquid.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "蔥綠熱飯同上",
+        "yue": "蔥綠熱飯同上",
+        "zhHans": "蔥綠熱飯同上",
+        "en": "Add scallion greens and serve with hot rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "關火前灑入蔥綠，翻兩下保持蔥色鮮綠。烏冬應該柔韌、鑊底只有少量油香醬汁；把炒烏冬上碟，旁邊配剛煮好的白飯趁熱食用。",
+        "yue": "關火前灑入蔥綠，翻兩下保持蔥色鮮綠。烏冬應該柔韌、鑊底只有少量油香醬汁；把炒烏冬上碟，旁邊配剛煮好的白飯趁熱食用。",
+        "zhHans": "關火前灑入蔥綠，翻兩下保持蔥色鮮綠。烏冬應該柔韌、鑊底只有少量油香醬汁；把炒烏冬上碟，旁邊配剛煮好的白飯趁熱食用。",
+        "en": "Scatter in the scallion greens just before turning off the heat and toss twice so they stay bright. The udon should be chewy, with only a small amount of oily soy aroma left in the pan; plate it with the freshly cooked white rice and eat hot.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/yaki-udon/cover-1.png",
+      "alt": "Generated meal cover image for yaki-udon",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#yaki-udon",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#yaki-udon",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

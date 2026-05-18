@@ -1,0 +1,227 @@
+{
+  "id": "scallion-pancake-egg-wrap",
+  "status": "approved",
+  "names": {
+    "zhHant": "蔥抓餅加蛋",
+    "zhHans": "葱抓饼加蛋",
+    "en": "Scallion pancake egg wrap",
+    "ja": "葱油餅卵巻き",
+    "ko": "파전 달걀말이",
+    "th": null,
+    "vi": null,
+    "id": "Scallion pancake egg wrap",
+    "tl": "Scallion pancake egg wrap",
+    "yue": "蔥抓餅加蛋"
+  },
+  "summary": {
+    "zhHant": "蔥抓餅加蛋 的本地買餸版本。煎香方向，重點是中火定型和最後調味。",
+    "en": "蔥抓餅加蛋 的本地買餸版本。煎香方向，重點是中火定型和最後調味。",
+    "yue": "蔥抓餅加蛋 的本地買餸版本。煎香方向，重點是中火定型和最後調味。"
+  },
+  "reason": {
+    "zhHant": "Taiwanese breakfast shortcut；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Taiwanese breakfast shortcut；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Taiwanese breakfast shortcut；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 18,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "scallion-pancake",
+      "amounts": {
+        "zhHant": "2 張",
+        "zhHans": "2 张",
+        "en": "2 pancakes",
+        "ja": "2枚",
+        "ko": "2장",
+        "th": null,
+        "vi": null,
+        "id": "2 lembar",
+        "tl": "2 piraso",
+        "yue": "2 張"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "3 隻",
+        "zhHans": "3 隻",
+        "en": "3 eggs",
+        "ja": "3個",
+        "ko": "3개",
+        "th": null,
+        "vi": null,
+        "id": "3 butir",
+        "tl": "3 piraso",
+        "yue": "3 隻"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "wheatGluten",
+    "egg"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "蛋液混入蔥蒜",
+        "yue": "蛋液混入蔥蒜",
+        "zhHans": "蛋液混入蔥蒜",
+        "en": "Mix scallion and garlic into the eggs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蔥 2 條切細，蒜頭 3 瓣切成很幼的碎粒；雞蛋 3 隻打散，拌入一半蔥花和少量蒜碎，蔥抓餅 2 張保持冷凍或半冷凍方便下鍋。",
+        "yue": "蔥 2 條切細，蒜頭 3 瓣切成很幼的碎粒；雞蛋 3 隻打散，拌入一半蔥花和少量蒜碎，蔥抓餅 2 張保持冷凍或半冷凍方便下鍋。",
+        "zhHans": "蔥 2 條切細，蒜頭 3 瓣切成很幼的碎粒；雞蛋 3 隻打散，拌入一半蔥花和少量蒜碎，蔥抓餅 2 張保持冷凍或半冷凍方便下鍋。",
+        "en": "Finely slice 2 stalks Scallions and mince 3 cloves Garlic very small. Beat 3 eggs with half the scallions and a little of the Garlic, and keep 2 pancakes Scallion pancake frozen or half-frozen so they are easy to pan-fry.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "煎鬆蔥抓餅層",
+        "yue": "煎鬆蔥抓餅層",
+        "zhHans": "煎鬆蔥抓餅層",
+        "en": "Crisp the pancake layers",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鍋中火燒熱，落薄薄一層油；放入蔥抓餅 1 張，每面煎 2 至 3 分鐘，邊煎邊用鑊鏟輕拍，煎到兩面金黃、餅邊開始鬆開。",
+        "yue": "平底鍋中火燒熱，落薄薄一層油；放入蔥抓餅 1 張，每面煎 2 至 3 分鐘，邊煎邊用鑊鏟輕拍，煎到兩面金黃、餅邊開始鬆開。",
+        "zhHans": "平底鍋中火燒熱，落薄薄一層油；放入蔥抓餅 1 張，每面煎 2 至 3 分鐘，邊煎邊用鑊鏟輕拍，煎到兩面金黃、餅邊開始鬆開。",
+        "en": "Heat a skillet over medium heat and add a thin film of oil. Cook 1 Scallion pancake for 2-3 minutes per side, tapping lightly with a spatula, until both sides are golden and the edges start to separate into layers.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "蛋貼餅面成薄層",
+        "yue": "蛋貼餅面成薄層",
+        "zhHans": "蛋貼餅面成薄層",
+        "en": "Set the egg onto the pancake",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把餅推到鍋邊，倒入約一半蛋液成圓形薄層；蛋邊剛凝固時把餅蓋上去壓 10 秒，再翻面煎 30 至 45 秒，讓蛋和餅黏住但不乾硬。",
+        "yue": "把餅推到鍋邊，倒入約一半蛋液成圓形薄層；蛋邊剛凝固時把餅蓋上去壓 10 秒，再翻面煎 30 至 45 秒，讓蛋和餅黏住但不乾硬。",
+        "zhHans": "把餅推到鍋邊，倒入約一半蛋液成圓形薄層；蛋邊剛凝固時把餅蓋上去壓 10 秒，再翻面煎 30 至 45 秒，讓蛋和餅黏住但不乾硬。",
+        "en": "Slide the pancake aside and pour in about half the egg mixture as a thin round layer. When the egg edges just set, press the pancake onto it for 10 seconds, then flip and cook for 30-45 seconds so the egg attaches without drying out.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "捲起第二張同煎",
+        "yue": "捲起第二張同煎",
+        "zhHans": "捲起第二張同煎",
+        "en": "Roll and repeat the second wrap",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "撒少量餘下蔥花在蛋面，趁熱捲成筒狀或對摺；重複煎完第 2 張蔥抓餅和餘下蛋液，切開時餅皮應脆、內層仍有柔軟蛋香。",
+        "yue": "撒少量餘下蔥花在蛋面，趁熱捲成筒狀或對摺；重複煎完第 2 張蔥抓餅和餘下蛋液，切開時餅皮應脆、內層仍有柔軟蛋香。",
+        "zhHans": "撒少量餘下蔥花在蛋面，趁熱捲成筒狀或對摺；重複煎完第 2 張蔥抓餅和餘下蛋液，切開時餅皮應脆、內層仍有柔軟蛋香。",
+        "en": "Scatter a little remaining scallion over the egg side and roll or fold while hot. Repeat with the second Scallion pancake and the remaining egg mixture; when cut, the outside should be crisp and the egg layer still soft.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/scallion-pancake-egg-wrap/cover-1.png",
+      "alt": "Generated meal cover image for scallion-pancake-egg-wrap",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#scallion-pancake-egg-wrap",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#scallion-pancake-egg-wrap",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

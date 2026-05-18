@@ -1,0 +1,258 @@
+{
+  "id": "corn-fish-fillet-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "粟米魚柳飯",
+    "zhHans": "粟米鱼柳饭",
+    "en": "Cream corn fish fillet rice",
+    "ja": "コーン白身魚ご飯",
+    "ko": "콘 생선살밥",
+    "th": null,
+    "vi": null,
+    "id": "Cream corn fish fillet rice",
+    "tl": "Cream corn fish fillet rice",
+    "yue": "粟米魚柳飯"
+  },
+  "summary": {
+    "zhHant": "粟米魚柳飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "粟米魚柳飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "粟米魚柳飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong cafe cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong cafe cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong cafe cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "white-fish-fillet",
+      "amounts": {
+        "zhHant": "2 件",
+        "zhHans": "2 件",
+        "en": "2 fillets",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 potong",
+        "tl": "2 piraso",
+        "yue": "2 件"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    },
+    {
+      "ingredientId": "corn",
+      "amounts": {
+        "zhHant": "1 罐",
+        "zhHans": "1 罐",
+        "en": "1 can",
+        "ja": "1缶",
+        "ko": "1캔",
+        "th": null,
+        "vi": null,
+        "id": "1 kaleng",
+        "tl": "1 lata",
+        "yue": "1 罐"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "fish",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "煮飯魚柳切大件",
+        "yue": "煮飯魚柳切大件",
+        "zhHans": "煮飯魚柳切大件",
+        "en": "Cook rice and cut fish into large pieces",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯洗淨煮成飯。白身魚柳 2 件抹乾，切成大件，太薄的位置摺起避免過熟。蒜頭 3 瓣切碎，蔥 2 條切粒，粟米 1 罐打開備用。",
+        "yue": "白米 1 杯洗淨煮成飯。白身魚柳 2 件抹乾，切成大件，太薄的位置摺起避免過熟。蒜頭 3 瓣切碎，蔥 2 條切粒，粟米 1 罐打開備用。",
+        "zhHans": "白米 1 杯洗淨煮成飯。白身魚柳 2 件抹乾，切成大件，太薄的位置摺起避免過熟。蒜頭 3 瓣切碎，蔥 2 條切粒，粟米 1 罐打開備用。",
+        "en": "Rinse and cook 1 cup white rice. Pat 2 white fish fillets dry and cut into large pieces, folding very thin parts under so they do not overcook. Mince 3 cloves garlic, slice 2 stalks scallions, and open 1 can corn.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "魚柳兩面輕煎",
+        "yue": "魚柳兩面輕煎",
+        "zhHans": "魚柳兩面輕煎",
+        "en": "Lightly sear both sides of the fish",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鍋加油，中火下白身魚柳 2 件，每面煎約 2 分鐘至表面定型、魚肉轉白。先盛出，避免在醬汁中煮散。",
+        "yue": "平底鍋加油，中火下白身魚柳 2 件，每面煎約 2 分鐘至表面定型、魚肉轉白。先盛出，避免在醬汁中煮散。",
+        "zhHans": "平底鍋加油，中火下白身魚柳 2 件，每面煎約 2 分鐘至表面定型、魚肉轉白。先盛出，避免在醬汁中煮散。",
+        "en": "Heat oil in a skillet over medium heat. Add 2 white fish fillets and sear about 2 minutes per side until the surface sets and the flesh turns white. Remove first so the fish does not break apart in the sauce.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "粟米蒜蓉煮成鬆汁",
+        "yue": "粟米蒜蓉煮成鬆汁",
+        "zhHans": "粟米蒜蓉煮成鬆汁",
+        "en": "Make a loose corn-garlic sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "同鍋下蒜頭 3 瓣炒 20 秒，加入粟米 1 罐連汁和少量水。煮 2 至 3 分鐘後加入生抽 1 湯匙，汁要有粟米甜味並保持流動。",
+        "yue": "同鍋下蒜頭 3 瓣炒 20 秒，加入粟米 1 罐連汁和少量水。煮 2 至 3 分鐘後加入生抽 1 湯匙，汁要有粟米甜味並保持流動。",
+        "zhHans": "同鍋下蒜頭 3 瓣炒 20 秒，加入粟米 1 罐連汁和少量水。煮 2 至 3 分鐘後加入生抽 1 湯匙，汁要有粟米甜味並保持流動。",
+        "en": "In the same pan, cook 3 cloves garlic for 20 seconds, then add 1 can corn with its liquid and a small splash of water. Simmer 2-3 minutes, add 1 tbsp light soy sauce, and keep the sauce loose with clear corn sweetness.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "魚柳回鍋鋪飯",
+        "yue": "魚柳回鍋鋪飯",
+        "zhHans": "魚柳回鍋鋪飯",
+        "en": "Return fish and serve over rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白身魚柳回鍋，舀粟米汁淋面，小火煮 1 至 2 分鐘至魚最厚位可用筷子輕易分開。把飯盛碟，放上魚柳和粟米汁，灑蔥粒。",
+        "yue": "白身魚柳回鍋，舀粟米汁淋面，小火煮 1 至 2 分鐘至魚最厚位可用筷子輕易分開。把飯盛碟，放上魚柳和粟米汁，灑蔥粒。",
+        "zhHans": "白身魚柳回鍋，舀粟米汁淋面，小火煮 1 至 2 分鐘至魚最厚位可用筷子輕易分開。把飯盛碟，放上魚柳和粟米汁，灑蔥粒。",
+        "en": "Return the fish to the pan, spoon corn sauce over it, and cook on low heat for 1-2 minutes until the thickest part flakes easily with chopsticks. Plate the rice, top with fish and corn sauce, and finish with scallions.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/corn-fish-fillet-rice/cover-1.png",
+      "alt": "Generated meal cover image for corn-fish-fillet-rice",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#corn-fish-fillet-rice",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#corn-fish-fillet-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

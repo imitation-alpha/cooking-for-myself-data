@@ -1,0 +1,53 @@
+{
+  "id": "bitter-melon",
+  "status": "approved",
+  "names": {
+    "zhHant": "涼瓜",
+    "zhHans": "凉瓜",
+    "en": "Bitter melon",
+    "ja": "ゴーヤ",
+    "ko": "여주",
+    "th": null,
+    "vi": null,
+    "id": "Bitter melon",
+    "tl": "Bitter melon",
+    "yue": "涼瓜"
+  },
+  "section": "produce",
+  "aliases": [
+    "bitter gourd"
+  ],
+  "storeNotes": {
+    "zhHant": "本地亞洲超市蔬果區；先看新鮮度和份量。",
+    "en": "本地亞洲超市蔬果區；先看新鮮度和份量。",
+    "yue": "本地亞洲超市蔬果區；先看新鮮度和份量。"
+  },
+  "substitutions": {
+    "zhHant": "Bitter melon unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Bitter melon unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Bitter melon unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [],
+  "images": [
+    {
+      "path": "assets/ingredients/bitter-melon.png",
+      "alt": "Generated ingredient image for bitter-melon",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#bitter-melon",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/bitter-melon",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

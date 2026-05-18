@@ -1,0 +1,55 @@
+{
+  "id": "pork-chop",
+  "status": "approved",
+  "names": {
+    "zhHant": "豬扒",
+    "zhHans": "猪扒",
+    "en": "Pork chop",
+    "ja": "豚ロース切り身",
+    "ko": "돼지 커틀릿용 고기",
+    "th": null,
+    "vi": null,
+    "id": "Pork chop",
+    "tl": "Pork chop",
+    "yue": "豬扒"
+  },
+  "section": "meat",
+  "aliases": [
+    "pork cutlet"
+  ],
+  "storeNotes": {
+    "zhHant": "肉類區或冷凍櫃；買回家後盡快冷藏。",
+    "en": "肉類區或冷凍櫃；買回家後盡快冷藏。",
+    "yue": "肉類區或冷凍櫃；買回家後盡快冷藏。"
+  },
+  "substitutions": {
+    "zhHant": "Pork chop unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Pork chop unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Pork chop unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [
+    "pork"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/pork-chop.png",
+      "alt": "Generated ingredient image for pork-chop",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#pork-chop",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/pork-chop",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

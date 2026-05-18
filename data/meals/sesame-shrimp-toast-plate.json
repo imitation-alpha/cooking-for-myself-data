@@ -1,0 +1,244 @@
+{
+  "id": "sesame-shrimp-toast-plate",
+  "status": "approved",
+  "names": {
+    "zhHant": "蝦多士餐",
+    "zhHans": "虾多士餐",
+    "en": "Sesame shrimp toast plate",
+    "ja": "ごまえびトーストプレート",
+    "ko": "참깨 새우토스트 플레이트",
+    "th": null,
+    "vi": null,
+    "id": "Sesame shrimp toast plate",
+    "tl": "Sesame shrimp toast plate",
+    "yue": "蝦多士餐"
+  },
+  "summary": {
+    "zhHant": "蝦多士餐 的本地買餸版本。煎香方向，重點是中火定型和最後調味。",
+    "en": "蝦多士餐 的本地買餸版本。煎香方向，重點是中火定型和最後調味。",
+    "yue": "蝦多士餐 的本地買餸版本。煎香方向，重點是中火定型和最後調味。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong cafe inspired；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong cafe inspired；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong cafe inspired；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 32,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "shrimp",
+      "amounts": {
+        "zhHant": "180 克",
+        "zhHans": "180 克",
+        "en": "180 g",
+        "ja": "180 g",
+        "ko": "180 g",
+        "th": null,
+        "vi": null,
+        "id": "180 g",
+        "tl": "180 g",
+        "yue": "180 克"
+      }
+    },
+    {
+      "ingredientId": "bread",
+      "amounts": {
+        "zhHant": "4 片",
+        "zhHans": "4 片",
+        "en": "4 slices",
+        "ja": "4枚",
+        "ko": "4장",
+        "th": null,
+        "vi": null,
+        "id": "4 iris",
+        "tl": "4 hiwa",
+        "yue": "4 片"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "3 隻",
+        "zhHans": "3 隻",
+        "en": "3 eggs",
+        "ja": "3個",
+        "ko": "3개",
+        "th": null,
+        "vi": null,
+        "id": "3 butir",
+        "tl": "3 piraso",
+        "yue": "3 隻"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "shellfish",
+    "milk",
+    "wheatGluten",
+    "egg"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "蝦仁剁粗蓉多士切件",
+        "yue": "蝦仁剁粗蓉多士切件",
+        "zhHans": "蝦仁剁粗蓉多士切件",
+        "en": "Chop shrimp and cut toast",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蝦仁 180 克抹乾，切碎後用刀背略剁成粗蝦蓉，保留少量粒狀口感。麵包 4 片切半或切三角；蒜頭 3 瓣切極細，蔥 2 條切幼粒。",
+        "yue": "蝦仁 180 克抹乾，切碎後用刀背略剁成粗蝦蓉，保留少量粒狀口感。麵包 4 片切半或切三角；蒜頭 3 瓣切極細，蔥 2 條切幼粒。",
+        "zhHans": "蝦仁 180 克抹乾，切碎後用刀背略剁成粗蝦蓉，保留少量粒狀口感。麵包 4 片切半或切三角；蒜頭 3 瓣切極細，蔥 2 條切幼粒。",
+        "en": "Pat 180 g shrimp dry, chop it finely, then use the back of the knife to make a coarse shrimp paste while keeping a little texture. Cut 4 slices bread in halves or triangles; mince 3 cloves garlic very finely and finely cut 2 stalks scallions.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "蛋液拌成蝦蓉餡",
+        "yue": "蛋液拌成蝦蓉餡",
+        "zhHans": "蛋液拌成蝦蓉餡",
+        "en": "Bind shrimp filling with egg",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "雞蛋 3 隻打散，先取約一半蛋液拌入蝦蓉、蒜蓉和蔥粒，餘下蛋液留作沾麵包。蝦蓉要濕潤可塗抹，但不可稀到流下麵包。",
+        "yue": "雞蛋 3 隻打散，先取約一半蛋液拌入蝦蓉、蒜蓉和蔥粒，餘下蛋液留作沾麵包。蝦蓉要濕潤可塗抹，但不可稀到流下麵包。",
+        "zhHans": "雞蛋 3 隻打散，先取約一半蛋液拌入蝦蓉、蒜蓉和蔥粒，餘下蛋液留作沾麵包。蝦蓉要濕潤可塗抹，但不可稀到流下麵包。",
+        "en": "Beat 3 eggs. Mix about half the beaten egg with the chopped shrimp, garlic, and scallions, and save the rest for dipping the bread. The shrimp mixture should be moist and spreadable, but not so loose that it runs off the bread.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "蝦蓉壓上麵包煎",
+        "yue": "蝦蓉壓上麵包煎",
+        "zhHans": "蝦蓉壓上麵包煎",
+        "en": "Press shrimp onto bread and fry",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把蝦蓉薄薄壓在麵包一面，邊位也要壓實。平底鑊加油用中小火燒熱，麵包可先在餘下蛋液輕沾，蝦面向下煎 2 至 3 分鐘至蝦肉轉粉紅並定型。",
+        "yue": "把蝦蓉薄薄壓在麵包一面，邊位也要壓實。平底鑊加油用中小火燒熱，麵包可先在餘下蛋液輕沾，蝦面向下煎 2 至 3 分鐘至蝦肉轉粉紅並定型。",
+        "zhHans": "把蝦蓉薄薄壓在麵包一面，邊位也要壓實。平底鑊加油用中小火燒熱，麵包可先在餘下蛋液輕沾，蝦面向下煎 2 至 3 分鐘至蝦肉轉粉紅並定型。",
+        "en": "Spread a thin layer of shrimp mixture onto one side of each bread piece and press the edges firmly. Heat oil in a skillet over medium-low heat. Lightly dip the bread in the remaining egg if desired, then fry shrimp side down for 2-3 minutes until the shrimp turns pink and sets.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "翻煎至多士金黃",
+        "yue": "翻煎至多士金黃",
+        "zhHans": "翻煎至多士金黃",
+        "en": "Flip until the toast is golden",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "小心翻面，再煎 1 至 2 分鐘至麵包面金黃脆身。蝦層中心要熟透不透明，麵包不可吸油到軟塌；出鑊後稍等 1 分鐘再上碟，口感會更穩。",
+        "yue": "小心翻面，再煎 1 至 2 分鐘至麵包面金黃脆身。蝦層中心要熟透不透明，麵包不可吸油到軟塌；出鑊後稍等 1 分鐘再上碟，口感會更穩。",
+        "zhHans": "小心翻面，再煎 1 至 2 分鐘至麵包面金黃脆身。蝦層中心要熟透不透明，麵包不可吸油到軟塌；出鑊後稍等 1 分鐘再上碟，口感會更穩。",
+        "en": "Turn the pieces carefully and fry for 1-2 minutes more until the bread side is golden and crisp. The center of the shrimp layer should be fully opaque, and the bread should not be oil-soaked or limp. Rest for 1 minute after removing from the pan so the texture sets before serving.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/sesame-shrimp-toast-plate/cover-1.png",
+      "alt": "Generated meal cover image for sesame-shrimp-toast-plate",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#sesame-shrimp-toast-plate",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#sesame-shrimp-toast-plate",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

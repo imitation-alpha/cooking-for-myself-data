@@ -1,0 +1,259 @@
+{
+  "id": "kimchi-jjigae",
+  "status": "approved",
+  "names": {
+    "zhHant": "泡菜湯",
+    "zhHans": "泡菜汤",
+    "en": "Kimchi jjigae",
+    "ja": "キムチチゲ",
+    "ko": "김치찌개",
+    "th": null,
+    "vi": null,
+    "id": "Kimchi jjigae",
+    "tl": "Kimchi jjigae",
+    "yue": "泡菜湯"
+  },
+  "summary": {
+    "zhHant": "泡菜湯 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。",
+    "en": "泡菜湯 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。",
+    "yue": "泡菜湯 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。"
+  },
+  "reason": {
+    "zhHant": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 40,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "kimchi",
+      "amounts": {
+        "zhHant": "200 克",
+        "zhHans": "200 克",
+        "en": "200 g",
+        "ja": "200 g",
+        "ko": "200 g",
+        "th": null,
+        "vi": null,
+        "id": "200 g",
+        "tl": "200 g",
+        "yue": "200 克"
+      }
+    },
+    {
+      "ingredientId": "gochujang",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "4 片",
+        "zhHans": "4 片",
+        "en": "4 slices",
+        "ja": "4枚",
+        "ko": "4장",
+        "th": null,
+        "vi": null,
+        "id": "4 iris",
+        "tl": "4 hiwa",
+        "yue": "4 片"
+      }
+    },
+    {
+      "ingredientId": "chicken-broth",
+      "amounts": {
+        "zhHant": "600 毫升",
+        "zhHans": "600 毫升",
+        "en": "600 ml",
+        "ja": "600 ml",
+        "ko": "600 ml",
+        "th": null,
+        "vi": null,
+        "id": "600 ml",
+        "tl": "600 ml",
+        "yue": "600 毫升"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "fish",
+    "shellfish",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "泡菜剪段薑蒜切好",
+        "yue": "泡菜剪段薑蒜切好",
+        "zhHans": "泡菜剪段薑蒜切好",
+        "en": "Cut kimchi and set up aromatics",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "泡菜 200 克剪成一口大小，若包裝內有泡菜汁一併留住。蒜頭 3 瓣切碎，薑 4 片保持薄片，蔥 2 條分蔥白和蔥綠切段；韓式辣醬 1 湯匙和雞湯 600 毫升放近爐邊。",
+        "yue": "泡菜 200 克剪成一口大小，若包裝內有泡菜汁一併留住。蒜頭 3 瓣切碎，薑 4 片保持薄片，蔥 2 條分蔥白和蔥綠切段；韓式辣醬 1 湯匙和雞湯 600 毫升放近爐邊。",
+        "zhHans": "泡菜 200 克剪成一口大小，若包裝內有泡菜汁一併留住。蒜頭 3 瓣切碎，薑 4 片保持薄片，蔥 2 條分蔥白和蔥綠切段；韓式辣醬 1 湯匙和雞湯 600 毫升放近爐邊。",
+        "en": "Cut 200 g kimchi into bite-size pieces and keep any kimchi liquid from the package. Mince 3 cloves garlic, keep 4 slices ginger thin, and separate 2 stalks scallions into whites and greens; place 1 tbsp gochujang and 600 ml chicken broth beside the stove.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "泡菜辣醬先炒紅",
+        "yue": "泡菜辣醬先炒紅",
+        "zhHans": "泡菜辣醬先炒紅",
+        "en": "Fry kimchi and gochujang until red",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "小湯鍋加少量油，用中火下蒜碎、薑片和蔥白炒 30 秒。加入泡菜和韓式辣醬，繼續炒 2 至 3 分鐘，至泡菜邊緣變軟、鍋底有紅色油光。",
+        "yue": "小湯鍋加少量油，用中火下蒜碎、薑片和蔥白炒 30 秒。加入泡菜和韓式辣醬，繼續炒 2 至 3 分鐘，至泡菜邊緣變軟、鍋底有紅色油光。",
+        "zhHans": "小湯鍋加少量油，用中火下蒜碎、薑片和蔥白炒 30 秒。加入泡菜和韓式辣醬，繼續炒 2 至 3 分鐘，至泡菜邊緣變軟、鍋底有紅色油光。",
+        "en": "Heat a little oil in a small soup pot over medium heat, then cook the garlic, ginger and scallion whites for 30 seconds. Add the kimchi and gochujang, and cook for 2-3 minutes until the kimchi edges soften and red oil shines on the bottom of the pot.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "雞湯滾後轉小火",
+        "yue": "雞湯滾後轉小火",
+        "zhHans": "雞湯滾後轉小火",
+        "en": "Simmer the chicken broth base",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "倒入雞湯 600 毫升和保留的泡菜汁，刮起鍋底紅油。煮滾後轉小火，半蓋煮 15 至 20 分鐘，至湯色變深、泡菜柔軟但仍有酸辣口感。",
+        "yue": "倒入雞湯 600 毫升和保留的泡菜汁，刮起鍋底紅油。煮滾後轉小火，半蓋煮 15 至 20 分鐘，至湯色變深、泡菜柔軟但仍有酸辣口感。",
+        "zhHans": "倒入雞湯 600 毫升和保留的泡菜汁，刮起鍋底紅油。煮滾後轉小火，半蓋煮 15 至 20 分鐘，至湯色變深、泡菜柔軟但仍有酸辣口感。",
+        "en": "Pour in 600 ml chicken broth and any reserved kimchi liquid, scraping the red oil from the bottom. Bring to a boil, lower to a gentle simmer, and cook half-covered for 15-20 minutes until the broth darkens and the kimchi is soft but still tangy and spicy.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "蔥綠落鍋熱湯上桌",
+        "yue": "蔥綠落鍋熱湯上桌",
+        "zhHans": "蔥綠落鍋熱湯上桌",
+        "en": "Add scallion greens and serve bubbling hot",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "試一口湯；若太濃可加少量水再滾 1 分鐘，若太淡就多煮 2 至 3 分鐘收濃。最後加入蔥綠，湯面微滾時離火，連泡菜一起舀入碗中趁熱食用。",
+        "yue": "試一口湯；若太濃可加少量水再滾 1 分鐘，若太淡就多煮 2 至 3 分鐘收濃。最後加入蔥綠，湯面微滾時離火，連泡菜一起舀入碗中趁熱食用。",
+        "zhHans": "試一口湯；若太濃可加少量水再滾 1 分鐘，若太淡就多煮 2 至 3 分鐘收濃。最後加入蔥綠，湯面微滾時離火，連泡菜一起舀入碗中趁熱食用。",
+        "en": "Taste the broth; if it is too strong, add a little water and boil for 1 minute, and if it is too light, simmer 2-3 minutes longer to concentrate it. Add the scallion greens at the end, remove from heat while the surface is gently bubbling, and ladle the kimchi and broth into bowls to eat hot.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/kimchi-jjigae/cover-1.png",
+      "alt": "Generated meal cover image for kimchi-jjigae",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#kimchi-jjigae",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#kimchi-jjigae",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

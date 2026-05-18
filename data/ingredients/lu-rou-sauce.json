@@ -1,0 +1,56 @@
+{
+  "id": "lu-rou-sauce",
+  "status": "approved",
+  "names": {
+    "zhHant": "滷肉汁",
+    "zhHans": "卤肉汁",
+    "en": "Lu rou braising sauce",
+    "ja": "魯肉煮込みソース",
+    "ko": "루러우 소스",
+    "th": null,
+    "vi": null,
+    "id": "Lu rou braising sauce",
+    "tl": "Lu rou braising sauce",
+    "yue": "滷肉汁"
+  },
+  "section": "sauces",
+  "aliases": [
+    "Taiwanese braise sauce"
+  ],
+  "storeNotes": {
+    "zhHant": "調味料走廊；先看英文名和過敏成分。",
+    "en": "調味料走廊；先看英文名和過敏成分。",
+    "yue": "調味料走廊；先看英文名和過敏成分。"
+  },
+  "substitutions": {
+    "zhHant": "Lu rou braising sauce unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Lu rou braising sauce unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Lu rou braising sauce unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [
+    "soy",
+    "wheatGluten"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/lu-rou-sauce.png",
+      "alt": "Generated ingredient image for lu-rou-sauce",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#lu-rou-sauce",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/lu-rou-sauce",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

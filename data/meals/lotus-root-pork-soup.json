@@ -1,0 +1,271 @@
+{
+  "id": "lotus-root-pork-soup",
+  "status": "approved",
+  "names": {
+    "zhHant": "蓮藕豬骨湯",
+    "zhHans": "莲藕猪骨汤",
+    "en": "Lotus root pork soup",
+    "ja": "れんこん豚骨スープ",
+    "ko": "연근 돼지뼈탕",
+    "th": null,
+    "vi": null,
+    "id": "Lotus root pork soup",
+    "tl": "Lotus root pork soup",
+    "yue": "蓮藕豬骨湯"
+  },
+  "summary": {
+    "zhHant": "蓮藕豬骨湯 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。",
+    "en": "蓮藕豬骨湯 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。",
+    "yue": "蓮藕豬骨湯 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。"
+  },
+  "reason": {
+    "zhHant": "Cantonese soup；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Cantonese soup；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Cantonese soup；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 55,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "pork-bone",
+      "amounts": {
+        "zhHant": "500 克",
+        "zhHans": "500 克",
+        "en": "500 g",
+        "ja": "500 g",
+        "ko": "500 g",
+        "th": null,
+        "vi": null,
+        "id": "500 g",
+        "tl": "500 g",
+        "yue": "500 克"
+      }
+    },
+    {
+      "ingredientId": "pork-mince",
+      "amounts": {
+        "zhHant": "220 克",
+        "zhHans": "220 克",
+        "en": "220 g",
+        "ja": "220 g",
+        "ko": "220 g",
+        "th": null,
+        "vi": null,
+        "id": "220 g",
+        "tl": "220 g",
+        "yue": "220 克"
+      }
+    },
+    {
+      "ingredientId": "lotus-root",
+      "amounts": {
+        "zhHant": "300 克",
+        "zhHans": "300 克",
+        "en": "300 g",
+        "ja": "300 g",
+        "ko": "300 g",
+        "th": null,
+        "vi": null,
+        "id": "300 g",
+        "tl": "300 g",
+        "yue": "300 克"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "4 片",
+        "zhHans": "4 片",
+        "en": "4 slices",
+        "ja": "4枚",
+        "ko": "4장",
+        "th": null,
+        "vi": null,
+        "id": "4 iris",
+        "tl": "4 hiwa",
+        "yue": "4 片"
+      }
+    },
+    {
+      "ingredientId": "chicken-broth",
+      "amounts": {
+        "zhHant": "600 毫升",
+        "zhHans": "600 毫升",
+        "en": "600 ml",
+        "ja": "600 ml",
+        "ko": "600 ml",
+        "th": null,
+        "vi": null,
+        "id": "600 ml",
+        "tl": "600 ml",
+        "yue": "600 毫升"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "pork"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "蓮藕切厚片豬肉成團",
+        "yue": "蓮藕切厚片豬肉成團",
+        "zhHans": "蓮藕切厚片豬肉成團",
+        "en": "Slice lotus root and shape pork",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蓮藕 300 克切成約 1 厘米厚片；豬骨 500 克沖洗；免治豬肉 220 克用手輕輕拌成 6 至 8 粒鬆身肉丸。蒜頭 3 瓣拍扁，薑 4 片和蔥 2 條分開放好。",
+        "yue": "蓮藕 300 克切成約 1 厘米厚片；豬骨 500 克沖洗；免治豬肉 220 克用手輕輕拌成 6 至 8 粒鬆身肉丸。蒜頭 3 瓣拍扁，薑 4 片和蔥 2 條分開放好。",
+        "zhHans": "蓮藕 300 克切成約 1 厘米厚片；豬骨 500 克沖洗；免治豬肉 220 克用手輕輕拌成 6 至 8 粒鬆身肉丸。蒜頭 3 瓣拍扁，薑 4 片和蔥 2 條分開放好。",
+        "en": "Cut 300 g Lotus root into about 1 cm slices; rinse 500 g Pork bones; gently shape 220 g Ground pork into 6-8 loose meatballs. Smash 3 cloves Garlic, and keep 4 slices Ginger and 2 stalks Scallions separate.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "豬骨先滾清湯",
+        "yue": "豬骨先滾清湯",
+        "zhHans": "豬骨先滾清湯",
+        "en": "Start a clear pork bone broth",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把豬骨 500 克、薑 4 片、蒜頭 3 瓣和雞湯 600 毫升放入湯鍋；加水至剛蓋過材料，大火煮滾後撇走浮泡。",
+        "yue": "把豬骨 500 克、薑 4 片、蒜頭 3 瓣和雞湯 600 毫升放入湯鍋；加水至剛蓋過材料，大火煮滾後撇走浮泡。",
+        "zhHans": "把豬骨 500 克、薑 4 片、蒜頭 3 瓣和雞湯 600 毫升放入湯鍋；加水至剛蓋過材料，大火煮滾後撇走浮泡。",
+        "en": "Put 500 g Pork bones, 4 slices Ginger, 3 cloves Garlic, and 600 ml Chicken broth in a soup pot. Add water just to cover, bring to a boil over high heat, and skim off the foam.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "蓮藕肉丸慢煲",
+        "yue": "蓮藕肉丸慢煲",
+        "zhHans": "蓮藕肉丸慢煲",
+        "en": "Simmer lotus root and pork meatballs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入蓮藕 300 克，轉細火保持輕滾 35 分鐘；再放入免治豬肉 220 克做成的肉丸，煮 8 至 10 分鐘至肉丸中心沒有粉紅色。",
+        "yue": "加入蓮藕 300 克，轉細火保持輕滾 35 分鐘；再放入免治豬肉 220 克做成的肉丸，煮 8 至 10 分鐘至肉丸中心沒有粉紅色。",
+        "zhHans": "加入蓮藕 300 克，轉細火保持輕滾 35 分鐘；再放入免治豬肉 220 克做成的肉丸，煮 8 至 10 分鐘至肉丸中心沒有粉紅色。",
+        "en": "Add 300 g Lotus root, lower to a gentle simmer, and cook for 35 minutes. Add the meatballs made from 220 g Ground pork and simmer 8-10 minutes more, until their centers are no longer pink.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "蔥段收尾盛湯",
+        "yue": "蔥段收尾盛湯",
+        "zhHans": "蔥段收尾盛湯",
+        "en": "Finish the soup with scallions",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蔥 2 條切段放入湯中再滾 1 分鐘；蓮藕應能被筷子插入但仍有爽感，湯色清中帶肉香，連豬骨、蓮藕和肉丸趁熱上碗。",
+        "yue": "蔥 2 條切段放入湯中再滾 1 分鐘；蓮藕應能被筷子插入但仍有爽感，湯色清中帶肉香，連豬骨、蓮藕和肉丸趁熱上碗。",
+        "zhHans": "蔥 2 條切段放入湯中再滾 1 分鐘；蓮藕應能被筷子插入但仍有爽感，湯色清中帶肉香，連豬骨、蓮藕和肉丸趁熱上碗。",
+        "en": "Cut 2 stalks Scallions into sections and simmer them in the soup for 1 minute. The Lotus root should be pierceable but still a little crisp; serve the hot broth with Pork bones, Lotus root, and pork meatballs.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/lotus-root-pork-soup/cover-1.png",
+      "alt": "Generated meal cover image for lotus-root-pork-soup",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#lotus-root-pork-soup",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#lotus-root-pork-soup",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "id": "lu-wei-rice-plate",
+  "status": "approved",
+  "names": {
+    "zhHant": "滷味拼盤飯",
+    "zhHans": "卤味拼盘饭",
+    "en": "Taiwanese lu wei rice plate",
+    "ja": "台湾滷味ご飯プレート",
+    "ko": "대만 루웨이 밥 플레이트",
+    "th": null,
+    "vi": null,
+    "id": "Taiwanese lu wei rice plate",
+    "tl": "Taiwanese lu wei rice plate",
+    "yue": "滷味拼盤飯"
+  },
+  "summary": {
+    "zhHant": "滷味拼盤飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "滷味拼盤飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "滷味拼盤飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Taiwanese home shortcut；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Taiwanese home shortcut；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Taiwanese home shortcut；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "lu-wei-mix",
+      "amounts": {
+        "zhHant": "350 克",
+        "zhHans": "350 克",
+        "en": "350 g",
+        "ja": "350 g",
+        "ko": "350 g",
+        "th": null,
+        "vi": null,
+        "id": "350 g",
+        "tl": "350 g",
+        "yue": "350 克"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "pork",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "滷味切成飯面厚度",
+        "yue": "滷味切成飯面厚度",
+        "zhHans": "滷味切成飯面厚度",
+        "en": "Slice the lu wei for a rice plate",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯先煮飯；滷味拼盤 350 克切成方便夾起的片或塊，蒜頭 3 瓣拍扁切碎，蔥 2 條切蔥花，生抽 1 湯匙備好。",
+        "yue": "白米 1 杯先煮飯；滷味拼盤 350 克切成方便夾起的片或塊，蒜頭 3 瓣拍扁切碎，蔥 2 條切蔥花，生抽 1 湯匙備好。",
+        "zhHans": "白米 1 杯先煮飯；滷味拼盤 350 克切成方便夾起的片或塊，蒜頭 3 瓣拍扁切碎，蔥 2 條切蔥花，生抽 1 湯匙備好。",
+        "en": "Cook 1 cup White rice first. Cut 350 g Lu wei mix into slices or chunks that are easy to pick up, smash and mince 3 cloves Garlic, slice 2 stalks Scallions, and measure 1 tbsp Light soy sauce.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "蒜油輕煎滷味面",
+        "yue": "蒜油輕煎滷味面",
+        "zhHans": "蒜油輕煎滷味面",
+        "en": "Warm the lu wei in garlic oil",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鍋中火燒熱後落少量油，炒蒜頭 3 瓣 15 至 20 秒；放入滷味拼盤 350 克，鋪平煎 2 分鐘，讓表面重新變熱並有少許焦香。",
+        "yue": "平底鍋中火燒熱後落少量油，炒蒜頭 3 瓣 15 至 20 秒；放入滷味拼盤 350 克，鋪平煎 2 分鐘，讓表面重新變熱並有少許焦香。",
+        "zhHans": "平底鍋中火燒熱後落少量油，炒蒜頭 3 瓣 15 至 20 秒；放入滷味拼盤 350 克，鋪平煎 2 分鐘，讓表面重新變熱並有少許焦香。",
+        "en": "Heat a skillet over medium heat, add a little oil, and cook 3 cloves Garlic for 15-20 seconds. Add 350 g Lu wei mix in a flat layer and sear for 2 minutes so the surfaces reheat and pick up light browning.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "生抽水收成淺滷汁",
+        "yue": "生抽水收成淺滷汁",
+        "zhHans": "生抽水收成淺滷汁",
+        "en": "Make a light soy glaze",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "淋入生抽 1 湯匙和少量水，輕輕翻動滷味；小火煮 2 至 3 分鐘，讓每件滷味都熱透，鍋底留下幾匙可淋飯的淺色汁。",
+        "yue": "淋入生抽 1 湯匙和少量水，輕輕翻動滷味；小火煮 2 至 3 分鐘，讓每件滷味都熱透，鍋底留下幾匙可淋飯的淺色汁。",
+        "zhHans": "淋入生抽 1 湯匙和少量水，輕輕翻動滷味；小火煮 2 至 3 分鐘，讓每件滷味都熱透，鍋底留下幾匙可淋飯的淺色汁。",
+        "en": "Add 1 tbsp Light soy sauce and a small splash of water, then turn the Lu wei mix gently. Simmer on low for 2-3 minutes until every piece is hot and a few spoonfuls of light sauce remain for the rice.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "滷味鋪飯淋汁",
+        "yue": "滷味鋪飯淋汁",
+        "zhHans": "滷味鋪飯淋汁",
+        "en": "Plate the lu wei over rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白飯盛碟，把滷味拼盤排在飯面或旁邊，淋上鍋底汁；撒蔥花，滷味應熱透但不煮爛，飯邊保留一點汁方便拌開。",
+        "yue": "白飯盛碟，把滷味拼盤排在飯面或旁邊，淋上鍋底汁；撒蔥花，滷味應熱透但不煮爛，飯邊保留一點汁方便拌開。",
+        "zhHans": "白飯盛碟，把滷味拼盤排在飯面或旁邊，淋上鍋底汁；撒蔥花，滷味應熱透但不煮爛，飯邊保留一點汁方便拌開。",
+        "en": "Spoon the White rice onto plates, arrange the Lu wei mix on top or beside it, and drizzle over the pan sauce. Scatter Scallions; the lu wei should be hot through but not falling apart, with enough sauce to mix into the rice.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/lu-wei-rice-plate/cover-1.png",
+      "alt": "Generated meal cover image for lu-wei-rice-plate",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#lu-wei-rice-plate",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#lu-wei-rice-plate",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

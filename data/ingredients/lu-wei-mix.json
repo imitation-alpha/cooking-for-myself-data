@@ -1,0 +1,57 @@
+{
+  "id": "lu-wei-mix",
+  "status": "approved",
+  "names": {
+    "zhHant": "滷味拼盤",
+    "zhHans": "卤味拼盘",
+    "en": "Lu wei mix",
+    "ja": "滷味ミックス",
+    "ko": "루웨이 모둠",
+    "th": null,
+    "vi": null,
+    "id": "Lu wei mix",
+    "tl": "Lu wei mix",
+    "yue": "滷味拼盤"
+  },
+  "section": "meat",
+  "aliases": [
+    "braised assorted items"
+  ],
+  "storeNotes": {
+    "zhHant": "肉類區或冷凍櫃；買回家後盡快冷藏。",
+    "en": "肉類區或冷凍櫃；買回家後盡快冷藏。",
+    "yue": "肉類區或冷凍櫃；買回家後盡快冷藏。"
+  },
+  "substitutions": {
+    "zhHant": "Lu wei mix unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Lu wei mix unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Lu wei mix unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [
+    "pork",
+    "soy",
+    "wheatGluten"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/lu-wei-mix.png",
+      "alt": "Generated ingredient image for lu-wei-mix",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#lu-wei-mix",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/lu-wei-mix",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

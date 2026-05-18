@@ -1,0 +1,243 @@
+{
+  "id": "steamed-egg",
+  "status": "approved",
+  "names": {
+    "zhHant": "水蛋",
+    "zhHans": "水蛋",
+    "en": "Steamed egg custard",
+    "ja": "蒸し卵",
+    "ko": "계란찜",
+    "th": null,
+    "vi": null,
+    "id": "Steamed egg custard",
+    "tl": "Steamed egg custard",
+    "yue": "水蛋"
+  },
+  "summary": {
+    "zhHant": "水蛋 的本地買餸版本。蒸餸方向，重點是火力穩定和熟度提示。",
+    "en": "水蛋 的本地買餸版本。蒸餸方向，重點是火力穩定和熟度提示。",
+    "yue": "水蛋 的本地買餸版本。蒸餸方向，重點是火力穩定和熟度提示。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 18,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "3 隻",
+        "zhHans": "3 隻",
+        "en": "3 eggs",
+        "ja": "3個",
+        "ko": "3개",
+        "th": null,
+        "vi": null,
+        "id": "3 butir",
+        "tl": "3 piraso",
+        "yue": "3 隻"
+      }
+    },
+    {
+      "ingredientId": "chicken-broth",
+      "amounts": {
+        "zhHant": "600 毫升",
+        "zhHans": "600 毫升",
+        "en": "600 ml",
+        "ja": "600 ml",
+        "ko": "600 ml",
+        "th": null,
+        "vi": null,
+        "id": "600 ml",
+        "tl": "600 ml",
+        "yue": "600 毫升"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "egg",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "蛋同雞湯拌成水蛋液",
+        "yue": "蛋同雞湯拌成水蛋液",
+        "zhHans": "蛋同雞湯拌成水蛋液",
+        "en": "Mix eggs with chicken broth",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "雞蛋 3 隻輕力打散，加入雞湯 600 毫升拌勻，避免打入太多泡；蔥 2 條切幼粒，生抽 1 湯匙留到蒸好後才用。",
+        "yue": "雞蛋 3 隻輕力打散，加入雞湯 600 毫升拌勻，避免打入太多泡；蔥 2 條切幼粒，生抽 1 湯匙留到蒸好後才用。",
+        "zhHans": "雞蛋 3 隻輕力打散，加入雞湯 600 毫升拌勻，避免打入太多泡；蔥 2 條切幼粒，生抽 1 湯匙留到蒸好後才用。",
+        "en": "Lightly beat 3 eggs, then stir in 600 ml Chicken broth without whipping in too many bubbles. Slice 2 stalks Scallions finely and reserve 1 tbsp Light soy sauce for after steaming.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "隔走泡沫入淺碟",
+        "yue": "隔走泡沫入淺碟",
+        "zhHans": "隔走泡沫入淺碟",
+        "en": "Strain bubbles into a shallow dish",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把蛋液倒入耐熱淺碟，如表面有泡用匙羹撇走；碟口包上耐熱蓋或錫紙，讓倒汗水不會滴落水蛋面。",
+        "yue": "把蛋液倒入耐熱淺碟，如表面有泡用匙羹撇走；碟口包上耐熱蓋或錫紙，讓倒汗水不會滴落水蛋面。",
+        "zhHans": "把蛋液倒入耐熱淺碟，如表面有泡用匙羹撇走；碟口包上耐熱蓋或錫紙，讓倒汗水不會滴落水蛋面。",
+        "en": "Pour the egg mixture into a heatproof shallow dish and skim off surface bubbles with a spoon. Cover the dish with a heatproof lid or foil so condensation does not drip onto the custard.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "細火蒸到中心微震",
+        "yue": "細火蒸到中心微震",
+        "zhHans": "細火蒸到中心微震",
+        "en": "Steam until the center barely wobbles",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蒸鍋水滾後轉中小火，放入蛋碟蒸 10 至 12 分鐘；輕碰碟邊時中心應像嫩豆腐般微微震動，仍有流動蛋液就多蒸 1 至 2 分鐘。",
+        "yue": "蒸鍋水滾後轉中小火，放入蛋碟蒸 10 至 12 分鐘；輕碰碟邊時中心應像嫩豆腐般微微震動，仍有流動蛋液就多蒸 1 至 2 分鐘。",
+        "zhHans": "蒸鍋水滾後轉中小火，放入蛋碟蒸 10 至 12 分鐘；輕碰碟邊時中心應像嫩豆腐般微微震動，仍有流動蛋液就多蒸 1 至 2 分鐘。",
+        "en": "Bring water in a steamer to a boil, reduce to medium-low, and steam the dish for 10-12 minutes. The center should wobble like soft tofu when nudged; if liquid egg remains, steam 1-2 minutes longer.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "生抽蔥花落在滑蛋面",
+        "yue": "生抽蔥花落在滑蛋面",
+        "zhHans": "生抽蔥花落在滑蛋面",
+        "en": "Top the silky custard with soy and scallion",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "離火後等 2 分鐘才打開蓋，淋上生抽 1 湯匙和撒上蔥粒；水蛋面要平滑、匙羹舀起時邊緣柔軟不出粗孔。",
+        "yue": "離火後等 2 分鐘才打開蓋，淋上生抽 1 湯匙和撒上蔥粒；水蛋面要平滑、匙羹舀起時邊緣柔軟不出粗孔。",
+        "zhHans": "離火後等 2 分鐘才打開蓋，淋上生抽 1 湯匙和撒上蔥粒；水蛋面要平滑、匙羹舀起時邊緣柔軟不出粗孔。",
+        "en": "Remove from heat and wait 2 minutes before uncovering. Spoon over 1 tbsp Light soy sauce and scatter the Scallions; the custard should look smooth, with soft edges and no coarse holes when scooped.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/steamed-egg/cover-1.png",
+      "alt": "Generated meal cover image for steamed-egg",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#steamed-egg",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#steamed-egg",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

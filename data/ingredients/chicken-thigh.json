@@ -1,0 +1,53 @@
+{
+  "id": "chicken-thigh",
+  "status": "approved",
+  "names": {
+    "zhHant": "雞髀肉",
+    "zhHans": "鸡髀肉",
+    "en": "Chicken thigh",
+    "ja": "鶏もも肉",
+    "ko": "닭다리살",
+    "th": null,
+    "vi": null,
+    "id": "Chicken thigh",
+    "tl": "Chicken thigh",
+    "yue": "雞髀肉"
+  },
+  "section": "meat",
+  "aliases": [
+    "boneless chicken thigh"
+  ],
+  "storeNotes": {
+    "zhHant": "肉類區或冷凍櫃；買回家後盡快冷藏。",
+    "en": "肉類區或冷凍櫃；買回家後盡快冷藏。",
+    "yue": "肉類區或冷凍櫃；買回家後盡快冷藏。"
+  },
+  "substitutions": {
+    "zhHant": "Chicken thigh unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Chicken thigh unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Chicken thigh unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [],
+  "images": [
+    {
+      "path": "assets/ingredients/chicken-thigh.png",
+      "alt": "Generated ingredient image for chicken-thigh",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#chicken-thigh",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/chicken-thigh",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

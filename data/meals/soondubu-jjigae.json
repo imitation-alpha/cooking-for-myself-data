@@ -1,0 +1,256 @@
+{
+  "id": "soondubu-jjigae",
+  "status": "approved",
+  "names": {
+    "zhHant": "韓式豆腐鍋",
+    "zhHans": "韩式豆腐锅",
+    "en": "Soondubu jjigae",
+    "ja": "スンドゥブチゲ",
+    "ko": "순두부찌개",
+    "th": null,
+    "vi": null,
+    "id": "Soondubu jjigae",
+    "tl": "Soondubu jjigae",
+    "yue": "韓式豆腐鍋"
+  },
+  "summary": {
+    "zhHant": "韓式豆腐鍋 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。",
+    "en": "韓式豆腐鍋 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。",
+    "yue": "韓式豆腐鍋 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。"
+  },
+  "reason": {
+    "zhHant": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 40,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "tofu",
+      "amounts": {
+        "zhHant": "1 盒",
+        "zhHans": "1 盒",
+        "en": "1 block",
+        "ja": "1丁",
+        "ko": "1모",
+        "th": null,
+        "vi": null,
+        "id": "1 blok",
+        "tl": "1 bloke",
+        "yue": "1 盒"
+      }
+    },
+    {
+      "ingredientId": "soft-tofu",
+      "amounts": {
+        "zhHant": "1 盒",
+        "zhHans": "1 盒",
+        "en": "1 block",
+        "ja": "1丁",
+        "ko": "1모",
+        "th": null,
+        "vi": null,
+        "id": "1 blok",
+        "tl": "1 bloke",
+        "yue": "1 盒"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "4 片",
+        "zhHans": "4 片",
+        "en": "4 slices",
+        "ja": "4枚",
+        "ko": "4장",
+        "th": null,
+        "vi": null,
+        "id": "4 iris",
+        "tl": "4 hiwa",
+        "yue": "4 片"
+      }
+    },
+    {
+      "ingredientId": "chicken-broth",
+      "amounts": {
+        "zhHant": "600 毫升",
+        "zhHans": "600 毫升",
+        "en": "600 ml",
+        "ja": "600 ml",
+        "ko": "600 ml",
+        "th": null,
+        "vi": null,
+        "id": "600 ml",
+        "tl": "600 ml",
+        "yue": "600 毫升"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "豆腐切塊香料拍鬆",
+        "yue": "豆腐切塊香料拍鬆",
+        "zhHans": "豆腐切塊香料拍鬆",
+        "en": "Cut tofu and bruise aromatics",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "豆腐 1 盒切成約 3 厘米大塊，滑豆腐 1 盒用匙羹分成大件，分開放好避免碎爛。蒜頭 3 瓣拍碎，薑 4 片拍鬆，蔥 2 條分蔥白和蔥綠切段。",
+        "yue": "豆腐 1 盒切成約 3 厘米大塊，滑豆腐 1 盒用匙羹分成大件，分開放好避免碎爛。蒜頭 3 瓣拍碎，薑 4 片拍鬆，蔥 2 條分蔥白和蔥綠切段。",
+        "zhHans": "豆腐 1 盒切成約 3 厘米大塊，滑豆腐 1 盒用匙羹分成大件，分開放好避免碎爛。蒜頭 3 瓣拍碎，薑 4 片拍鬆，蔥 2 條分蔥白和蔥綠切段。",
+        "en": "Cut 1 block tofu into pieces about 3 cm wide, and use a spoon to divide 1 block soft tofu into large pieces; keep them separate so they do not break down. Smash 3 cloves garlic, bruise 4 slices ginger, and separate 2 stalks scallions into whites and greens.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "薑蒜蔥白煮雞湯",
+        "yue": "薑蒜蔥白煮雞湯",
+        "zhHans": "薑蒜蔥白煮雞湯",
+        "en": "Simmer chicken broth with ginger and garlic",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "小鍋加少量油，用中小火把薑、蒜和蔥白煮 30 至 45 秒至有香味。倒入雞湯 600 毫升，轉中火煮滾後再煮 3 分鐘，讓湯底有薑蒜味。",
+        "yue": "小鍋加少量油，用中小火把薑、蒜和蔥白煮 30 至 45 秒至有香味。倒入雞湯 600 毫升，轉中火煮滾後再煮 3 分鐘，讓湯底有薑蒜味。",
+        "zhHans": "小鍋加少量油，用中小火把薑、蒜和蔥白煮 30 至 45 秒至有香味。倒入雞湯 600 毫升，轉中火煮滾後再煮 3 分鐘，讓湯底有薑蒜味。",
+        "en": "Add a little oil to a small pot and cook the ginger, garlic, and scallion whites over medium-low heat for 30-45 seconds until aromatic. Pour in 600 ml chicken broth, bring it to a boil over medium heat, then simmer for 3 minutes so the broth picks up the ginger and garlic.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "硬豆腐先滾滑豆腐後落",
+        "yue": "硬豆腐先滾滑豆腐後落",
+        "zhHans": "硬豆腐先滾滑豆腐後落",
+        "en": "Simmer firm tofu before soft tofu",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先加入豆腐 1 盒，保持細滾 5 分鐘至中心熱透。再輕輕放入滑豆腐 1 盒，用湯匙推入湯中，不要大力攪拌，細滾 3 至 4 分鐘至滑豆腐也熱透。",
+        "yue": "先加入豆腐 1 盒，保持細滾 5 分鐘至中心熱透。再輕輕放入滑豆腐 1 盒，用湯匙推入湯中，不要大力攪拌，細滾 3 至 4 分鐘至滑豆腐也熱透。",
+        "zhHans": "先加入豆腐 1 盒，保持細滾 5 分鐘至中心熱透。再輕輕放入滑豆腐 1 盒，用湯匙推入湯中，不要大力攪拌，細滾 3 至 4 分鐘至滑豆腐也熱透。",
+        "en": "Add 1 block tofu first and keep the broth at a gentle boil for 5 minutes until the centers are hot. Gently add 1 block soft tofu, nudging it into the broth with a spoon instead of stirring hard, and simmer 3-4 minutes until the soft tofu is hot through.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "熱湯碗內留豆腐形狀",
+        "yue": "熱湯碗內留豆腐形狀",
+        "zhHans": "熱湯碗內留豆腐形狀",
+        "en": "Serve hot while tofu pieces hold shape",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "關火後放蔥綠，用湯勺連湯帶豆腐盛入深碗。湯要熱而清香，豆腐塊仍保持大件；因沒有辣椒或泡菜，成品顏色會偏清淡。",
+        "yue": "關火後放蔥綠，用湯勺連湯帶豆腐盛入深碗。湯要熱而清香，豆腐塊仍保持大件；因沒有辣椒或泡菜，成品顏色會偏清淡。",
+        "zhHans": "關火後放蔥綠，用湯勺連湯帶豆腐盛入深碗。湯要熱而清香，豆腐塊仍保持大件；因沒有辣椒或泡菜，成品顏色會偏清淡。",
+        "en": "Turn off the heat, add the scallion greens, and ladle the broth and tofu into deep bowls. The soup should be hot and aromatic, with the tofu still in large pieces; because there is no chili or kimchi, the finished stew will look pale and mild.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/soondubu-jjigae/cover-1.png",
+      "alt": "Generated meal cover image for soondubu-jjigae",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#soondubu-jjigae",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#soondubu-jjigae",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

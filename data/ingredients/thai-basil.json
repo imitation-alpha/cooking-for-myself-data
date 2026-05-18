@@ -1,0 +1,53 @@
+{
+  "id": "thai-basil",
+  "status": "approved",
+  "names": {
+    "zhHant": "泰國羅勒",
+    "zhHans": "泰国罗勒",
+    "en": "Thai basil",
+    "ja": "タイバジル",
+    "ko": "타이 바질",
+    "th": null,
+    "vi": null,
+    "id": "Thai basil",
+    "tl": "Thai basil",
+    "yue": "泰國羅勒"
+  },
+  "section": "produce",
+  "aliases": [
+    "holy basil"
+  ],
+  "storeNotes": {
+    "zhHant": "本地亞洲超市蔬果區；先看新鮮度和份量。",
+    "en": "本地亞洲超市蔬果區；先看新鮮度和份量。",
+    "yue": "本地亞洲超市蔬果區；先看新鮮度和份量。"
+  },
+  "substitutions": {
+    "zhHant": "Thai basil unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Thai basil unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Thai basil unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [],
+  "images": [
+    {
+      "path": "assets/ingredients/thai-basil.png",
+      "alt": "Generated ingredient image for thai-basil",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#thai-basil",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/thai-basil",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

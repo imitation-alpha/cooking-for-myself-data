@@ -1,0 +1,242 @@
+{
+  "id": "garlic-scallion-oil-chicken-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "薑蔥油雞飯",
+    "zhHans": "姜葱油鸡饭",
+    "en": "Garlic scallion oil chicken rice",
+    "ja": "生姜ねぎ油チキンライス",
+    "ko": "생강파기름 치킨밥",
+    "th": null,
+    "vi": null,
+    "id": "Garlic scallion oil chicken rice",
+    "tl": "Garlic scallion oil chicken rice",
+    "yue": "薑蔥油雞飯"
+  },
+  "summary": {
+    "zhHant": "薑蔥油雞飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "薑蔥油雞飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "薑蔥油雞飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 18,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "2 件",
+        "zhHans": "2 件",
+        "en": "2 thighs",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 potong",
+        "tl": "2 piraso",
+        "yue": "2 件"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "洗米切雞和蔥蒜",
+        "yue": "洗米切雞和蔥蒜",
+        "zhHans": "洗米切雞和蔥蒜",
+        "en": "Rinse rice, cut chicken and aromatics",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯洗至水較清，放入飯煲用平日煮飯水量煮飯。雞髀肉 2 件抹乾，切成約 2 厘米厚件；蒜頭 3 瓣切碎，蔥 2 條分開蔥白和蔥綠切幼粒。",
+        "yue": "白米 1 杯洗至水較清，放入飯煲用平日煮飯水量煮飯。雞髀肉 2 件抹乾，切成約 2 厘米厚件；蒜頭 3 瓣切碎，蔥 2 條分開蔥白和蔥綠切幼粒。",
+        "zhHans": "白米 1 杯洗至水較清，放入飯煲用平日煮飯水量煮飯。雞髀肉 2 件抹乾，切成約 2 厘米厚件；蒜頭 3 瓣切碎，蔥 2 條分開蔥白和蔥綠切幼粒。",
+        "en": "Rinse 1 cup white rice until the water is clearer, then cook it in the rice cooker with your usual rice water level. Pat 2 chicken thighs dry and cut into pieces about 2 cm thick; mince 3 cloves garlic and separate 2 stalks scallions into finely cut whites and greens.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "煎熟雞髀肉",
+        "yue": "煎熟雞髀肉",
+        "zhHans": "煎熟雞髀肉",
+        "en": "Pan-cook the chicken thighs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鑊加油用中火燒熱，下雞髀肉鋪成一層，先煎 3 至 4 分鐘至底面金黃，再翻面煎 3 至 4 分鐘。加入少量水，蓋上焗 4 至 5 分鐘，至雞肉中心全熟無粉紅。",
+        "yue": "平底鑊加油用中火燒熱，下雞髀肉鋪成一層，先煎 3 至 4 分鐘至底面金黃，再翻面煎 3 至 4 分鐘。加入少量水，蓋上焗 4 至 5 分鐘，至雞肉中心全熟無粉紅。",
+        "zhHans": "平底鑊加油用中火燒熱，下雞髀肉鋪成一層，先煎 3 至 4 分鐘至底面金黃，再翻面煎 3 至 4 分鐘。加入少量水，蓋上焗 4 至 5 分鐘，至雞肉中心全熟無粉紅。",
+        "en": "Heat oil in a skillet over medium heat, add the chicken thigh pieces in one layer, and sear for 3-4 minutes until the underside is golden. Turn and sear for another 3-4 minutes, add a small splash of water, cover, and cook for 4-5 minutes until the centers are fully cooked with no pink.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "沖出蒜蔥生抽油",
+        "yue": "沖出蒜蔥生抽油",
+        "zhHans": "沖出蒜蔥生抽油",
+        "en": "Make the garlic-scallion soy oil",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "雞肉先夾起。原鑊補少量油，轉小火下蒜碎和蔥白煮 30 至 45 秒，香味出來但不要焦。關火後拌入生抽 1 湯匙和少量熱水，成為可淋的蒜蔥油汁。",
+        "yue": "雞肉先夾起。原鑊補少量油，轉小火下蒜碎和蔥白煮 30 至 45 秒，香味出來但不要焦。關火後拌入生抽 1 湯匙和少量熱水，成為可淋的蒜蔥油汁。",
+        "zhHans": "雞肉先夾起。原鑊補少量油，轉小火下蒜碎和蔥白煮 30 至 45 秒，香味出來但不要焦。關火後拌入生抽 1 湯匙和少量熱水，成為可淋的蒜蔥油汁。",
+        "en": "Lift out the chicken. Add a little more oil to the same pan, lower the heat, and cook the minced garlic and scallion whites for 30-45 seconds until fragrant but not browned. Turn off the heat and stir in 1 tbsp light soy sauce plus a small splash of hot water to make a spoonable garlic-scallion oil sauce.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "雞肉蓋飯淋蔥油",
+        "yue": "雞肉蓋飯淋蔥油",
+        "zhHans": "雞肉蓋飯淋蔥油",
+        "en": "Serve chicken over rice with scallion oil",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把熱飯盛入碗，鋪上雞髀肉，淋上蒜蔥生抽油。最後灑蔥綠，飯要吸到少量油汁但不可浸濕；趁雞肉仍熱、蔥味最香時食用。",
+        "yue": "把熱飯盛入碗，鋪上雞髀肉，淋上蒜蔥生抽油。最後灑蔥綠，飯要吸到少量油汁但不可浸濕；趁雞肉仍熱、蔥味最香時食用。",
+        "zhHans": "把熱飯盛入碗，鋪上雞髀肉，淋上蒜蔥生抽油。最後灑蔥綠，飯要吸到少量油汁但不可浸濕；趁雞肉仍熱、蔥味最香時食用。",
+        "en": "Spoon the hot rice into bowls, top with the chicken thigh pieces, and drizzle over the garlic-scallion soy oil. Scatter the scallion greens on top; the rice should catch a little sauce without becoming wet. Eat while the chicken is still hot and the scallions are aromatic.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/garlic-scallion-oil-chicken-rice/cover-1.png",
+      "alt": "Generated meal cover image for garlic-scallion-oil-chicken-rice",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#garlic-scallion-oil-chicken-rice",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#garlic-scallion-oil-chicken-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

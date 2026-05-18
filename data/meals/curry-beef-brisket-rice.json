@@ -1,0 +1,257 @@
+{
+  "id": "curry-beef-brisket-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "咖喱牛腩飯",
+    "zhHans": "咖喱牛腩饭",
+    "en": "Curry beef brisket rice",
+    "ja": "カレー牛バラご飯",
+    "ko": "커리 소양지밥",
+    "th": null,
+    "vi": null,
+    "id": "Curry beef brisket rice",
+    "tl": "Curry beef brisket rice",
+    "yue": "咖喱牛腩飯"
+  },
+  "summary": {
+    "zhHant": "咖喱牛腩飯 的本地買餸版本。咖喱方向，重點是先煮軟主料，再收汁。",
+    "en": "咖喱牛腩飯 的本地買餸版本。咖喱方向，重點是先煮軟主料，再收汁。",
+    "yue": "咖喱牛腩飯 的本地買餸版本。咖喱方向，重點是先煮軟主料，再收汁。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong cafe cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong cafe cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong cafe cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 35,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "beef-brisket",
+      "amounts": {
+        "zhHant": "350 克",
+        "zhHans": "350 克",
+        "en": "350 g",
+        "ja": "350 g",
+        "ko": "350 g",
+        "th": null,
+        "vi": null,
+        "id": "350 g",
+        "tl": "350 g",
+        "yue": "350 克"
+      }
+    },
+    {
+      "ingredientId": "beef-slice",
+      "amounts": {
+        "zhHant": "250 克",
+        "zhHans": "250 克",
+        "en": "250 g",
+        "ja": "250 g",
+        "ko": "250 g",
+        "th": null,
+        "vi": null,
+        "id": "250 g",
+        "tl": "250 g",
+        "yue": "250 克"
+      }
+    },
+    {
+      "ingredientId": "curry-paste",
+      "amounts": {
+        "zhHant": "2 湯匙",
+        "zhHans": "2 汤匙",
+        "en": "2 tbsp",
+        "ja": "大さじ2",
+        "ko": "2큰술",
+        "th": null,
+        "vi": null,
+        "id": "2 sdm",
+        "tl": "2 kutsara",
+        "yue": "2 湯匙"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "beef",
+    "shellfish"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "牛腩切細牛肉分開",
+        "yue": "牛腩切細牛肉分開",
+        "zhHans": "牛腩切細牛肉分開",
+        "en": "Cut brisket small and keep sliced beef separate",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯先入飯煲煮飯。牛腩 350 克切成約 2 厘米小件，若本身未熟未腍，要預期需要更長時間。牛肉片 250 克分散放好；蒜頭 3 瓣切碎，蔥 2 條切粒。",
+        "yue": "白米 1 杯先入飯煲煮飯。牛腩 350 克切成約 2 厘米小件，若本身未熟未腍，要預期需要更長時間。牛肉片 250 克分散放好；蒜頭 3 瓣切碎，蔥 2 條切粒。",
+        "zhHans": "白米 1 杯先入飯煲煮飯。牛腩 350 克切成約 2 厘米小件，若本身未熟未腍，要預期需要更長時間。牛肉片 250 克分散放好；蒜頭 3 瓣切碎，蔥 2 條切粒。",
+        "en": "Start 1 cup white rice in the rice cooker. Cut 350 g beef brisket into small pieces about 2 cm wide; if it is raw and not already tender, expect it to need more time. Separate 250 g beef slices so they are ready to add later; mince 3 cloves garlic and finely cut 2 stalks scallions.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "炒香蒜蓉咖喱醬",
+        "yue": "炒香蒜蓉咖喱醬",
+        "zhHans": "炒香蒜蓉咖喱醬",
+        "en": "Bloom garlic and curry paste",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鍋中加油用中火燒熱，下蒜蓉炒 20 秒，再加入咖喱醬 2 湯匙炒 30 至 45 秒。咖喱醬要起香和變鬆，不要炒至黏底焦黑。",
+        "yue": "鍋中加油用中火燒熱，下蒜蓉炒 20 秒，再加入咖喱醬 2 湯匙炒 30 至 45 秒。咖喱醬要起香和變鬆，不要炒至黏底焦黑。",
+        "zhHans": "鍋中加油用中火燒熱，下蒜蓉炒 20 秒，再加入咖喱醬 2 湯匙炒 30 至 45 秒。咖喱醬要起香和變鬆，不要炒至黏底焦黑。",
+        "en": "Heat oil in a pot over medium heat, cook the minced garlic for 20 seconds, then add 2 tbsp curry paste and fry for 30-45 seconds. The curry paste should smell fragrant and loosen in the oil, not stick and burn black on the bottom.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "牛腩加水煮成咖喱汁",
+        "yue": "牛腩加水煮成咖喱汁",
+        "zhHans": "牛腩加水煮成咖喱汁",
+        "en": "Simmer brisket into curry sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入牛腩翻勻，倒入足夠水剛蓋過牛腩。煮滾後轉小火半蓋煮 25 至 30 分鐘，間中攪拌；牛腩應能用筷子插入，咖喱汁濃到可掛在飯面。",
+        "yue": "加入牛腩翻勻，倒入足夠水剛蓋過牛腩。煮滾後轉小火半蓋煮 25 至 30 分鐘，間中攪拌；牛腩應能用筷子插入，咖喱汁濃到可掛在飯面。",
+        "zhHans": "加入牛腩翻勻，倒入足夠水剛蓋過牛腩。煮滾後轉小火半蓋煮 25 至 30 分鐘，間中攪拌；牛腩應能用筷子插入，咖喱汁濃到可掛在飯面。",
+        "en": "Add the brisket and stir to coat it, then pour in enough water to just cover the beef. Bring to a boil, lower the heat, half-cover, and simmer for 25-30 minutes, stirring occasionally. The brisket should be pierceable with chopsticks, and the curry should thicken enough to sit on the rice.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "牛肉片剛熟蓋飯",
+        "yue": "牛肉片剛熟蓋飯",
+        "zhHans": "牛肉片剛熟蓋飯",
+        "en": "Cook sliced beef briefly and serve on rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "轉中火，加入牛肉片 250 克，攤開煮 30 至 60 秒至剛轉色即關火，避免變韌。熱飯盛碗，淋上牛腩、牛肉片和咖喱汁，灑蔥粒趁熱食用。",
+        "yue": "轉中火，加入牛肉片 250 克，攤開煮 30 至 60 秒至剛轉色即關火，避免變韌。熱飯盛碗，淋上牛腩、牛肉片和咖喱汁，灑蔥粒趁熱食用。",
+        "zhHans": "轉中火，加入牛肉片 250 克，攤開煮 30 至 60 秒至剛轉色即關火，避免變韌。熱飯盛碗，淋上牛腩、牛肉片和咖喱汁，灑蔥粒趁熱食用。",
+        "en": "Raise to medium heat, add 250 g beef slices, spread them out, and cook for only 30-60 seconds until just changed in color, then turn off the heat so they do not toughen. Spoon hot rice into bowls, cover with brisket, sliced beef, and curry sauce, scatter scallions, and serve hot.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/curry-beef-brisket-rice/cover-1.png",
+      "alt": "Generated meal cover image for curry-beef-brisket-rice",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#curry-beef-brisket-rice",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#curry-beef-brisket-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "id": "roast-pork-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "燒肉飯",
+    "zhHans": "烧肉饭",
+    "en": "Crispy roast pork rice",
+    "ja": "クリスピーローストポークご飯",
+    "ko": "바삭한 구운 돼지고기밥",
+    "th": null,
+    "vi": null,
+    "id": "Crispy roast pork rice",
+    "tl": "Crispy roast pork rice",
+    "yue": "燒肉飯"
+  },
+  "summary": {
+    "zhHant": "燒肉飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "燒肉飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "燒肉飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong siu mei shortcut；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong siu mei shortcut；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong siu mei shortcut；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "roast-pork",
+      "amounts": {
+        "zhHant": "220 克",
+        "zhHans": "220 克",
+        "en": "220 g",
+        "ja": "220 g",
+        "ko": "220 g",
+        "th": null,
+        "vi": null,
+        "id": "220 g",
+        "tl": "220 g",
+        "yue": "220 克"
+      }
+    },
+    {
+      "ingredientId": "pork-mince",
+      "amounts": {
+        "zhHant": "220 克",
+        "zhHans": "220 克",
+        "en": "220 g",
+        "ja": "220 g",
+        "ko": "220 g",
+        "th": null,
+        "vi": null,
+        "id": "220 g",
+        "tl": "220 g",
+        "yue": "220 克"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "pork",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "煮飯切燒肉和蔥蒜",
+        "yue": "煮飯切燒肉和蔥蒜",
+        "zhHans": "煮飯切燒肉和蔥蒜",
+        "en": "Cook rice and cut roast pork",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯先入飯煲煮飯。燒肉 220 克切成一口大小，皮面盡量保持完整；豬肉碎 220 克撥鬆。蒜頭 3 瓣切碎，蔥 2 條切粒。",
+        "yue": "白米 1 杯先入飯煲煮飯。燒肉 220 克切成一口大小，皮面盡量保持完整；豬肉碎 220 克撥鬆。蒜頭 3 瓣切碎，蔥 2 條切粒。",
+        "zhHans": "白米 1 杯先入飯煲煮飯。燒肉 220 克切成一口大小，皮面盡量保持完整；豬肉碎 220 克撥鬆。蒜頭 3 瓣切碎，蔥 2 條切粒。",
+        "en": "Start 1 cup white rice in the rice cooker. Cut 220 g roast pork into bite-size pieces, keeping the skin side as intact as possible; loosen 220 g pork mince. Mince 3 cloves garlic and finely cut 2 stalks scallions.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "乾鑊回脆燒肉皮",
+        "yue": "乾鑊回脆燒肉皮",
+        "zhHans": "乾鑊回脆燒肉皮",
+        "en": "Re-crisp the roast pork skin",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鑊用中小火預熱，燒肉皮向下排入，不加水，煎 2 至 3 分鐘至皮面回脆和冒出少量油。翻面只加熱 30 至 60 秒，取出保暖。",
+        "yue": "平底鑊用中小火預熱，燒肉皮向下排入，不加水，煎 2 至 3 分鐘至皮面回脆和冒出少量油。翻面只加熱 30 至 60 秒，取出保暖。",
+        "zhHans": "平底鑊用中小火預熱，燒肉皮向下排入，不加水，煎 2 至 3 分鐘至皮面回脆和冒出少量油。翻面只加熱 30 至 60 秒，取出保暖。",
+        "en": "Preheat a skillet over medium-low heat, set the roast pork skin side down, and do not add water. Heat for 2-3 minutes until the skin crisps again and releases a little fat. Turn the pieces for only 30-60 seconds to warm the meat side, then remove and keep warm.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "蒜蓉生抽肉碎汁",
+        "yue": "蒜蓉生抽肉碎汁",
+        "zhHans": "蒜蓉生抽肉碎汁",
+        "en": "Make garlic soy pork mince sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "同鑊下蒜蓉和豬肉碎，用中火炒 3 至 4 分鐘至肉碎全熟、粒粒分開。加入生抽 1 湯匙和少量水，煮 1 分鐘成薄汁，汁量只需足夠拌飯。",
+        "yue": "同鑊下蒜蓉和豬肉碎，用中火炒 3 至 4 分鐘至肉碎全熟、粒粒分開。加入生抽 1 湯匙和少量水，煮 1 分鐘成薄汁，汁量只需足夠拌飯。",
+        "zhHans": "同鑊下蒜蓉和豬肉碎，用中火炒 3 至 4 分鐘至肉碎全熟、粒粒分開。加入生抽 1 湯匙和少量水，煮 1 分鐘成薄汁，汁量只需足夠拌飯。",
+        "en": "In the same pan, add the minced garlic and pork mince. Cook over medium heat for 3-4 minutes until the mince is fully cooked and separated into small bits. Add 1 tbsp light soy sauce and a small splash of water, then simmer for 1 minute into a light sauce, just enough to mix with rice.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "燒肉肉碎雙拼飯",
+        "yue": "燒肉肉碎雙拼飯",
+        "zhHans": "燒肉肉碎雙拼飯",
+        "en": "Serve roast pork and mince over rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "熱飯盛碗，先淋上蒜蓉肉碎汁，再放回脆燒肉，皮面向上避免被汁浸軟。灑蔥粒，趁燒肉皮仍脆、飯吸到少量生抽肉汁時食用。",
+        "yue": "熱飯盛碗，先淋上蒜蓉肉碎汁，再放回脆燒肉，皮面向上避免被汁浸軟。灑蔥粒，趁燒肉皮仍脆、飯吸到少量生抽肉汁時食用。",
+        "zhHans": "熱飯盛碗，先淋上蒜蓉肉碎汁，再放回脆燒肉，皮面向上避免被汁浸軟。灑蔥粒，趁燒肉皮仍脆、飯吸到少量生抽肉汁時食用。",
+        "en": "Spoon hot rice into bowls, add the garlic pork mince sauce first, then place the re-crisped roast pork on top with the skin facing up so it does not soften in the sauce. Scatter scallions and eat while the skin is still crisp and the rice has absorbed a little soy pork juice.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/roast-pork-rice/cover-1.png",
+      "alt": "Generated meal cover image for roast-pork-rice",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#roast-pork-rice",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#roast-pork-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

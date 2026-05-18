@@ -1,0 +1,53 @@
+{
+  "id": "potato",
+  "status": "approved",
+  "names": {
+    "zhHant": "薯仔",
+    "zhHans": "薯仔",
+    "en": "Potatoes",
+    "ja": "じゃがいも",
+    "ko": "감자",
+    "th": null,
+    "vi": null,
+    "id": "Potatoes",
+    "tl": "Potatoes",
+    "yue": "薯仔"
+  },
+  "section": "produce",
+  "aliases": [
+    "potato"
+  ],
+  "storeNotes": {
+    "zhHant": "本地亞洲超市蔬果區；先看新鮮度和份量。",
+    "en": "本地亞洲超市蔬果區；先看新鮮度和份量。",
+    "yue": "本地亞洲超市蔬果區；先看新鮮度和份量。"
+  },
+  "substitutions": {
+    "zhHant": "Potatoes unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Potatoes unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Potatoes unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [],
+  "images": [
+    {
+      "path": "assets/ingredients/potato.png",
+      "alt": "Generated ingredient image for potato",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#potato",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/potato",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

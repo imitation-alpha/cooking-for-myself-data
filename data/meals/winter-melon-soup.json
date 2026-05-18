@@ -1,0 +1,239 @@
+{
+  "id": "winter-melon-soup",
+  "status": "approved",
+  "names": {
+    "zhHant": "冬瓜湯",
+    "zhHans": "冬瓜汤",
+    "en": "Winter melon soup",
+    "ja": "冬瓜スープ",
+    "ko": "동과탕",
+    "th": null,
+    "vi": null,
+    "id": "Winter melon soup",
+    "tl": "Winter melon soup",
+    "yue": "冬瓜湯"
+  },
+  "summary": {
+    "zhHant": "冬瓜湯 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。",
+    "en": "冬瓜湯 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。",
+    "yue": "冬瓜湯 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。"
+  },
+  "reason": {
+    "zhHant": "Cantonese soup；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Cantonese soup；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Cantonese soup；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 40,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "winter-melon",
+      "amounts": {
+        "zhHant": "500 克",
+        "zhHans": "500 克",
+        "en": "500 g",
+        "ja": "500 g",
+        "ko": "500 g",
+        "th": null,
+        "vi": null,
+        "id": "500 g",
+        "tl": "500 g",
+        "yue": "500 克"
+      }
+    },
+    {
+      "ingredientId": "chicken-broth",
+      "amounts": {
+        "zhHant": "600 毫升",
+        "zhHans": "600 毫升",
+        "en": "600 ml",
+        "ja": "600 ml",
+        "ko": "600 ml",
+        "th": null,
+        "vi": null,
+        "id": "600 ml",
+        "tl": "600 ml",
+        "yue": "600 毫升"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "4 片",
+        "zhHans": "4 片",
+        "en": "4 slices",
+        "ja": "4枚",
+        "ko": "4장",
+        "th": null,
+        "vi": null,
+        "id": "4 iris",
+        "tl": "4 hiwa",
+        "yue": "4 片"
+      }
+    }
+  ],
+  "restrictionTags": [],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "冬瓜去皮切大件",
+        "yue": "冬瓜去皮切大件",
+        "zhHans": "冬瓜去皮切大件",
+        "en": "Peel and chunk the winter melon",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "冬瓜 500 克去皮去籽，切成約 3 厘米大件；蒜頭 3 瓣拍扁，薑 4 片保留原片，蔥 2 條切成蔥白段和蔥綠粒。",
+        "yue": "冬瓜 500 克去皮去籽，切成約 3 厘米大件；蒜頭 3 瓣拍扁，薑 4 片保留原片，蔥 2 條切成蔥白段和蔥綠粒。",
+        "zhHans": "冬瓜 500 克去皮去籽，切成約 3 厘米大件；蒜頭 3 瓣拍扁，薑 4 片保留原片，蔥 2 條切成蔥白段和蔥綠粒。",
+        "en": "Peel and seed 500 g Winter melon, then cut it into about 3 cm chunks. Smash 3 cloves Garlic, keep 4 slices Ginger whole, and cut 2 stalks Scallions into white sections and green rounds.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "薑蒜起清湯",
+        "yue": "薑蒜起清湯",
+        "zhHans": "薑蒜起清湯",
+        "en": "Start the broth with ginger garlic",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "湯鍋用中火落少許油，炒蒜頭和薑片約 30 秒；倒入雞湯 600 毫升，加水至足夠浸過冬瓜後煮滾。",
+        "yue": "湯鍋用中火落少許油，炒蒜頭和薑片約 30 秒；倒入雞湯 600 毫升，加水至足夠浸過冬瓜後煮滾。",
+        "zhHans": "湯鍋用中火落少許油，炒蒜頭和薑片約 30 秒；倒入雞湯 600 毫升，加水至足夠浸過冬瓜後煮滾。",
+        "en": "Heat a soup pot over medium heat with a little oil and cook the Garlic and Ginger for about 30 seconds. Add 600 ml Chicken broth, then enough water to cover the Winter melon later, and bring to a boil.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煮至冬瓜半透明",
+        "yue": "煮至冬瓜半透明",
+        "zhHans": "煮至冬瓜半透明",
+        "en": "Cook until the melon turns translucent",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入冬瓜 500 克和蔥白，轉中細火煮 18 至 22 分鐘；冬瓜邊位變半透明、中心可被筷子輕易插入就是熟。",
+        "yue": "加入冬瓜 500 克和蔥白，轉中細火煮 18 至 22 分鐘；冬瓜邊位變半透明、中心可被筷子輕易插入就是熟。",
+        "zhHans": "加入冬瓜 500 克和蔥白，轉中細火煮 18 至 22 分鐘；冬瓜邊位變半透明、中心可被筷子輕易插入就是熟。",
+        "en": "Add 500 g Winter melon and the scallion whites, then simmer over medium-low heat for 18-22 minutes. The melon is done when the edges turn translucent and a chopstick slides into the center easily.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "蔥綠落碗前才放",
+        "yue": "蔥綠落碗前才放",
+        "zhHans": "蔥綠落碗前才放",
+        "en": "Add scallion greens before serving",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "關火後撒入蔥綠，靜置 30 秒；盛湯時每碗放幾件冬瓜和清湯，冬瓜要軟而不散，湯面有淡淡薑蔥香。",
+        "yue": "關火後撒入蔥綠，靜置 30 秒；盛湯時每碗放幾件冬瓜和清湯，冬瓜要軟而不散，湯面有淡淡薑蔥香。",
+        "zhHans": "關火後撒入蔥綠，靜置 30 秒；盛湯時每碗放幾件冬瓜和清湯，冬瓜要軟而不散，湯面有淡淡薑蔥香。",
+        "en": "Turn off the heat, scatter in the scallion greens, and rest for 30 seconds. Serve each bowl with several Winter melon pieces and clear broth; the melon should be soft but not falling apart.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/winter-melon-soup/cover-1.png",
+      "alt": "Generated meal cover image for winter-melon-soup",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#winter-melon-soup",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#winter-melon-soup",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

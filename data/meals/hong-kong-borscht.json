@@ -1,0 +1,224 @@
+{
+  "id": "hong-kong-borscht",
+  "status": "approved",
+  "names": {
+    "zhHant": "羅宋湯",
+    "zhHans": "罗宋汤",
+    "en": "Hong Kong style borscht",
+    "ja": "香港式ボルシチ",
+    "ko": "홍콩식 보르시",
+    "th": null,
+    "vi": null,
+    "id": "Hong Kong style borscht",
+    "tl": "Hong Kong style borscht",
+    "yue": "羅宋湯"
+  },
+  "summary": {
+    "zhHant": "羅宋湯 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。",
+    "en": "羅宋湯 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。",
+    "yue": "羅宋湯 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong cafe cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong cafe cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong cafe cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 55,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "4 片",
+        "zhHans": "4 片",
+        "en": "4 slices",
+        "ja": "4枚",
+        "ko": "4장",
+        "th": null,
+        "vi": null,
+        "id": "4 iris",
+        "tl": "4 hiwa",
+        "yue": "4 片"
+      }
+    },
+    {
+      "ingredientId": "chicken-broth",
+      "amounts": {
+        "zhHant": "600 毫升",
+        "zhHans": "600 毫升",
+        "en": "600 ml",
+        "ja": "600 ml",
+        "ko": "600 ml",
+        "th": null,
+        "vi": null,
+        "id": "600 ml",
+        "tl": "600 ml",
+        "yue": "600 毫升"
+      }
+    }
+  ],
+  "restrictionTags": [],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "拍蒜切薑蔥",
+        "yue": "拍蒜切薑蔥",
+        "zhHans": "拍蒜切薑蔥",
+        "en": "Smash garlic and cut ginger scallions",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蒜頭 3 瓣拍扁；薑 4 片保持原片；蔥 2 條把蔥白切段、蔥綠切幼粒。雞湯 600 毫升倒入湯鍋旁邊備用。",
+        "yue": "蒜頭 3 瓣拍扁；薑 4 片保持原片；蔥 2 條把蔥白切段、蔥綠切幼粒。雞湯 600 毫升倒入湯鍋旁邊備用。",
+        "zhHans": "蒜頭 3 瓣拍扁；薑 4 片保持原片；蔥 2 條把蔥白切段、蔥綠切幼粒。雞湯 600 毫升倒入湯鍋旁邊備用。",
+        "en": "Smash 3 cloves Garlic; keep 4 slices Ginger whole; cut 2 stalks Scallions into white sections and fine green rounds. Keep 600 ml Chicken broth beside the soup pot.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "爆香清湯底",
+        "yue": "爆香清湯底",
+        "zhHans": "爆香清湯底",
+        "en": "Bloom the clear broth base",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "湯鍋用中火燒熱，落少許油，先炒蒜頭、薑片和蔥白 45 至 60 秒，聞到香味但蒜頭未焦就倒入雞湯 600 毫升。",
+        "yue": "湯鍋用中火燒熱，落少許油，先炒蒜頭、薑片和蔥白 45 至 60 秒，聞到香味但蒜頭未焦就倒入雞湯 600 毫升。",
+        "zhHans": "湯鍋用中火燒熱，落少許油，先炒蒜頭、薑片和蔥白 45 至 60 秒，聞到香味但蒜頭未焦就倒入雞湯 600 毫升。",
+        "en": "Heat a soup pot over medium heat, add a little oil, and cook the Garlic, Ginger, and scallion whites for 45-60 seconds. When fragrant but not browned, pour in 600 ml Chicken broth.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "細滾出薑蔥味",
+        "yue": "細滾出薑蔥味",
+        "zhHans": "細滾出薑蔥味",
+        "en": "Simmer for ginger scallion aroma",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把湯煮滾後轉細火，保持輕微冒泡 12 至 15 分鐘；見湯面有蒜薑香氣，蒜頭變軟但湯仍清，就可以試味。",
+        "yue": "把湯煮滾後轉細火，保持輕微冒泡 12 至 15 分鐘；見湯面有蒜薑香氣，蒜頭變軟但湯仍清，就可以試味。",
+        "zhHans": "把湯煮滾後轉細火，保持輕微冒泡 12 至 15 分鐘；見湯面有蒜薑香氣，蒜頭變軟但湯仍清，就可以試味。",
+        "en": "Bring the broth to a boil, then lower the heat to a gentle simmer for 12-15 minutes. It is ready to taste when the Garlic softens, the Ginger and Scallions smell clear, and the broth stays light.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "蔥綠點起清湯",
+        "yue": "蔥綠點起清湯",
+        "zhHans": "蔥綠點起清湯",
+        "en": "Lift the broth with scallion greens",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "熄火前撒入蔥綠，等 20 秒讓香味散開；把蒜頭、薑片和熱湯一同盛入碗，趁熱飲，口感應是清、暖、帶薑蔥香。",
+        "yue": "熄火前撒入蔥綠，等 20 秒讓香味散開；把蒜頭、薑片和熱湯一同盛入碗，趁熱飲，口感應是清、暖、帶薑蔥香。",
+        "zhHans": "熄火前撒入蔥綠，等 20 秒讓香味散開；把蒜頭、薑片和熱湯一同盛入碗，趁熱飲，口感應是清、暖、帶薑蔥香。",
+        "en": "Scatter in the scallion greens for the final 20 seconds. Ladle the hot broth with the Garlic and Ginger into bowls and serve hot; it should taste clear, warm, and scallion-ginger scented.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/hong-kong-borscht/cover-1.png",
+      "alt": "Generated meal cover image for hong-kong-borscht",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#hong-kong-borscht",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#hong-kong-borscht",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

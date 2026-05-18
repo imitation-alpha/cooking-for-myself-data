@@ -1,0 +1,224 @@
+{
+  "id": "taiwanese-popcorn-chicken-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "鹽酥雞飯",
+    "zhHans": "盐酥鸡饭",
+    "en": "Taiwanese popcorn chicken rice",
+    "ja": "台湾塩酥鶏ご飯",
+    "ko": "대만식 팝콘치킨밥",
+    "th": null,
+    "vi": null,
+    "id": "Taiwanese popcorn chicken rice",
+    "tl": "Taiwanese popcorn chicken rice",
+    "yue": "鹽酥雞飯"
+  },
+  "summary": {
+    "zhHant": "鹽酥雞飯 的本地買餸版本。煎香方向，重點是中火定型和最後調味。",
+    "en": "鹽酥雞飯 的本地買餸版本。煎香方向，重點是中火定型和最後調味。",
+    "yue": "鹽酥雞飯 的本地買餸版本。煎香方向，重點是中火定型和最後調味。"
+  },
+  "reason": {
+    "zhHant": "Taiwanese night market cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Taiwanese night market cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Taiwanese night market cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 32,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "2 件",
+        "zhHans": "2 件",
+        "en": "2 thighs",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 potong",
+        "tl": "2 piraso",
+        "yue": "2 件"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    }
+  ],
+  "restrictionTags": [],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "雞髀切成鹽酥雞大小",
+        "yue": "雞髀切成鹽酥雞大小",
+        "zhHans": "雞髀切成鹽酥雞大小",
+        "en": "Cut the chicken into bite-size pieces",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯先煮飯；雞髀肉 2 件抹乾，切成約一口大小的小塊，蒜頭 3 瓣切碎，蔥 2 條切成蔥花，雞肉表面保持乾身才容易煎出焦邊。",
+        "yue": "白米 1 杯先煮飯；雞髀肉 2 件抹乾，切成約一口大小的小塊，蒜頭 3 瓣切碎，蔥 2 條切成蔥花，雞肉表面保持乾身才容易煎出焦邊。",
+        "zhHans": "白米 1 杯先煮飯；雞髀肉 2 件抹乾，切成約一口大小的小塊，蒜頭 3 瓣切碎，蔥 2 條切成蔥花，雞肉表面保持乾身才容易煎出焦邊。",
+        "en": "Cook 1 cup White rice first. Pat 2 thighs Chicken thigh dry and cut into bite-size pieces, mince 3 cloves Garlic, and slice 2 stalks Scallions; keeping the chicken surface dry helps it brown in the pan.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "小塊雞先煎定形",
+        "yue": "小塊雞先煎定形",
+        "zhHans": "小塊雞先煎定形",
+        "en": "Set a browned crust on the chicken",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鑊或厚底鍋中大火燒熱，落比平日炒菜多一點的油；雞髀肉 2 件分散下鍋，先不要急翻，煎 3 至 4 分鐘至底部金黃才翻動。",
+        "yue": "鑊或厚底鍋中大火燒熱，落比平日炒菜多一點的油；雞髀肉 2 件分散下鍋，先不要急翻，煎 3 至 4 分鐘至底部金黃才翻動。",
+        "zhHans": "鑊或厚底鍋中大火燒熱，落比平日炒菜多一點的油；雞髀肉 2 件分散下鍋，先不要急翻，煎 3 至 4 分鐘至底部金黃才翻動。",
+        "en": "Heat a wok or heavy pan over medium-high heat and add a little more oil than for a stir-fry. Spread the 2 thighs Chicken thigh pieces in one layer, leave them still for 3-4 minutes, then turn once the bottoms are golden.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "蒜蔥油香包住雞粒",
+        "yue": "蒜蔥油香包住雞粒",
+        "zhHans": "蒜蔥油香包住雞粒",
+        "en": "Coat the pieces with garlic-scallion oil",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "雞粒翻面後再煎 3 至 4 分鐘，確認中心不再粉紅；加入蒜頭 3 瓣和一半蔥花，轉中火兜炒 45 至 60 秒，蒜香出來但不要燒黑。",
+        "yue": "雞粒翻面後再煎 3 至 4 分鐘，確認中心不再粉紅；加入蒜頭 3 瓣和一半蔥花，轉中火兜炒 45 至 60 秒，蒜香出來但不要燒黑。",
+        "zhHans": "雞粒翻面後再煎 3 至 4 分鐘，確認中心不再粉紅；加入蒜頭 3 瓣和一半蔥花，轉中火兜炒 45 至 60 秒，蒜香出來但不要燒黑。",
+        "en": "After turning, cook the chicken for another 3-4 minutes, until the centers are no longer pink. Add 3 cloves Garlic and half the Scallions, lower to medium, and toss for 45-60 seconds until fragrant but not burnt.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "鋪飯上保持熱脆邊",
+        "yue": "鋪飯上保持熱脆邊",
+        "zhHans": "鋪飯上保持熱脆邊",
+        "en": "Serve over rice while the edges are hot",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白飯盛入碟中，把雞粒連同蒜蔥油鋪上，撒餘下蔥花；最好立即食用，因為沒有粉漿外殼，脆感主要來自剛煎好的金黃邊位。",
+        "yue": "白飯盛入碟中，把雞粒連同蒜蔥油鋪上，撒餘下蔥花；最好立即食用，因為沒有粉漿外殼，脆感主要來自剛煎好的金黃邊位。",
+        "zhHans": "白飯盛入碟中，把雞粒連同蒜蔥油鋪上，撒餘下蔥花；最好立即食用，因為沒有粉漿外殼，脆感主要來自剛煎好的金黃邊位。",
+        "en": "Spoon the White rice onto plates, top with the chicken pieces and garlic-scallion oil, and scatter the remaining Scallions. Serve right away because, without a starch coating, the crispness comes mainly from the freshly browned edges.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/taiwanese-popcorn-chicken-rice/cover-1.png",
+      "alt": "Generated meal cover image for taiwanese-popcorn-chicken-rice",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#taiwanese-popcorn-chicken-rice",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#taiwanese-popcorn-chicken-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

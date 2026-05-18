@@ -1,0 +1,271 @@
+{
+  "id": "miso-soup-rice-set",
+  "status": "approved",
+  "names": {
+    "zhHant": "味噌湯飯餐",
+    "zhHans": "味噌汤饭餐",
+    "en": "Miso soup rice set",
+    "ja": "味噌汁ご飯セット",
+    "ko": "미소국 밥상",
+    "th": null,
+    "vi": null,
+    "id": "Miso soup rice set",
+    "tl": "Miso soup rice set",
+    "yue": "味噌湯飯餐"
+  },
+  "summary": {
+    "zhHant": "味噌湯飯餐 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。",
+    "en": "味噌湯飯餐 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。",
+    "yue": "味噌湯飯餐 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。"
+  },
+  "reason": {
+    "zhHant": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 40,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "miso",
+      "amounts": {
+        "zhHant": "2 湯匙",
+        "zhHans": "2 汤匙",
+        "en": "2 tbsp",
+        "ja": "大さじ2",
+        "ko": "2큰술",
+        "th": null,
+        "vi": null,
+        "id": "2 sdm",
+        "tl": "2 kutsara",
+        "yue": "2 湯匙"
+      }
+    },
+    {
+      "ingredientId": "tofu",
+      "amounts": {
+        "zhHant": "1 盒",
+        "zhHans": "1 盒",
+        "en": "1 block",
+        "ja": "1丁",
+        "ko": "1모",
+        "th": null,
+        "vi": null,
+        "id": "1 blok",
+        "tl": "1 bloke",
+        "yue": "1 盒"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "4 片",
+        "zhHans": "4 片",
+        "en": "4 slices",
+        "ja": "4枚",
+        "ko": "4장",
+        "th": null,
+        "vi": null,
+        "id": "4 iris",
+        "tl": "4 hiwa",
+        "yue": "4 片"
+      }
+    },
+    {
+      "ingredientId": "chicken-broth",
+      "amounts": {
+        "zhHant": "600 毫升",
+        "zhHans": "600 毫升",
+        "en": "600 ml",
+        "ja": "600 ml",
+        "ko": "600 ml",
+        "th": null,
+        "vi": null,
+        "id": "600 ml",
+        "tl": "600 ml",
+        "yue": "600 毫升"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "煮飯切豆腐蔥薑蒜",
+        "yue": "煮飯切豆腐蔥薑蒜",
+        "zhHans": "煮飯切豆腐蔥薑蒜",
+        "en": "Cook rice and cut tofu aromatics",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯洗至水較清，放入飯煲煮飯。豆腐 1 盒瀝乾，切成約 1.5 厘米方粒；蒜頭 3 瓣拍鬆，薑 4 片拍鬆，蔥 2 條切幼粒，蔥白和蔥綠分開。",
+        "yue": "白米 1 杯洗至水較清，放入飯煲煮飯。豆腐 1 盒瀝乾，切成約 1.5 厘米方粒；蒜頭 3 瓣拍鬆，薑 4 片拍鬆，蔥 2 條切幼粒，蔥白和蔥綠分開。",
+        "zhHans": "白米 1 杯洗至水較清，放入飯煲煮飯。豆腐 1 盒瀝乾，切成約 1.5 厘米方粒；蒜頭 3 瓣拍鬆，薑 4 片拍鬆，蔥 2 條切幼粒，蔥白和蔥綠分開。",
+        "en": "Rinse 1 cup rice until the water is clearer, then cook it in the rice cooker. Drain 1 block tofu and cut it into about 1.5 cm cubes; bruise 3 cloves garlic and 4 slices ginger, then finely cut 2 stalks scallions with whites and greens kept separate.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "雞湯煮出薑蒜香",
+        "yue": "雞湯煮出薑蒜香",
+        "zhHans": "雞湯煮出薑蒜香",
+        "en": "Infuse broth with ginger garlic",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鍋中加入雞湯 600 毫升、薑片、蒜頭和蔥白，用中火煮至微滾。轉小火保持細泡 5 分鐘，讓湯有薑蒜香但不要大滾到湯變濁。",
+        "yue": "鍋中加入雞湯 600 毫升、薑片、蒜頭和蔥白，用中火煮至微滾。轉小火保持細泡 5 分鐘，讓湯有薑蒜香但不要大滾到湯變濁。",
+        "zhHans": "鍋中加入雞湯 600 毫升、薑片、蒜頭和蔥白，用中火煮至微滾。轉小火保持細泡 5 分鐘，讓湯有薑蒜香但不要大滾到湯變濁。",
+        "en": "Add 600 ml chicken broth, the ginger slices, garlic cloves, and scallion whites to a pot and bring to a gentle simmer over medium heat. Lower the heat and keep small bubbles for 5 minutes so the broth takes on ginger and garlic aroma without boiling hard and turning cloudy.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "豆腐入湯味噌離火化開",
+        "yue": "豆腐入湯味噌離火化開",
+        "zhHans": "豆腐入湯味噌離火化開",
+        "en": "Warm tofu and dissolve miso off heat",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入豆腐粒，小火煮 2 至 3 分鐘至豆腐熱透。關火後，把味噌 2 湯匙放入湯勺，舀少量熱湯慢慢化開，再倒回鍋中拌勻；味噌不要大滾，香味會較柔和。",
+        "yue": "加入豆腐粒，小火煮 2 至 3 分鐘至豆腐熱透。關火後，把味噌 2 湯匙放入湯勺，舀少量熱湯慢慢化開，再倒回鍋中拌勻；味噌不要大滾，香味會較柔和。",
+        "zhHans": "加入豆腐粒，小火煮 2 至 3 分鐘至豆腐熱透。關火後，把味噌 2 湯匙放入湯勺，舀少量熱湯慢慢化開，再倒回鍋中拌勻；味噌不要大滾，香味會較柔和。",
+        "en": "Add the tofu cubes and simmer gently for 2-3 minutes until heated through. Turn off the heat, put 2 tbsp miso in a ladle, loosen it with a little hot broth, then stir it back into the pot; do not boil the miso so the aroma stays mellow.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "味噌湯配白飯上桌",
+        "yue": "味噌湯配白飯上桌",
+        "zhHans": "味噌湯配白飯上桌",
+        "en": "Serve miso soup beside rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "熱飯盛碗，味噌豆腐湯分入湯碗，灑上蔥綠。湯面應有淡淡味噌雲霧感，豆腐保持完整嫩滑；白飯和湯分開上桌，食時一口飯一口湯。",
+        "yue": "熱飯盛碗，味噌豆腐湯分入湯碗，灑上蔥綠。湯面應有淡淡味噌雲霧感，豆腐保持完整嫩滑；白飯和湯分開上桌，食時一口飯一口湯。",
+        "zhHans": "熱飯盛碗，味噌豆腐湯分入湯碗，灑上蔥綠。湯面應有淡淡味噌雲霧感，豆腐保持完整嫩滑；白飯和湯分開上桌，食時一口飯一口湯。",
+        "en": "Spoon the hot rice into bowls and divide the tofu miso soup into soup bowls, then scatter the scallion greens on top. The soup should look lightly clouded from the miso, with tofu pieces still whole and tender; serve the rice and soup separately so each bite can alternate with a sip.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/miso-soup-rice-set/cover-1.png",
+      "alt": "Generated meal cover image for miso-soup-rice-set",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#miso-soup-rice-set",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#miso-soup-rice-set",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

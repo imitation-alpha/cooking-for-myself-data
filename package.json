@@ -1,0 +1,11 @@
+{
+  "name": "cooking-for-myself-data",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "validate": "node tools/validate.mjs",
+    "export:app-seed": "node tools/export-app-seed.mjs",
+    "test": "npm run validate && npm run export:app-seed"
+  }
+}

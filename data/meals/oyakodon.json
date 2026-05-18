@@ -1,0 +1,242 @@
+{
+  "id": "oyakodon",
+  "status": "approved",
+  "names": {
+    "zhHant": "親子丼",
+    "zhHans": "亲子丼",
+    "en": "Oyakodon",
+    "ja": "親子丼",
+    "ko": "오야코동",
+    "th": null,
+    "vi": null,
+    "id": "Oyakodon",
+    "tl": "Oyakodon",
+    "yue": "親子丼"
+  },
+  "summary": {
+    "zhHant": "親子丼 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "親子丼 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "親子丼 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "2 件",
+        "zhHans": "2 件",
+        "en": "2 thighs",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 potong",
+        "tl": "2 piraso",
+        "yue": "2 件"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "雞髀切片白米煮飯",
+        "yue": "雞髀切片白米煮飯",
+        "zhHans": "雞髀切片白米煮飯",
+        "en": "Slice chicken and cook rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯先入飯煲煮飯。雞髀肉 2 件抹乾，切成薄片或小件，厚度約 1 厘米，方便短時間煮熟；蒜頭 3 瓣切片，蔥 2 條切斜段。",
+        "yue": "白米 1 杯先入飯煲煮飯。雞髀肉 2 件抹乾，切成薄片或小件，厚度約 1 厘米，方便短時間煮熟；蒜頭 3 瓣切片，蔥 2 條切斜段。",
+        "zhHans": "白米 1 杯先入飯煲煮飯。雞髀肉 2 件抹乾，切成薄片或小件，厚度約 1 厘米，方便短時間煮熟；蒜頭 3 瓣切片，蔥 2 條切斜段。",
+        "en": "Start 1 cup white rice in the rice cooker. Pat 2 chicken thighs dry and cut them into thin slices or small pieces about 1 cm thick so they cook quickly; slice 3 cloves garlic and cut 2 stalks scallions on the diagonal.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "生抽水煮成丼汁",
+        "yue": "生抽水煮成丼汁",
+        "zhHans": "生抽水煮成丼汁",
+        "en": "Make a light soy simmering liquid",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "小鍋加入生抽 1 湯匙和約半杯水，用中火煮滾。加入蒜片煮 1 分鐘，讓湯汁有蒜香；因沒有蛋和高湯，汁要保持清淡，不要收得太鹹。",
+        "yue": "小鍋加入生抽 1 湯匙和約半杯水，用中火煮滾。加入蒜片煮 1 分鐘，讓湯汁有蒜香；因沒有蛋和高湯，汁要保持清淡，不要收得太鹹。",
+        "zhHans": "小鍋加入生抽 1 湯匙和約半杯水，用中火煮滾。加入蒜片煮 1 分鐘，讓湯汁有蒜香；因沒有蛋和高湯，汁要保持清淡，不要收得太鹹。",
+        "en": "Add 1 tbsp light soy sauce and about half a cup water to a small pan and bring it to a boil over medium heat. Add the garlic slices and simmer for 1 minute to scent the liquid. Because there is no egg or broth, keep the sauce light and do not reduce it until too salty.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "雞片半浸煮熟",
+        "yue": "雞片半浸煮熟",
+        "zhHans": "雞片半浸煮熟",
+        "en": "Simmer chicken slices until cooked",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把雞片鋪入生抽水中，保持微滾 5 至 7 分鐘，中途翻一次。雞肉中心要全熟無粉紅，汁液剩下數湯匙，可淋在飯上但不應像湯一樣多。",
+        "yue": "把雞片鋪入生抽水中，保持微滾 5 至 7 分鐘，中途翻一次。雞肉中心要全熟無粉紅，汁液剩下數湯匙，可淋在飯上但不應像湯一樣多。",
+        "zhHans": "把雞片鋪入生抽水中，保持微滾 5 至 7 分鐘，中途翻一次。雞肉中心要全熟無粉紅，汁液剩下數湯匙，可淋在飯上但不應像湯一樣多。",
+        "en": "Lay the chicken slices into the soy liquid and keep it at a gentle simmer for 5-7 minutes, turning once. The chicken centers should have no pink, and only a few spoonfuls of liquid should remain, enough to moisten rice but not enough to become soup.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "蔥段雞汁蓋飯",
+        "yue": "蔥段雞汁蓋飯",
+        "zhHans": "蔥段雞汁蓋飯",
+        "en": "Top rice with scallions and chicken sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入蔥段煮 30 秒至剛軟。熱飯盛碗，鋪上雞片和蒜片，淋上剩餘生抽雞汁；這是一碗親子丼風味的簡化雞飯，不會有蛋液凝固的口感。",
+        "yue": "加入蔥段煮 30 秒至剛軟。熱飯盛碗，鋪上雞片和蒜片，淋上剩餘生抽雞汁；這是一碗親子丼風味的簡化雞飯，不會有蛋液凝固的口感。",
+        "zhHans": "加入蔥段煮 30 秒至剛軟。熱飯盛碗，鋪上雞片和蒜片，淋上剩餘生抽雞汁；這是一碗親子丼風味的簡化雞飯，不會有蛋液凝固的口感。",
+        "en": "Add the scallion pieces and cook for 30 seconds until just softened. Spoon hot rice into a bowl, top with chicken and garlic slices, and drizzle over the remaining soy chicken juices. This is a simplified oyakodon-style chicken rice bowl and will not have the softly set egg texture.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/oyakodon/cover-1.png",
+      "alt": "Generated meal cover image for oyakodon",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#oyakodon",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#oyakodon",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

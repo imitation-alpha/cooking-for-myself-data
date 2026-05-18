@@ -1,0 +1,55 @@
+{
+  "id": "soft-tofu",
+  "status": "approved",
+  "names": {
+    "zhHant": "滑豆腐",
+    "zhHans": "滑豆腐",
+    "en": "Soft tofu",
+    "ja": "絹ごし豆腐",
+    "ko": "순두부",
+    "th": null,
+    "vi": null,
+    "id": "Soft tofu",
+    "tl": "Soft tofu",
+    "yue": "滑豆腐"
+  },
+  "section": "produce",
+  "aliases": [
+    "silken tofu"
+  ],
+  "storeNotes": {
+    "zhHant": "本地亞洲超市蔬果區；先看新鮮度和份量。",
+    "en": "本地亞洲超市蔬果區；先看新鮮度和份量。",
+    "yue": "本地亞洲超市蔬果區；先看新鮮度和份量。"
+  },
+  "substitutions": {
+    "zhHant": "Soft tofu unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Soft tofu unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Soft tofu unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [
+    "soy"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/soft-tofu.png",
+      "alt": "Generated ingredient image for soft-tofu",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#soft-tofu",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/soft-tofu",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

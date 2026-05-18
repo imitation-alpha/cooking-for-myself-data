@@ -1,0 +1,53 @@
+{
+  "id": "bean-sprouts",
+  "status": "approved",
+  "names": {
+    "zhHant": "芽菜",
+    "zhHans": "芽菜",
+    "en": "Bean sprouts",
+    "ja": "もやし",
+    "ko": "숙주",
+    "th": null,
+    "vi": null,
+    "id": "Bean sprouts",
+    "tl": "Bean sprouts",
+    "yue": "芽菜"
+  },
+  "section": "produce",
+  "aliases": [
+    "mung bean sprouts"
+  ],
+  "storeNotes": {
+    "zhHant": "本地亞洲超市蔬果區；先看新鮮度和份量。",
+    "en": "本地亞洲超市蔬果區；先看新鮮度和份量。",
+    "yue": "本地亞洲超市蔬果區；先看新鮮度和份量。"
+  },
+  "substitutions": {
+    "zhHant": "Bean sprouts unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Bean sprouts unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Bean sprouts unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [],
+  "images": [
+    {
+      "path": "assets/ingredients/bean-sprouts.png",
+      "alt": "Generated ingredient image for bean-sprouts",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#bean-sprouts",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/bean-sprouts",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

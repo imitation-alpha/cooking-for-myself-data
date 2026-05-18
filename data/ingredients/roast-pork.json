@@ -1,0 +1,55 @@
+{
+  "id": "roast-pork",
+  "status": "approved",
+  "names": {
+    "zhHant": "燒肉",
+    "zhHans": "烧肉",
+    "en": "Crispy roast pork",
+    "ja": "クリスピーローストポーク",
+    "ko": "바삭한 구운 돼지고기",
+    "th": null,
+    "vi": null,
+    "id": "Crispy roast pork",
+    "tl": "Crispy roast pork",
+    "yue": "燒肉"
+  },
+  "section": "meat",
+  "aliases": [
+    "siu yuk"
+  ],
+  "storeNotes": {
+    "zhHant": "肉類區或冷凍櫃；買回家後盡快冷藏。",
+    "en": "肉類區或冷凍櫃；買回家後盡快冷藏。",
+    "yue": "肉類區或冷凍櫃；買回家後盡快冷藏。"
+  },
+  "substitutions": {
+    "zhHant": "Crispy roast pork unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Crispy roast pork unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Crispy roast pork unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [
+    "pork"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/roast-pork.png",
+      "alt": "Generated ingredient image for roast-pork",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#roast-pork",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/roast-pork",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

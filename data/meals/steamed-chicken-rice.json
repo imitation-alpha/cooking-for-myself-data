@@ -1,0 +1,242 @@
+{
+  "id": "steamed-chicken-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "豉油蒸雞飯",
+    "zhHans": "酱油蒸鸡饭",
+    "en": "Steamed soy chicken rice",
+    "ja": "醤油蒸し鶏ご飯",
+    "ko": "간장찜닭밥",
+    "th": null,
+    "vi": null,
+    "id": "Steamed soy chicken rice",
+    "tl": "Steamed soy chicken rice",
+    "yue": "豉油蒸雞飯"
+  },
+  "summary": {
+    "zhHant": "豉油蒸雞飯 的本地買餸版本。蒸餸方向，重點是火力穩定和熟度提示。",
+    "en": "豉油蒸雞飯 的本地買餸版本。蒸餸方向，重點是火力穩定和熟度提示。",
+    "yue": "豉油蒸雞飯 的本地買餸版本。蒸餸方向，重點是火力穩定和熟度提示。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "2 件",
+        "zhHans": "2 件",
+        "en": "2 thighs",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 potong",
+        "tl": "2 piraso",
+        "yue": "2 件"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "白米浸水雞髀鋪平",
+        "yue": "白米浸水雞髀鋪平",
+        "zhHans": "白米浸水雞髀鋪平",
+        "en": "Soak rice and flatten chicken thighs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯洗至水較清，浸 15 分鐘後瀝乾；雞髀肉 2 件抹乾，厚位用刀尖輕劃兩下。蒜頭 3 瓣切碎，蔥 2 條分蔥白和蔥綠切粒。",
+        "yue": "白米 1 杯洗至水較清，浸 15 分鐘後瀝乾；雞髀肉 2 件抹乾，厚位用刀尖輕劃兩下。蒜頭 3 瓣切碎，蔥 2 條分蔥白和蔥綠切粒。",
+        "zhHans": "白米 1 杯洗至水較清，浸 15 分鐘後瀝乾；雞髀肉 2 件抹乾，厚位用刀尖輕劃兩下。蒜頭 3 瓣切碎，蔥 2 條分蔥白和蔥綠切粒。",
+        "en": "Rinse 1 cup White rice until the water is clearer, soak for 15 minutes, then drain. Pat dry 2 Chicken thighs and make two shallow cuts in the thick parts. Chop 3 cloves Garlic and separate 2 stalks Scallions into white and green rounds.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "生抽蒜蔥白抹雞",
+        "yue": "生抽蒜蔥白抹雞",
+        "zhHans": "生抽蒜蔥白抹雞",
+        "en": "Rub chicken with soy garlic scallion",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把生抽 1 湯匙、蒜頭 3 瓣和蔥白拌勻，抹在雞髀肉 2 件表面和刀口；靜置 10 分鐘，同時把白米 1 杯放入耐熱碗，加水至平日煮飯水位。",
+        "yue": "把生抽 1 湯匙、蒜頭 3 瓣和蔥白拌勻，抹在雞髀肉 2 件表面和刀口；靜置 10 分鐘，同時把白米 1 杯放入耐熱碗，加水至平日煮飯水位。",
+        "zhHans": "把生抽 1 湯匙、蒜頭 3 瓣和蔥白拌勻，抹在雞髀肉 2 件表面和刀口；靜置 10 分鐘，同時把白米 1 杯放入耐熱碗，加水至平日煮飯水位。",
+        "en": "Mix 1 tbsp Light soy sauce with 3 cloves Garlic and the scallion whites, then rub it over 2 Chicken thighs and into the cuts. Rest for 10 minutes while placing 1 cup White rice in a heatproof bowl with the usual rice-cooking level of water.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "雞髀坐米上同蒸",
+        "yue": "雞髀坐米上同蒸",
+        "zhHans": "雞髀坐米上同蒸",
+        "en": "Steam chicken on top of rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把雞髀肉 2 件放在白米上，皮面或較光滑一面向上；水滾後放入蒸鍋，中大火蒸 25 至 30 分鐘，至米飯吸水、雞肉最厚位不帶粉紅。",
+        "yue": "把雞髀肉 2 件放在白米上，皮面或較光滑一面向上；水滾後放入蒸鍋，中大火蒸 25 至 30 分鐘，至米飯吸水、雞肉最厚位不帶粉紅。",
+        "zhHans": "把雞髀肉 2 件放在白米上，皮面或較光滑一面向上；水滾後放入蒸鍋，中大火蒸 25 至 30 分鐘，至米飯吸水、雞肉最厚位不帶粉紅。",
+        "en": "Set 2 Chicken thighs on top of the White rice, skin side or smoother side up. Once the steamer water boils, steam over medium-high heat for 25-30 minutes, until the rice absorbs the water and the thickest chicken part is no longer pink.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "焗飯再撒蔥綠",
+        "yue": "焗飯再撒蔥綠",
+        "zhHans": "焗飯再撒蔥綠",
+        "en": "Rest the rice and add scallion greens",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "熄火後不開蓋焗 5 分鐘；取出後撒蔥綠，把雞髀肉切件或原件放回飯面，碗底飯粒應分明而吸到雞汁。",
+        "yue": "熄火後不開蓋焗 5 分鐘；取出後撒蔥綠，把雞髀肉切件或原件放回飯面，碗底飯粒應分明而吸到雞汁。",
+        "zhHans": "熄火後不開蓋焗 5 分鐘；取出後撒蔥綠，把雞髀肉切件或原件放回飯面，碗底飯粒應分明而吸到雞汁。",
+        "en": "Turn off the heat and rest, covered, for 5 minutes. Scatter the scallion greens, then cut the Chicken thighs or return them whole over the rice; the grains should be distinct and lightly soaked with chicken juices.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/steamed-chicken-rice/cover-1.png",
+      "alt": "Generated meal cover image for steamed-chicken-rice",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#steamed-chicken-rice",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#steamed-chicken-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

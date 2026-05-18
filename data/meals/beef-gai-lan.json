@@ -1,0 +1,259 @@
+{
+  "id": "beef-gai-lan",
+  "status": "approved",
+  "names": {
+    "zhHant": "芥蘭炒牛肉",
+    "zhHans": "芥兰炒牛肉",
+    "en": "Beef and gai lan stir-fry",
+    "ja": "牛肉とカイラン炒め",
+    "ko": "소고기 카이란 볶음",
+    "th": null,
+    "vi": null,
+    "id": "Beef and gai lan stir-fry",
+    "tl": "Beef and gai lan stir-fry",
+    "yue": "芥蘭炒牛肉"
+  },
+  "summary": {
+    "zhHant": "芥蘭炒牛肉 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "en": "芥蘭炒牛肉 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "yue": "芥蘭炒牛肉 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "beef-slice",
+      "amounts": {
+        "zhHant": "250 克",
+        "zhHans": "250 克",
+        "en": "250 g",
+        "ja": "250 g",
+        "ko": "250 g",
+        "th": null,
+        "vi": null,
+        "id": "250 g",
+        "tl": "250 g",
+        "yue": "250 克"
+      }
+    },
+    {
+      "ingredientId": "gai-lan",
+      "amounts": {
+        "zhHant": "1 札",
+        "zhHans": "1 札",
+        "en": "1 bunch",
+        "ja": "1束",
+        "ko": "1단",
+        "th": null,
+        "vi": null,
+        "id": "1 ikat",
+        "tl": "1 tali",
+        "yue": "1 札"
+      }
+    },
+    {
+      "ingredientId": "oyster-sauce",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "beef",
+    "shellfish",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "牛肉芥蘭分開處理",
+        "yue": "牛肉芥蘭分開處理",
+        "zhHans": "牛肉芥蘭分開處理",
+        "en": "Prepare beef and gai lan separately",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "牛肉片 250 克抹乾，和蠔油 1 湯匙、生抽 1 湯匙拌勻；芥蘭 1 札把粗莖斜切薄片、葉切大段。蒜頭 3 瓣切碎，蔥 2 條切段。",
+        "yue": "牛肉片 250 克抹乾，和蠔油 1 湯匙、生抽 1 湯匙拌勻；芥蘭 1 札把粗莖斜切薄片、葉切大段。蒜頭 3 瓣切碎，蔥 2 條切段。",
+        "zhHans": "牛肉片 250 克抹乾，和蠔油 1 湯匙、生抽 1 湯匙拌勻；芥蘭 1 札把粗莖斜切薄片、葉切大段。蒜頭 3 瓣切碎，蔥 2 條切段。",
+        "en": "Pat 250 g Beef slices dry and mix with 1 tbsp Oyster sauce and 1 tbsp Light soy sauce. For 1 bunch Gai lan, slice thick stems thinly on a diagonal and cut leaves into large sections. Chop 3 cloves Garlic and cut 2 stalks Scallions into lengths.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "先煎牛肉留嫩",
+        "yue": "先煎牛肉留嫩",
+        "zhHans": "先煎牛肉留嫩",
+        "en": "Sear beef while keeping it tender",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鑊燒至很熱後落油，把牛肉鋪開，中大火煎 45 至 60 秒；翻面再炒至約七成熟，仍有少許粉紅就盛起。",
+        "yue": "鑊燒至很熱後落油，把牛肉鋪開，中大火煎 45 至 60 秒；翻面再炒至約七成熟，仍有少許粉紅就盛起。",
+        "zhHans": "鑊燒至很熱後落油，把牛肉鋪開，中大火煎 45 至 60 秒；翻面再炒至約七成熟，仍有少許粉紅就盛起。",
+        "en": "Heat the wok until very hot, add oil, and spread the beef in one layer. Sear over medium-high heat for 45-60 seconds, turn, and cook until about 70 percent done with a little pink remaining, then remove.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "芥蘭莖葉分段熟",
+        "yue": "芥蘭莖葉分段熟",
+        "zhHans": "芥蘭莖葉分段熟",
+        "en": "Cook gai lan stems before leaves",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "原鑊落蒜頭和蔥白炒香，先加芥蘭莖炒 1 分鐘，再加葉和少量水；蓋 1 分鐘讓蒸氣軟化莖身，開蓋時葉要深綠不塌。",
+        "yue": "原鑊落蒜頭和蔥白炒香，先加芥蘭莖炒 1 分鐘，再加葉和少量水；蓋 1 分鐘讓蒸氣軟化莖身，開蓋時葉要深綠不塌。",
+        "zhHans": "原鑊落蒜頭和蔥白炒香，先加芥蘭莖炒 1 分鐘，再加葉和少量水；蓋 1 分鐘讓蒸氣軟化莖身，開蓋時葉要深綠不塌。",
+        "en": "In the same wok, cook the Garlic and scallion whites until fragrant. Add gai lan stems for 1 minute, then add leaves and a little water. Cover for 1 minute so steam softens the stems; the leaves should be deep green, not collapsed.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "牛肉回鑊裹蠔油汁",
+        "yue": "牛肉回鑊裹蠔油汁",
+        "zhHans": "牛肉回鑊裹蠔油汁",
+        "en": "Return beef to coat in oyster soy sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "牛肉連碟中汁倒回鑊，大火兜 45 秒至牛肉剛熟、芥蘭沾上蠔油生抽汁；加入蔥綠，汁薄而亮時立即上碟。",
+        "yue": "牛肉連碟中汁倒回鑊，大火兜 45 秒至牛肉剛熟、芥蘭沾上蠔油生抽汁；加入蔥綠，汁薄而亮時立即上碟。",
+        "zhHans": "牛肉連碟中汁倒回鑊，大火兜 45 秒至牛肉剛熟、芥蘭沾上蠔油生抽汁；加入蔥綠，汁薄而亮時立即上碟。",
+        "en": "Return the beef and any plate juices to the wok. Toss over high heat for 45 seconds until the beef is just cooked and the gai lan is coated in the oyster-soy sauce. Add scallion greens and plate while the sauce is thin and glossy.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/beef-gai-lan/cover-1.png",
+      "alt": "Generated meal cover image for beef-gai-lan",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#beef-gai-lan",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#beef-gai-lan",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "id": "yakisoba",
+  "status": "approved",
+  "names": {
+    "zhHant": "日式炒麵",
+    "zhHans": "日式炒面",
+    "en": "Yakisoba",
+    "ja": "焼きそば",
+    "ko": "야키소바",
+    "th": null,
+    "vi": null,
+    "id": "Yakisoba",
+    "tl": "Yakisoba",
+    "yue": "日式炒麵"
+  },
+  "summary": {
+    "zhHant": "日式炒麵 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "en": "日式炒麵 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "yue": "日式炒麵 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。"
+  },
+  "reason": {
+    "zhHant": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "soba",
+      "amounts": {
+        "zhHant": "180 克",
+        "zhHans": "180 克",
+        "en": "180 g",
+        "ja": "180 g",
+        "ko": "180 g",
+        "th": null,
+        "vi": null,
+        "id": "180 g",
+        "tl": "180 g",
+        "yue": "180 克"
+      }
+    },
+    {
+      "ingredientId": "dried-noodle",
+      "amounts": {
+        "zhHant": "2 個麵餅",
+        "zhHans": "2 个面饼",
+        "en": "2 noodle nests",
+        "ja": "2玉",
+        "ko": "2개",
+        "th": null,
+        "vi": null,
+        "id": "2 gulung",
+        "tl": "2 pugad",
+        "yue": "2 個麵餅"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "wheatGluten",
+    "egg",
+    "soy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "麵餅煮散蔥蒜切好",
+        "yue": "麵餅煮散蔥蒜切好",
+        "zhHans": "麵餅煮散蔥蒜切好",
+        "en": "Loosen noodle nests and cut aromatics",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "燒一鍋水，放入乾麵 2 個麵餅煮至剛散開，通常 2 至 3 分鐘，仍要有少少彈性；瀝乾後拌少量油防黏。蒜頭 3 瓣切碎，蔥 2 條切段，生抽 1 湯匙備好。",
+        "yue": "燒一鍋水，放入乾麵 2 個麵餅煮至剛散開，通常 2 至 3 分鐘，仍要有少少彈性；瀝乾後拌少量油防黏。蒜頭 3 瓣切碎，蔥 2 條切段，生抽 1 湯匙備好。",
+        "zhHans": "燒一鍋水，放入乾麵 2 個麵餅煮至剛散開，通常 2 至 3 分鐘，仍要有少少彈性；瀝乾後拌少量油防黏。蒜頭 3 瓣切碎，蔥 2 條切段，生抽 1 湯匙備好。",
+        "en": "Bring a pot of water to a boil and cook 2 dried noodle nests just until loosened, usually 2-3 minutes, leaving a little bounce. Drain and toss with a small amount of oil to prevent sticking. Mince 3 cloves garlic, cut 2 stalks scallions into lengths, and have 1 tbsp light soy sauce ready.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "熱鑊蒜香煎乾麵氣",
+        "yue": "熱鑊蒜香煎乾麵氣",
+        "zhHans": "熱鑊蒜香煎乾麵氣",
+        "en": "Drive off moisture with garlic heat",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鑊加油用中高火燒熱，下蒜碎炒 20 秒。加入瀝乾麵條，鋪開後先煎 1 分鐘才翻動，讓多餘水氣蒸走，麵邊開始有少量焦香。",
+        "yue": "平底鑊加油用中高火燒熱，下蒜碎炒 20 秒。加入瀝乾麵條，鋪開後先煎 1 分鐘才翻動，讓多餘水氣蒸走，麵邊開始有少量焦香。",
+        "zhHans": "平底鑊加油用中高火燒熱，下蒜碎炒 20 秒。加入瀝乾麵條，鋪開後先煎 1 分鐘才翻動，讓多餘水氣蒸走，麵邊開始有少量焦香。",
+        "en": "Heat oil in a skillet over medium-high heat and cook the minced garlic for 20 seconds. Add the drained noodles, spread them out, and let them fry for 1 minute before moving so extra moisture steams away and a few noodle edges start to brown.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "生抽少水炒至均勻",
+        "yue": "生抽少水炒至均勻",
+        "zhHans": "生抽少水炒至均勻",
+        "en": "Season noodles with soy and scallions",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "沿鑊邊淋入生抽 1 湯匙和 1 至 2 湯匙水，加入蔥段，用筷子和鑊鏟挑鬆麵條，炒 1 至 2 分鐘至顏色平均、麵條不再黏成一團。",
+        "yue": "沿鑊邊淋入生抽 1 湯匙和 1 至 2 湯匙水，加入蔥段，用筷子和鑊鏟挑鬆麵條，炒 1 至 2 分鐘至顏色平均、麵條不再黏成一團。",
+        "zhHans": "沿鑊邊淋入生抽 1 湯匙和 1 至 2 湯匙水，加入蔥段，用筷子和鑊鏟挑鬆麵條，炒 1 至 2 分鐘至顏色平均、麵條不再黏成一團。",
+        "en": "Pour 1 tbsp light soy sauce and 1-2 tbsp water around the edge of the pan, then add the scallion lengths. Use chopsticks and a spatula to lift and loosen the noodles for 1-2 minutes until the color is even and the noodles no longer clump together.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "日式炒麵熱食不濕",
+        "yue": "日式炒麵熱食不濕",
+        "zhHans": "日式炒麵熱食不濕",
+        "en": "Serve the noodles hot and dry",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "麵條有彈性、鑊底沒有明顯水汁時關火上碟。這份炒麵應是蒜蔥生抽香，表面帶少量油光；若使用另列的蕎麥麵 180 克，口感會更像炒蕎麥而不是典型日式炒麵。",
+        "yue": "麵條有彈性、鑊底沒有明顯水汁時關火上碟。這份炒麵應是蒜蔥生抽香，表面帶少量油光；若使用另列的蕎麥麵 180 克，口感會更像炒蕎麥而不是典型日式炒麵。",
+        "zhHans": "麵條有彈性、鑊底沒有明顯水汁時關火上碟。這份炒麵應是蒜蔥生抽香，表面帶少量油光；若使用另列的蕎麥麵 180 克，口感會更像炒蕎麥而不是典型日式炒麵。",
+        "en": "Turn off the heat and plate the noodles once they are springy and no visible liquid remains in the pan. This version should taste of garlic, scallion and soy with a light sheen; if using the separately listed 180 g soba instead, the texture will be closer to stir-fried soba than typical yakisoba.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/yakisoba/cover-1.png",
+      "alt": "Generated meal cover image for yakisoba",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#yakisoba",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#yakisoba",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

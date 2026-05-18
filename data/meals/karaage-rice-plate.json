@@ -1,0 +1,224 @@
+{
+  "id": "karaage-rice-plate",
+  "status": "approved",
+  "names": {
+    "zhHant": "唐揚雞飯",
+    "zhHans": "唐揚鸡饭",
+    "en": "Karaage rice plate",
+    "ja": "唐揚げご飯プレート",
+    "ko": "가라아게 밥 플레이트",
+    "th": null,
+    "vi": null,
+    "id": "Karaage rice plate",
+    "tl": "Karaage rice plate",
+    "yue": "唐揚雞飯"
+  },
+  "summary": {
+    "zhHant": "唐揚雞飯 的本地買餸版本。煎香方向，重點是中火定型和最後調味。",
+    "en": "唐揚雞飯 的本地買餸版本。煎香方向，重點是中火定型和最後調味。",
+    "yue": "唐揚雞飯 的本地買餸版本。煎香方向，重點是中火定型和最後調味。"
+  },
+  "reason": {
+    "zhHant": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 32,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "2 件",
+        "zhHans": "2 件",
+        "en": "2 thighs",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 potong",
+        "tl": "2 piraso",
+        "yue": "2 件"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    }
+  ],
+  "restrictionTags": [],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "煮白飯切雞髀塊",
+        "yue": "煮白飯切雞髀塊",
+        "zhHans": "煮白飯切雞髀塊",
+        "en": "Cook rice and cut chicken thighs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯洗至水較清，放入飯煲煮飯。雞髀肉 2 件抹乾，切成約 3 厘米大塊，厚薄盡量一致；蒜頭 3 瓣切碎，蔥 2 條切幼粒。",
+        "yue": "白米 1 杯洗至水較清，放入飯煲煮飯。雞髀肉 2 件抹乾，切成約 3 厘米大塊，厚薄盡量一致；蒜頭 3 瓣切碎，蔥 2 條切幼粒。",
+        "zhHans": "白米 1 杯洗至水較清，放入飯煲煮飯。雞髀肉 2 件抹乾，切成約 3 厘米大塊，厚薄盡量一致；蒜頭 3 瓣切碎，蔥 2 條切幼粒。",
+        "en": "Rinse 1 cup rice until the water is clearer, then cook it in the rice cooker. Pat 2 chicken thighs dry and cut them into about 3 cm pieces with even thickness where possible; mince 3 cloves garlic and finely cut 2 stalks scallions.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "中火慢煎雞塊出油",
+        "yue": "中火慢煎雞塊出油",
+        "zhHans": "中火慢煎雞塊出油",
+        "en": "Pan-fry chicken pieces until browned",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鑊加比平日多少少的油，用中火燒熱。雞塊鋪成一層，下鑊後煎 4 至 5 分鐘不要常翻，至底面深金黃；翻面後再煎 4 至 5 分鐘。",
+        "yue": "平底鑊加比平日多少少的油，用中火燒熱。雞塊鋪成一層，下鑊後煎 4 至 5 分鐘不要常翻，至底面深金黃；翻面後再煎 4 至 5 分鐘。",
+        "zhHans": "平底鑊加比平日多少少的油，用中火燒熱。雞塊鋪成一層，下鑊後煎 4 至 5 分鐘不要常翻，至底面深金黃；翻面後再煎 4 至 5 分鐘。",
+        "en": "Heat a little more oil than usual in a skillet over medium heat. Spread the chicken pieces in one layer and cook for 4-5 minutes without frequent turning until the underside is deep golden; turn and cook for another 4-5 minutes.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "蒜香焗熟雞中心",
+        "yue": "蒜香焗熟雞中心",
+        "zhHans": "蒜香焗熟雞中心",
+        "en": "Steam through with garlic then dry",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入蒜碎，轉中小火炒 30 秒，然後加 1 至 2 湯匙水，蓋上焗 3 至 4 分鐘。開蓋後再煎至水氣收乾，雞肉中心要全熟無粉紅，邊位重新變乾爽。",
+        "yue": "加入蒜碎，轉中小火炒 30 秒，然後加 1 至 2 湯匙水，蓋上焗 3 至 4 分鐘。開蓋後再煎至水氣收乾，雞肉中心要全熟無粉紅，邊位重新變乾爽。",
+        "zhHans": "加入蒜碎，轉中小火炒 30 秒，然後加 1 至 2 湯匙水，蓋上焗 3 至 4 分鐘。開蓋後再煎至水氣收乾，雞肉中心要全熟無粉紅，邊位重新變乾爽。",
+        "en": "Add the minced garlic, lower to medium-low, and cook for 30 seconds. Add 1-2 tbsp water, cover, and steam for 3-4 minutes. Uncover and keep cooking until the moisture evaporates; the chicken centers should have no pink and the edges should turn dry again.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "蒜香雞塊蓋飯撒蔥",
+        "yue": "蒜香雞塊蓋飯撒蔥",
+        "zhHans": "蒜香雞塊蓋飯撒蔥",
+        "en": "Serve garlic chicken over rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "熱飯盛碟，鋪上雞塊，灑蔥粒。理想口感是外層有煎香乾邊、裡面仍多汁；因沒有粉漿，雞塊不會有唐揚炸衣，應趁熱食用。",
+        "yue": "熱飯盛碟，鋪上雞塊，灑蔥粒。理想口感是外層有煎香乾邊、裡面仍多汁；因沒有粉漿，雞塊不會有唐揚炸衣，應趁熱食用。",
+        "zhHans": "熱飯盛碟，鋪上雞塊，灑蔥粒。理想口感是外層有煎香乾邊、裡面仍多汁；因沒有粉漿，雞塊不會有唐揚炸衣，應趁熱食用。",
+        "en": "Spoon hot rice onto plates, top with the chicken pieces, and scatter the scallions over them. The best texture is browned and dry-edged outside while still juicy inside; because there is no batter or starch, the chicken will not have a karaage crust and should be eaten hot.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/karaage-rice-plate/cover-1.png",
+      "alt": "Generated meal cover image for karaage-rice-plate",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#karaage-rice-plate",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#karaage-rice-plate",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

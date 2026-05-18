@@ -1,0 +1,57 @@
+{
+  "id": "oyster-sauce",
+  "status": "approved",
+  "names": {
+    "zhHant": "蠔油",
+    "zhHans": "蚝油",
+    "en": "Oyster sauce",
+    "ja": "オイスターソース",
+    "ko": "굴소스",
+    "th": null,
+    "vi": null,
+    "id": "Oyster sauce",
+    "tl": "Oyster sauce",
+    "yue": "蠔油"
+  },
+  "section": "sauces",
+  "aliases": [
+    "oyster flavored sauce"
+  ],
+  "storeNotes": {
+    "zhHant": "調味料走廊；先看英文名和過敏成分。",
+    "en": "調味料走廊；先看英文名和過敏成分。",
+    "yue": "調味料走廊；先看英文名和過敏成分。"
+  },
+  "substitutions": {
+    "zhHant": "貝殼類限制時避免，改用生抽或素蠔油並重新檢查標籤。",
+    "en": "貝殼類限制時避免，改用生抽或素蠔油並重新檢查標籤。",
+    "yue": "貝殼類限制時避免，改用生抽或素蠔油並重新檢查標籤。"
+  },
+  "tags": [
+    "shellfish",
+    "soy",
+    "wheatGluten"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/oyster-sauce.png",
+      "alt": "Generated ingredient image for oyster-sauce",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#oyster-sauce",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/oyster-sauce",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

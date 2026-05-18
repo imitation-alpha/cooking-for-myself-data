@@ -1,0 +1,57 @@
+{
+  "id": "daikon-cake",
+  "status": "approved",
+  "names": {
+    "zhHant": "蘿蔔糕",
+    "zhHans": "萝卜糕",
+    "en": "Turnip cake",
+    "ja": "大根餅",
+    "ko": "무떡",
+    "th": null,
+    "vi": null,
+    "id": "Turnip cake",
+    "tl": "Turnip cake",
+    "yue": "蘿蔔糕"
+  },
+  "section": "frozen",
+  "aliases": [
+    "radish cake"
+  ],
+  "storeNotes": {
+    "zhHant": "急凍櫃；最後才拿，回家盡快冷藏。",
+    "en": "急凍櫃；最後才拿，回家盡快冷藏。",
+    "yue": "急凍櫃；最後才拿，回家盡快冷藏。"
+  },
+  "substitutions": {
+    "zhHant": "Turnip cake unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Turnip cake unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Turnip cake unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [
+    "shellfish",
+    "pork",
+    "wheatGluten"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/daikon-cake.png",
+      "alt": "Generated ingredient image for daikon-cake",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#daikon-cake",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/daikon-cake",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

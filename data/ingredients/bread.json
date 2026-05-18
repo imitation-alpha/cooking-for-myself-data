@@ -1,0 +1,56 @@
+{
+  "id": "bread",
+  "status": "approved",
+  "names": {
+    "zhHant": "方包",
+    "zhHans": "方包",
+    "en": "Sandwich bread",
+    "ja": "食パン",
+    "ko": "식빵",
+    "th": null,
+    "vi": null,
+    "id": "Sandwich bread",
+    "tl": "Sandwich bread",
+    "yue": "方包"
+  },
+  "section": "dryGoods",
+  "aliases": [
+    "white bread"
+  ],
+  "storeNotes": {
+    "zhHant": "乾貨或主食走廊；適合一次補貨。",
+    "en": "乾貨或主食走廊；適合一次補貨。",
+    "yue": "乾貨或主食走廊；適合一次補貨。"
+  },
+  "substitutions": {
+    "zhHant": "小麥／麩質或蛋限制時改用米粉、河粉或其他已標示合適的主食。",
+    "en": "小麥／麩質或蛋限制時改用米粉、河粉或其他已標示合適的主食。",
+    "yue": "小麥／麩質或蛋限制時改用米粉、河粉或其他已標示合適的主食。"
+  },
+  "tags": [
+    "milk",
+    "wheatGluten"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/bread.png",
+      "alt": "Generated ingredient image for bread",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#bread",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/bread",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "id": "japanese-curry-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "日式咖喱飯",
+    "zhHans": "日式咖喱饭",
+    "en": "Japanese curry rice",
+    "ja": "日本式カレーライス",
+    "ko": "일본식 카레라이스",
+    "th": null,
+    "vi": null,
+    "id": "Japanese curry rice",
+    "tl": "Japanese curry rice",
+    "yue": "日式咖喱飯"
+  },
+  "summary": {
+    "zhHant": "日式咖喱飯 的本地買餸版本。咖喱方向，重點是先煮軟主料，再收汁。",
+    "en": "日式咖喱飯 的本地買餸版本。咖喱方向，重點是先煮軟主料，再收汁。",
+    "yue": "日式咖喱飯 的本地買餸版本。咖喱方向，重點是先煮軟主料，再收汁。"
+  },
+  "reason": {
+    "zhHant": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 35,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "curry-block",
+      "amounts": {
+        "zhHant": "2 格",
+        "zhHans": "2 格",
+        "en": "2 cubes",
+        "ja": "2個",
+        "ko": "2개",
+        "th": null,
+        "vi": null,
+        "id": "2 potong",
+        "tl": "2 piraso",
+        "yue": "2 格"
+      }
+    },
+    {
+      "ingredientId": "potato",
+      "amounts": {
+        "zhHant": "2 個",
+        "zhHans": "2 个",
+        "en": "2 potatoes",
+        "ja": "2個",
+        "ko": "2개",
+        "th": null,
+        "vi": null,
+        "id": "2 buah",
+        "tl": "2 piraso",
+        "yue": "2 個"
+      }
+    },
+    {
+      "ingredientId": "onion",
+      "amounts": {
+        "zhHant": "1 個",
+        "zhHans": "1 个",
+        "en": "1 onion",
+        "ja": "1本",
+        "ko": "1개",
+        "th": null,
+        "vi": null,
+        "id": "1 buah",
+        "tl": "1 piraso",
+        "yue": "1 個"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "curry-paste",
+      "amounts": {
+        "zhHant": "2 湯匙",
+        "zhHans": "2 汤匙",
+        "en": "2 tbsp",
+        "ja": "大さじ2",
+        "ko": "2큰술",
+        "th": null,
+        "vi": null,
+        "id": "2 sdm",
+        "tl": "2 kutsara",
+        "yue": "2 湯匙"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "milk",
+    "wheatGluten",
+    "shellfish"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "白飯和咖喱菜切好",
+        "yue": "白飯和咖喱菜切好",
+        "zhHans": "白飯和咖喱菜切好",
+        "en": "Cook rice and cut curry vegetables",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯洗至水較清，放入飯煲用平日煮飯水量煮飯。薯仔 2 個去皮切約 2 厘米塊，洋蔥 1 個切粗絲，蒜頭 3 瓣切碎，蔥 2 條切幼粒；咖喱磚 2 格和咖喱醬 2 湯匙先備好。",
+        "yue": "白米 1 杯洗至水較清，放入飯煲用平日煮飯水量煮飯。薯仔 2 個去皮切約 2 厘米塊，洋蔥 1 個切粗絲，蒜頭 3 瓣切碎，蔥 2 條切幼粒；咖喱磚 2 格和咖喱醬 2 湯匙先備好。",
+        "zhHans": "白米 1 杯洗至水較清，放入飯煲用平日煮飯水量煮飯。薯仔 2 個去皮切約 2 厘米塊，洋蔥 1 個切粗絲，蒜頭 3 瓣切碎，蔥 2 條切幼粒；咖喱磚 2 格和咖喱醬 2 湯匙先備好。",
+        "en": "Rinse 1 cup rice until the water is clearer, then cook it in the rice cooker with your usual rice water level. Peel 2 potatoes and cut them into about 2 cm chunks, slice 1 onion thickly, mince 3 cloves garlic, and finely cut 2 stalks scallions; have 2 curry-block cubes and 2 tbsp curry paste ready.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "洋蔥蒜香炒薯仔",
+        "yue": "洋蔥蒜香炒薯仔",
+        "zhHans": "洋蔥蒜香炒薯仔",
+        "en": "Cook onion garlic and potatoes",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鍋中加油用中火燒熱，下洋蔥炒 3 至 4 分鐘至邊位轉透明，再下蒜碎炒 30 秒。加入薯仔塊翻炒 1 分鐘，讓表面沾到油和洋蔥甜味。",
+        "yue": "鍋中加油用中火燒熱，下洋蔥炒 3 至 4 分鐘至邊位轉透明，再下蒜碎炒 30 秒。加入薯仔塊翻炒 1 分鐘，讓表面沾到油和洋蔥甜味。",
+        "zhHans": "鍋中加油用中火燒熱，下洋蔥炒 3 至 4 分鐘至邊位轉透明，再下蒜碎炒 30 秒。加入薯仔塊翻炒 1 分鐘，讓表面沾到油和洋蔥甜味。",
+        "en": "Heat oil in a pot over medium heat. Cook the onion for 3-4 minutes until the edges turn translucent, then add the minced garlic for 30 seconds. Add the potato chunks and stir for 1 minute so their surfaces pick up oil and onion sweetness.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "薯仔煮軟再溶咖喱",
+        "yue": "薯仔煮軟再溶咖喱",
+        "zhHans": "薯仔煮軟再溶咖喱",
+        "en": "Simmer potatoes and dissolve curry",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入足夠水剛蓋過薯仔，煮滾後轉中小火，蓋上煮 12 至 15 分鐘，至筷子可插入薯仔。熄細火，加入咖喱磚 2 格和咖喱醬 2 湯匙，慢慢攪至完全溶開。",
+        "yue": "加入足夠水剛蓋過薯仔，煮滾後轉中小火，蓋上煮 12 至 15 分鐘，至筷子可插入薯仔。熄細火，加入咖喱磚 2 格和咖喱醬 2 湯匙，慢慢攪至完全溶開。",
+        "zhHans": "加入足夠水剛蓋過薯仔，煮滾後轉中小火，蓋上煮 12 至 15 分鐘，至筷子可插入薯仔。熄細火，加入咖喱磚 2 格和咖喱醬 2 湯匙，慢慢攪至完全溶開。",
+        "en": "Add enough water to just cover the potatoes. Bring to a boil, lower to medium-low, cover, and simmer for 12-15 minutes until a chopstick can slide into the potatoes. Turn the heat low, add 2 curry-block cubes and 2 tbsp curry paste, and stir slowly until fully dissolved.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "咖喱濃汁蓋熱飯",
+        "yue": "咖喱濃汁蓋熱飯",
+        "zhHans": "咖喱濃汁蓋熱飯",
+        "en": "Spoon thick curry over hot rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "開中小火再煮 3 至 5 分鐘，不時攪底，至咖喱能厚厚包住薯仔但仍可流動。熱飯盛碟，一邊淋上薯仔洋蔥咖喱，最後灑蔥粒；飯邊要留少量空位讓咖喱汁慢慢滲入。",
+        "yue": "開中小火再煮 3 至 5 分鐘，不時攪底，至咖喱能厚厚包住薯仔但仍可流動。熱飯盛碟，一邊淋上薯仔洋蔥咖喱，最後灑蔥粒；飯邊要留少量空位讓咖喱汁慢慢滲入。",
+        "zhHans": "開中小火再煮 3 至 5 分鐘，不時攪底，至咖喱能厚厚包住薯仔但仍可流動。熱飯盛碟，一邊淋上薯仔洋蔥咖喱，最後灑蔥粒；飯邊要留少量空位讓咖喱汁慢慢滲入。",
+        "en": "Keep cooking over medium-low for 3-5 minutes, stirring the bottom often, until the curry coats the potatoes thickly but still flows. Plate the hot rice and spoon the potato-onion curry along one side, then scatter the scallions on top; leave a little rice edge for the sauce to soak in gradually.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/japanese-curry-rice/cover-1.png",
+      "alt": "Generated meal cover image for japanese-curry-rice",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#japanese-curry-rice",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#japanese-curry-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "id": "lemongrass-chicken-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "香茅雞扒飯",
+    "zhHans": "香茅鸡扒饭",
+    "en": "Lemongrass chicken rice",
+    "ja": "レモングラスチキンライス",
+    "ko": "레몬그라스 치킨밥",
+    "th": null,
+    "vi": null,
+    "id": "Nasi ayam serai",
+    "tl": "Kanin na manok sa tanglad",
+    "yue": "香茅雞扒飯"
+  },
+  "summary": {
+    "zhHant": "香茅雞扒飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "香茅雞扒飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "香茅雞扒飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Vietnamese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Vietnamese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Vietnamese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "2 件",
+        "zhHans": "2 件",
+        "en": "2 thighs",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 potong",
+        "tl": "2 piraso",
+        "yue": "2 件"
+      }
+    },
+    {
+      "ingredientId": "lemongrass",
+      "amounts": {
+        "zhHant": "2 支",
+        "zhHans": "2 支",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 支"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "香茅拍鬆抹雞扒",
+        "yue": "香茅拍鬆抹雞扒",
+        "zhHans": "香茅拍鬆抹雞扒",
+        "en": "Bruise lemongrass for the chicken",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯先煮飯；香茅 2 支只用較嫩部分，拍鬆後切碎，蒜頭 3 瓣切碎，蔥 2 條切蔥花；雞髀肉 2 件抹乾並攤平成雞扒。",
+        "yue": "白米 1 杯先煮飯；香茅 2 支只用較嫩部分，拍鬆後切碎，蒜頭 3 瓣切碎，蔥 2 條切蔥花；雞髀肉 2 件抹乾並攤平成雞扒。",
+        "zhHans": "白米 1 杯先煮飯；香茅 2 支只用較嫩部分，拍鬆後切碎，蒜頭 3 瓣切碎，蔥 2 條切蔥花；雞髀肉 2 件抹乾並攤平成雞扒。",
+        "en": "Cook 1 cup White rice first. Use the tender parts of 2 stalks Lemongrass, bruise and mince them, mince 3 cloves Garlic, slice 2 stalks Scallions, and pat 2 thighs Chicken thigh dry before opening them flat like cutlets.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "生抽香茅短醃",
+        "yue": "生抽香茅短醃",
+        "zhHans": "生抽香茅短醃",
+        "en": "Short-marinate with soy and lemongrass",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把雞髀肉 2 件和香茅、蒜頭、部分蔥花、生抽 1 湯匙、少量油拌勻，放 10 分鐘；下鍋前撥走太厚的香茅碎，避免先燒焦。",
+        "yue": "把雞髀肉 2 件和香茅、蒜頭、部分蔥花、生抽 1 湯匙、少量油拌勻，放 10 分鐘；下鍋前撥走太厚的香茅碎，避免先燒焦。",
+        "zhHans": "把雞髀肉 2 件和香茅、蒜頭、部分蔥花、生抽 1 湯匙、少量油拌勻，放 10 分鐘；下鍋前撥走太厚的香茅碎，避免先燒焦。",
+        "en": "Mix 2 thighs Chicken thigh with the Lemongrass, Garlic, some Scallions, 1 tbsp Light soy sauce, and a little oil, then rest for 10 minutes. Before cooking, brush off very thick clumps of Lemongrass so they do not burn first.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "雞皮面煎出焦香",
+        "yue": "雞皮面煎出焦香",
+        "zhHans": "雞皮面煎出焦香",
+        "en": "Sear the chicken until browned",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鍋中火燒熱後落油，雞扒較平滑一面先下鍋，煎 5 至 6 分鐘；翻面後再煎 4 至 5 分鐘，中心熟透，表面有香茅蒜香焦點。",
+        "yue": "平底鍋中火燒熱後落油，雞扒較平滑一面先下鍋，煎 5 至 6 分鐘；翻面後再煎 4 至 5 分鐘，中心熟透，表面有香茅蒜香焦點。",
+        "zhHans": "平底鍋中火燒熱後落油，雞扒較平滑一面先下鍋，煎 5 至 6 分鐘；翻面後再煎 4 至 5 分鐘，中心熟透，表面有香茅蒜香焦點。",
+        "en": "Heat a skillet over medium heat with oil. Place the flatter side of the chicken down first and cook for 5-6 minutes; turn and cook another 4-5 minutes, until the centers are cooked through and the surface has browned lemongrass-garlic spots.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "雞扒切件蓋飯",
+        "yue": "雞扒切件蓋飯",
+        "zhHans": "雞扒切件蓋飯",
+        "en": "Slice chicken over rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "雞扒離火後放 2 分鐘再切件，讓肉汁穩定；白飯盛碟，放上香茅雞扒和餘下蔥花，鍋中若有熱油香茅碎，可少量淋在飯邊。",
+        "yue": "雞扒離火後放 2 分鐘再切件，讓肉汁穩定；白飯盛碟，放上香茅雞扒和餘下蔥花，鍋中若有熱油香茅碎，可少量淋在飯邊。",
+        "zhHans": "雞扒離火後放 2 分鐘再切件，讓肉汁穩定；白飯盛碟，放上香茅雞扒和餘下蔥花，鍋中若有熱油香茅碎，可少量淋在飯邊。",
+        "en": "Rest the chicken for 2 minutes off the heat before slicing so the juices settle. Plate the White rice, top with the lemongrass chicken and remaining Scallions, and spoon a little hot lemongrass oil from the pan around the rice if there is any.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/lemongrass-chicken-rice/cover-1.png",
+      "alt": "Generated meal cover image for lemongrass-chicken-rice",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#lemongrass-chicken-rice",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#lemongrass-chicken-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

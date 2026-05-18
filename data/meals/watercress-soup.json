@@ -1,0 +1,256 @@
+{
+  "id": "watercress-soup",
+  "status": "approved",
+  "names": {
+    "zhHant": "西洋菜湯",
+    "zhHans": "西洋菜汤",
+    "en": "Watercress soup",
+    "ja": "クレソンスープ",
+    "ko": "물냉이탕",
+    "th": null,
+    "vi": null,
+    "id": "Watercress soup",
+    "tl": "Watercress soup",
+    "yue": "西洋菜湯"
+  },
+  "summary": {
+    "zhHant": "西洋菜湯 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。",
+    "en": "西洋菜湯 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。",
+    "yue": "西洋菜湯 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。"
+  },
+  "reason": {
+    "zhHant": "Cantonese soup；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Cantonese soup；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Cantonese soup；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 55,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "watercress",
+      "amounts": {
+        "zhHant": "1 札",
+        "zhHans": "1 札",
+        "en": "1 bunch",
+        "ja": "1束",
+        "ko": "1단",
+        "th": null,
+        "vi": null,
+        "id": "1 ikat",
+        "tl": "1 tali",
+        "yue": "1 札"
+      }
+    },
+    {
+      "ingredientId": "pork-bone",
+      "amounts": {
+        "zhHant": "500 克",
+        "zhHans": "500 克",
+        "en": "500 g",
+        "ja": "500 g",
+        "ko": "500 g",
+        "th": null,
+        "vi": null,
+        "id": "500 g",
+        "tl": "500 g",
+        "yue": "500 克"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "4 片",
+        "zhHans": "4 片",
+        "en": "4 slices",
+        "ja": "4枚",
+        "ko": "4장",
+        "th": null,
+        "vi": null,
+        "id": "4 iris",
+        "tl": "4 hiwa",
+        "yue": "4 片"
+      }
+    },
+    {
+      "ingredientId": "chicken-broth",
+      "amounts": {
+        "zhHant": "600 毫升",
+        "zhHans": "600 毫升",
+        "en": "600 ml",
+        "ja": "600 ml",
+        "ko": "600 ml",
+        "th": null,
+        "vi": null,
+        "id": "600 ml",
+        "tl": "600 ml",
+        "yue": "600 毫升"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "pork"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "西洋菜浸洗豬骨沖淨",
+        "yue": "西洋菜浸洗豬骨沖淨",
+        "zhHans": "西洋菜浸洗豬骨沖淨",
+        "en": "Wash watercress and rinse bones",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "西洋菜 1 札拆開浸水，沖走泥沙後瀝乾；豬骨 500 克沖洗。蒜頭 3 瓣拍扁，薑 4 片備用，蔥 2 條切段。",
+        "yue": "西洋菜 1 札拆開浸水，沖走泥沙後瀝乾；豬骨 500 克沖洗。蒜頭 3 瓣拍扁，薑 4 片備用，蔥 2 條切段。",
+        "zhHans": "西洋菜 1 札拆開浸水，沖走泥沙後瀝乾；豬骨 500 克沖洗。蒜頭 3 瓣拍扁，薑 4 片備用，蔥 2 條切段。",
+        "en": "Separate 1 bunch Watercress, soak and rinse away grit, then drain well. Rinse 500 g Pork bones. Smash 3 cloves Garlic, keep 4 slices Ginger ready, and cut 2 stalks Scallions into sections.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "豬骨薑蒜滾出底味",
+        "yue": "豬骨薑蒜滾出底味",
+        "zhHans": "豬骨薑蒜滾出底味",
+        "en": "Boil pork bones with ginger garlic",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "豬骨 500 克、薑 4 片、蒜頭 3 瓣和雞湯 600 毫升入湯鍋；加水至蓋過豬骨，大火煮滾，撇浮泡後轉細火煲 25 分鐘。",
+        "yue": "豬骨 500 克、薑 4 片、蒜頭 3 瓣和雞湯 600 毫升入湯鍋；加水至蓋過豬骨，大火煮滾，撇浮泡後轉細火煲 25 分鐘。",
+        "zhHans": "豬骨 500 克、薑 4 片、蒜頭 3 瓣和雞湯 600 毫升入湯鍋；加水至蓋過豬骨，大火煮滾，撇浮泡後轉細火煲 25 分鐘。",
+        "en": "Add 500 g Pork bones, 4 slices Ginger, 3 cloves Garlic, and 600 ml Chicken broth to a soup pot. Add water to cover the bones, bring to a boil, skim foam, then simmer for 25 minutes.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "西洋菜壓入湯面",
+        "yue": "西洋菜壓入湯面",
+        "zhHans": "西洋菜壓入湯面",
+        "en": "Press watercress into the broth",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "放入西洋菜 1 札，用筷子把菜壓入湯中；保持中細火滾 8 至 10 分鐘，至莖部轉深綠而仍有少許咬口。",
+        "yue": "放入西洋菜 1 札，用筷子把菜壓入湯中；保持中細火滾 8 至 10 分鐘，至莖部轉深綠而仍有少許咬口。",
+        "zhHans": "放入西洋菜 1 札，用筷子把菜壓入湯中；保持中細火滾 8 至 10 分鐘，至莖部轉深綠而仍有少許咬口。",
+        "en": "Add 1 bunch Watercress and press it under the broth with chopsticks. Keep a medium-low simmer for 8-10 minutes, until the stems turn deep green but still keep a slight bite.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "蔥段短滾保清香",
+        "yue": "蔥段短滾保清香",
+        "zhHans": "蔥段短滾保清香",
+        "en": "Briefly simmer scallions for freshness",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入蔥 2 條切成的段再滾 1 分鐘；湯要清而有菜香，西洋菜不要煮到灰黃，連豬骨和菜趁熱盛碗。",
+        "yue": "加入蔥 2 條切成的段再滾 1 分鐘；湯要清而有菜香，西洋菜不要煮到灰黃，連豬骨和菜趁熱盛碗。",
+        "zhHans": "加入蔥 2 條切成的段再滾 1 分鐘；湯要清而有菜香，西洋菜不要煮到灰黃，連豬骨和菜趁熱盛碗。",
+        "en": "Add the sections from 2 stalks Scallions and simmer for 1 minute. The broth should taste clean and green; do not cook the Watercress until gray. Serve hot with the Pork bones and greens.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/watercress-soup/cover-1.png",
+      "alt": "Generated meal cover image for watercress-soup",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#watercress-soup",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#watercress-soup",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

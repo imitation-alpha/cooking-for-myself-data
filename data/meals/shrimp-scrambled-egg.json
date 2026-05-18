@@ -1,0 +1,228 @@
+{
+  "id": "shrimp-scrambled-egg",
+  "status": "approved",
+  "names": {
+    "zhHant": "蝦仁炒蛋",
+    "zhHans": "虾仁炒蛋",
+    "en": "Shrimp scrambled eggs",
+    "ja": "えび卵炒め",
+    "ko": "새우 달걀볶음",
+    "th": null,
+    "vi": null,
+    "id": "Shrimp scrambled eggs",
+    "tl": "Shrimp scrambled eggs",
+    "yue": "蝦仁炒蛋"
+  },
+  "summary": {
+    "zhHant": "蝦仁炒蛋 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "en": "蝦仁炒蛋 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "yue": "蝦仁炒蛋 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 18,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "shrimp",
+      "amounts": {
+        "zhHant": "180 克",
+        "zhHans": "180 克",
+        "en": "180 g",
+        "ja": "180 g",
+        "ko": "180 g",
+        "th": null,
+        "vi": null,
+        "id": "180 g",
+        "tl": "180 g",
+        "yue": "180 克"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "shellfish",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "蝦仁抹乾去水氣",
+        "yue": "蝦仁抹乾去水氣",
+        "zhHans": "蝦仁抹乾去水氣",
+        "en": "Dry the shrimp well",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蝦仁 180 克沖淨後徹底抹乾，若有腸泥要挑走。蒜頭 3 瓣切碎，蔥 2 條切粒，生抽 1 湯匙先量好。",
+        "yue": "蝦仁 180 克沖淨後徹底抹乾，若有腸泥要挑走。蒜頭 3 瓣切碎，蔥 2 條切粒，生抽 1 湯匙先量好。",
+        "zhHans": "蝦仁 180 克沖淨後徹底抹乾，若有腸泥要挑走。蒜頭 3 瓣切碎，蔥 2 條切粒，生抽 1 湯匙先量好。",
+        "en": "Rinse 180 g shrimp and pat very dry, removing any vein if needed. Mince 3 cloves garlic, slice 2 stalks scallions, and measure 1 tbsp light soy sauce.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "熱鍋快煎蝦仁",
+        "yue": "熱鍋快煎蝦仁",
+        "zhHans": "熱鍋快煎蝦仁",
+        "en": "Quick-sear the shrimp in a hot pan",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鍋加油，中高火燒熱後下蝦仁 180 克，攤開煎約 1 分鐘。蝦邊轉粉紅、底面微金黃時才翻面。",
+        "yue": "平底鍋加油，中高火燒熱後下蝦仁 180 克，攤開煎約 1 分鐘。蝦邊轉粉紅、底面微金黃時才翻面。",
+        "zhHans": "平底鍋加油，中高火燒熱後下蝦仁 180 克，攤開煎約 1 分鐘。蝦邊轉粉紅、底面微金黃時才翻面。",
+        "en": "Heat oil in a skillet over medium-high heat. Add 180 g shrimp in one layer and sear for about 1 minute. Turn only when the edges turn pink and the underside is lightly golden.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "蒜蔥生抽薄薄包住",
+        "yue": "蒜蔥生抽薄薄包住",
+        "zhHans": "蒜蔥生抽薄薄包住",
+        "en": "Coat with garlic, scallion, and soy",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入蒜頭 3 瓣和蔥白炒 20 秒，淋入生抽 1 湯匙和少量水。快速翻炒 30 至 45 秒，讓每隻蝦仁沾到薄汁。",
+        "yue": "加入蒜頭 3 瓣和蔥白炒 20 秒，淋入生抽 1 湯匙和少量水。快速翻炒 30 至 45 秒，讓每隻蝦仁沾到薄汁。",
+        "zhHans": "加入蒜頭 3 瓣和蔥白炒 20 秒，淋入生抽 1 湯匙和少量水。快速翻炒 30 至 45 秒，讓每隻蝦仁沾到薄汁。",
+        "en": "Add 3 cloves garlic and the scallion whites for 20 seconds, then pour in 1 tbsp light soy sauce and a small splash of water. Toss quickly for 30-45 seconds so each shrimp gets a thin coating.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "蝦身剛彈起鍋",
+        "yue": "蝦身剛彈起鍋",
+        "zhHans": "蝦身剛彈起鍋",
+        "en": "Stop when the shrimp just turns springy",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蝦仁捲成 C 形、中心不再透明時立即熄火；若縮成很緊的 O 形就是過熟。灑蔥綠上碟，這版沒有蛋花口感。",
+        "yue": "蝦仁捲成 C 形、中心不再透明時立即熄火；若縮成很緊的 O 形就是過熟。灑蔥綠上碟，這版沒有蛋花口感。",
+        "zhHans": "蝦仁捲成 C 形、中心不再透明時立即熄火；若縮成很緊的 O 形就是過熟。灑蔥綠上碟，這版沒有蛋花口感。",
+        "en": "Turn off the heat as soon as the shrimp curls into a C shape and the center is no longer translucent; a tight O shape means overcooked. Add scallion greens. This version has no scrambled egg texture.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/shrimp-scrambled-egg/cover-1.png",
+      "alt": "Generated meal cover image for shrimp-scrambled-egg",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#shrimp-scrambled-egg",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#shrimp-scrambled-egg",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "bulgogi-beef",
+  "status": "approved",
+  "names": {
+    "zhHant": "韓式牛肉片",
+    "zhHans": "韩式牛肉片",
+    "en": "Bulgogi beef",
+    "ja": "プルコギ用牛肉",
+    "ko": "불고기용 소고기",
+    "th": null,
+    "vi": null,
+    "id": "Bulgogi beef",
+    "tl": "Bulgogi beef",
+    "yue": "韓式牛肉片"
+  },
+  "section": "meat",
+  "aliases": [
+    "marinated beef"
+  ],
+  "storeNotes": {
+    "zhHant": "肉類區或冷凍櫃；買回家後盡快冷藏。",
+    "en": "肉類區或冷凍櫃；買回家後盡快冷藏。",
+    "yue": "肉類區或冷凍櫃；買回家後盡快冷藏。"
+  },
+  "substitutions": {
+    "zhHant": "Bulgogi beef unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Bulgogi beef unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Bulgogi beef unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [
+    "beef"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/bulgogi-beef.png",
+      "alt": "Generated ingredient image for bulgogi-beef",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#bulgogi-beef",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/bulgogi-beef",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

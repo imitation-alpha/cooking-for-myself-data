@@ -1,0 +1,244 @@
+{
+  "id": "danzai-noodles",
+  "status": "approved",
+  "names": {
+    "zhHant": "擔仔麵",
+    "zhHans": "担仔面",
+    "en": "Danzai noodles",
+    "ja": "担仔麺",
+    "ko": "단짜이 국수",
+    "th": null,
+    "vi": null,
+    "id": "Danzai noodles",
+    "tl": "Danzai noodles",
+    "yue": "擔仔麵"
+  },
+  "summary": {
+    "zhHant": "擔仔麵 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "擔仔麵 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "擔仔麵 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Taiwanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Taiwanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Taiwanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "pork-mince",
+      "amounts": {
+        "zhHant": "220 克",
+        "zhHans": "220 克",
+        "en": "220 g",
+        "ja": "220 g",
+        "ko": "220 g",
+        "th": null,
+        "vi": null,
+        "id": "220 g",
+        "tl": "220 g",
+        "yue": "220 克"
+      }
+    },
+    {
+      "ingredientId": "dried-noodle",
+      "amounts": {
+        "zhHant": "2 個麵餅",
+        "zhHans": "2 个面饼",
+        "en": "2 noodle nests",
+        "ja": "2玉",
+        "ko": "2개",
+        "th": null,
+        "vi": null,
+        "id": "2 gulung",
+        "tl": "2 pugad",
+        "yue": "2 個麵餅"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "pork",
+    "egg",
+    "wheatGluten",
+    "soy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "剁香蒜蔥肉料",
+        "yue": "剁香蒜蔥肉料",
+        "zhHans": "剁香蒜蔥肉料",
+        "en": "Chop the garlic-scallion pork base",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蒜頭 3 瓣切碎，蔥 2 條分開蔥白和蔥綠切細；免治豬肉 220 克撥鬆，乾麵 2 個麵餅和生抽 1 湯匙放近爐邊，另備一鍋水煮麵。",
+        "yue": "蒜頭 3 瓣切碎，蔥 2 條分開蔥白和蔥綠切細；免治豬肉 220 克撥鬆，乾麵 2 個麵餅和生抽 1 湯匙放近爐邊，另備一鍋水煮麵。",
+        "zhHans": "蒜頭 3 瓣切碎，蔥 2 條分開蔥白和蔥綠切細；免治豬肉 220 克撥鬆，乾麵 2 個麵餅和生抽 1 湯匙放近爐邊，另備一鍋水煮麵。",
+        "en": "Mince 3 cloves Garlic, separate 2 stalks Scallions into chopped whites and greens, loosen 220 g Ground pork, keep 2 noodle nests Dried noodles and 1 tbsp Light soy sauce by the stove, and set a pot of water for the noodles.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "炒出豬肉乾香",
+        "yue": "炒出豬肉乾香",
+        "zhHans": "炒出豬肉乾香",
+        "en": "Brown the pork topping",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "小鍋或鑊用中大火燒熱後落油，先炒蒜頭和蔥白 20 至 30 秒；加入免治豬肉 220 克壓散，炒 4 至 5 分鐘至肉粒全熟、邊位有少少焦香。",
+        "yue": "小鍋或鑊用中大火燒熱後落油，先炒蒜頭和蔥白 20 至 30 秒；加入免治豬肉 220 克壓散，炒 4 至 5 分鐘至肉粒全熟、邊位有少少焦香。",
+        "zhHans": "小鍋或鑊用中大火燒熱後落油，先炒蒜頭和蔥白 20 至 30 秒；加入免治豬肉 220 克壓散，炒 4 至 5 分鐘至肉粒全熟、邊位有少少焦香。",
+        "en": "Heat a small pot or wok over medium-high heat, add oil, and cook the Garlic and scallion whites for 20-30 seconds. Add 220 g Ground pork, press it apart, and cook for 4-5 minutes until fully cooked with lightly browned edges.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "用生抽做短湯底",
+        "yue": "用生抽做短湯底",
+        "zhHans": "用生抽做短湯底",
+        "en": "Make a quick soy broth",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "淋入生抽 1 湯匙，加少量煮麵水拌成濕潤肉燥；轉小火滾 1 至 2 分鐘，讓肉粒吸汁，鍋底仍留一層可舀起的淺色肉汁。",
+        "yue": "淋入生抽 1 湯匙，加少量煮麵水拌成濕潤肉燥；轉小火滾 1 至 2 分鐘，讓肉粒吸汁，鍋底仍留一層可舀起的淺色肉汁。",
+        "zhHans": "淋入生抽 1 湯匙，加少量煮麵水拌成濕潤肉燥；轉小火滾 1 至 2 分鐘，讓肉粒吸汁，鍋底仍留一層可舀起的淺色肉汁。",
+        "en": "Stir in 1 tbsp Light soy sauce, then add a small splash of noodle water to make a moist pork topping. Simmer on low for 1-2 minutes so the pork absorbs the liquid while a shallow spoonable sauce remains.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "麵條盛碗淋肉燥",
+        "yue": "麵條盛碗淋肉燥",
+        "zhHans": "麵條盛碗淋肉燥",
+        "en": "Bowl the noodles with pork sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "乾麵 2 個麵餅煮至剛軟仍有彈性，瀝水後分入碗中；舀上豬肉和肉汁，撒蔥綠，趁麵條未吸乾湯汁時拌開食用。",
+        "yue": "乾麵 2 個麵餅煮至剛軟仍有彈性，瀝水後分入碗中；舀上豬肉和肉汁，撒蔥綠，趁麵條未吸乾湯汁時拌開食用。",
+        "zhHans": "乾麵 2 個麵餅煮至剛軟仍有彈性，瀝水後分入碗中；舀上豬肉和肉汁，撒蔥綠，趁麵條未吸乾湯汁時拌開食用。",
+        "en": "Boil 2 noodle nests Dried noodles until just tender and still springy, then drain and divide into bowls. Spoon the pork and sauce over the noodles, scatter the scallion greens, and mix while the noodles are still moist.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/danzai-noodles/cover-1.png",
+      "alt": "Generated meal cover image for danzai-noodles",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#danzai-noodles",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#danzai-noodles",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

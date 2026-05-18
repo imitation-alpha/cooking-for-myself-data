@@ -1,0 +1,239 @@
+{
+  "id": "chicken-congee",
+  "status": "approved",
+  "names": {
+    "zhHant": "雞肉粥",
+    "zhHans": "鸡肉粥",
+    "en": "Chicken congee",
+    "ja": "鶏粥",
+    "ko": "닭죽",
+    "th": null,
+    "vi": null,
+    "id": "Chicken congee",
+    "tl": "Chicken congee",
+    "yue": "雞肉粥"
+  },
+  "summary": {
+    "zhHant": "雞肉粥 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。",
+    "en": "雞肉粥 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。",
+    "yue": "雞肉粥 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 40,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "2 件",
+        "zhHans": "2 件",
+        "en": "2 thighs",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 potong",
+        "tl": "2 piraso",
+        "yue": "2 件"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "4 片",
+        "zhHans": "4 片",
+        "en": "4 slices",
+        "ja": "4枚",
+        "ko": "4장",
+        "th": null,
+        "vi": null,
+        "id": "4 iris",
+        "tl": "4 hiwa",
+        "yue": "4 片"
+      }
+    },
+    {
+      "ingredientId": "chicken-broth",
+      "amounts": {
+        "zhHant": "600 毫升",
+        "zhHans": "600 毫升",
+        "en": "600 ml",
+        "ja": "600 ml",
+        "ko": "600 ml",
+        "th": null,
+        "vi": null,
+        "id": "600 ml",
+        "tl": "600 ml",
+        "yue": "600 毫升"
+      }
+    }
+  ],
+  "restrictionTags": [],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "雞髀薑蔥準備成湯底",
+        "yue": "雞髀薑蔥準備成湯底",
+        "zhHans": "雞髀薑蔥準備成湯底",
+        "en": "Set up chicken, ginger, and scallion for broth",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "雞髀肉 2 件抹乾；薑 4 片拍鬆，蒜頭 3 瓣拍扁，蔥 2 條分開蔥白和蔥綠。雞湯 600 毫升倒入鍋中備用。",
+        "yue": "雞髀肉 2 件抹乾；薑 4 片拍鬆，蒜頭 3 瓣拍扁，蔥 2 條分開蔥白和蔥綠。雞湯 600 毫升倒入鍋中備用。",
+        "zhHans": "雞髀肉 2 件抹乾；薑 4 片拍鬆，蒜頭 3 瓣拍扁，蔥 2 條分開蔥白和蔥綠。雞湯 600 毫升倒入鍋中備用。",
+        "en": "Pat 2 thighs dry. Bruise 4 slices Ginger, smash 3 cloves Garlic, and separate 2 stalks Scallions into whites and greens. Pour 600 ml Chicken broth into a pot.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "雞湯浸熟雞髀",
+        "yue": "雞湯浸熟雞髀",
+        "zhHans": "雞湯浸熟雞髀",
+        "en": "Poach thighs in chicken broth",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把雞湯 600 毫升煮至微滾，加入雞髀肉 2 件、薑片、蒜頭和蔥白；轉小火保持輕微冒泡，煮 16 至 20 分鐘至雞肉中心熟透。",
+        "yue": "把雞湯 600 毫升煮至微滾，加入雞髀肉 2 件、薑片、蒜頭和蔥白；轉小火保持輕微冒泡，煮 16 至 20 分鐘至雞肉中心熟透。",
+        "zhHans": "把雞湯 600 毫升煮至微滾，加入雞髀肉 2 件、薑片、蒜頭和蔥白；轉小火保持輕微冒泡，煮 16 至 20 分鐘至雞肉中心熟透。",
+        "en": "Bring 600 ml Chicken broth to a gentle boil, then add 2 thighs, the Ginger, Garlic, and scallion whites. Lower to a quiet simmer and cook 16-20 minutes until the chicken centers are cooked through.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "拆雞肉回到清湯",
+        "yue": "拆雞肉回到清湯",
+        "zhHans": "拆雞肉回到清湯",
+        "en": "Shred chicken back into the clear soup",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "取出雞髀肉稍放涼，撕成容易入口的條；把雞肉放回湯中再煮 3 分鐘。因為沒有白米，湯身會清，不會變成粥底。",
+        "yue": "取出雞髀肉稍放涼，撕成容易入口的條；把雞肉放回湯中再煮 3 分鐘。因為沒有白米，湯身會清，不會變成粥底。",
+        "zhHans": "取出雞髀肉稍放涼，撕成容易入口的條；把雞肉放回湯中再煮 3 分鐘。因為沒有白米，湯身會清，不會變成粥底。",
+        "en": "Remove the thighs, cool briefly, and shred into bite-size strips. Return the chicken to the broth for 3 minutes. Because rice is not listed, the liquid stays clear and will not become a congee base.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "蔥綠完成雞肉清湯",
+        "yue": "蔥綠完成雞肉清湯",
+        "zhHans": "蔥綠完成雞肉清湯",
+        "en": "Serve as scallion chicken broth",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "關火前試雞肉是否全熟，撒入蔥綠；連湯盛入碗中，應是熱的薑蔥雞肉清湯，質地不會有粥的綿滑感。",
+        "yue": "關火前試雞肉是否全熟，撒入蔥綠；連湯盛入碗中，應是熱的薑蔥雞肉清湯，質地不會有粥的綿滑感。",
+        "zhHans": "關火前試雞肉是否全熟，撒入蔥綠；連湯盛入碗中，應是熱的薑蔥雞肉清湯，質地不會有粥的綿滑感。",
+        "en": "Before turning off the heat, confirm the chicken is fully cooked, then add the scallion greens. Ladle into bowls as a hot ginger-scallion chicken broth; it will not have the soft thickness of congee.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/chicken-congee/cover-1.png",
+      "alt": "Generated meal cover image for chicken-congee",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#chicken-congee",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#chicken-congee",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

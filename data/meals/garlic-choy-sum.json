@@ -1,0 +1,227 @@
+{
+  "id": "garlic-choy-sum",
+  "status": "approved",
+  "names": {
+    "zhHant": "蒜蓉炒菜心",
+    "zhHans": "蒜蓉炒菜心",
+    "en": "Garlic choy sum",
+    "ja": "にんにく菜心炒め",
+    "ko": "마늘 초이삼 볶음",
+    "th": null,
+    "vi": null,
+    "id": "Garlic choy sum",
+    "tl": "Garlic choy sum",
+    "yue": "蒜蓉炒菜心"
+  },
+  "summary": {
+    "zhHant": "蒜蓉炒菜心 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "en": "蒜蓉炒菜心 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "yue": "蒜蓉炒菜心 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 18,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "choy-sum",
+      "amounts": {
+        "zhHant": "2 札",
+        "zhHans": "2 札",
+        "en": "2 bunches",
+        "ja": "2束",
+        "ko": "2단",
+        "th": null,
+        "vi": null,
+        "id": "2 ikat",
+        "tl": "2 tali",
+        "yue": "2 札"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "修齊菜心莖葉",
+        "yue": "修齊菜心莖葉",
+        "zhHans": "修齊菜心莖葉",
+        "en": "Trim the choy sum stems and leaves",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "菜心 2 札洗淨瀝乾，粗莖斜切開，葉和幼莖分開放；蒜頭 3 瓣切成蒜蓉，蔥 2 條切短段，生抽 1 湯匙先量好。",
+        "yue": "菜心 2 札洗淨瀝乾，粗莖斜切開，葉和幼莖分開放；蒜頭 3 瓣切成蒜蓉，蔥 2 條切短段，生抽 1 湯匙先量好。",
+        "zhHans": "菜心 2 札洗淨瀝乾，粗莖斜切開，葉和幼莖分開放；蒜頭 3 瓣切成蒜蓉，蔥 2 條切短段，生抽 1 湯匙先量好。",
+        "en": "Wash and drain 2 bunches Choy sum, splitting any thick stems on a diagonal and keeping leaves apart from tender stems. Mince 3 cloves Garlic, cut 2 stalks Scallions into short lengths, and measure 1 tbsp Light soy sauce.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "熱鑊爆香蒜蔥",
+        "yue": "熱鑊爆香蒜蔥",
+        "zhHans": "熱鑊爆香蒜蔥",
+        "en": "Bloom garlic and scallion in a hot wok",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鑊燒熱後落油，放蒜蓉和蔥白，中火炒 15 至 20 秒；蒜香一出但未變啡就轉大火，避免蒜蓉先燶。",
+        "yue": "鑊燒熱後落油，放蒜蓉和蔥白，中火炒 15 至 20 秒；蒜香一出但未變啡就轉大火，避免蒜蓉先燶。",
+        "zhHans": "鑊燒熱後落油，放蒜蓉和蔥白，中火炒 15 至 20 秒；蒜香一出但未變啡就轉大火，避免蒜蓉先燶。",
+        "en": "Heat the wok, add oil, then cook the minced Garlic and scallion whites over medium heat for 15-20 seconds. As soon as they smell fragrant but have not browned, turn the heat high so the garlic does not burn.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "莖先葉後快炒",
+        "yue": "莖先葉後快炒",
+        "zhHans": "莖先葉後快炒",
+        "en": "Cook stems before leaves",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先落菜心粗莖，炒約 1 分鐘至顏色轉深綠；再落葉和幼莖，沿鑊邊加少量水產生蒸氣，繼續兜 1 至 2 分鐘至莖身剛軟。",
+        "yue": "先落菜心粗莖，炒約 1 分鐘至顏色轉深綠；再落葉和幼莖，沿鑊邊加少量水產生蒸氣，繼續兜 1 至 2 分鐘至莖身剛軟。",
+        "zhHans": "先落菜心粗莖，炒約 1 分鐘至顏色轉深綠；再落葉和幼莖，沿鑊邊加少量水產生蒸氣，繼續兜 1 至 2 分鐘至莖身剛軟。",
+        "en": "Add the thick choy sum stems first and stir-fry about 1 minute until deeper green. Add the leaves and tender stems, splash a little water around the wok edge for steam, and cook 1-2 minutes more until the stems just soften.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "生抽收成清爽菜汁",
+        "yue": "生抽收成清爽菜汁",
+        "zhHans": "生抽收成清爽菜汁",
+        "en": "Glaze with a light soy pan juice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "淋入生抽 1 湯匙，加入蔥綠，大火兜 20 至 30 秒；菜心要亮綠、有蒜香，碟底只留少量清菜汁即可上碟。",
+        "yue": "淋入生抽 1 湯匙，加入蔥綠，大火兜 20 至 30 秒；菜心要亮綠、有蒜香，碟底只留少量清菜汁即可上碟。",
+        "zhHans": "淋入生抽 1 湯匙，加入蔥綠，大火兜 20 至 30 秒；菜心要亮綠、有蒜香，碟底只留少量清菜汁即可上碟。",
+        "en": "Pour in 1 tbsp Light soy sauce, add the scallion greens, and toss over high heat for 20-30 seconds. Serve when the choy sum is bright green and garlicky with only a small amount of clear pan juice on the plate.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/garlic-choy-sum/cover-1.png",
+      "alt": "Generated meal cover image for garlic-choy-sum",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#garlic-choy-sum",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#garlic-choy-sum",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

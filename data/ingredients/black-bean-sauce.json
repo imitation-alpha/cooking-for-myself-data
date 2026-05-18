@@ -1,0 +1,56 @@
+{
+  "id": "black-bean-sauce",
+  "status": "approved",
+  "names": {
+    "zhHant": "豆豉醬",
+    "zhHans": "豆豉酱",
+    "en": "Black bean sauce",
+    "ja": "豆豉醤",
+    "ko": "검은콩 소스",
+    "th": null,
+    "vi": null,
+    "id": "Black bean sauce",
+    "tl": "Black bean sauce",
+    "yue": "豆豉醬"
+  },
+  "section": "sauces",
+  "aliases": [
+    "fermented black bean sauce"
+  ],
+  "storeNotes": {
+    "zhHant": "調味料走廊；先看英文名和過敏成分。",
+    "en": "調味料走廊；先看英文名和過敏成分。",
+    "yue": "調味料走廊；先看英文名和過敏成分。"
+  },
+  "substitutions": {
+    "zhHant": "Black bean sauce unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Black bean sauce unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Black bean sauce unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [
+    "soy",
+    "wheatGluten"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/black-bean-sauce.png",
+      "alt": "Generated ingredient image for black-bean-sauce",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#black-bean-sauce",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/black-bean-sauce",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

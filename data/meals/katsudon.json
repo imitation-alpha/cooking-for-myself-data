@@ -1,0 +1,242 @@
+{
+  "id": "katsudon",
+  "status": "approved",
+  "names": {
+    "zhHant": "吉列豬扒丼",
+    "zhHans": "吉列猪扒丼",
+    "en": "Katsudon",
+    "ja": "カツ丼",
+    "ko": "가츠동",
+    "th": null,
+    "vi": null,
+    "id": "Katsudon",
+    "tl": "Katsudon",
+    "yue": "吉列豬扒丼"
+  },
+  "summary": {
+    "zhHant": "吉列豬扒丼 的本地買餸版本。煎香方向，重點是中火定型和最後調味。",
+    "en": "吉列豬扒丼 的本地買餸版本。煎香方向，重點是中火定型和最後調味。",
+    "yue": "吉列豬扒丼 的本地買餸版本。煎香方向，重點是中火定型和最後調味。"
+  },
+  "reason": {
+    "zhHant": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 32,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "pork-chop",
+      "amounts": {
+        "zhHant": "2 塊",
+        "zhHans": "2 块",
+        "en": "2 chops",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 potong",
+        "tl": "2 piraso",
+        "yue": "2 塊"
+      }
+    },
+    {
+      "ingredientId": "udon",
+      "amounts": {
+        "zhHant": "2 包",
+        "zhHans": "2 包",
+        "en": "2 packs",
+        "ja": "2袋",
+        "ko": "2팩",
+        "th": null,
+        "vi": null,
+        "id": "2 pak",
+        "tl": "2 pakete",
+        "yue": "2 包"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "pork",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "白飯煮起豬扒拍薄",
+        "yue": "白飯煮起豬扒拍薄",
+        "zhHans": "白飯煮起豬扒拍薄",
+        "en": "Cook rice and flatten pork chops",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯洗至水較清，放入飯煲煮飯。豬扒 2 塊抹乾，若厚過 1.5 厘米，用刀背或肉槌輕拍至厚薄平均；蒜頭 3 瓣切片，蔥 2 條切段。",
+        "yue": "白米 1 杯洗至水較清，放入飯煲煮飯。豬扒 2 塊抹乾，若厚過 1.5 厘米，用刀背或肉槌輕拍至厚薄平均；蒜頭 3 瓣切片，蔥 2 條切段。",
+        "zhHans": "白米 1 杯洗至水較清，放入飯煲煮飯。豬扒 2 塊抹乾，若厚過 1.5 厘米，用刀背或肉槌輕拍至厚薄平均；蒜頭 3 瓣切片，蔥 2 條切段。",
+        "en": "Rinse 1 cup rice until the water is clearer, then cook it in the rice cooker. Pat 2 pork chops dry; if thicker than 1.5 cm, gently pound them with the back of a knife or a meat mallet to even thickness. Slice 3 cloves garlic and cut 2 stalks scallions into lengths.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "中火煎豬扒兩面",
+        "yue": "中火煎豬扒兩面",
+        "zhHans": "中火煎豬扒兩面",
+        "en": "Sear pork chops on both sides",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鑊加油用中火燒熱，放入豬扒，第一面煎 4 至 5 分鐘至金黃，再翻面煎 3 至 4 分鐘。不要一直移動，讓表面形成煎香外層。",
+        "yue": "平底鑊加油用中火燒熱，放入豬扒，第一面煎 4 至 5 分鐘至金黃，再翻面煎 3 至 4 分鐘。不要一直移動，讓表面形成煎香外層。",
+        "zhHans": "平底鑊加油用中火燒熱，放入豬扒，第一面煎 4 至 5 分鐘至金黃，再翻面煎 3 至 4 分鐘。不要一直移動，讓表面形成煎香外層。",
+        "en": "Heat oil in a skillet over medium heat, add the pork chops, and sear the first side for 4-5 minutes until golden. Turn and cook the second side for 3-4 minutes. Do not move them constantly so a browned surface can form.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "蒜蔥水焗至豬扒熟",
+        "yue": "蒜蔥水焗至豬扒熟",
+        "zhHans": "蒜蔥水焗至豬扒熟",
+        "en": "Cover with garlic scallion steam",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入蒜片和蔥白，煮 30 秒後加入 2 至 3 湯匙水，蓋上用中小火焗 3 至 5 分鐘。豬扒中心要全熟，切開肉汁應清而不帶粉紅；開蓋把汁收至只剩少量。",
+        "yue": "加入蒜片和蔥白，煮 30 秒後加入 2 至 3 湯匙水，蓋上用中小火焗 3 至 5 分鐘。豬扒中心要全熟，切開肉汁應清而不帶粉紅；開蓋把汁收至只剩少量。",
+        "zhHans": "加入蒜片和蔥白，煮 30 秒後加入 2 至 3 湯匙水，蓋上用中小火焗 3 至 5 分鐘。豬扒中心要全熟，切開肉汁應清而不帶粉紅；開蓋把汁收至只剩少量。",
+        "en": "Add the garlic slices and scallion whites, cook for 30 seconds, then add 2-3 tbsp water. Cover and cook over medium-low for 3-5 minutes. The pork centers should be cooked through with clear juices and no pink; uncover and reduce until only a little liquid remains.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "豬扒切件鋪飯面",
+        "yue": "豬扒切件鋪飯面",
+        "zhHans": "豬扒切件鋪飯面",
+        "en": "Slice pork chop over rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "豬扒靜置 2 分鐘後切條。熱飯盛碗，鋪上豬扒條，淋少量鑊底蒜蔥汁，灑蔥綠。飯要吸到肉汁但不濕爛，豬扒口感是煎香肉排而非吉列脆皮。",
+        "yue": "豬扒靜置 2 分鐘後切條。熱飯盛碗，鋪上豬扒條，淋少量鑊底蒜蔥汁，灑蔥綠。飯要吸到肉汁但不濕爛，豬扒口感是煎香肉排而非吉列脆皮。",
+        "zhHans": "豬扒靜置 2 分鐘後切條。熱飯盛碗，鋪上豬扒條，淋少量鑊底蒜蔥汁，灑蔥綠。飯要吸到肉汁但不濕爛，豬扒口感是煎香肉排而非吉列脆皮。",
+        "en": "Rest the pork chops for 2 minutes, then cut them into strips. Spoon hot rice into bowls, lay the pork strips on top, drizzle with the small amount of garlic-scallion pan juice, and scatter the scallion greens. The rice should catch the meat juices without becoming soggy, and the pork will taste like seared chop rather than crisp katsu.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/katsudon/cover-1.png",
+      "alt": "Generated meal cover image for katsudon",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#katsudon",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#katsudon",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

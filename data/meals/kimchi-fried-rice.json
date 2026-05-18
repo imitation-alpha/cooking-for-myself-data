@@ -1,0 +1,290 @@
+{
+  "id": "kimchi-fried-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "泡菜炒飯",
+    "zhHans": "泡菜炒饭",
+    "en": "Kimchi fried rice",
+    "ja": "キムチ炒飯",
+    "ko": "김치볶음밥",
+    "th": null,
+    "vi": null,
+    "id": "Kimchi fried rice",
+    "tl": "Kimchi fried rice",
+    "yue": "泡菜炒飯"
+  },
+  "summary": {
+    "zhHant": "泡菜炒飯 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "en": "泡菜炒飯 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "yue": "泡菜炒飯 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。"
+  },
+  "reason": {
+    "zhHant": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "kimchi",
+      "amounts": {
+        "zhHant": "200 克",
+        "zhHans": "200 克",
+        "en": "200 g",
+        "ja": "200 g",
+        "ko": "200 g",
+        "th": null,
+        "vi": null,
+        "id": "200 g",
+        "tl": "200 g",
+        "yue": "200 克"
+      }
+    },
+    {
+      "ingredientId": "gochujang",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    },
+    {
+      "ingredientId": "cooked-rice",
+      "amounts": {
+        "zhHant": "2 碗",
+        "zhHans": "2 碗",
+        "en": "2 bowls",
+        "ja": "2杯",
+        "ko": "2그릇",
+        "th": null,
+        "vi": null,
+        "id": "2 mangkuk",
+        "tl": "2 mangkok",
+        "yue": "2 碗"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "3 隻",
+        "zhHans": "3 隻",
+        "en": "3 eggs",
+        "ja": "3個",
+        "ko": "3개",
+        "th": null,
+        "vi": null,
+        "id": "3 butir",
+        "tl": "3 piraso",
+        "yue": "3 隻"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "fish",
+    "shellfish",
+    "soy",
+    "wheatGluten",
+    "egg"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "白米先煮冷飯抓散",
+        "yue": "白米先煮冷飯抓散",
+        "zhHans": "白米先煮冷飯抓散",
+        "en": "Cook the extra rice and loosen cold rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯洗淨後用飯煲煮成白飯，留作加飯或放涼下餐使用。這鍋炒飯主體用冷飯 2 碗，先用手或飯勺抓散；泡菜 200 克剪成小段，蒜頭 3 瓣切碎，蔥 2 條分蔥白蔥綠切粒。",
+        "yue": "白米 1 杯洗淨後用飯煲煮成白飯，留作加飯或放涼下餐使用。這鍋炒飯主體用冷飯 2 碗，先用手或飯勺抓散；泡菜 200 克剪成小段，蒜頭 3 瓣切碎，蔥 2 條分蔥白蔥綠切粒。",
+        "zhHans": "白米 1 杯洗淨後用飯煲煮成白飯，留作加飯或放涼下餐使用。這鍋炒飯主體用冷飯 2 碗，先用手或飯勺抓散；泡菜 200 克剪成小段，蒜頭 3 瓣切碎，蔥 2 條分蔥白蔥綠切粒。",
+        "en": "Rinse 1 cup white rice and cook it in the rice cooker as extra rice or to cool for another meal. For this fried rice, use 2 bowls cooked rice and break up the clumps by hand or with a rice paddle; cut 200 g kimchi into small pieces, mince 3 cloves garlic, and separate 2 stalks scallions into whites and greens.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "泡菜辣醬炒出紅油",
+        "yue": "泡菜辣醬炒出紅油",
+        "zhHans": "泡菜辣醬炒出紅油",
+        "en": "Cook kimchi and gochujang until glossy",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鑊加油用中火燒熱，下蒜碎和蔥白炒 20 秒。加入泡菜和韓式辣醬 1 湯匙，炒 2 分鐘至泡菜邊緣變乾、鍋底出現紅色油光。",
+        "yue": "鑊加油用中火燒熱，下蒜碎和蔥白炒 20 秒。加入泡菜和韓式辣醬 1 湯匙，炒 2 分鐘至泡菜邊緣變乾、鍋底出現紅色油光。",
+        "zhHans": "鑊加油用中火燒熱，下蒜碎和蔥白炒 20 秒。加入泡菜和韓式辣醬 1 湯匙，炒 2 分鐘至泡菜邊緣變乾、鍋底出現紅色油光。",
+        "en": "Heat oil in a wok over medium heat, then cook the minced garlic and scallion whites for 20 seconds. Add the kimchi and 1 tbsp gochujang, and stir-fry for 2 minutes until the kimchi edges dry slightly and red oil shines on the pan.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "冷飯粒粒炒上色",
+        "yue": "冷飯粒粒炒上色",
+        "zhHans": "冷飯粒粒炒上色",
+        "en": "Color every grain of cold rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "轉中大火，加入冷飯 2 碗，壓散後翻炒 3 至 4 分鐘。沿鑊邊淋入生抽 1 湯匙，炒至飯粒均勻帶紅、沒有大白飯團，鍋底只有薄薄油光。",
+        "yue": "轉中大火，加入冷飯 2 碗，壓散後翻炒 3 至 4 分鐘。沿鑊邊淋入生抽 1 湯匙，炒至飯粒均勻帶紅、沒有大白飯團，鍋底只有薄薄油光。",
+        "zhHans": "轉中大火，加入冷飯 2 碗，壓散後翻炒 3 至 4 分鐘。沿鑊邊淋入生抽 1 湯匙，炒至飯粒均勻帶紅、沒有大白飯團，鍋底只有薄薄油光。",
+        "en": "Raise the heat to medium-high, add 2 bowls cooked rice, press out clumps, and stir-fry for 3-4 minutes. Pour 1 tbsp light soy sauce around the pan edge and cook until the grains are evenly red with no large white clumps and only a thin sheen in the wok.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "嫩蛋鋪面灑蔥綠",
+        "yue": "嫩蛋鋪面灑蔥綠",
+        "zhHans": "嫩蛋鋪面灑蔥綠",
+        "en": "Set soft egg and add scallion greens",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "雞蛋 3 隻打散。把炒飯推到一邊，補少量油，倒入蛋液用中火炒至剛凝固仍柔軟，再拌入飯中或鋪在飯面。最後灑蔥綠，趁飯粒乾爽、泡菜酸辣味最明顯時上碟。",
+        "yue": "雞蛋 3 隻打散。把炒飯推到一邊，補少量油，倒入蛋液用中火炒至剛凝固仍柔軟，再拌入飯中或鋪在飯面。最後灑蔥綠，趁飯粒乾爽、泡菜酸辣味最明顯時上碟。",
+        "zhHans": "雞蛋 3 隻打散。把炒飯推到一邊，補少量油，倒入蛋液用中火炒至剛凝固仍柔軟，再拌入飯中或鋪在飯面。最後灑蔥綠，趁飯粒乾爽、泡菜酸辣味最明顯時上碟。",
+        "en": "Beat 3 eggs. Push the fried rice to one side, add a little oil, pour in the eggs, and cook over medium heat until just set but still soft; fold them through the rice or lay them on top. Scatter the scallion greens and serve while the grains are dry and the kimchi tastes bright and spicy.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/kimchi-fried-rice/cover-1.png",
+      "alt": "Generated meal cover image for kimchi-fried-rice",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#kimchi-fried-rice",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#kimchi-fried-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

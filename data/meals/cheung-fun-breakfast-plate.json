@@ -1,0 +1,227 @@
+{
+  "id": "cheung-fun-breakfast-plate",
+  "status": "approved",
+  "names": {
+    "zhHant": "豬腸粉早餐碟",
+    "zhHans": "猪肠粉早餐碟",
+    "en": "Cheung fun breakfast plate",
+    "ja": "腸粉朝食プレート",
+    "ko": "청펀 아침 플레이트",
+    "th": null,
+    "vi": null,
+    "id": "Cheung fun breakfast plate",
+    "tl": "Cheung fun breakfast plate",
+    "yue": "豬腸粉早餐碟"
+  },
+  "summary": {
+    "zhHant": "豬腸粉早餐碟 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "豬腸粉早餐碟 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "豬腸粉早餐碟 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong breakfast shortcut；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong breakfast shortcut；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong breakfast shortcut；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "cheung-fun",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 rolls",
+        "ja": "2 rolls",
+        "ko": "2 rolls",
+        "th": null,
+        "vi": null,
+        "id": "2 rolls",
+        "tl": "2 rolls",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "腸粉切段蔥蒜切細",
+        "yue": "腸粉切段蔥蒜切細",
+        "zhHans": "腸粉切段蔥蒜切細",
+        "en": "Cut cheung fun and aromatics",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "豬腸粉 2 條切成 4 至 5 厘米段，放入可蒸碟中，表面可掃少量油防黏。蒜頭 3 瓣切碎，蔥 2 條切粒；生抽 1 湯匙先量好。",
+        "yue": "豬腸粉 2 條切成 4 至 5 厘米段，放入可蒸碟中，表面可掃少量油防黏。蒜頭 3 瓣切碎，蔥 2 條切粒；生抽 1 湯匙先量好。",
+        "zhHans": "豬腸粉 2 條切成 4 至 5 厘米段，放入可蒸碟中，表面可掃少量油防黏。蒜頭 3 瓣切碎，蔥 2 條切粒；生抽 1 湯匙先量好。",
+        "en": "Cut 2 cheung fun rolls into 4-5 cm sections and place them on a steamable plate; brush with a little oil if needed to prevent sticking. Mince 3 cloves garlic, finely cut 2 stalks scallions, and measure 1 tbsp light soy sauce.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "大火蒸軟腸粉",
+        "yue": "大火蒸軟腸粉",
+        "zhHans": "大火蒸軟腸粉",
+        "en": "Steam cheung fun until soft",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蒸鍋水滾後放入腸粉，保持大火蒸 5 至 7 分鐘。腸粉要熱透、變回柔軟微彈；若從雪櫃取出很硬，可多蒸 2 分鐘。",
+        "yue": "蒸鍋水滾後放入腸粉，保持大火蒸 5 至 7 分鐘。腸粉要熱透、變回柔軟微彈；若從雪櫃取出很硬，可多蒸 2 分鐘。",
+        "zhHans": "蒸鍋水滾後放入腸粉，保持大火蒸 5 至 7 分鐘。腸粉要熱透、變回柔軟微彈；若從雪櫃取出很硬，可多蒸 2 分鐘。",
+        "en": "When the steamer water is boiling, add the plate of cheung fun and steam over high heat for 5-7 minutes. The rolls should be hot through and soft with a slight bounce; if they came from the refrigerator very firm, steam 2 minutes longer.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煮蒜蔥生抽熱油",
+        "yue": "煮蒜蔥生抽熱油",
+        "zhHans": "煮蒜蔥生抽熱油",
+        "en": "Cook hot garlic-scallion soy oil",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "小鍋加油用小火燒熱，下蒜蓉煮 30 秒至香而未焦，加入一半蔥粒再煮 10 秒。關火拌入生抽 1 湯匙和少量熱水，讓醬汁可流動。",
+        "yue": "小鍋加油用小火燒熱，下蒜蓉煮 30 秒至香而未焦，加入一半蔥粒再煮 10 秒。關火拌入生抽 1 湯匙和少量熱水，讓醬汁可流動。",
+        "zhHans": "小鍋加油用小火燒熱，下蒜蓉煮 30 秒至香而未焦，加入一半蔥粒再煮 10 秒。關火拌入生抽 1 湯匙和少量熱水，讓醬汁可流動。",
+        "en": "Heat oil in a small pan over low heat, add the minced garlic, and cook for 30 seconds until fragrant but not browned. Add half the scallions for 10 seconds, then turn off the heat and stir in 1 tbsp light soy sauce plus a small splash of hot water so the sauce stays pourable.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "熱汁淋早餐腸粉",
+        "yue": "熱汁淋早餐腸粉",
+        "zhHans": "熱汁淋早餐腸粉",
+        "en": "Pour sauce over the breakfast rolls",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "腸粉出蒸鍋後倒走碟底多餘水分，趁熱淋上蒜蔥生抽油。灑餘下蔥粒，腸粉應該滑軟、表面有薄薄油光，作早餐碟立即食用。",
+        "yue": "腸粉出蒸鍋後倒走碟底多餘水分，趁熱淋上蒜蔥生抽油。灑餘下蔥粒，腸粉應該滑軟、表面有薄薄油光，作早餐碟立即食用。",
+        "zhHans": "腸粉出蒸鍋後倒走碟底多餘水分，趁熱淋上蒜蔥生抽油。灑餘下蔥粒，腸粉應該滑軟、表面有薄薄油光，作早餐碟立即食用。",
+        "en": "After steaming, pour away excess water from the plate and spoon the hot garlic-scallion soy oil over the cheung fun. Scatter the remaining scallions. The rolls should be soft and slippery with a thin gloss of oil, ready to eat immediately as a breakfast plate.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/cheung-fun-breakfast-plate/cover-1.png",
+      "alt": "Generated meal cover image for cheung-fun-breakfast-plate",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#cheung-fun-breakfast-plate",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#cheung-fun-breakfast-plate",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

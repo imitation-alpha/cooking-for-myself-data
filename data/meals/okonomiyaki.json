@@ -1,0 +1,228 @@
+{
+  "id": "okonomiyaki",
+  "status": "approved",
+  "names": {
+    "zhHant": "大阪燒",
+    "zhHans": "大阪烧",
+    "en": "Okonomiyaki",
+    "ja": "お好み焼き",
+    "ko": "오코노미야키",
+    "th": null,
+    "vi": null,
+    "id": "Okonomiyaki",
+    "tl": "Okonomiyaki",
+    "yue": "大阪燒"
+  },
+  "summary": {
+    "zhHant": "大阪燒 的本地買餸版本。煎香方向，重點是中火定型和最後調味。",
+    "en": "大阪燒 的本地買餸版本。煎香方向，重點是中火定型和最後調味。",
+    "yue": "大阪燒 的本地買餸版本。煎香方向，重點是中火定型和最後調味。"
+  },
+  "reason": {
+    "zhHant": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 32,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "pancake-mix",
+      "amounts": {
+        "zhHant": "180 克",
+        "zhHans": "180 克",
+        "en": "180 g",
+        "ja": "180 g",
+        "ko": "180 g",
+        "th": null,
+        "vi": null,
+        "id": "180 g",
+        "tl": "180 g",
+        "yue": "180 克"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "3 隻",
+        "zhHans": "3 隻",
+        "en": "3 eggs",
+        "ja": "3個",
+        "ko": "3개",
+        "th": null,
+        "vi": null,
+        "id": "3 butir",
+        "tl": "3 piraso",
+        "yue": "3 隻"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "egg",
+    "milk",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "大阪燒麵糊拌蔥蒜",
+        "yue": "大阪燒麵糊拌蔥蒜",
+        "zhHans": "大阪燒麵糊拌蔥蒜",
+        "en": "Mix okonomiyaki-style batter",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "班戟粉 180 克放入大碗，加入雞蛋 3 隻和少量水，先攪成可慢慢流動的厚糊。蒜頭 3 瓣切碎，蔥 2 條切幼粒，拌入麵糊；麵糊應比普通薄班戟更厚。",
+        "yue": "班戟粉 180 克放入大碗，加入雞蛋 3 隻和少量水，先攪成可慢慢流動的厚糊。蒜頭 3 瓣切碎，蔥 2 條切幼粒，拌入麵糊；麵糊應比普通薄班戟更厚。",
+        "zhHans": "班戟粉 180 克放入大碗，加入雞蛋 3 隻和少量水，先攪成可慢慢流動的厚糊。蒜頭 3 瓣切碎，蔥 2 條切幼粒，拌入麵糊；麵糊應比普通薄班戟更厚。",
+        "en": "Put 180 g pancake mix in a large bowl, add 3 eggs and a small amount of water, and mix into a thick batter that flows slowly. Mince 3 cloves garlic, finely cut 2 stalks scallions, and stir them into the batter; it should be thicker than a thin breakfast pancake batter.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "中小火煎厚餅底",
+        "yue": "中小火煎厚餅底",
+        "zhHans": "中小火煎厚餅底",
+        "en": "Cook the thick pancake base",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鑊加油用中小火燒熱，倒入一半麵糊，推成約 1.5 至 2 厘米厚圓餅。煎 4 至 5 分鐘，至邊位凝固、底部金黃，表面仍有少量濕糊。",
+        "yue": "平底鑊加油用中小火燒熱，倒入一半麵糊，推成約 1.5 至 2 厘米厚圓餅。煎 4 至 5 分鐘，至邊位凝固、底部金黃，表面仍有少量濕糊。",
+        "zhHans": "平底鑊加油用中小火燒熱，倒入一半麵糊，推成約 1.5 至 2 厘米厚圓餅。煎 4 至 5 分鐘，至邊位凝固、底部金黃，表面仍有少量濕糊。",
+        "en": "Heat oil in a skillet over medium-low heat, pour in half the batter, and spread it into a round pancake about 1.5-2 cm thick. Cook for 4-5 minutes until the edges set and the underside is golden while the top still has a little wet batter.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "翻面焗熟中心",
+        "yue": "翻面焗熟中心",
+        "zhHans": "翻面焗熟中心",
+        "en": "Flip and cook the center through",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "用鑊鏟托穩厚餅翻面，若容易裂可先分成兩半翻。蓋上煎 4 至 5 分鐘，讓中心蒸熟；用鑊鏟輕按，中心應有彈性而不是流出濕粉漿。第二塊用同樣方法煎。",
+        "yue": "用鑊鏟托穩厚餅翻面，若容易裂可先分成兩半翻。蓋上煎 4 至 5 分鐘，讓中心蒸熟；用鑊鏟輕按，中心應有彈性而不是流出濕粉漿。第二塊用同樣方法煎。",
+        "zhHans": "用鑊鏟托穩厚餅翻面，若容易裂可先分成兩半翻。蓋上煎 4 至 5 分鐘，讓中心蒸熟；用鑊鏟輕按，中心應有彈性而不是流出濕粉漿。第二塊用同樣方法煎。",
+        "en": "Support the thick pancake with a spatula and flip it; if it feels fragile, cut it in half first and turn each half. Cover and cook for 4-5 minutes so the center steams through; when pressed, the middle should spring back instead of leaking wet batter. Cook the second pancake the same way.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "蔥蒜蛋餅熱切上碟",
+        "yue": "蔥蒜蛋餅熱切上碟",
+        "zhHans": "蔥蒜蛋餅熱切上碟",
+        "en": "Slice and serve the scallion egg pancake",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把兩塊厚餅上碟切件，趁熱食。表面應金黃，中心熟透但不乾；因沒有椰菜和大阪燒醬，味道會是蔥蒜蛋香班戟，不會有傳統大阪燒的鬆散菜粒口感。",
+        "yue": "把兩塊厚餅上碟切件，趁熱食。表面應金黃，中心熟透但不乾；因沒有椰菜和大阪燒醬，味道會是蔥蒜蛋香班戟，不會有傳統大阪燒的鬆散菜粒口感。",
+        "zhHans": "把兩塊厚餅上碟切件，趁熱食。表面應金黃，中心熟透但不乾；因沒有椰菜和大阪燒醬，味道會是蔥蒜蛋香班戟，不會有傳統大阪燒的鬆散菜粒口感。",
+        "en": "Plate the two thick pancakes, cut them into pieces, and eat while hot. The surface should be golden and the center cooked through but not dry; without cabbage and okonomiyaki sauce, the flavor is scallion-garlic egg pancake rather than the loose vegetable texture of classic okonomiyaki.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/okonomiyaki/cover-1.png",
+      "alt": "Generated meal cover image for okonomiyaki",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#okonomiyaki",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#okonomiyaki",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

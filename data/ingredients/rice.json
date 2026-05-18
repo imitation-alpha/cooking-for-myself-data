@@ -1,0 +1,53 @@
+{
+  "id": "rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "白米",
+    "zhHans": "白米",
+    "en": "White rice",
+    "ja": "白米",
+    "ko": "백미",
+    "th": null,
+    "vi": null,
+    "id": "White rice",
+    "tl": "White rice",
+    "yue": "白米"
+  },
+  "section": "dryGoods",
+  "aliases": [
+    "jasmine rice"
+  ],
+  "storeNotes": {
+    "zhHant": "乾貨或主食走廊；適合一次補貨。",
+    "en": "乾貨或主食走廊；適合一次補貨。",
+    "yue": "乾貨或主食走廊；適合一次補貨。"
+  },
+  "substitutions": {
+    "zhHant": "White rice unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "White rice unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "White rice unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [],
+  "images": [
+    {
+      "path": "assets/ingredients/rice.png",
+      "alt": "Generated ingredient image for rice",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#rice",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

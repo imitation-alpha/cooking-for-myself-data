@@ -1,0 +1,259 @@
+{
+  "id": "char-siu-egg-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "叉燒煎蛋飯",
+    "zhHans": "叉烧煎蛋饭",
+    "en": "Char siu egg rice",
+    "ja": "チャーシュー目玉焼きご飯",
+    "ko": "차슈 달걀밥",
+    "th": null,
+    "vi": null,
+    "id": "Char siu egg rice",
+    "tl": "Char siu egg rice",
+    "yue": "叉燒煎蛋飯"
+  },
+  "summary": {
+    "zhHant": "叉燒煎蛋飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "叉燒煎蛋飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "叉燒煎蛋飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 18,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "char-siu",
+      "amounts": {
+        "zhHant": "220 克",
+        "zhHans": "220 克",
+        "en": "220 g",
+        "ja": "220 g",
+        "ko": "220 g",
+        "th": null,
+        "vi": null,
+        "id": "220 g",
+        "tl": "220 g",
+        "yue": "220 克"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "3 隻",
+        "zhHans": "3 隻",
+        "en": "3 eggs",
+        "ja": "3個",
+        "ko": "3개",
+        "th": null,
+        "vi": null,
+        "id": "3 butir",
+        "tl": "3 piraso",
+        "yue": "3 隻"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "pork",
+    "egg",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "煮飯並切叉燒",
+        "yue": "煮飯並切叉燒",
+        "zhHans": "煮飯並切叉燒",
+        "en": "Cook rice and slice char siu",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯洗至水較清，按平日煮飯水量煮熟。叉燒 220 克切厚片或粗條；蒜頭 3 瓣切片，蔥 2 條切粒。",
+        "yue": "白米 1 杯洗至水較清，按平日煮飯水量煮熟。叉燒 220 克切厚片或粗條；蒜頭 3 瓣切片，蔥 2 條切粒。",
+        "zhHans": "白米 1 杯洗至水較清，按平日煮飯水量煮熟。叉燒 220 克切厚片或粗條；蒜頭 3 瓣切片，蔥 2 條切粒。",
+        "en": "Rinse 1 cup white rice until the water is clearer, then cook it with your usual rice water amount. Cut 220 g char siu into thick slices or strips. Slice 3 cloves garlic and cut 2 stalks scallions finely.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "叉燒煎熱出香",
+        "yue": "叉燒煎熱出香",
+        "zhHans": "叉燒煎熱出香",
+        "en": "Warm and brown the char siu",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鍋加少量油，中火下叉燒 220 克，每面煎 30 至 60 秒至邊緣微焦、油香出來。夾出放在熱飯旁邊保溫。",
+        "yue": "平底鍋加少量油，中火下叉燒 220 克，每面煎 30 至 60 秒至邊緣微焦、油香出來。夾出放在熱飯旁邊保溫。",
+        "zhHans": "平底鍋加少量油，中火下叉燒 220 克，每面煎 30 至 60 秒至邊緣微焦、油香出來。夾出放在熱飯旁邊保溫。",
+        "en": "Heat a little oil in a skillet over medium heat. Add 220 g char siu and sear 30-60 seconds per side until the edges are lightly browned and fragrant. Remove and keep warm beside the hot rice.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "蒜香半熟煎蛋",
+        "yue": "蒜香半熟煎蛋",
+        "zhHans": "蒜香半熟煎蛋",
+        "en": "Fry eggs with garlic aroma",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "同鍋下蒜片煎 20 秒，打入雞蛋 3 隻。中火煎至蛋白凝固、蛋黃仍流心；喜歡全熟就加蓋多煎 1 分鐘。",
+        "yue": "同鍋下蒜片煎 20 秒，打入雞蛋 3 隻。中火煎至蛋白凝固、蛋黃仍流心；喜歡全熟就加蓋多煎 1 分鐘。",
+        "zhHans": "同鍋下蒜片煎 20 秒，打入雞蛋 3 隻。中火煎至蛋白凝固、蛋黃仍流心；喜歡全熟就加蓋多煎 1 分鐘。",
+        "en": "In the same pan, cook the garlic slices for 20 seconds, then crack in 3 eggs. Fry over medium heat until the whites set and the yolks are still runny; for fully cooked yolks, cover and cook 1 minute longer.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "生抽蔥粒淋飯面",
+        "yue": "生抽蔥粒淋飯面",
+        "zhHans": "生抽蔥粒淋飯面",
+        "en": "Spoon soy and scallion over the rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把飯盛碗，放上叉燒和煎蛋。沿飯邊淋生抽 1 湯匙，灑蔥粒，讓蛋黃或蛋面和叉燒油香一起拌入熱飯。",
+        "yue": "把飯盛碗，放上叉燒和煎蛋。沿飯邊淋生抽 1 湯匙，灑蔥粒，讓蛋黃或蛋面和叉燒油香一起拌入熱飯。",
+        "zhHans": "把飯盛碗，放上叉燒和煎蛋。沿飯邊淋生抽 1 湯匙，灑蔥粒，讓蛋黃或蛋面和叉燒油香一起拌入熱飯。",
+        "en": "Scoop the rice into bowls and top with char siu and fried eggs. Drizzle 1 tbsp light soy sauce around the rice, sprinkle scallions, and let the yolk or egg surface mix with the char siu juices and hot rice.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/char-siu-egg-rice/cover-1.png",
+      "alt": "Generated meal cover image for char-siu-egg-rice",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#char-siu-egg-rice",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#char-siu-egg-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "id": "oyster-omelette-plate",
+  "status": "approved",
+  "names": {
+    "zhHant": "蚵仔煎餐",
+    "zhHans": "蚵仔煎餐",
+    "en": "Taiwanese oyster omelette plate",
+    "ja": "台湾牡蠣オムレツプレート",
+    "ko": "대만 굴전 플레이트",
+    "th": null,
+    "vi": null,
+    "id": "Taiwanese oyster omelette plate",
+    "tl": "Taiwanese oyster omelette plate",
+    "yue": "蚵仔煎餐"
+  },
+  "summary": {
+    "zhHant": "蚵仔煎餐 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "蚵仔煎餐 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "蚵仔煎餐 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Taiwanese night market cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Taiwanese night market cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Taiwanese night market cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "oyster",
+      "amounts": {
+        "zhHant": "150 克",
+        "zhHans": "150 克",
+        "en": "150 g",
+        "ja": "150 g",
+        "ko": "150 g",
+        "th": null,
+        "vi": null,
+        "id": "150 g",
+        "tl": "150 g",
+        "yue": "150 克"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "3 隻",
+        "zhHans": "3 隻",
+        "en": "3 eggs",
+        "ja": "3個",
+        "ko": "3개",
+        "th": null,
+        "vi": null,
+        "id": "3 butir",
+        "tl": "3 piraso",
+        "yue": "3 隻"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "shellfish",
+    "egg",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "蚵仔瀝乾蛋打散",
+        "yue": "蚵仔瀝乾蛋打散",
+        "zhHans": "蚵仔瀝乾蛋打散",
+        "en": "Drain oysters and beat the eggs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蚵仔 150 克輕輕沖淨後瀝乾，用廚紙吸走表面水分。雞蛋 3 隻打散；蒜頭 3 瓣切碎，蔥 2 條切粒，生抽 1 湯匙和 1 湯匙水先拌成淡醬汁。",
+        "yue": "蚵仔 150 克輕輕沖淨後瀝乾，用廚紙吸走表面水分。雞蛋 3 隻打散；蒜頭 3 瓣切碎，蔥 2 條切粒，生抽 1 湯匙和 1 湯匙水先拌成淡醬汁。",
+        "zhHans": "蚵仔 150 克輕輕沖淨後瀝乾，用廚紙吸走表面水分。雞蛋 3 隻打散；蒜頭 3 瓣切碎，蔥 2 條切粒，生抽 1 湯匙和 1 湯匙水先拌成淡醬汁。",
+        "en": "Gently rinse 150 g oysters, drain them well, and blot surface moisture with paper towel. Beat 3 eggs; mince 3 cloves garlic, finely cut 2 stalks scallions, and mix 1 tbsp light soy sauce with 1 tbsp water as a light sauce.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "熱鍋快煎蚵仔",
+        "yue": "熱鍋快煎蚵仔",
+        "zhHans": "熱鍋快煎蚵仔",
+        "en": "Sear oysters quickly in a hot pan",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鍋加油，用中大火燒至油面發亮。下蒜碎炒 10 至 15 秒，加入蚵仔鋪開，煎約 45 至 60 秒至邊緣剛縮、表面不再透明。",
+        "yue": "平底鍋加油，用中大火燒至油面發亮。下蒜碎炒 10 至 15 秒，加入蚵仔鋪開，煎約 45 至 60 秒至邊緣剛縮、表面不再透明。",
+        "zhHans": "平底鍋加油，用中大火燒至油面發亮。下蒜碎炒 10 至 15 秒，加入蚵仔鋪開，煎約 45 至 60 秒至邊緣剛縮、表面不再透明。",
+        "en": "Heat oil in a skillet over medium-high heat until glossy. Cook the minced garlic for 10-15 seconds, add the oysters in a single layer, and sear for about 45-60 seconds until the edges just tighten and the surfaces are no longer translucent.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "蛋液包住蚵仔定型",
+        "yue": "蛋液包住蚵仔定型",
+        "zhHans": "蛋液包住蚵仔定型",
+        "en": "Set egg around the oysters",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "轉中火，倒入蛋液並輕輕搖鍋，讓蛋包住蚵仔。灑入大半蔥粒，煎 2 至 3 分鐘至底部定型、表面仍微濕，再小心翻面煎 30 至 60 秒。",
+        "yue": "轉中火，倒入蛋液並輕輕搖鍋，讓蛋包住蚵仔。灑入大半蔥粒，煎 2 至 3 分鐘至底部定型、表面仍微濕，再小心翻面煎 30 至 60 秒。",
+        "zhHans": "轉中火，倒入蛋液並輕輕搖鍋，讓蛋包住蚵仔。灑入大半蔥粒，煎 2 至 3 分鐘至底部定型、表面仍微濕，再小心翻面煎 30 至 60 秒。",
+        "en": "Lower to medium heat, pour in the beaten eggs, and gently swirl the pan so the egg surrounds the oysters. Scatter in most of the scallions and cook for 2-3 minutes until the bottom sets while the top is still slightly wet, then carefully turn and cook 30-60 seconds more.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "淡生抽汁點面上碟",
+        "yue": "淡生抽汁點面上碟",
+        "zhHans": "淡生抽汁點面上碟",
+        "en": "Spoon light soy over the plated omelette",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把蚵仔蛋滑到碟上，淋少量生抽水，灑餘下蔥粒。中心應該剛熟嫩滑、蚵仔多汁；因沒有粉漿和甜醬，口感會像蚵仔煎蛋而不是夜市蚵仔煎。",
+        "yue": "把蚵仔蛋滑到碟上，淋少量生抽水，灑餘下蔥粒。中心應該剛熟嫩滑、蚵仔多汁；因沒有粉漿和甜醬，口感會像蚵仔煎蛋而不是夜市蚵仔煎。",
+        "zhHans": "把蚵仔蛋滑到碟上，淋少量生抽水，灑餘下蔥粒。中心應該剛熟嫩滑、蚵仔多汁；因沒有粉漿和甜醬，口感會像蚵仔煎蛋而不是夜市蚵仔煎。",
+        "en": "Slide the oyster egg pancake onto a plate, spoon over a little of the diluted soy sauce, and scatter the remaining scallions. The center should be just set and tender with juicy oysters; without starch slurry or sweet sauce, the texture is oyster egg pancake rather than night-market oyster omelette.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/oyster-omelette-plate/cover-1.png",
+      "alt": "Generated meal cover image for oyster-omelette-plate",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#oyster-omelette-plate",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#oyster-omelette-plate",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

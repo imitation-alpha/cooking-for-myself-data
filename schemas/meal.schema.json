@@ -1,0 +1,418 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CookingForMyselfMealCatalog",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "meta",
+    "meals"
+  ],
+  "properties": {
+    "meta": {
+      "type": "object"
+    },
+    "meals": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "status",
+          "names",
+          "summary",
+          "reason",
+          "timeMinutes",
+          "difficulty",
+          "servings",
+          "ingredients",
+          "restrictionTags",
+          "steps",
+          "images",
+          "provenance"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          },
+          "status": {
+            "enum": [
+              "draft",
+              "reviewed",
+              "approved"
+            ]
+          },
+          "names": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "zhHant",
+              "yue",
+              "zhHans",
+              "en",
+              "ja",
+              "ko",
+              "th",
+              "vi",
+              "id",
+              "tl"
+            ],
+            "properties": {
+              "zhHant": {
+                "type": "string",
+                "minLength": 1
+              },
+              "yue": {
+                "type": "string",
+                "minLength": 1
+              },
+              "zhHans": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "en": {
+                "type": "string",
+                "minLength": 1
+              },
+              "ja": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "ko": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "th": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "vi": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "id": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "tl": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              }
+            }
+          },
+          "summary": {
+            "type": "object"
+          },
+          "reason": {
+            "type": "object"
+          },
+          "timeMinutes": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "difficulty": {
+            "type": "string"
+          },
+          "servings": {
+            "type": "string"
+          },
+          "ingredients": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "ingredientId",
+                "amounts"
+              ],
+              "properties": {
+                "ingredientId": {
+                  "type": "string"
+                },
+                "amounts": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": [
+                    "zhHant",
+                    "yue",
+                    "zhHans",
+                    "en",
+                    "ja",
+                    "ko",
+                    "th",
+                    "vi",
+                    "id",
+                    "tl"
+                  ],
+                  "properties": {
+                    "zhHant": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "yue": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "zhHans": {
+                      "anyOf": [
+                        {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    },
+                    "en": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "ja": {
+                      "anyOf": [
+                        {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    },
+                    "ko": {
+                      "anyOf": [
+                        {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    },
+                    "th": {
+                      "anyOf": [
+                        {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    },
+                    "vi": {
+                      "anyOf": [
+                        {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    },
+                    "id": {
+                      "anyOf": [
+                        {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    },
+                    "tl": {
+                      "anyOf": [
+                        {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "restrictionTags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "steps": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "order",
+                "title",
+                "detail"
+              ],
+              "properties": {
+                "order": {
+                  "type": "integer",
+                  "minimum": 1
+                },
+                "title": {
+                  "type": "object"
+                },
+                "detail": {
+                  "type": "object"
+                }
+              }
+            }
+          },
+          "images": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "path",
+                "alt",
+                "contentStyle",
+                "disclosure",
+                "license",
+                "attribution",
+                "sourceName",
+                "sourceURL",
+                "reviewStatus"
+              ],
+              "properties": {
+                "path": {
+                  "type": "string"
+                },
+                "alt": {
+                  "type": "string"
+                },
+                "contentStyle": {
+                  "enum": [
+                    "realistic_food_photo"
+                  ]
+                },
+                "disclosure": {
+                  "enum": [
+                    "generated",
+                    "owned",
+                    "licensed",
+                    "placeholder"
+                  ]
+                },
+                "license": {
+                  "type": "string"
+                },
+                "attribution": {
+                  "type": "string"
+                },
+                "sourceName": {
+                  "type": "string"
+                },
+                "sourceURL": {
+                  "type": "string"
+                },
+                "reviewStatus": {
+                  "enum": [
+                    "needs_review",
+                    "reviewed",
+                    "approved"
+                  ]
+                }
+              }
+            }
+          },
+          "provenance": {
+            "type": "object",
+            "additionalProperties": true,
+            "required": [
+              "sourceName",
+              "sourceURL",
+              "license",
+              "attribution",
+              "reviewStatus"
+            ],
+            "properties": {
+              "sourceName": {
+                "type": "string"
+              },
+              "sourceURL": {
+                "type": "string"
+              },
+              "license": {
+                "type": "string"
+              },
+              "attribution": {
+                "type": "string"
+              },
+              "reviewStatus": {
+                "enum": [
+                  "draft",
+                  "reviewed",
+                  "approved"
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

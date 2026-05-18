@@ -1,0 +1,57 @@
+{
+  "id": "satay-sauce",
+  "status": "approved",
+  "names": {
+    "zhHant": "沙嗲醬",
+    "zhHans": "沙嗲酱",
+    "en": "Satay sauce",
+    "ja": "サテソース",
+    "ko": "사테 소스",
+    "th": null,
+    "vi": null,
+    "id": "Satay sauce",
+    "tl": "Satay sauce",
+    "yue": "沙嗲醬"
+  },
+  "section": "sauces",
+  "aliases": [
+    "sa cha sauce"
+  ],
+  "storeNotes": {
+    "zhHant": "調味料走廊；先看英文名和過敏成分。",
+    "en": "調味料走廊；先看英文名和過敏成分。",
+    "yue": "調味料走廊；先看英文名和過敏成分。"
+  },
+  "substitutions": {
+    "zhHant": "花生限制時避免，改用生抽、蒜蓉和少量糖調味。",
+    "en": "花生限制時避免，改用生抽、蒜蓉和少量糖調味。",
+    "yue": "花生限制時避免，改用生抽、蒜蓉和少量糖調味。"
+  },
+  "tags": [
+    "peanut",
+    "soy",
+    "wheatGluten"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/satay-sauce.png",
+      "alt": "Generated ingredient image for satay-sauce",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#satay-sauce",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/satay-sauce",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

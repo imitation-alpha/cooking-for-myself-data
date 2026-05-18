@@ -1,0 +1,243 @@
+{
+  "id": "curry-fish-balls-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "咖喱魚蛋飯",
+    "zhHans": "咖喱鱼蛋饭",
+    "en": "Curry fish ball rice",
+    "ja": "カレー魚丸ご飯",
+    "ko": "커리 어묵볼밥",
+    "th": null,
+    "vi": null,
+    "id": "Curry fish ball rice",
+    "tl": "Curry fish ball rice",
+    "yue": "咖喱魚蛋飯"
+  },
+  "summary": {
+    "zhHant": "咖喱魚蛋飯 的本地買餸版本。咖喱方向，重點是先煮軟主料，再收汁。",
+    "en": "咖喱魚蛋飯 的本地買餸版本。咖喱方向，重點是先煮軟主料，再收汁。",
+    "yue": "咖喱魚蛋飯 的本地買餸版本。咖喱方向，重點是先煮軟主料，再收汁。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong cafe cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong cafe cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong cafe cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 35,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "fish-ball",
+      "amounts": {
+        "zhHant": "10 粒",
+        "zhHans": "10 粒",
+        "en": "10 pieces",
+        "ja": "10個",
+        "ko": "10개",
+        "th": null,
+        "vi": null,
+        "id": "10 potong",
+        "tl": "10 piraso",
+        "yue": "10 粒"
+      }
+    },
+    {
+      "ingredientId": "curry-paste",
+      "amounts": {
+        "zhHant": "2 湯匙",
+        "zhHans": "2 汤匙",
+        "en": "2 tbsp",
+        "ja": "大さじ2",
+        "ko": "2큰술",
+        "th": null,
+        "vi": null,
+        "id": "2 sdm",
+        "tl": "2 kutsara",
+        "yue": "2 湯匙"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "fish",
+    "wheatGluten",
+    "shellfish"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "煮飯和沖洗魚蛋",
+        "yue": "煮飯和沖洗魚蛋",
+        "zhHans": "煮飯和沖洗魚蛋",
+        "en": "Cook rice and rinse fish balls",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯洗淨煮成飯。魚蛋 10 粒沖洗後瀝乾；蒜頭 3 瓣切碎，蔥 2 條切粒，咖喱醬 2 湯匙先量好。",
+        "yue": "白米 1 杯洗淨煮成飯。魚蛋 10 粒沖洗後瀝乾；蒜頭 3 瓣切碎，蔥 2 條切粒，咖喱醬 2 湯匙先量好。",
+        "zhHans": "白米 1 杯洗淨煮成飯。魚蛋 10 粒沖洗後瀝乾；蒜頭 3 瓣切碎，蔥 2 條切粒，咖喱醬 2 湯匙先量好。",
+        "en": "Rinse and cook 1 cup white rice. Rinse 10 fish balls and drain them. Mince 3 cloves garlic, slice 2 stalks scallions, and measure 2 tbsp curry paste.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "炒香咖喱蒜蓉",
+        "yue": "炒香咖喱蒜蓉",
+        "zhHans": "炒香咖喱蒜蓉",
+        "en": "Bloom curry paste with garlic",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "小鍋加油，中小火下蒜頭 3 瓣炒 20 秒，加入咖喱醬 2 湯匙炒至油色變深、香味明顯。火不要太大，以免咖喱醬黏底變苦。",
+        "yue": "小鍋加油，中小火下蒜頭 3 瓣炒 20 秒，加入咖喱醬 2 湯匙炒至油色變深、香味明顯。火不要太大，以免咖喱醬黏底變苦。",
+        "zhHans": "小鍋加油，中小火下蒜頭 3 瓣炒 20 秒，加入咖喱醬 2 湯匙炒至油色變深、香味明顯。火不要太大，以免咖喱醬黏底變苦。",
+        "en": "Heat oil in a small pot over medium-low heat. Cook 3 cloves garlic for 20 seconds, then add 2 tbsp curry paste and stir until the oil darkens and smells fragrant. Keep the heat moderate so the paste does not stick and turn bitter.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "魚蛋小滾入味",
+        "yue": "魚蛋小滾入味",
+        "zhHans": "魚蛋小滾入味",
+        "en": "Simmer fish balls in curry",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入水攪開咖喱醬，放入魚蛋 10 粒。煮滾後轉小滾 8 至 10 分鐘，魚蛋要熱透並稍微脹起，咖喱汁保持可流動。",
+        "yue": "加入水攪開咖喱醬，放入魚蛋 10 粒。煮滾後轉小滾 8 至 10 分鐘，魚蛋要熱透並稍微脹起，咖喱汁保持可流動。",
+        "zhHans": "加入水攪開咖喱醬，放入魚蛋 10 粒。煮滾後轉小滾 8 至 10 分鐘，魚蛋要熱透並稍微脹起，咖喱汁保持可流動。",
+        "en": "Add water and stir the curry paste smooth, then add 10 fish balls. Bring to a boil, lower to a gentle simmer, and cook 8-10 minutes until the fish balls are hot through and slightly plump. Keep the curry sauce pourable.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "咖喱魚蛋淋熱飯",
+        "yue": "咖喱魚蛋淋熱飯",
+        "zhHans": "咖喱魚蛋淋熱飯",
+        "en": "Spoon curry fish balls over hot rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "熱飯盛碟，舀上魚蛋和足夠咖喱汁。汁應能滲入飯面但不是水狀；最後灑蔥粒，趁熱吃。",
+        "yue": "熱飯盛碟，舀上魚蛋和足夠咖喱汁。汁應能滲入飯面但不是水狀；最後灑蔥粒，趁熱吃。",
+        "zhHans": "熱飯盛碟，舀上魚蛋和足夠咖喱汁。汁應能滲入飯面但不是水狀；最後灑蔥粒，趁熱吃。",
+        "en": "Plate the hot rice, then spoon fish balls and enough curry sauce over it. The sauce should soak lightly into the top of the rice without being watery. Add scallions and eat hot.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/curry-fish-balls-rice/cover-1.png",
+      "alt": "Generated meal cover image for curry-fish-balls-rice",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#curry-fish-balls-rice",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#curry-fish-balls-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "id": "goi-cuon-dinner",
+  "status": "approved",
+  "names": {
+    "zhHant": "越式鮮蝦米紙卷餐",
+    "zhHans": "越式鲜虾米紙卷餐",
+    "en": "Goi cuon dinner plate",
+    "ja": "生春巻きディナープレート",
+    "ko": "고이꾸온 저녁 플레이트",
+    "th": null,
+    "vi": null,
+    "id": "Goi cuon dinner plate",
+    "tl": "Goi cuon dinner plate",
+    "yue": "越式鮮蝦米紙卷餐"
+  },
+  "summary": {
+    "zhHant": "越式鮮蝦米紙卷餐 的本地買餸版本。組合餐方向，重點是先備料再整齊組裝。",
+    "en": "越式鮮蝦米紙卷餐 的本地買餸版本。組合餐方向，重點是先備料再整齊組裝。",
+    "yue": "越式鮮蝦米紙卷餐 的本地買餸版本。組合餐方向，重點是先備料再整齊組裝。"
+  },
+  "reason": {
+    "zhHant": "Vietnamese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Vietnamese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Vietnamese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 25,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "shrimp",
+      "amounts": {
+        "zhHant": "180 克",
+        "zhHans": "180 克",
+        "en": "180 g",
+        "ja": "180 g",
+        "ko": "180 g",
+        "th": null,
+        "vi": null,
+        "id": "180 g",
+        "tl": "180 g",
+        "yue": "180 克"
+      }
+    },
+    {
+      "ingredientId": "rice-paper",
+      "amounts": {
+        "zhHant": "8 張",
+        "zhHans": "8 张",
+        "en": "8 sheets",
+        "ja": "8枚",
+        "ko": "8장",
+        "th": null,
+        "vi": null,
+        "id": "8 lembar",
+        "tl": "8 piraso",
+        "yue": "8 張"
+      }
+    },
+    {
+      "ingredientId": "lettuce",
+      "amounts": {
+        "zhHant": "1 棵",
+        "zhHans": "1 棵",
+        "en": "1 head",
+        "ja": "1玉",
+        "ko": "1포기",
+        "th": null,
+        "vi": null,
+        "id": "1 bonggol",
+        "tl": "1 ulo",
+        "yue": "1 棵"
+      }
+    },
+    {
+      "ingredientId": "rice-noodle",
+      "amounts": {
+        "zhHant": "180 克",
+        "zhHans": "180 克",
+        "en": "180 g",
+        "ja": "180 g",
+        "ko": "180 g",
+        "th": null,
+        "vi": null,
+        "id": "180 g",
+        "tl": "180 g",
+        "yue": "180 克"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "shellfish"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "蝦粉生菜分盤",
+        "yue": "蝦粉生菜分盤",
+        "zhHans": "蝦粉生菜分盤",
+        "en": "Set out shrimp, noodles, and lettuce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蝦仁 180 克抹乾；金邊粉 180 克用水浸軟後燙熟瀝乾；生菜 1 棵拆葉洗淨並徹底瀝乾，米紙 8 張逐張放旁邊，不要預先全部浸濕。",
+        "yue": "蝦仁 180 克抹乾；金邊粉 180 克用水浸軟後燙熟瀝乾；生菜 1 棵拆葉洗淨並徹底瀝乾，米紙 8 張逐張放旁邊，不要預先全部浸濕。",
+        "zhHans": "蝦仁 180 克抹乾；金邊粉 180 克用水浸軟後燙熟瀝乾；生菜 1 棵拆葉洗淨並徹底瀝乾，米紙 8 張逐張放旁邊，不要預先全部浸濕。",
+        "en": "Pat 180 g Shrimp dry. Soak 180 g Rice noodles in water, then blanch until cooked and drain. Separate, wash, and thoroughly drain 1 head Lettuce, and set out 8 sheets Rice paper one at a time rather than soaking them all in advance.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "蝦仁煮到剛轉色",
+        "yue": "蝦仁煮到剛轉色",
+        "zhHans": "蝦仁煮到剛轉色",
+        "en": "Poach shrimp until just pink",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "小鍋水煮至微滾，放入蝦仁 180 克煮 1 至 2 分鐘，剛轉粉紅並捲起就撈出；攤開放涼後從厚身位置片開，米紙卷切面會較平整。",
+        "yue": "小鍋水煮至微滾，放入蝦仁 180 克煮 1 至 2 分鐘，剛轉粉紅並捲起就撈出；攤開放涼後從厚身位置片開，米紙卷切面會較平整。",
+        "zhHans": "小鍋水煮至微滾，放入蝦仁 180 克煮 1 至 2 分鐘，剛轉粉紅並捲起就撈出；攤開放涼後從厚身位置片開，米紙卷切面會較平整。",
+        "en": "Bring a small pot of water to a gentle boil, add 180 g Shrimp, and cook for 1-2 minutes, just until pink and curled. Spread them out to cool, then split thicker shrimp lengthwise so the cut sides sit neatly in the rolls.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "米紙浸軟鋪餡",
+        "yue": "米紙浸軟鋪餡",
+        "zhHans": "米紙浸軟鋪餡",
+        "en": "Soften rice paper and layer fillings",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "每次只把米紙 1 張快速浸水至開始變軟，放在平碟上；先放生菜葉，再放一小撮金邊粉，最後把蝦仁切面朝外排在前端。",
+        "yue": "每次只把米紙 1 張快速浸水至開始變軟，放在平碟上；先放生菜葉，再放一小撮金邊粉，最後把蝦仁切面朝外排在前端。",
+        "zhHans": "每次只把米紙 1 張快速浸水至開始變軟，放在平碟上；先放生菜葉，再放一小撮金邊粉，最後把蝦仁切面朝外排在前端。",
+        "en": "Dip 1 sheet Rice paper at a time in water just until it starts to soften, then lay it on a flat plate. Add Lettuce first, then a small bundle of Rice noodles, and place Shrimp near the front with the cut sides facing out.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "收邊捲緊成晚餐",
+        "yue": "收邊捲緊成晚餐",
+        "zhHans": "收邊捲緊成晚餐",
+        "en": "Fold and roll into a dinner plate",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把米紙下方向上覆過餡料，左右兩邊摺入，再向前捲緊；完成米紙 8 張後排碟，卷身應柔軟但不破，蝦和生菜仍看得清楚。",
+        "yue": "把米紙下方向上覆過餡料，左右兩邊摺入，再向前捲緊；完成米紙 8 張後排碟，卷身應柔軟但不破，蝦和生菜仍看得清楚。",
+        "zhHans": "把米紙下方向上覆過餡料，左右兩邊摺入，再向前捲緊；完成米紙 8 張後排碟，卷身應柔軟但不破，蝦和生菜仍看得清楚。",
+        "en": "Fold the bottom of the Rice paper over the filling, tuck in both sides, and roll forward firmly. Finish all 8 sheets Rice paper and arrange on a plate; each roll should be soft but unbroken, with the Shrimp and Lettuce still visible.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/goi-cuon-dinner/cover-1.png",
+      "alt": "Generated meal cover image for goi-cuon-dinner",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#goi-cuon-dinner",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#goi-cuon-dinner",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

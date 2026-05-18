@@ -1,0 +1,57 @@
+{
+  "id": "white-fish-fillet",
+  "status": "approved",
+  "names": {
+    "zhHant": "白身魚柳",
+    "zhHans": "白身鱼柳",
+    "en": "White fish fillet",
+    "ja": "白身魚の切り身",
+    "ko": "흰살생선 필레",
+    "th": null,
+    "vi": null,
+    "id": "White fish fillet",
+    "tl": "White fish fillet",
+    "yue": "白身魚柳"
+  },
+  "section": "seafood",
+  "aliases": [
+    "cod",
+    "sole",
+    "tilapia"
+  ],
+  "storeNotes": {
+    "zhHant": "海鮮區或急凍櫃；留意是否已去殼去骨。",
+    "en": "海鮮區或急凍櫃；留意是否已去殼去骨。",
+    "yue": "海鮮區或急凍櫃；留意是否已去殼去骨。"
+  },
+  "substitutions": {
+    "zhHant": "魚類限制時避免，改用雞肉、豆腐或蔬菜，並重新調整烹調時間。",
+    "en": "魚類限制時避免，改用雞肉、豆腐或蔬菜，並重新調整烹調時間。",
+    "yue": "魚類限制時避免，改用雞肉、豆腐或蔬菜，並重新調整烹調時間。"
+  },
+  "tags": [
+    "fish"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/white-fish-fillet.png",
+      "alt": "Generated ingredient image for white-fish-fillet",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#white-fish-fillet",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/white-fish-fillet",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

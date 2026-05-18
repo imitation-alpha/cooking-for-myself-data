@@ -1,0 +1,258 @@
+{
+  "id": "bulgogi-rice-bowl",
+  "status": "approved",
+  "names": {
+    "zhHant": "韓式烤牛肉飯",
+    "zhHans": "韩式烤牛肉饭",
+    "en": "Bulgogi rice bowl",
+    "ja": "プルコギ丼",
+    "ko": "불고기덮밥",
+    "th": null,
+    "vi": null,
+    "id": "Bulgogi rice bowl",
+    "tl": "Bulgogi rice bowl",
+    "yue": "韓式烤牛肉飯"
+  },
+  "summary": {
+    "zhHant": "韓式烤牛肉飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "韓式烤牛肉飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "韓式烤牛肉飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "bulgogi-beef",
+      "amounts": {
+        "zhHant": "250 克",
+        "zhHans": "250 克",
+        "en": "250 g",
+        "ja": "250 g",
+        "ko": "250 g",
+        "th": null,
+        "vi": null,
+        "id": "250 g",
+        "tl": "250 g",
+        "yue": "250 克"
+      }
+    },
+    {
+      "ingredientId": "beef-slice",
+      "amounts": {
+        "zhHant": "250 克",
+        "zhHans": "250 克",
+        "en": "250 g",
+        "ja": "250 g",
+        "ko": "250 g",
+        "th": null,
+        "vi": null,
+        "id": "250 g",
+        "tl": "250 g",
+        "yue": "250 克"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "beef",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "煮飯分開兩款牛肉",
+        "yue": "煮飯分開兩款牛肉",
+        "zhHans": "煮飯分開兩款牛肉",
+        "en": "Cook rice and separate the two beef cuts",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯洗至水較清，放入飯煲煮飯。韓式牛肉片 250 克和牛肉片 250 克分開攤開，若有大片要切成一口大小；蒜頭 3 瓣切碎，蔥 2 條分蔥白和蔥綠切段。",
+        "yue": "白米 1 杯洗至水較清，放入飯煲煮飯。韓式牛肉片 250 克和牛肉片 250 克分開攤開，若有大片要切成一口大小；蒜頭 3 瓣切碎，蔥 2 條分蔥白和蔥綠切段。",
+        "zhHans": "白米 1 杯洗至水較清，放入飯煲煮飯。韓式牛肉片 250 克和牛肉片 250 克分開攤開，若有大片要切成一口大小；蒜頭 3 瓣切碎，蔥 2 條分蔥白和蔥綠切段。",
+        "en": "Rinse 1 cup white rice until the water is clearer and cook it in the rice cooker. Spread out 250 g bulgogi beef and 250 g sliced beef separately, cutting any large pieces into bite-size strips; mince 3 cloves garlic and separate 2 stalks scallions into whites and greens.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "牛肉片沾生抽蒜香",
+        "yue": "牛肉片沾生抽蒜香",
+        "zhHans": "牛肉片沾生抽蒜香",
+        "en": "Soy-garlic coat for sliced beef",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把牛肉片 250 克與蒜碎一半、生抽 1 湯匙拌勻，放置 5 分鐘。韓式牛肉片 250 克若本身已有醃汁，只需瀝去太多水分，不再加入未列出的甜味或香油。",
+        "yue": "把牛肉片 250 克與蒜碎一半、生抽 1 湯匙拌勻，放置 5 分鐘。韓式牛肉片 250 克若本身已有醃汁，只需瀝去太多水分，不再加入未列出的甜味或香油。",
+        "zhHans": "把牛肉片 250 克與蒜碎一半、生抽 1 湯匙拌勻，放置 5 分鐘。韓式牛肉片 250 克若本身已有醃汁，只需瀝去太多水分，不再加入未列出的甜味或香油。",
+        "en": "Mix 250 g sliced beef with half the minced garlic and 1 tbsp light soy sauce, then let it sit for 5 minutes. If the 250 g bulgogi beef is already marinated, drain off excessive liquid and do not add any unlisted sweetener or sesame oil.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "大火分批快炒牛肉",
+        "yue": "大火分批快炒牛肉",
+        "zhHans": "大火分批快炒牛肉",
+        "en": "Stir-fry the beef in hot batches",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鑊加油燒至很熱，先下蔥白和餘下蒜碎炒 15 秒。分批加入兩款牛肉，每批鋪薄一層煎 45 至 60 秒再翻炒，至牛肉剛轉色、邊緣帶少量焦香便盛起。",
+        "yue": "鑊加油燒至很熱，先下蔥白和餘下蒜碎炒 15 秒。分批加入兩款牛肉，每批鋪薄一層煎 45 至 60 秒再翻炒，至牛肉剛轉色、邊緣帶少量焦香便盛起。",
+        "zhHans": "鑊加油燒至很熱，先下蔥白和餘下蒜碎炒 15 秒。分批加入兩款牛肉，每批鋪薄一層煎 45 至 60 秒再翻炒，至牛肉剛轉色、邊緣帶少量焦香便盛起。",
+        "en": "Heat oil in a wok until very hot, then cook the scallion whites and remaining garlic for 15 seconds. Add the two beef portions in batches, spreading each batch thin for 45-60 seconds before tossing, and lift out once the beef just changes color with lightly browned edges.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "牛肉汁蓋飯",
+        "yue": "牛肉汁蓋飯",
+        "zhHans": "牛肉汁蓋飯",
+        "en": "Spoon beef juices over rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "熱白飯盛入碗，鋪上牛肉和鍋中少量肉汁，最後放蔥綠。牛肉應該嫩而不出大量水，飯面有醬香但不浸濕；趁熱拌開食用。",
+        "yue": "熱白飯盛入碗，鋪上牛肉和鍋中少量肉汁，最後放蔥綠。牛肉應該嫩而不出大量水，飯面有醬香但不浸濕；趁熱拌開食用。",
+        "zhHans": "熱白飯盛入碗，鋪上牛肉和鍋中少量肉汁，最後放蔥綠。牛肉應該嫩而不出大量水，飯面有醬香但不浸濕；趁熱拌開食用。",
+        "en": "Spoon hot white rice into bowls, top with the beef and the small amount of pan juices, then add the scallion greens. The beef should be tender without flooding the pan, and the rice should carry savory sauce without becoming soaked; mix and eat hot.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/bulgogi-rice-bowl/cover-1.png",
+      "alt": "Generated meal cover image for bulgogi-rice-bowl",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#bulgogi-rice-bowl",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#bulgogi-rice-bowl",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

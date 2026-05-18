@@ -1,0 +1,304 @@
+{
+  "id": "stir-fried-rice-noodles-beef",
+  "status": "approved",
+  "names": {
+    "zhHant": "乾炒牛河",
+    "zhHans": "干炒牛河",
+    "en": "Beef chow fun",
+    "ja": "牛肉河粉炒め",
+    "ko": "소고기 호펀 볶음",
+    "th": null,
+    "vi": null,
+    "id": "Beef chow fun",
+    "tl": "Beef chow fun",
+    "yue": "乾炒牛河"
+  },
+  "summary": {
+    "zhHant": "乾炒牛河 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "en": "乾炒牛河 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "yue": "乾炒牛河 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong / Cantonese wok cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong / Cantonese wok cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong / Cantonese wok cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "beef-slice",
+      "amounts": {
+        "zhHant": "250 克",
+        "zhHans": "250 克",
+        "en": "250 g",
+        "ja": "250 g",
+        "ko": "250 g",
+        "th": null,
+        "vi": null,
+        "id": "250 g",
+        "tl": "250 g",
+        "yue": "250 克"
+      }
+    },
+    {
+      "ingredientId": "ho-fun",
+      "amounts": {
+        "zhHant": "450 克",
+        "zhHans": "450 克",
+        "en": "450 g",
+        "ja": "450 g",
+        "ko": "450 g",
+        "th": null,
+        "vi": null,
+        "id": "450 g",
+        "tl": "450 g",
+        "yue": "450 克"
+      }
+    },
+    {
+      "ingredientId": "dried-noodle",
+      "amounts": {
+        "zhHant": "2 個麵餅",
+        "zhHans": "2 个面饼",
+        "en": "2 noodle nests",
+        "ja": "2玉",
+        "ko": "2개",
+        "th": null,
+        "vi": null,
+        "id": "2 gulung",
+        "tl": "2 pugad",
+        "yue": "2 個麵餅"
+      }
+    },
+    {
+      "ingredientId": "cooked-rice",
+      "amounts": {
+        "zhHant": "2 碗",
+        "zhHans": "2 碗",
+        "en": "2 bowls",
+        "ja": "2杯",
+        "ko": "2그릇",
+        "th": null,
+        "vi": null,
+        "id": "2 mangkuk",
+        "tl": "2 mangkok",
+        "yue": "2 碗"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "3 隻",
+        "zhHans": "3 隻",
+        "en": "3 eggs",
+        "ja": "3個",
+        "ko": "3개",
+        "th": null,
+        "vi": null,
+        "id": "3 butir",
+        "tl": "3 piraso",
+        "yue": "3 隻"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "beef",
+    "egg",
+    "wheatGluten",
+    "soy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "河粉鬆開牛肉抹乾",
+        "yue": "河粉鬆開牛肉抹乾",
+        "zhHans": "河粉鬆開牛肉抹乾",
+        "en": "Loosen noodles and dry beef",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "河粉 450 克用手輕輕鬆開，不要折碎；牛肉片 250 克抹乾表面。蒜頭 3 瓣切碎，蔥 2 條切成 5 厘米段，生抽 1 湯匙備用。",
+        "yue": "河粉 450 克用手輕輕鬆開，不要折碎；牛肉片 250 克抹乾表面。蒜頭 3 瓣切碎，蔥 2 條切成 5 厘米段，生抽 1 湯匙備用。",
+        "zhHans": "河粉 450 克用手輕輕鬆開，不要折碎；牛肉片 250 克抹乾表面。蒜頭 3 瓣切碎，蔥 2 條切成 5 厘米段，生抽 1 湯匙備用。",
+        "en": "Gently separate 450 g Fresh rice noodles by hand without breaking them; pat 250 g Sliced beef dry. Chop 3 cloves Garlic, cut 2 stalks Scallions into 5 cm lengths, and keep 1 tbsp Light soy sauce ready.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "猛火快煎牛肉片",
+        "yue": "猛火快煎牛肉片",
+        "zhHans": "猛火快煎牛肉片",
+        "en": "Flash-sear the sliced beef",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鑊燒至很熱，落少許油，攤入牛肉片 250 克；用大火煎炒 60 至 90 秒，表面剛轉色仍嫩時先盛起。",
+        "yue": "鑊燒至很熱，落少許油，攤入牛肉片 250 克；用大火煎炒 60 至 90 秒，表面剛轉色仍嫩時先盛起。",
+        "zhHans": "鑊燒至很熱，落少許油，攤入牛肉片 250 克；用大火煎炒 60 至 90 秒，表面剛轉色仍嫩時先盛起。",
+        "en": "Heat a wok until very hot, add a little oil, and spread in 250 g Sliced beef. Sear over high heat for 60-90 seconds, just until the surface changes color, then lift it out while still tender.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "蒜香河粉煎出鑊氣",
+        "yue": "蒜香河粉煎出鑊氣",
+        "zhHans": "蒜香河粉煎出鑊氣",
+        "en": "Char the rice noodles with garlic",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "同鑊補少許油，炒蒜頭 15 秒；加入河粉 450 克，攤開煎 1 分鐘再翻動，總共炒 2 至 3 分鐘至邊位微乾、有少許焦香。",
+        "yue": "同鑊補少許油，炒蒜頭 15 秒；加入河粉 450 克，攤開煎 1 分鐘再翻動，總共炒 2 至 3 分鐘至邊位微乾、有少許焦香。",
+        "zhHans": "同鑊補少許油，炒蒜頭 15 秒；加入河粉 450 克，攤開煎 1 分鐘再翻動，總共炒 2 至 3 分鐘至邊位微乾、有少許焦香。",
+        "en": "Add a little more oil to the same wok and cook the Garlic for 15 seconds. Add 450 g Fresh rice noodles, spread them out for 1 minute before tossing, and stir-fry 2-3 minutes total until the edges look lightly dry and fragrant.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "牛肉蔥段拌入生抽",
+        "yue": "牛肉蔥段拌入生抽",
+        "zhHans": "牛肉蔥段拌入生抽",
+        "en": "Return beef with scallions and soy",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "牛肉回鑊，加入蔥段和生抽 1 湯匙；大火兜 45 至 60 秒，至河粉均勻帶淡豉油色、牛肉剛熟，立即上碟避免河粉斷碎。",
+        "yue": "牛肉回鑊，加入蔥段和生抽 1 湯匙；大火兜 45 至 60 秒，至河粉均勻帶淡豉油色、牛肉剛熟，立即上碟避免河粉斷碎。",
+        "zhHans": "牛肉回鑊，加入蔥段和生抽 1 湯匙；大火兜 45 至 60 秒，至河粉均勻帶淡豉油色、牛肉剛熟，立即上碟避免河粉斷碎。",
+        "en": "Return the beef, then add the Scallions and 1 tbsp Light soy sauce. Toss over high heat for 45-60 seconds, until the noodles are evenly lightly soy-colored and the beef is just cooked; plate immediately to avoid breaking the noodles.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/stir-fried-rice-noodles-beef/cover-1.png",
+      "alt": "Generated meal cover image for stir-fried-rice-noodles-beef",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#stir-fried-rice-noodles-beef",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#stir-fried-rice-noodles-beef",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "chicken-wing",
+  "status": "approved",
+  "names": {
+    "zhHant": "雞翼",
+    "zhHans": "鸡翼",
+    "en": "Chicken wings",
+    "ja": "手羽中",
+    "ko": "닭날개",
+    "th": null,
+    "vi": null,
+    "id": "Chicken wings",
+    "tl": "Chicken wings",
+    "yue": "雞翼"
+  },
+  "section": "meat",
+  "aliases": [
+    "mid-joint wings"
+  ],
+  "storeNotes": {
+    "zhHant": "肉類區或冷凍櫃；買回家後盡快冷藏。",
+    "en": "肉類區或冷凍櫃；買回家後盡快冷藏。",
+    "yue": "肉類區或冷凍櫃；買回家後盡快冷藏。"
+  },
+  "substitutions": {
+    "zhHant": "Chicken wings unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Chicken wings unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Chicken wings unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [],
+  "images": [
+    {
+      "path": "assets/ingredients/chicken-wing.png",
+      "alt": "Generated ingredient image for chicken-wing",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#chicken-wing",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/chicken-wing",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

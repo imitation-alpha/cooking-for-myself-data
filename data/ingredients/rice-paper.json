@@ -1,0 +1,53 @@
+{
+  "id": "rice-paper",
+  "status": "approved",
+  "names": {
+    "zhHant": "米紙",
+    "zhHans": "米紙",
+    "en": "Rice paper",
+    "ja": "ライスペーパー",
+    "ko": "라이스페이퍼",
+    "th": null,
+    "vi": null,
+    "id": "Rice paper",
+    "tl": "Rice paper",
+    "yue": "米紙"
+  },
+  "section": "dryGoods",
+  "aliases": [
+    "spring roll wrappers"
+  ],
+  "storeNotes": {
+    "zhHant": "乾貨或主食走廊；適合一次補貨。",
+    "en": "乾貨或主食走廊；適合一次補貨。",
+    "yue": "乾貨或主食走廊；適合一次補貨。"
+  },
+  "substitutions": {
+    "zhHant": "Rice paper unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Rice paper unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Rice paper unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [],
+  "images": [
+    {
+      "path": "assets/ingredients/rice-paper.png",
+      "alt": "Generated ingredient image for rice-paper",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#rice-paper",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/rice-paper",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

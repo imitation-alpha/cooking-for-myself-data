@@ -1,0 +1,242 @@
+{
+  "id": "soy-wings",
+  "status": "approved",
+  "names": {
+    "zhHant": "豉油雞翼",
+    "zhHans": "酱油鸡翼",
+    "en": "Soy sauce chicken wings",
+    "ja": "醤油鶏手羽",
+    "ko": "간장 닭날개",
+    "th": null,
+    "vi": null,
+    "id": "Soy sauce chicken wings",
+    "tl": "Soy sauce chicken wings",
+    "yue": "豉油雞翼"
+  },
+  "summary": {
+    "zhHant": "豉油雞翼 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "豉油雞翼 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "豉油雞翼 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "chicken-wing",
+      "amounts": {
+        "zhHant": "12 隻",
+        "zhHans": "12 隻",
+        "en": "12 wings",
+        "ja": "12本",
+        "ko": "12개",
+        "th": null,
+        "vi": null,
+        "id": "12 sayap",
+        "tl": "12 pakpak",
+        "yue": "12 隻"
+      }
+    },
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "2 件",
+        "zhHans": "2 件",
+        "en": "2 thighs",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 potong",
+        "tl": "2 piraso",
+        "yue": "2 件"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "抹乾雞翼同雞髀",
+        "yue": "抹乾雞翼同雞髀",
+        "zhHans": "抹乾雞翼同雞髀",
+        "en": "Dry the wings and thighs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "雞翼 12 隻和雞髀肉 2 件抹乾；厚的雞髀肉切成接近雞翼厚度的大件。蒜頭 3 瓣拍扁，蔥 2 條切段，生抽 1 湯匙備用。",
+        "yue": "雞翼 12 隻和雞髀肉 2 件抹乾；厚的雞髀肉切成接近雞翼厚度的大件。蒜頭 3 瓣拍扁，蔥 2 條切段，生抽 1 湯匙備用。",
+        "zhHans": "雞翼 12 隻和雞髀肉 2 件抹乾；厚的雞髀肉切成接近雞翼厚度的大件。蒜頭 3 瓣拍扁，蔥 2 條切段，生抽 1 湯匙備用。",
+        "en": "Pat 12 wings and 2 thighs dry; cut any thick thigh pieces into large pieces close to wing thickness. Smash 3 cloves Garlic, cut 2 stalks Scallions into lengths, and keep 1 tbsp Light soy sauce ready.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "煎香雞皮面",
+        "yue": "煎香雞皮面",
+        "zhHans": "煎香雞皮面",
+        "en": "Brown the chicken skin side",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鍋或小鍋燒熱落少許油，雞翼和雞髀皮面向下排入；中火煎 3 至 4 分鐘至表面有淺金色，再翻面煎 2 分鐘。",
+        "yue": "平底鍋或小鍋燒熱落少許油，雞翼和雞髀皮面向下排入；中火煎 3 至 4 分鐘至表面有淺金色，再翻面煎 2 分鐘。",
+        "zhHans": "平底鍋或小鍋燒熱落少許油，雞翼和雞髀皮面向下排入；中火煎 3 至 4 分鐘至表面有淺金色，再翻面煎 2 分鐘。",
+        "en": "Heat a skillet or small pot with a little oil. Lay the wings and thigh pieces skin-side down and cook over medium heat for 3-4 minutes until lightly golden, then turn and cook 2 minutes more.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "少水豉油焗熟",
+        "yue": "少水豉油焗熟",
+        "zhHans": "少水豉油焗熟",
+        "en": "Braise gently with light soy",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入蒜頭、蔥白、生抽 1 湯匙和剛到鍋底一層的水；蓋上用中小火煮 10 至 12 分鐘，中途翻一次，至雞翼關節位無血色、雞髀中心熟透。",
+        "yue": "加入蒜頭、蔥白、生抽 1 湯匙和剛到鍋底一層的水；蓋上用中小火煮 10 至 12 分鐘，中途翻一次，至雞翼關節位無血色、雞髀中心熟透。",
+        "zhHans": "加入蒜頭、蔥白、生抽 1 湯匙和剛到鍋底一層的水；蓋上用中小火煮 10 至 12 分鐘，中途翻一次，至雞翼關節位無血色、雞髀中心熟透。",
+        "en": "Add the Garlic, scallion whites, 1 tbsp Light soy sauce, and just enough water to cover the bottom of the pan. Cover and simmer over medium-low heat for 10-12 minutes, turning once, until the wing joints show no red and the thigh centers are cooked through.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "開蓋收成薄豉油汁",
+        "yue": "開蓋收成薄豉油汁",
+        "zhHans": "開蓋收成薄豉油汁",
+        "en": "Reduce to a thin soy glaze",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "開蓋轉中大火，將雞件翻動 1 至 2 分鐘，讓淺色豉油汁薄薄黏在表面；最後放蔥綠，鍋底仍有少量汁時盛起。",
+        "yue": "開蓋轉中大火，將雞件翻動 1 至 2 分鐘，讓淺色豉油汁薄薄黏在表面；最後放蔥綠，鍋底仍有少量汁時盛起。",
+        "zhHans": "開蓋轉中大火，將雞件翻動 1 至 2 分鐘，讓淺色豉油汁薄薄黏在表面；最後放蔥綠，鍋底仍有少量汁時盛起。",
+        "en": "Uncover and raise the heat to medium-high. Turn the chicken for 1-2 minutes so the pale soy liquid lightly coats the surface. Add the scallion greens and serve while a little sauce remains in the pan.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/soy-wings/cover-1.png",
+      "alt": "Generated meal cover image for soy-wings",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#soy-wings",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#soy-wings",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

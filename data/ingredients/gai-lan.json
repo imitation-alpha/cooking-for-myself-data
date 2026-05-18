@@ -1,0 +1,53 @@
+{
+  "id": "gai-lan",
+  "status": "approved",
+  "names": {
+    "zhHant": "芥蘭",
+    "zhHans": "芥兰",
+    "en": "Chinese broccoli",
+    "ja": "カイラン",
+    "ko": "카이란",
+    "th": null,
+    "vi": null,
+    "id": "Chinese broccoli",
+    "tl": "Chinese broccoli",
+    "yue": "芥蘭"
+  },
+  "section": "produce",
+  "aliases": [
+    "gai lan"
+  ],
+  "storeNotes": {
+    "zhHant": "本地亞洲超市蔬果區；先看新鮮度和份量。",
+    "en": "本地亞洲超市蔬果區；先看新鮮度和份量。",
+    "yue": "本地亞洲超市蔬果區；先看新鮮度和份量。"
+  },
+  "substitutions": {
+    "zhHant": "Chinese broccoli unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Chinese broccoli unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Chinese broccoli unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [],
+  "images": [
+    {
+      "path": "assets/ingredients/gai-lan.png",
+      "alt": "Generated ingredient image for gai-lan",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#gai-lan",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/gai-lan",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

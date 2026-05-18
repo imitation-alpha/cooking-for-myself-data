@@ -1,0 +1,257 @@
+{
+  "id": "rice-cooker-baked-chicken-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "電飯煲焗雞飯",
+    "zhHans": "电饭煲焗鸡饭",
+    "en": "Rice cooker baked chicken rice",
+    "ja": "炊飯器焼き鶏ご飯",
+    "ko": "전기밥솥 닭고기밥",
+    "th": null,
+    "vi": null,
+    "id": "Rice cooker baked chicken rice",
+    "tl": "Rice cooker baked chicken rice",
+    "yue": "電飯煲焗雞飯"
+  },
+  "summary": {
+    "zhHant": "電飯煲焗雞飯 的本地買餸版本。一鍋飯方向，重點是米水比例和焗完休息。",
+    "en": "電飯煲焗雞飯 的本地買餸版本。一鍋飯方向，重點是米水比例和焗完休息。",
+    "yue": "電飯煲焗雞飯 的本地買餸版本。一鍋飯方向，重點是米水比例和焗完休息。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong home shortcut；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong home shortcut；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong home shortcut；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 45,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "2 件",
+        "zhHans": "2 件",
+        "en": "2 thighs",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 potong",
+        "tl": "2 piraso",
+        "yue": "2 件"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "4 片",
+        "zhHans": "4 片",
+        "en": "4 slices",
+        "ja": "4枚",
+        "ko": "4장",
+        "th": null,
+        "vi": null,
+        "id": "4 iris",
+        "tl": "4 hiwa",
+        "yue": "4 片"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "雞髀抹生抽薑蒜",
+        "yue": "雞髀抹生抽薑蒜",
+        "zhHans": "雞髀抹生抽薑蒜",
+        "en": "Rub chicken with soy, ginger and garlic",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "雞髀肉 2 件抹乾，厚位可輕切一刀幫助受熱。蒜頭 3 瓣切碎，薑 4 片拍鬆，和生抽 1 湯匙抹勻雞肉表面，放置 10 分鐘。",
+        "yue": "雞髀肉 2 件抹乾，厚位可輕切一刀幫助受熱。蒜頭 3 瓣切碎，薑 4 片拍鬆，和生抽 1 湯匙抹勻雞肉表面，放置 10 分鐘。",
+        "zhHans": "雞髀肉 2 件抹乾，厚位可輕切一刀幫助受熱。蒜頭 3 瓣切碎，薑 4 片拍鬆，和生抽 1 湯匙抹勻雞肉表面，放置 10 分鐘。",
+        "en": "Pat 2 chicken thighs dry and lightly score the thickest parts so they heat evenly. Mince 3 cloves garlic, bruise 4 slices ginger, and rub them with 1 tbsp light soy sauce over the chicken. Let it sit for 10 minutes.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "白米加雞肉入飯煲",
+        "yue": "白米加雞肉入飯煲",
+        "zhHans": "白米加雞肉入飯煲",
+        "en": "Load rice and chicken into the cooker",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯洗至水較清，放入飯煲加平日煮 1 杯米的水量。把薑片放在米面，雞髀肉皮面或較光滑面向上平放，蒜蓉和碗底生抽也倒入。",
+        "yue": "白米 1 杯洗至水較清，放入飯煲加平日煮 1 杯米的水量。把薑片放在米面，雞髀肉皮面或較光滑面向上平放，蒜蓉和碗底生抽也倒入。",
+        "zhHans": "白米 1 杯洗至水較清，放入飯煲加平日煮 1 杯米的水量。把薑片放在米面，雞髀肉皮面或較光滑面向上平放，蒜蓉和碗底生抽也倒入。",
+        "en": "Rinse 1 cup white rice until the water is clearer, then add it to the rice cooker with your usual water level for 1 cup rice. Lay the ginger slices on the rice, place the chicken thighs smooth side up, and pour in the garlic and soy left in the bowl.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煮飯鍵焗至雞熟",
+        "yue": "煮飯鍵焗至雞熟",
+        "zhHans": "煮飯鍵焗至雞熟",
+        "en": "Cook on the rice setting until chicken is done",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "按正常煮飯鍵，不中途開蓋。跳掣後焗 10 分鐘才開蓋；雞髀肉中心要全熟無粉紅，米飯吸到雞汁但仍是一粒粒，不應有大量生水。",
+        "yue": "按正常煮飯鍵，不中途開蓋。跳掣後焗 10 分鐘才開蓋；雞髀肉中心要全熟無粉紅，米飯吸到雞汁但仍是一粒粒，不應有大量生水。",
+        "zhHans": "按正常煮飯鍵，不中途開蓋。跳掣後焗 10 分鐘才開蓋；雞髀肉中心要全熟無粉紅，米飯吸到雞汁但仍是一粒粒，不應有大量生水。",
+        "en": "Use the normal rice-cooking setting and do not open the lid during cooking. After the cooker switches off, rest for 10 minutes before opening. The chicken centers should be fully cooked with no pink, and the rice should have absorbed the chicken juices while staying separate, with no pool of raw water.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "切雞拌鬆焗飯",
+        "yue": "切雞拌鬆焗飯",
+        "zhHans": "切雞拌鬆焗飯",
+        "en": "Slice chicken and fluff the baked rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "取出雞髀肉切件；蔥 2 條切粒灑在飯面。用飯勺把飯輕輕拌鬆，連同雞件上碟；飯底有淡淡生抽和雞油香，雞肉要嫩而不水汪汪。",
+        "yue": "取出雞髀肉切件；蔥 2 條切粒灑在飯面。用飯勺把飯輕輕拌鬆，連同雞件上碟；飯底有淡淡生抽和雞油香，雞肉要嫩而不水汪汪。",
+        "zhHans": "取出雞髀肉切件；蔥 2 條切粒灑在飯面。用飯勺把飯輕輕拌鬆，連同雞件上碟；飯底有淡淡生抽和雞油香，雞肉要嫩而不水汪汪。",
+        "en": "Lift out the chicken thighs and cut them into pieces; finely cut 2 stalks scallions and scatter them over the rice. Fluff the rice gently with a paddle and serve it with the chicken. The rice should carry light soy and chicken aroma, and the chicken should be tender without being watery.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/rice-cooker-baked-chicken-rice/cover-1.png",
+      "alt": "Generated meal cover image for rice-cooker-baked-chicken-rice",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#rice-cooker-baked-chicken-rice",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#rice-cooker-baked-chicken-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "id": "kimbap-lunchbox",
+  "status": "approved",
+  "names": {
+    "zhHant": "紫菜包飯便當",
+    "zhHans": "紫菜包饭便当",
+    "en": "Kimbap lunchbox",
+    "ja": "キンパ弁当",
+    "ko": "김밥 도시락",
+    "th": null,
+    "vi": null,
+    "id": "Kimbap lunchbox",
+    "tl": "Kimbap lunchbox",
+    "yue": "紫菜包飯便當"
+  },
+  "summary": {
+    "zhHant": "紫菜包飯便當 的本地買餸版本。組合餐方向，重點是先備料再整齊組裝。",
+    "en": "紫菜包飯便當 的本地買餸版本。組合餐方向，重點是先備料再整齊組裝。",
+    "yue": "紫菜包飯便當 的本地買餸版本。組合餐方向，重點是先備料再整齊組裝。"
+  },
+  "reason": {
+    "zhHant": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 18,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "nori",
+      "amounts": {
+        "zhHant": "4 張",
+        "zhHans": "4 张",
+        "en": "4 sheets",
+        "ja": "4枚",
+        "ko": "4장",
+        "th": null,
+        "vi": null,
+        "id": "4 lembar",
+        "tl": "4 piraso",
+        "yue": "4 張"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "3 隻",
+        "zhHans": "3 隻",
+        "en": "3 eggs",
+        "ja": "3個",
+        "ko": "3개",
+        "th": null,
+        "vi": null,
+        "id": "3 butir",
+        "tl": "3 piraso",
+        "yue": "3 隻"
+      }
+    },
+    {
+      "ingredientId": "cucumber",
+      "amounts": {
+        "zhHant": "1 條",
+        "zhHans": "1 条",
+        "en": "1 cucumber",
+        "ja": "1本",
+        "ko": "1개",
+        "th": null,
+        "vi": null,
+        "id": "1 buah",
+        "tl": "1 piraso",
+        "yue": "1 條"
+      }
+    },
+    {
+      "ingredientId": "carrot",
+      "amounts": {
+        "zhHant": "1 條",
+        "zhHans": "1 条",
+        "en": "1 carrot",
+        "ja": "1本",
+        "ko": "1개",
+        "th": null,
+        "vi": null,
+        "id": "1 buah",
+        "tl": "1 piraso",
+        "yue": "1 條"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "egg"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "煮飯放涼切菜條",
+        "yue": "煮飯放涼切菜條",
+        "zhHans": "煮飯放涼切菜條",
+        "en": "Cook rice and cut long vegetable strips",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯洗淨後用飯煲煮飯，煮好攤開至溫熱不燙手。青瓜 1 條切長條並抹乾表面；甘筍 1 條切幼長條，紫菜 4 張保持乾爽平放。",
+        "yue": "白米 1 杯洗淨後用飯煲煮飯，煮好攤開至溫熱不燙手。青瓜 1 條切長條並抹乾表面；甘筍 1 條切幼長條，紫菜 4 張保持乾爽平放。",
+        "zhHans": "白米 1 杯洗淨後用飯煲煮飯，煮好攤開至溫熱不燙手。青瓜 1 條切長條並抹乾表面；甘筍 1 條切幼長條，紫菜 4 張保持乾爽平放。",
+        "en": "Rinse 1 cup white rice, cook it in the rice cooker, then spread it out until warm but not hot to the touch. Cut 1 cucumber into long strips and pat them dry; cut 1 carrot into thin long strips and keep 4 sheets nori dry and flat.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "煎蛋皮和甘筍",
+        "yue": "煎蛋皮和甘筍",
+        "zhHans": "煎蛋皮和甘筍",
+        "en": "Cook egg sheet and carrot strips",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "雞蛋 3 隻打散。平底鍋抹油用中小火煎成薄蛋皮，約 2 分鐘凝固後翻面 20 秒，取出切長條。同鍋把甘筍條炒 1 至 2 分鐘至稍軟但仍有咬口。",
+        "yue": "雞蛋 3 隻打散。平底鍋抹油用中小火煎成薄蛋皮，約 2 分鐘凝固後翻面 20 秒，取出切長條。同鍋把甘筍條炒 1 至 2 分鐘至稍軟但仍有咬口。",
+        "zhHans": "雞蛋 3 隻打散。平底鍋抹油用中小火煎成薄蛋皮，約 2 分鐘凝固後翻面 20 秒，取出切長條。同鍋把甘筍條炒 1 至 2 分鐘至稍軟但仍有咬口。",
+        "en": "Beat 3 eggs. Lightly oil a skillet and cook them over medium-low heat as a thin sheet, about 2 minutes until set, then turn for 20 seconds and cut into long strips. In the same pan, cook the carrot strips for 1-2 minutes until slightly softened but still crisp.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "紫菜上鋪薄飯和餡",
+        "yue": "紫菜上鋪薄飯和餡",
+        "zhHans": "紫菜上鋪薄飯和餡",
+        "en": "Spread rice thinly and line up fillings",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "每張紫菜粗面向上，薄薄鋪上溫飯，遠端留約 3 厘米不要鋪飯。近身一邊放蛋條、青瓜條和甘筍條，餡料排成直線，不要堆太高以免捲裂。",
+        "yue": "每張紫菜粗面向上，薄薄鋪上溫飯，遠端留約 3 厘米不要鋪飯。近身一邊放蛋條、青瓜條和甘筍條，餡料排成直線，不要堆太高以免捲裂。",
+        "zhHans": "每張紫菜粗面向上，薄薄鋪上溫飯，遠端留約 3 厘米不要鋪飯。近身一邊放蛋條、青瓜條和甘筍條，餡料排成直線，不要堆太高以免捲裂。",
+        "en": "Place each nori sheet rough side up and spread on a thin layer of warm rice, leaving about 3 cm bare at the far edge. Line egg strips, cucumber strips, and carrot strips along the near side, keeping the fillings straight and not piled too high so the roll does not split.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "捲實切成便當件",
+        "yue": "捲實切成便當件",
+        "zhHans": "捲實切成便當件",
+        "en": "Roll firmly and slice for lunchbox",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "由近身一邊捲起，邊捲邊輕壓成緊實圓條，最後用少量水抹在空白紫菜邊幫助黏合。靜置 2 分鐘後用濕刀切件；切面應看到飯層薄、蛋和蔬菜在中心。",
+        "yue": "由近身一邊捲起，邊捲邊輕壓成緊實圓條，最後用少量水抹在空白紫菜邊幫助黏合。靜置 2 分鐘後用濕刀切件；切面應看到飯層薄、蛋和蔬菜在中心。",
+        "zhHans": "由近身一邊捲起，邊捲邊輕壓成緊實圓條，最後用少量水抹在空白紫菜邊幫助黏合。靜置 2 分鐘後用濕刀切件；切面應看到飯層薄、蛋和蔬菜在中心。",
+        "en": "Roll from the near side, pressing gently as you go to make a firm cylinder, then moisten the bare nori edge with a little water to seal. Rest for 2 minutes before slicing with a damp knife; each cut face should show a thin rice layer with egg and vegetables centered.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/kimbap-lunchbox/cover-1.png",
+      "alt": "Generated meal cover image for kimbap-lunchbox",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#kimbap-lunchbox",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#kimbap-lunchbox",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

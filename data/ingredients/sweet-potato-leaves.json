@@ -1,0 +1,53 @@
+{
+  "id": "sweet-potato-leaves",
+  "status": "approved",
+  "names": {
+    "zhHant": "地瓜葉",
+    "zhHans": "地瓜叶",
+    "en": "Sweet potato leaves",
+    "ja": "さつまいもの葉",
+    "ko": "고구마순",
+    "th": null,
+    "vi": null,
+    "id": "Sweet potato leaves",
+    "tl": "Sweet potato leaves",
+    "yue": "地瓜葉"
+  },
+  "section": "produce",
+  "aliases": [
+    "yam leaves"
+  ],
+  "storeNotes": {
+    "zhHant": "本地亞洲超市蔬果區；先看新鮮度和份量。",
+    "en": "本地亞洲超市蔬果區；先看新鮮度和份量。",
+    "yue": "本地亞洲超市蔬果區；先看新鮮度和份量。"
+  },
+  "substitutions": {
+    "zhHant": "Sweet potato leaves unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Sweet potato leaves unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Sweet potato leaves unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [],
+  "images": [
+    {
+      "path": "assets/ingredients/sweet-potato-leaves.png",
+      "alt": "Generated ingredient image for sweet-potato-leaves",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#sweet-potato-leaves",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/sweet-potato-leaves",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

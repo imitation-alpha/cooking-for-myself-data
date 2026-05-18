@@ -1,0 +1,243 @@
+{
+  "id": "salt-pepper-pork-chop",
+  "status": "approved",
+  "names": {
+    "zhHant": "椒鹽豬扒",
+    "zhHans": "椒盐猪扒",
+    "en": "Salt and pepper pork chops",
+    "ja": "塩胡椒ポークチョップ",
+    "ko": "소금후추 돼지갈비",
+    "th": null,
+    "vi": null,
+    "id": "Salt and pepper pork chops",
+    "tl": "Salt and pepper pork chops",
+    "yue": "椒鹽豬扒"
+  },
+  "summary": {
+    "zhHant": "椒鹽豬扒 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "椒鹽豬扒 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "椒鹽豬扒 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "pork-chop",
+      "amounts": {
+        "zhHant": "2 塊",
+        "zhHans": "2 块",
+        "en": "2 chops",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 potong",
+        "tl": "2 piraso",
+        "yue": "2 塊"
+      }
+    },
+    {
+      "ingredientId": "pork-mince",
+      "amounts": {
+        "zhHant": "220 克",
+        "zhHans": "220 克",
+        "en": "220 g",
+        "ja": "220 g",
+        "ko": "220 g",
+        "th": null,
+        "vi": null,
+        "id": "220 g",
+        "tl": "220 g",
+        "yue": "220 克"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "pork",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "拍鬆豬扒切香料",
+        "yue": "拍鬆豬扒切香料",
+        "zhHans": "拍鬆豬扒切香料",
+        "en": "Flatten pork chops and cut aromatics",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "豬扒 2 塊抹乾，用刀背輕拍至厚薄較平均。蒜頭 3 瓣切碎，蔥 2 條切粒；免治豬肉 220 克另放一邊，若同煮要壓薄成小塊才容易熟。",
+        "yue": "豬扒 2 塊抹乾，用刀背輕拍至厚薄較平均。蒜頭 3 瓣切碎，蔥 2 條切粒；免治豬肉 220 克另放一邊，若同煮要壓薄成小塊才容易熟。",
+        "zhHans": "豬扒 2 塊抹乾，用刀背輕拍至厚薄較平均。蒜頭 3 瓣切碎，蔥 2 條切粒；免治豬肉 220 克另放一邊，若同煮要壓薄成小塊才容易熟。",
+        "en": "Pat 2 pork chops dry and lightly pound them with the back of a knife so the thickness is more even. Mince 3 cloves garlic and slice 2 stalks scallions. Keep 220 g ground pork separate; if using it, press it into small thin pieces so it cooks through.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "豬扒煎出焦邊",
+        "yue": "豬扒煎出焦邊",
+        "zhHans": "豬扒煎出焦邊",
+        "en": "Sear the pork chops until browned",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鍋加油，中火燒熱後放入豬扒 2 塊，每面煎約 3 至 4 分鐘，邊緣微焦、中心不再呈生粉紅色。先夾出靜置 3 分鐘。",
+        "yue": "平底鍋加油，中火燒熱後放入豬扒 2 塊，每面煎約 3 至 4 分鐘，邊緣微焦、中心不再呈生粉紅色。先夾出靜置 3 分鐘。",
+        "zhHans": "平底鍋加油，中火燒熱後放入豬扒 2 塊，每面煎約 3 至 4 分鐘，邊緣微焦、中心不再呈生粉紅色。先夾出靜置 3 分鐘。",
+        "en": "Heat oil in a skillet over medium heat, add 2 pork chops, and sear about 3-4 minutes per side until the edges brown and the center is no longer raw pink. Transfer out and rest for 3 minutes.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "蒜蔥生抽做簡化味底",
+        "yue": "蒜蔥生抽做簡化味底",
+        "zhHans": "蒜蔥生抽做簡化味底",
+        "en": "Make a simplified garlic-scallion soy base",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "同一鍋轉中小火，下免治豬肉 220 克壓散煮至全熟，再下蒜頭 3 瓣和蔥白炒 30 秒。加入生抽 1 湯匙和少量水，煮成薄薄鍋汁。",
+        "yue": "同一鍋轉中小火，下免治豬肉 220 克壓散煮至全熟，再下蒜頭 3 瓣和蔥白炒 30 秒。加入生抽 1 湯匙和少量水，煮成薄薄鍋汁。",
+        "zhHans": "同一鍋轉中小火，下免治豬肉 220 克壓散煮至全熟，再下蒜頭 3 瓣和蔥白炒 30 秒。加入生抽 1 湯匙和少量水，煮成薄薄鍋汁。",
+        "en": "In the same pan over medium-low heat, add 220 g ground pork and break it up until fully cooked. Add 3 cloves garlic and scallion whites for 30 seconds, then add 1 tbsp light soy sauce and a little water to make a thin pan sauce.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "豬扒回鍋吸汁",
+        "yue": "豬扒回鍋吸汁",
+        "zhHans": "豬扒回鍋吸汁",
+        "en": "Return pork chops to coat with sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "豬扒切件或原塊放回鍋中，兩面各沾一下蒜蔥生抽汁，約 30 秒即可。上碟後灑蔥綠，口感會是煎豬扒，不會有椒鹽炸粉脆皮。",
+        "yue": "豬扒切件或原塊放回鍋中，兩面各沾一下蒜蔥生抽汁，約 30 秒即可。上碟後灑蔥綠，口感會是煎豬扒，不會有椒鹽炸粉脆皮。",
+        "zhHans": "豬扒切件或原塊放回鍋中，兩面各沾一下蒜蔥生抽汁，約 30 秒即可。上碟後灑蔥綠，口感會是煎豬扒，不會有椒鹽炸粉脆皮。",
+        "en": "Slice the pork chops or return them whole to the pan, coating both sides in the garlic-scallion soy sauce for about 30 seconds. Plate with scallion greens; the texture will be pan-seared pork chop, not a crisp salt-and-pepper coating.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/salt-pepper-pork-chop/cover-1.png",
+      "alt": "Generated meal cover image for salt-pepper-pork-chop",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#salt-pepper-pork-chop",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#salt-pepper-pork-chop",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

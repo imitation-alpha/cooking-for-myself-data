@@ -1,0 +1,243 @@
+{
+  "id": "japchae-noodle-bowl",
+  "status": "approved",
+  "names": {
+    "zhHant": "韓式雜菜粉絲",
+    "zhHans": "韩式杂菜粉丝",
+    "en": "Japchae glass noodle bowl",
+    "ja": "チャプチェ春雨ボウル",
+    "ko": "잡채 당면 그릇",
+    "th": null,
+    "vi": null,
+    "id": "Japchae glass noodle bowl",
+    "tl": "Japchae glass noodle bowl",
+    "yue": "韓式雜菜粉絲"
+  },
+  "summary": {
+    "zhHant": "韓式雜菜粉絲 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "en": "韓式雜菜粉絲 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "yue": "韓式雜菜粉絲 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。"
+  },
+  "reason": {
+    "zhHant": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "glass-noodle",
+      "amounts": {
+        "zhHant": "180 克",
+        "zhHans": "180 克",
+        "en": "180 g",
+        "ja": "180 g",
+        "ko": "180 g",
+        "th": null,
+        "vi": null,
+        "id": "180 g",
+        "tl": "180 g",
+        "yue": "180 克"
+      }
+    },
+    {
+      "ingredientId": "dried-noodle",
+      "amounts": {
+        "zhHant": "2 個麵餅",
+        "zhHans": "2 个面饼",
+        "en": "2 noodle nests",
+        "ja": "2玉",
+        "ko": "2개",
+        "th": null,
+        "vi": null,
+        "id": "2 gulung",
+        "tl": "2 pugad",
+        "yue": "2 個麵餅"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "egg",
+    "wheatGluten",
+    "soy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "粉絲浸軟乾麵分鍋",
+        "yue": "粉絲浸軟乾麵分鍋",
+        "zhHans": "粉絲浸軟乾麵分鍋",
+        "en": "Soften glass noodles and cook dried noodles separately",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "粉絲 180 克用熱水浸 8 至 10 分鐘至可彎曲但中心仍有少許彈性，剪成容易入口的長度後瀝乾。乾麵 2 個麵餅另用滾水煮 3 至 4 分鐘至散開，沖水瀝乾；蒜頭 3 瓣切碎，蔥 2 條分蔥白和蔥綠切段。",
+        "yue": "粉絲 180 克用熱水浸 8 至 10 分鐘至可彎曲但中心仍有少許彈性，剪成容易入口的長度後瀝乾。乾麵 2 個麵餅另用滾水煮 3 至 4 分鐘至散開，沖水瀝乾；蒜頭 3 瓣切碎，蔥 2 條分蔥白和蔥綠切段。",
+        "zhHans": "粉絲 180 克用熱水浸 8 至 10 分鐘至可彎曲但中心仍有少許彈性，剪成容易入口的長度後瀝乾。乾麵 2 個麵餅另用滾水煮 3 至 4 分鐘至散開，沖水瀝乾；蒜頭 3 瓣切碎，蔥 2 條分蔥白和蔥綠切段。",
+        "en": "Soak 180 g glass noodles in hot water for 8-10 minutes until bendable but still slightly springy in the center, then cut into easy lengths and drain. Boil 2 dried noodle nests separately for 3-4 minutes until loosened, rinse and drain; mince 3 cloves garlic and separate 2 stalks scallions into whites and greens.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "蒜蔥白炒出底香",
+        "yue": "蒜蔥白炒出底香",
+        "zhHans": "蒜蔥白炒出底香",
+        "en": "Build garlic and scallion aroma",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鑊或大平底鍋加油，用中火燒至油面發亮。下蒜碎和蔥白炒 20 至 30 秒，聞到香味便轉中大火，不要把蒜炒成深啡色。",
+        "yue": "鑊或大平底鍋加油，用中火燒至油面發亮。下蒜碎和蔥白炒 20 至 30 秒，聞到香味便轉中大火，不要把蒜炒成深啡色。",
+        "zhHans": "鑊或大平底鍋加油，用中火燒至油面發亮。下蒜碎和蔥白炒 20 至 30 秒，聞到香味便轉中大火，不要把蒜炒成深啡色。",
+        "en": "Heat oil in a wok or large skillet over medium heat until glossy. Add the minced garlic and scallion whites for 20-30 seconds, then raise the heat to medium-high as soon as they smell fragrant; do not let the garlic turn dark brown.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "生抽水汽掛住雙麵",
+        "yue": "生抽水汽掛住雙麵",
+        "zhHans": "生抽水汽掛住雙麵",
+        "en": "Coat both noodles with soy steam",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先下粉絲兜 1 分鐘，再加入乾麵。沿鑊邊淋入生抽 1 湯匙和 2 至 3 湯匙水，快速翻動 2 至 3 分鐘，至兩種麵都熱透、帶淡淡醬色，鑊底沒有明顯積水。",
+        "yue": "先下粉絲兜 1 分鐘，再加入乾麵。沿鑊邊淋入生抽 1 湯匙和 2 至 3 湯匙水，快速翻動 2 至 3 分鐘，至兩種麵都熱透、帶淡淡醬色，鑊底沒有明顯積水。",
+        "zhHans": "先下粉絲兜 1 分鐘，再加入乾麵。沿鑊邊淋入生抽 1 湯匙和 2 至 3 湯匙水，快速翻動 2 至 3 分鐘，至兩種麵都熱透、帶淡淡醬色，鑊底沒有明顯積水。",
+        "en": "Add the glass noodles first and toss for 1 minute, then add the dried noodles. Pour 1 tbsp light soy sauce and 2-3 tbsp water around the pan edge, and toss quickly for 2-3 minutes until both noodles are hot, lightly stained with soy, and no obvious liquid pools in the pan.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "蔥綠收香趁熱夾起",
+        "yue": "蔥綠收香趁熱夾起",
+        "zhHans": "蔥綠收香趁熱夾起",
+        "en": "Fold in scallion greens and serve hot",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "關火前加入蔥綠，翻兩三下便上碟。粉絲應該柔韌不結團，乾麵保持咬口；因沒有蔬菜和麻油，味道會偏清淡，要趁熱吃才有蒜蔥香。",
+        "yue": "關火前加入蔥綠，翻兩三下便上碟。粉絲應該柔韌不結團，乾麵保持咬口；因沒有蔬菜和麻油，味道會偏清淡，要趁熱吃才有蒜蔥香。",
+        "zhHans": "關火前加入蔥綠，翻兩三下便上碟。粉絲應該柔韌不結團，乾麵保持咬口；因沒有蔬菜和麻油，味道會偏清淡，要趁熱吃才有蒜蔥香。",
+        "en": "Add the scallion greens just before turning off the heat and toss two or three times before plating. The glass noodles should be stretchy and not clumped, while the dried noodles keep some bite; without vegetables or sesame oil, the flavor is mild and best eaten hot for the garlic-scallion aroma.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/japchae-noodle-bowl/cover-1.png",
+      "alt": "Generated meal cover image for japchae-noodle-bowl",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#japchae-noodle-bowl",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#japchae-noodle-bowl",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

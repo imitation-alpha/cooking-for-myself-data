@@ -1,0 +1,55 @@
+{
+  "id": "oyster",
+  "status": "approved",
+  "names": {
+    "zhHant": "蚵仔",
+    "zhHans": "蚵仔",
+    "en": "Oysters",
+    "ja": "牡蠣",
+    "ko": "굴",
+    "th": null,
+    "vi": null,
+    "id": "Oysters",
+    "tl": "Oysters",
+    "yue": "蚵仔"
+  },
+  "section": "seafood",
+  "aliases": [
+    "small oysters"
+  ],
+  "storeNotes": {
+    "zhHant": "海鮮區或急凍櫃；留意是否已去殼去骨。",
+    "en": "海鮮區或急凍櫃；留意是否已去殼去骨。",
+    "yue": "海鮮區或急凍櫃；留意是否已去殼去骨。"
+  },
+  "substitutions": {
+    "zhHant": "貝殼類限制時避免，改用生抽或素蠔油並重新檢查標籤。",
+    "en": "貝殼類限制時避免，改用生抽或素蠔油並重新檢查標籤。",
+    "yue": "貝殼類限制時避免，改用生抽或素蠔油並重新檢查標籤。"
+  },
+  "tags": [
+    "shellfish"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/oyster.png",
+      "alt": "Generated ingredient image for oyster",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#oyster",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/oyster",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

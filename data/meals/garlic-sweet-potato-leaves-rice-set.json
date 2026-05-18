@@ -1,0 +1,242 @@
+{
+  "id": "garlic-sweet-potato-leaves-rice-set",
+  "status": "approved",
+  "names": {
+    "zhHant": "蒜蓉地瓜葉飯餐",
+    "zhHans": "蒜蓉地瓜叶饭餐",
+    "en": "Garlic sweet potato leaves rice set",
+    "ja": "にんにくさつまいも葉ご飯セット",
+    "ko": "마늘 고구마순 밥상",
+    "th": null,
+    "vi": null,
+    "id": "Garlic sweet potato leaves rice set",
+    "tl": "Garlic sweet potato leaves rice set",
+    "yue": "蒜蓉地瓜葉飯餐"
+  },
+  "summary": {
+    "zhHant": "蒜蓉地瓜葉飯餐 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "蒜蓉地瓜葉飯餐 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "蒜蓉地瓜葉飯餐 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Taiwanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Taiwanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Taiwanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "sweet-potato-leaves",
+      "amounts": {
+        "zhHant": "1 札",
+        "zhHans": "1 札",
+        "en": "1 bunch",
+        "ja": "1束",
+        "ko": "1단",
+        "th": null,
+        "vi": null,
+        "id": "1 ikat",
+        "tl": "1 tali",
+        "yue": "1 札"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "地瓜葉分梗分葉",
+        "yue": "地瓜葉分梗分葉",
+        "zhHans": "地瓜葉分梗分葉",
+        "en": "Separate stems and leaves",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯先煮飯；地瓜葉 1 札洗淨瀝乾，把較粗的梗切成短段，嫩葉保留大片；蒜頭 3 瓣切碎，蔥 2 條切段，生抽 1 湯匙備好。",
+        "yue": "白米 1 杯先煮飯；地瓜葉 1 札洗淨瀝乾，把較粗的梗切成短段，嫩葉保留大片；蒜頭 3 瓣切碎，蔥 2 條切段，生抽 1 湯匙備好。",
+        "zhHans": "白米 1 杯先煮飯；地瓜葉 1 札洗淨瀝乾，把較粗的梗切成短段，嫩葉保留大片；蒜頭 3 瓣切碎，蔥 2 條切段，生抽 1 湯匙備好。",
+        "en": "Cook 1 cup White rice first. Wash and drain 1 bunch Sweet potato leaves, cut the thicker stems into short pieces, and keep the tender leaves larger. Mince 3 cloves Garlic, cut 2 stalks Scallions into sections, and measure 1 tbsp Light soy sauce.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "蒜香先入梗段",
+        "yue": "蒜香先入梗段",
+        "zhHans": "蒜香先入梗段",
+        "en": "Garlic oil for the stems",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鑊燒至有熱氣後落油，中火炒蒜頭 3 瓣約 20 秒；先下地瓜葉梗段炒 1 分鐘，梗轉亮綠時加蔥白，讓香味先進入油中。",
+        "yue": "鑊燒至有熱氣後落油，中火炒蒜頭 3 瓣約 20 秒；先下地瓜葉梗段炒 1 分鐘，梗轉亮綠時加蔥白，讓香味先進入油中。",
+        "zhHans": "鑊燒至有熱氣後落油，中火炒蒜頭 3 瓣約 20 秒；先下地瓜葉梗段炒 1 分鐘，梗轉亮綠時加蔥白，讓香味先進入油中。",
+        "en": "Heat a wok until hot, add oil, and cook 3 cloves Garlic over medium heat for about 20 seconds. Add the Sweet potato leaves stems first and stir-fry for 1 minute; when they turn bright green, add the scallion whites.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "葉片用水氣焗軟",
+        "yue": "葉片用水氣焗軟",
+        "zhHans": "葉片用水氣焗軟",
+        "en": "Steam the leaves until just tender",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入地瓜葉嫩葉，大火快速翻動 30 秒；沿鑊邊加少量水，蓋上鍋蓋焗 1 至 2 分鐘，見葉片塌下但仍翠綠才打開。",
+        "yue": "加入地瓜葉嫩葉，大火快速翻動 30 秒；沿鑊邊加少量水，蓋上鍋蓋焗 1 至 2 分鐘，見葉片塌下但仍翠綠才打開。",
+        "zhHans": "加入地瓜葉嫩葉，大火快速翻動 30 秒；沿鑊邊加少量水，蓋上鍋蓋焗 1 至 2 分鐘，見葉片塌下但仍翠綠才打開。",
+        "en": "Add the tender Sweet potato leaves and toss over high heat for 30 seconds. Add a small splash of water around the side, cover, and steam for 1-2 minutes, just until the leaves collapse but stay vivid green.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "生抽收成飯餐汁",
+        "yue": "生抽收成飯餐汁",
+        "zhHans": "生抽收成飯餐汁",
+        "en": "Soy dresses the rice set",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "打開後淋入生抽 1 湯匙，加入蔥綠兜 20 至 30 秒；鍋底應有少量蒜香菜汁，連菜汁放在白飯旁邊，梗要爽、葉要滑。",
+        "yue": "打開後淋入生抽 1 湯匙，加入蔥綠兜 20 至 30 秒；鍋底應有少量蒜香菜汁，連菜汁放在白飯旁邊，梗要爽、葉要滑。",
+        "zhHans": "打開後淋入生抽 1 湯匙，加入蔥綠兜 20 至 30 秒；鍋底應有少量蒜香菜汁，連菜汁放在白飯旁邊，梗要爽、葉要滑。",
+        "en": "Uncover, add 1 tbsp Light soy sauce and the scallion greens, and toss for 20-30 seconds. There should be a little garlic vegetable juice in the wok; serve it beside the White rice with crisp stems and silky leaves.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/garlic-sweet-potato-leaves-rice-set/cover-1.png",
+      "alt": "Generated meal cover image for garlic-sweet-potato-leaves-rice-set",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#garlic-sweet-potato-leaves-rice-set",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#garlic-sweet-potato-leaves-rice-set",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

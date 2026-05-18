@@ -1,0 +1,275 @@
+{
+  "id": "hoisin-chicken-lettuce",
+  "status": "approved",
+  "names": {
+    "zhHant": "海鮮醬雞肉生菜包",
+    "zhHans": "海鲜酱鸡肉生菜包",
+    "en": "Hoisin chicken lettuce cups",
+    "ja": "海鮮醤チキンレタス包み",
+    "ko": "해선장 치킨 상추쌈",
+    "th": null,
+    "vi": null,
+    "id": "Hoisin chicken lettuce cups",
+    "tl": "Hoisin chicken lettuce cups",
+    "yue": "海鮮醬雞肉生菜包"
+  },
+  "summary": {
+    "zhHant": "海鮮醬雞肉生菜包 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "海鮮醬雞肉生菜包 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "海鮮醬雞肉生菜包 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong home shortcut；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong home shortcut；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong home shortcut；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "seafood-mix",
+      "amounts": {
+        "zhHant": "220 克",
+        "zhHans": "220 克",
+        "en": "220 g",
+        "ja": "220 g",
+        "ko": "220 g",
+        "th": null,
+        "vi": null,
+        "id": "220 g",
+        "tl": "220 g",
+        "yue": "220 克"
+      }
+    },
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "2 件",
+        "zhHans": "2 件",
+        "en": "2 thighs",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 potong",
+        "tl": "2 piraso",
+        "yue": "2 件"
+      }
+    },
+    {
+      "ingredientId": "lettuce",
+      "amounts": {
+        "zhHant": "1 棵",
+        "zhHans": "1 棵",
+        "en": "1 head",
+        "ja": "1玉",
+        "ko": "1포기",
+        "th": null,
+        "vi": null,
+        "id": "1 bonggol",
+        "tl": "1 ulo",
+        "yue": "1 棵"
+      }
+    },
+    {
+      "ingredientId": "hoisin-sauce",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "shellfish",
+    "fish",
+    "sesame",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "生菜拆杯雞肉切粒",
+        "yue": "生菜拆杯雞肉切粒",
+        "zhHans": "生菜拆杯雞肉切粒",
+        "en": "Separate lettuce cups and dice chicken",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "生菜 1 棵拆出完整葉片，洗淨瀝乾成杯；雞髀肉 2 件切小粒，海鮮料 220 克瀝乾。蒜頭 3 瓣切碎，蔥 2 條切粒。",
+        "yue": "生菜 1 棵拆出完整葉片，洗淨瀝乾成杯；雞髀肉 2 件切小粒，海鮮料 220 克瀝乾。蒜頭 3 瓣切碎，蔥 2 條切粒。",
+        "zhHans": "生菜 1 棵拆出完整葉片，洗淨瀝乾成杯；雞髀肉 2 件切小粒，海鮮料 220 克瀝乾。蒜頭 3 瓣切碎，蔥 2 條切粒。",
+        "en": "Separate 1 head Lettuce into whole cup-shaped leaves, rinse, and drain well. Dice 2 Chicken thighs and drain 220 g Seafood mix. Chop 3 cloves Garlic and slice 2 stalks Scallions into rounds.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "雞粒先炒到轉白",
+        "yue": "雞粒先炒到轉白",
+        "zhHans": "雞粒先炒到轉白",
+        "en": "Cook chicken until just opaque",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鑊用中大火燒熱後落油，炒蒜頭和蔥白 20 秒；加入雞髀肉 2 件切成的粒，炒 4 至 5 分鐘至表面轉白、邊位微金。",
+        "yue": "鑊用中大火燒熱後落油，炒蒜頭和蔥白 20 秒；加入雞髀肉 2 件切成的粒，炒 4 至 5 分鐘至表面轉白、邊位微金。",
+        "zhHans": "鑊用中大火燒熱後落油，炒蒜頭和蔥白 20 秒；加入雞髀肉 2 件切成的粒，炒 4 至 5 分鐘至表面轉白、邊位微金。",
+        "en": "Heat a wok over medium-high heat with oil, then cook the Garlic and scallion whites for 20 seconds. Add the diced 2 Chicken thighs and stir-fry 4-5 minutes, until opaque with lightly golden edges.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "海鮮料短炒裹海鮮醬",
+        "yue": "海鮮料短炒裹海鮮醬",
+        "zhHans": "海鮮料短炒裹海鮮醬",
+        "en": "Stir in seafood and hoisin",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入海鮮料 220 克炒 2 至 3 分鐘，至海鮮中心熱透；加入海鮮醬 1 湯匙和生抽 1 湯匙，快速兜勻，汁要黏住雞粒但不要太濕。",
+        "yue": "加入海鮮料 220 克炒 2 至 3 分鐘，至海鮮中心熱透；加入海鮮醬 1 湯匙和生抽 1 湯匙，快速兜勻，汁要黏住雞粒但不要太濕。",
+        "zhHans": "加入海鮮料 220 克炒 2 至 3 分鐘，至海鮮中心熱透；加入海鮮醬 1 湯匙和生抽 1 湯匙，快速兜勻，汁要黏住雞粒但不要太濕。",
+        "en": "Add 220 g Seafood mix and cook 2-3 minutes, until heated through. Add 1 tbsp Hoisin sauce and 1 tbsp Light soy sauce, then toss quickly so the sauce clings to the chicken without making the filling wet.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "熱餡放入凍生菜杯",
+        "yue": "熱餡放入凍生菜杯",
+        "zhHans": "熱餡放入凍生菜杯",
+        "en": "Spoon hot filling into cool lettuce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "熄火後拌入蔥綠；把熱雞肉海鮮餡分入生菜葉，生菜要保持爽脆，餡料有光澤而不滴汁，立即用手包起食。",
+        "yue": "熄火後拌入蔥綠；把熱雞肉海鮮餡分入生菜葉，生菜要保持爽脆，餡料有光澤而不滴汁，立即用手包起食。",
+        "zhHans": "熄火後拌入蔥綠；把熱雞肉海鮮餡分入生菜葉，生菜要保持爽脆，餡料有光澤而不滴汁，立即用手包起食。",
+        "en": "Turn off the heat and fold in the scallion greens. Spoon the hot chicken-seafood filling into the Lettuce leaves; the leaves should stay crisp and the glossy filling should not drip.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/hoisin-chicken-lettuce/cover-1.png",
+      "alt": "Generated meal cover image for hoisin-chicken-lettuce",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#hoisin-chicken-lettuce",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#hoisin-chicken-lettuce",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "salmon-fillet",
+  "status": "approved",
+  "names": {
+    "zhHant": "三文魚柳",
+    "zhHans": "三文鱼柳",
+    "en": "Salmon fillet",
+    "ja": "サーモン切り身",
+    "ko": "연어 필레",
+    "th": null,
+    "vi": null,
+    "id": "Salmon fillet",
+    "tl": "Salmon fillet",
+    "yue": "三文魚柳"
+  },
+  "section": "seafood",
+  "aliases": [
+    "salmon"
+  ],
+  "storeNotes": {
+    "zhHant": "海鮮區或急凍櫃；留意是否已去殼去骨。",
+    "en": "海鮮區或急凍櫃；留意是否已去殼去骨。",
+    "yue": "海鮮區或急凍櫃；留意是否已去殼去骨。"
+  },
+  "substitutions": {
+    "zhHant": "魚類限制時避免，改用雞肉、豆腐或蔬菜，並重新調整烹調時間。",
+    "en": "魚類限制時避免，改用雞肉、豆腐或蔬菜，並重新調整烹調時間。",
+    "yue": "魚類限制時避免，改用雞肉、豆腐或蔬菜，並重新調整烹調時間。"
+  },
+  "tags": [
+    "fish"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/salmon-fillet.png",
+      "alt": "Generated ingredient image for salmon-fillet",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#salmon-fillet",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/salmon-fillet",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

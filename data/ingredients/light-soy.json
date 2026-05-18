@@ -1,0 +1,56 @@
+{
+  "id": "light-soy",
+  "status": "approved",
+  "names": {
+    "zhHant": "生抽",
+    "zhHans": "生抽",
+    "en": "Light soy sauce",
+    "ja": "うすくち醤油",
+    "ko": "연간장",
+    "th": null,
+    "vi": null,
+    "id": "Kecap asin",
+    "tl": "Toyo light",
+    "yue": "生抽"
+  },
+  "section": "sauces",
+  "aliases": [
+    "soy sauce"
+  ],
+  "storeNotes": {
+    "zhHant": "調味料走廊；先看英文名和過敏成分。",
+    "en": "調味料走廊；先看英文名和過敏成分。",
+    "yue": "調味料走廊；先看英文名和過敏成分。"
+  },
+  "substitutions": {
+    "zhHant": "大豆或小麥／麩質限制時先找標明合適的替代醬油，並每次檢查標籤。",
+    "en": "大豆或小麥／麩質限制時先找標明合適的替代醬油，並每次檢查標籤。",
+    "yue": "大豆或小麥／麩質限制時先找標明合適的替代醬油，並每次檢查標籤。"
+  },
+  "tags": [
+    "soy",
+    "wheatGluten"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/light-soy.png",
+      "alt": "Generated ingredient image for light-soy",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#light-soy",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/light-soy",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

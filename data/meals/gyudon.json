@@ -1,0 +1,258 @@
+{
+  "id": "gyudon",
+  "status": "approved",
+  "names": {
+    "zhHant": "牛丼",
+    "zhHans": "牛丼",
+    "en": "Gyudon",
+    "ja": "牛丼",
+    "ko": "규동",
+    "th": null,
+    "vi": null,
+    "id": "Gyudon",
+    "tl": "Gyudon",
+    "yue": "牛丼"
+  },
+  "summary": {
+    "zhHant": "牛丼 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "牛丼 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "牛丼 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "beef-slice",
+      "amounts": {
+        "zhHant": "250 克",
+        "zhHans": "250 克",
+        "en": "250 g",
+        "ja": "250 g",
+        "ko": "250 g",
+        "th": null,
+        "vi": null,
+        "id": "250 g",
+        "tl": "250 g",
+        "yue": "250 克"
+      }
+    },
+    {
+      "ingredientId": "udon",
+      "amounts": {
+        "zhHant": "2 包",
+        "zhHans": "2 包",
+        "en": "2 packs",
+        "ja": "2袋",
+        "ko": "2팩",
+        "th": null,
+        "vi": null,
+        "id": "2 pak",
+        "tl": "2 pakete",
+        "yue": "2 包"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "beef",
+    "wheatGluten",
+    "soy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "白飯先煮牛肉分散",
+        "yue": "白飯先煮牛肉分散",
+        "zhHans": "白飯先煮牛肉分散",
+        "en": "Cook rice and separate beef slices",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯洗至水較清，放入飯煲煮飯。肥牛片 250 克從包裝中分開，太大片可剪成一口大小；蒜頭 3 瓣切片，蔥 2 條切段，蔥綠另留少量作最後用。",
+        "yue": "白米 1 杯洗至水較清，放入飯煲煮飯。肥牛片 250 克從包裝中分開，太大片可剪成一口大小；蒜頭 3 瓣切片，蔥 2 條切段，蔥綠另留少量作最後用。",
+        "zhHans": "白米 1 杯洗至水較清，放入飯煲煮飯。肥牛片 250 克從包裝中分開，太大片可剪成一口大小；蒜頭 3 瓣切片，蔥 2 條切段，蔥綠另留少量作最後用。",
+        "en": "Rinse 1 cup rice until the water is clearer, then cook it in the rice cooker. Separate 250 g beef slices from the pack and cut any very large pieces into bite-size lengths; slice 3 cloves garlic and cut 2 stalks scallions into lengths, keeping a little green scallion for the end.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "蒜蔥水煮成淺汁",
+        "yue": "蒜蔥水煮成淺汁",
+        "zhHans": "蒜蔥水煮成淺汁",
+        "en": "Make a light garlic scallion soy broth",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "小鍋加少量油用中小火燒熱，下蒜片和蔥白煮 30 秒。加入生抽 1 湯匙和約半杯水，煮至微滾，成為一層可浸住牛肉的淡色湯汁。",
+        "yue": "小鍋加少量油用中小火燒熱，下蒜片和蔥白煮 30 秒。加入生抽 1 湯匙和約半杯水，煮至微滾，成為一層可浸住牛肉的淡色湯汁。",
+        "zhHans": "小鍋加少量油用中小火燒熱，下蒜片和蔥白煮 30 秒。加入生抽 1 湯匙和約半杯水，煮至微滾，成為一層可浸住牛肉的淡色湯汁。",
+        "en": "Heat a little oil in a small pot over medium-low heat and cook the garlic slices and scallion whites for 30 seconds. Add 1 tbsp light soy sauce and about half a cup water, then bring to a gentle simmer so there is enough light broth to bathe the beef.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "牛肉薄片快煮至剛熟",
+        "yue": "牛肉薄片快煮至剛熟",
+        "zhHans": "牛肉薄片快煮至剛熟",
+        "en": "Simmer beef slices just until done",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把肥牛片逐少放入微滾汁中，用筷子撥散，煮 60 至 90 秒至大部分轉啡色。不要猛烈煮太久；牛肉剛熟仍柔軟時關火，湯汁保持少量可拌飯。",
+        "yue": "把肥牛片逐少放入微滾汁中，用筷子撥散，煮 60 至 90 秒至大部分轉啡色。不要猛烈煮太久；牛肉剛熟仍柔軟時關火，湯汁保持少量可拌飯。",
+        "zhHans": "把肥牛片逐少放入微滾汁中，用筷子撥散，煮 60 至 90 秒至大部分轉啡色。不要猛烈煮太久；牛肉剛熟仍柔軟時關火，湯汁保持少量可拌飯。",
+        "en": "Add the beef slices to the gently simmering broth a little at a time and loosen them with chopsticks. Cook for 60-90 seconds until most pieces turn brown. Do not boil hard for long; turn off the heat while the beef is just cooked and still soft, with a little broth left for the rice.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "牛肉連汁鋪白飯",
+        "yue": "牛肉連汁鋪白飯",
+        "zhHans": "牛肉連汁鋪白飯",
+        "en": "Lay beef and broth over rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "熱飯盛入大碗，鋪上牛肉和蒜蔥汁，灑餘下蔥綠。飯面應濕潤但不要變湯飯，牛肉片要鬆散覆蓋飯面，趁熱食用。",
+        "yue": "熱飯盛入大碗，鋪上牛肉和蒜蔥汁，灑餘下蔥綠。飯面應濕潤但不要變湯飯，牛肉片要鬆散覆蓋飯面，趁熱食用。",
+        "zhHans": "熱飯盛入大碗，鋪上牛肉和蒜蔥汁，灑餘下蔥綠。飯面應濕潤但不要變湯飯，牛肉片要鬆散覆蓋飯面，趁熱食用。",
+        "en": "Spoon the hot rice into large bowls, then top with the beef and garlic-scallion broth. Scatter the remaining scallion greens over the top. The rice should be moist without becoming soup, and the beef slices should sit loosely across the surface; eat while hot.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/gyudon/cover-1.png",
+      "alt": "Generated meal cover image for gyudon",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#gyudon",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#gyudon",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

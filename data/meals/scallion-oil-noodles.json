@@ -1,0 +1,228 @@
+{
+  "id": "scallion-oil-noodles",
+  "status": "approved",
+  "names": {
+    "zhHant": "蔥油拌麵",
+    "zhHans": "葱油拌面",
+    "en": "Scallion oil noodles",
+    "ja": "ねぎ油まぜ麺",
+    "ko": "파기름 비빔면",
+    "th": null,
+    "vi": null,
+    "id": "Scallion oil noodles",
+    "tl": "Scallion oil noodles",
+    "yue": "蔥油拌麵"
+  },
+  "summary": {
+    "zhHant": "蔥油拌麵 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "蔥油拌麵 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "蔥油拌麵 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 18,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "dried-noodle",
+      "amounts": {
+        "zhHant": "2 個麵餅",
+        "zhHans": "2 个面饼",
+        "en": "2 noodle nests",
+        "ja": "2玉",
+        "ko": "2개",
+        "th": null,
+        "vi": null,
+        "id": "2 gulung",
+        "tl": "2 pugad",
+        "yue": "2 個麵餅"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "egg",
+    "wheatGluten",
+    "soy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "切蔥蒜和量生抽",
+        "yue": "切蔥蒜和量生抽",
+        "zhHans": "切蔥蒜和量生抽",
+        "en": "Cut scallions and garlic, measure soy",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蔥 2 條洗淨抹乾，蔥白切短段、蔥綠切幼粒；蒜頭 3 瓣拍扁切片。生抽 1 湯匙先倒入碗中，乾麵 2 個麵餅放近爐邊。",
+        "yue": "蔥 2 條洗淨抹乾，蔥白切短段、蔥綠切幼粒；蒜頭 3 瓣拍扁切片。生抽 1 湯匙先倒入碗中，乾麵 2 個麵餅放近爐邊。",
+        "zhHans": "蔥 2 條洗淨抹乾，蔥白切短段、蔥綠切幼粒；蒜頭 3 瓣拍扁切片。生抽 1 湯匙先倒入碗中，乾麵 2 個麵餅放近爐邊。",
+        "en": "Wash and dry 2 stalks scallions; cut the white parts into short lengths and the green parts finely. Smash and slice 3 cloves garlic. Measure 1 tbsp light soy sauce into a bowl and keep 2 noodle nests near the stove.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "煮麵保留少量麵水",
+        "yue": "煮麵保留少量麵水",
+        "zhHans": "煮麵保留少量麵水",
+        "en": "Boil noodles and keep noodle water",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "一鍋水滾後下乾麵 2 個麵餅，按包裝時間煮至剛軟但仍有彈性。撈起前留少量麵水，麵瀝乾後放入大碗，不要沖凍水。",
+        "yue": "一鍋水滾後下乾麵 2 個麵餅，按包裝時間煮至剛軟但仍有彈性。撈起前留少量麵水，麵瀝乾後放入大碗，不要沖凍水。",
+        "zhHans": "一鍋水滾後下乾麵 2 個麵餅，按包裝時間煮至剛軟但仍有彈性。撈起前留少量麵水，麵瀝乾後放入大碗，不要沖凍水。",
+        "en": "Bring a pot of water to a boil, add 2 noodle nests, and cook by the package timing until just tender but still springy. Save a little noodle water before draining, then put the hot noodles in a large bowl without rinsing.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "慢火逼出蔥油香",
+        "yue": "慢火逼出蔥油香",
+        "zhHans": "慢火逼出蔥油香",
+        "en": "Draw out the scallion oil aroma",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "小鍋加油，用中小火下蔥白和蒜片，煮 2 至 3 分鐘至邊緣微金黃、有明顯蔥蒜香；不要開大火，蒜片變深啡會苦。",
+        "yue": "小鍋加油，用中小火下蔥白和蒜片，煮 2 至 3 分鐘至邊緣微金黃、有明顯蔥蒜香；不要開大火，蒜片變深啡會苦。",
+        "zhHans": "小鍋加油，用中小火下蔥白和蒜片，煮 2 至 3 分鐘至邊緣微金黃、有明顯蔥蒜香；不要開大火，蒜片變深啡會苦。",
+        "en": "Add oil to a small pan over medium-low heat, then add scallion whites and garlic slices. Cook for 2-3 minutes until the edges are lightly golden and fragrant; do not use high heat because dark brown garlic will taste bitter.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "熱油生抽拌麵",
+        "yue": "熱油生抽拌麵",
+        "zhHans": "熱油生抽拌麵",
+        "en": "Toss noodles with hot oil and soy",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把熱蔥蒜油連蔥白、蒜片倒在麵上，加入生抽 1 湯匙和少量麵水拌勻。麵條應該油亮但不濕爛，最後灑蔥綠，趁熱吃。",
+        "yue": "把熱蔥蒜油連蔥白、蒜片倒在麵上，加入生抽 1 湯匙和少量麵水拌勻。麵條應該油亮但不濕爛，最後灑蔥綠，趁熱吃。",
+        "zhHans": "把熱蔥蒜油連蔥白、蒜片倒在麵上，加入生抽 1 湯匙和少量麵水拌勻。麵條應該油亮但不濕爛，最後灑蔥綠，趁熱吃。",
+        "en": "Pour the hot scallion-garlic oil, including the scallion whites and garlic, over the noodles. Add 1 tbsp light soy sauce and a small splash of noodle water, then toss until glossy but not soggy. Add scallion greens and eat hot.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/scallion-oil-noodles/cover-1.png",
+      "alt": "Generated meal cover image for scallion-oil-noodles",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#scallion-oil-noodles",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#scallion-oil-noodles",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "cheung-fun",
+  "status": "approved",
+  "names": {
+    "zhHant": "豬腸粉",
+    "zhHans": "猪肠粉",
+    "en": "Cheung fun",
+    "ja": "腸粉",
+    "ko": "청펀",
+    "th": null,
+    "vi": null,
+    "id": "Cheung fun",
+    "tl": "Cheung fun",
+    "yue": "豬腸粉"
+  },
+  "section": "frozen",
+  "aliases": [
+    "rice noodle rolls"
+  ],
+  "storeNotes": {
+    "zhHant": "急凍櫃；最後才拿，回家盡快冷藏。",
+    "en": "急凍櫃；最後才拿，回家盡快冷藏。",
+    "yue": "急凍櫃；最後才拿，回家盡快冷藏。"
+  },
+  "substitutions": {
+    "zhHant": "Cheung fun unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Cheung fun unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Cheung fun unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [],
+  "images": [
+    {
+      "path": "assets/ingredients/cheung-fun.png",
+      "alt": "Generated ingredient image for cheung-fun",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#cheung-fun",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/cheung-fun",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

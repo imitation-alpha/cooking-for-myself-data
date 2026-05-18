@@ -1,0 +1,243 @@
+{
+  "id": "tomato-egg",
+  "status": "approved",
+  "names": {
+    "zhHant": "蕃茄炒蛋",
+    "zhHans": "番茄炒蛋",
+    "en": "Tomato and egg stir-fry",
+    "ja": "トマト卵炒め",
+    "ko": "토마토 달걀볶음",
+    "th": null,
+    "vi": null,
+    "id": "Tomato and egg stir-fry",
+    "tl": "Tomato and egg stir-fry",
+    "yue": "蕃茄炒蛋"
+  },
+  "summary": {
+    "zhHant": "蕃茄炒蛋 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "en": "蕃茄炒蛋 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "yue": "蕃茄炒蛋 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 18,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "tomato",
+      "amounts": {
+        "zhHant": "3 個",
+        "zhHans": "3 个",
+        "en": "3 medium",
+        "ja": "3個",
+        "ko": "3개",
+        "th": null,
+        "vi": null,
+        "id": "3 buah",
+        "tl": "3 piraso",
+        "yue": "3 個"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "3 隻",
+        "zhHans": "3 隻",
+        "en": "3 eggs",
+        "ja": "3個",
+        "ko": "3개",
+        "th": null,
+        "vi": null,
+        "id": "3 butir",
+        "tl": "3 piraso",
+        "yue": "3 隻"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "egg",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "切蕃茄同打蛋",
+        "yue": "切蕃茄同打蛋",
+        "zhHans": "切蕃茄同打蛋",
+        "en": "Cut tomatoes and beat eggs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "番茄 3 個切成大角；雞蛋 3 隻打散至蛋白蛋黃剛混合；蒜頭 3 瓣拍扁切碎，蔥 2 條分開蔥白和蔥綠切段，生抽 1 湯匙放近爐邊。",
+        "yue": "番茄 3 個切成大角；雞蛋 3 隻打散至蛋白蛋黃剛混合；蒜頭 3 瓣拍扁切碎，蔥 2 條分開蔥白和蔥綠切段，生抽 1 湯匙放近爐邊。",
+        "zhHans": "番茄 3 個切成大角；雞蛋 3 隻打散至蛋白蛋黃剛混合；蒜頭 3 瓣拍扁切碎，蔥 2 條分開蔥白和蔥綠切段，生抽 1 湯匙放近爐邊。",
+        "en": "Cut 3 medium Tomatoes into large wedges; beat 3 eggs just until the whites and yolks combine; smash and chop 3 cloves Garlic, separate 2 stalks Scallions into white and green pieces, and keep 1 tbsp Light soy sauce by the stove.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "先煎嫩蛋塊",
+        "yue": "先煎嫩蛋塊",
+        "zhHans": "先煎嫩蛋塊",
+        "en": "Set soft egg curds first",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鑊燒至有熱氣後落一層油，倒入蛋液；用中大火推成大塊，邊位剛凝固、中心仍微濕就盛起，避免之後回鑊變老。",
+        "yue": "鑊燒至有熱氣後落一層油，倒入蛋液；用中大火推成大塊，邊位剛凝固、中心仍微濕就盛起，避免之後回鑊變老。",
+        "zhHans": "鑊燒至有熱氣後落一層油，倒入蛋液；用中大火推成大塊，邊位剛凝固、中心仍微濕就盛起，避免之後回鑊變老。",
+        "en": "Heat a wok until hot, add a thin film of oil, and pour in the beaten eggs. Push over medium-high heat into large curds; lift them out when the edges set but the center still looks slightly wet so they do not overcook later.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煮出蕃茄汁",
+        "yue": "煮出蕃茄汁",
+        "zhHans": "煮出蕃茄汁",
+        "en": "Cook down the tomato juices",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "同一隻鑊補少許油，先炒蒜頭和蔥白約 20 秒；落番茄 3 個，中大火炒 2 至 3 分鐘，見邊位開始軟、鑊底有紅色汁才淋入生抽 1 湯匙。",
+        "yue": "同一隻鑊補少許油，先炒蒜頭和蔥白約 20 秒；落番茄 3 個，中大火炒 2 至 3 分鐘，見邊位開始軟、鑊底有紅色汁才淋入生抽 1 湯匙。",
+        "zhHans": "同一隻鑊補少許油，先炒蒜頭和蔥白約 20 秒；落番茄 3 個，中大火炒 2 至 3 分鐘，見邊位開始軟、鑊底有紅色汁才淋入生抽 1 湯匙。",
+        "en": "Add a little more oil to the same wok, then cook the Garlic and scallion whites for about 20 seconds. Add the 3 medium Tomatoes and stir-fry over medium-high heat for 2-3 minutes, until the edges soften and red juices collect in the wok, then add 1 tbsp Light soy sauce.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "蛋回鑊掛住蕃茄",
+        "yue": "蛋回鑊掛住蕃茄",
+        "zhHans": "蛋回鑊掛住蕃茄",
+        "en": "Return eggs to the tomato sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把蛋塊放回鑊，輕手兜 30 至 45 秒，讓蛋吸到蕃茄汁但仍保持大塊柔軟；撒蔥綠，汁身仍可流動時立即上碟。",
+        "yue": "把蛋塊放回鑊，輕手兜 30 至 45 秒，讓蛋吸到蕃茄汁但仍保持大塊柔軟；撒蔥綠，汁身仍可流動時立即上碟。",
+        "zhHans": "把蛋塊放回鑊，輕手兜 30 至 45 秒，讓蛋吸到蕃茄汁但仍保持大塊柔軟；撒蔥綠，汁身仍可流動時立即上碟。",
+        "en": "Return the egg curds and fold gently for 30-45 seconds so the eggs absorb tomato juices while staying in soft large pieces. Scatter the scallion greens and plate while the sauce is still loose.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/tomato-egg/cover-1.png",
+      "alt": "Generated meal cover image for tomato-egg",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#tomato-egg",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#tomato-egg",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

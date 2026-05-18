@@ -1,0 +1,228 @@
+{
+  "id": "ginger-scallion-fish",
+  "status": "approved",
+  "names": {
+    "zhHant": "薑蔥蒸魚柳",
+    "zhHans": "姜葱蒸鱼柳",
+    "en": "Ginger scallion steamed fish",
+    "ja": "生姜ねぎ蒸し白身魚",
+    "ko": "생강파 생선찜",
+    "th": null,
+    "vi": null,
+    "id": "Ginger scallion steamed fish",
+    "tl": "Ginger scallion steamed fish",
+    "yue": "薑蔥蒸魚柳"
+  },
+  "summary": {
+    "zhHant": "薑蔥蒸魚柳 的本地買餸版本。蒸餸方向，重點是火力穩定和熟度提示。",
+    "en": "薑蔥蒸魚柳 的本地買餸版本。蒸餸方向，重點是火力穩定和熟度提示。",
+    "yue": "薑蔥蒸魚柳 的本地買餸版本。蒸餸方向，重點是火力穩定和熟度提示。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "white-fish-fillet",
+      "amounts": {
+        "zhHant": "2 件",
+        "zhHans": "2 件",
+        "en": "2 fillets",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 potong",
+        "tl": "2 piraso",
+        "yue": "2 件"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "fish",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "魚柳抹乾鋪碟",
+        "yue": "魚柳抹乾鋪碟",
+        "zhHans": "魚柳抹乾鋪碟",
+        "en": "Dry and plate the fish fillets",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白魚柳 2 件抹乾，厚薄不一就把厚位向碟外放；蒜頭 3 瓣切薄片，蔥 2 條切段，蔥白和蔥綠分開，生抽 1 湯匙備用。",
+        "yue": "白魚柳 2 件抹乾，厚薄不一就把厚位向碟外放；蒜頭 3 瓣切薄片，蔥 2 條切段，蔥白和蔥綠分開，生抽 1 湯匙備用。",
+        "zhHans": "白魚柳 2 件抹乾，厚薄不一就把厚位向碟外放；蒜頭 3 瓣切薄片，蔥 2 條切段，蔥白和蔥綠分開，生抽 1 湯匙備用。",
+        "en": "Pat 2 fillets White fish fillet dry and place thicker parts toward the outside of the plate. Slice 3 cloves Garlic thinly, cut 2 stalks Scallions into lengths, separate whites and greens, and reserve 1 tbsp Light soy sauce.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "蒜片蔥白墊魚底",
+        "yue": "蒜片蔥白墊魚底",
+        "zhHans": "蒜片蔥白墊魚底",
+        "en": "Set scallion whites and garlic under the fish",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "在蒸碟底放一半蔥白和蒜片，再放魚柳，餘下蔥白放在魚面；這樣蒸氣能帶出香味，魚肉也較不易黏碟。",
+        "yue": "在蒸碟底放一半蔥白和蒜片，再放魚柳，餘下蔥白放在魚面；這樣蒸氣能帶出香味，魚肉也較不易黏碟。",
+        "zhHans": "在蒸碟底放一半蔥白和蒜片，再放魚柳，餘下蔥白放在魚面；這樣蒸氣能帶出香味，魚肉也較不易黏碟。",
+        "en": "Lay half the scallion whites and Garlic slices on the steaming plate, place the fish on top, then put the remaining scallion whites over the fish. This perfumes the steam and helps the fish release from the plate.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "大火蒸到魚肉剛裂",
+        "yue": "大火蒸到魚肉剛裂",
+        "zhHans": "大火蒸到魚肉剛裂",
+        "en": "Steam until the fish just flakes",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蒸鍋水滾後放入魚碟，大火蒸 6 至 8 分鐘，視魚柳厚度調整；魚肉轉白、用筷子輕推會按紋理分開就是熟。",
+        "yue": "蒸鍋水滾後放入魚碟，大火蒸 6 至 8 分鐘，視魚柳厚度調整；魚肉轉白、用筷子輕推會按紋理分開就是熟。",
+        "zhHans": "蒸鍋水滾後放入魚碟，大火蒸 6 至 8 分鐘，視魚柳厚度調整；魚肉轉白、用筷子輕推會按紋理分開就是熟。",
+        "en": "When the steamer water boils, add the plate and steam over high heat for 6-8 minutes, depending on thickness. The fish is done when it turns white and separates along the grain with a gentle push from chopsticks.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "熱油生抽蔥綠收尾",
+        "yue": "熱油生抽蔥綠收尾",
+        "zhHans": "熱油生抽蔥綠收尾",
+        "en": "Pour hot oil over soy and scallion greens",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "倒走碟中多餘水分，淋上生抽 1 湯匙，鋪上蔥綠；燒熱少量油至有熱氣，澆在蔥綠和魚面，香氣升起後即上碟。",
+        "yue": "倒走碟中多餘水分，淋上生抽 1 湯匙，鋪上蔥綠；燒熱少量油至有熱氣，澆在蔥綠和魚面，香氣升起後即上碟。",
+        "zhHans": "倒走碟中多餘水分，淋上生抽 1 湯匙，鋪上蔥綠；燒熱少量油至有熱氣，澆在蔥綠和魚面，香氣升起後即上碟。",
+        "en": "Pour off excess liquid from the plate, spoon over 1 tbsp Light soy sauce, and lay the scallion greens on top. Heat a small amount of oil until hot, pour it over the scallion greens and fish, and serve as soon as the aroma rises.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/ginger-scallion-fish/cover-1.png",
+      "alt": "Generated meal cover image for ginger-scallion-fish",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#ginger-scallion-fish",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ginger-scallion-fish",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "three-cup-sauce",
+  "status": "approved",
+  "names": {
+    "zhHant": "三杯汁",
+    "zhHans": "三杯汁",
+    "en": "Three cup sauce",
+    "ja": "三杯ソース",
+    "ko": "삼배 소스",
+    "th": null,
+    "vi": null,
+    "id": "Three cup sauce",
+    "tl": "Three cup sauce",
+    "yue": "三杯汁"
+  },
+  "section": "sauces",
+  "aliases": [
+    "soy sesame basil sauce"
+  ],
+  "storeNotes": {
+    "zhHant": "調味料走廊；先看英文名和過敏成分。",
+    "en": "調味料走廊；先看英文名和過敏成分。",
+    "yue": "調味料走廊；先看英文名和過敏成分。"
+  },
+  "substitutions": {
+    "zhHant": "Three cup sauce unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Three cup sauce unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Three cup sauce unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [
+    "sesame",
+    "soy",
+    "wheatGluten"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/three-cup-sauce.png",
+      "alt": "Generated ingredient image for three-cup-sauce",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#three-cup-sauce",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/three-cup-sauce",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

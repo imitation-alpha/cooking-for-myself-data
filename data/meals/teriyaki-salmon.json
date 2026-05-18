@@ -1,0 +1,243 @@
+{
+  "id": "teriyaki-salmon",
+  "status": "approved",
+  "names": {
+    "zhHant": "照燒三文魚",
+    "zhHans": "照烧三文鱼",
+    "en": "Teriyaki salmon",
+    "ja": "照り焼きサーモン",
+    "ko": "데리야키 연어",
+    "th": null,
+    "vi": null,
+    "id": "Teriyaki salmon",
+    "tl": "Teriyaki salmon",
+    "yue": "照燒三文魚"
+  },
+  "summary": {
+    "zhHant": "照燒三文魚 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "照燒三文魚 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "照燒三文魚 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "salmon-fillet",
+      "amounts": {
+        "zhHant": "2 件",
+        "zhHans": "2 件",
+        "en": "2 fillets",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 potong",
+        "tl": "2 piraso",
+        "yue": "2 件"
+      }
+    },
+    {
+      "ingredientId": "teriyaki-sauce",
+      "amounts": {
+        "zhHant": "2 湯匙",
+        "zhHans": "2 汤匙",
+        "en": "2 tbsp",
+        "ja": "大さじ2",
+        "ko": "2큰술",
+        "th": null,
+        "vi": null,
+        "id": "2 sdm",
+        "tl": "2 kutsara",
+        "yue": "2 湯匙"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "fish",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "三文魚抹乾切蔥蒜",
+        "yue": "三文魚抹乾切蔥蒜",
+        "zhHans": "三文魚抹乾切蔥蒜",
+        "en": "Dry salmon and cut scallion garlic",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "三文魚柳 2 件用廚房紙徹底抹乾，若有較厚一邊就放在同一方向，受熱較平均。蒜頭 3 瓣切碎，蔥 2 條分開蔥白和蔥綠切幼粒；照燒汁 2 湯匙和生抽 1 湯匙放近爐邊。",
+        "yue": "三文魚柳 2 件用廚房紙徹底抹乾，若有較厚一邊就放在同一方向，受熱較平均。蒜頭 3 瓣切碎，蔥 2 條分開蔥白和蔥綠切幼粒；照燒汁 2 湯匙和生抽 1 湯匙放近爐邊。",
+        "zhHans": "三文魚柳 2 件用廚房紙徹底抹乾，若有較厚一邊就放在同一方向，受熱較平均。蒜頭 3 瓣切碎，蔥 2 條分開蔥白和蔥綠切幼粒；照燒汁 2 湯匙和生抽 1 湯匙放近爐邊。",
+        "en": "Pat 2 salmon fillets very dry with paper towels, keeping any thicker sides facing the same direction so they cook evenly. Mince 3 cloves garlic and separate 2 stalks scallions into finely cut whites and greens; keep 2 tbsp teriyaki sauce and 1 tbsp light soy sauce beside the stove.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "中火煎出魚面金邊",
+        "yue": "中火煎出魚面金邊",
+        "zhHans": "中火煎出魚面金邊",
+        "en": "Sear the salmon until golden",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鑊加少量油用中火燒熱，三文魚較光滑一面先向下，下鑊後不要急著移動，煎 3 至 4 分鐘至邊位轉淺色、底面金黃。翻面後再煎 2 至 3 分鐘，中心仍可微微濕潤。",
+        "yue": "平底鑊加少量油用中火燒熱，三文魚較光滑一面先向下，下鑊後不要急著移動，煎 3 至 4 分鐘至邊位轉淺色、底面金黃。翻面後再煎 2 至 3 分鐘，中心仍可微微濕潤。",
+        "zhHans": "平底鑊加少量油用中火燒熱，三文魚較光滑一面先向下，下鑊後不要急著移動，煎 3 至 4 分鐘至邊位轉淺色、底面金黃。翻面後再煎 2 至 3 分鐘，中心仍可微微濕潤。",
+        "en": "Heat a little oil in a skillet over medium heat. Put the salmon smooth side down first and do not move it right away; sear for 3-4 minutes until the edges turn paler and the underside is golden. Turn and cook for 2-3 minutes more, leaving the center slightly moist.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "蒜蔥照燒汁收光",
+        "yue": "蒜蔥照燒汁收光",
+        "zhHans": "蒜蔥照燒汁收光",
+        "en": "Reduce garlic scallion teriyaki glaze",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把魚推到鑊邊，轉中小火，下蒜碎和蔥白炒 20 至 30 秒。倒入照燒汁 2 湯匙、生抽 1 湯匙和 1 至 2 湯匙水，輕輕搖鑊讓汁沾到魚身，煮 1 至 2 分鐘至汁變亮和稍稠。",
+        "yue": "把魚推到鑊邊，轉中小火，下蒜碎和蔥白炒 20 至 30 秒。倒入照燒汁 2 湯匙、生抽 1 湯匙和 1 至 2 湯匙水，輕輕搖鑊讓汁沾到魚身，煮 1 至 2 分鐘至汁變亮和稍稠。",
+        "zhHans": "把魚推到鑊邊，轉中小火，下蒜碎和蔥白炒 20 至 30 秒。倒入照燒汁 2 湯匙、生抽 1 湯匙和 1 至 2 湯匙水，輕輕搖鑊讓汁沾到魚身，煮 1 至 2 分鐘至汁變亮和稍稠。",
+        "en": "Push the fish to the side of the pan and lower to medium-low. Add the minced garlic and scallion whites for 20-30 seconds. Pour in 2 tbsp teriyaki sauce, 1 tbsp light soy sauce and 1-2 tbsp water, then gently tilt the pan so the sauce coats the fish. Cook for 1-2 minutes until glossy and slightly thick.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "照燒汁掛魚撒蔥",
+        "yue": "照燒汁掛魚撒蔥",
+        "zhHans": "照燒汁掛魚撒蔥",
+        "en": "Spoon glaze over salmon and scallions",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "關火後用匙把鑊底照燒汁再淋在三文魚面，灑上蔥綠。上碟時魚面應有薄薄亮汁，邊位帶焦香，魚肉用筷子可分開但不乾硬。",
+        "yue": "關火後用匙把鑊底照燒汁再淋在三文魚面，灑上蔥綠。上碟時魚面應有薄薄亮汁，邊位帶焦香，魚肉用筷子可分開但不乾硬。",
+        "zhHans": "關火後用匙把鑊底照燒汁再淋在三文魚面，灑上蔥綠。上碟時魚面應有薄薄亮汁，邊位帶焦香，魚肉用筷子可分開但不乾硬。",
+        "en": "Turn off the heat and spoon the teriyaki glaze from the pan over the salmon again, then scatter on the scallion greens. Serve when the fish has a thin glossy coating, lightly browned edges, and flesh that flakes with chopsticks without feeling dry.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/teriyaki-salmon/cover-1.png",
+      "alt": "Generated meal cover image for teriyaki-salmon",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#teriyaki-salmon",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#teriyaki-salmon",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

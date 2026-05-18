@@ -1,0 +1,228 @@
+{
+  "id": "steamed-garlic-shrimp",
+  "status": "approved",
+  "names": {
+    "zhHant": "蒜蓉蒸蝦",
+    "zhHans": "蒜蓉蒸虾",
+    "en": "Steamed garlic shrimp",
+    "ja": "にんにく蒸しえび",
+    "ko": "마늘 새우찜",
+    "th": null,
+    "vi": null,
+    "id": "Steamed garlic shrimp",
+    "tl": "Steamed garlic shrimp",
+    "yue": "蒜蓉蒸蝦"
+  },
+  "summary": {
+    "zhHant": "蒜蓉蒸蝦 的本地買餸版本。蒸餸方向，重點是火力穩定和熟度提示。",
+    "en": "蒜蓉蒸蝦 的本地買餸版本。蒸餸方向，重點是火力穩定和熟度提示。",
+    "yue": "蒜蓉蒸蝦 的本地買餸版本。蒸餸方向，重點是火力穩定和熟度提示。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong / Cantonese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "shrimp",
+      "amounts": {
+        "zhHant": "180 克",
+        "zhHans": "180 克",
+        "en": "180 g",
+        "ja": "180 g",
+        "ko": "180 g",
+        "th": null,
+        "vi": null,
+        "id": "180 g",
+        "tl": "180 g",
+        "yue": "180 克"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "shellfish",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "蝦仁抹乾鋪碟",
+        "yue": "蝦仁抹乾鋪碟",
+        "zhHans": "蝦仁抹乾鋪碟",
+        "en": "Dry shrimp and spread on a plate",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蝦仁 180 克沖淨後徹底抹乾，單層鋪在耐熱淺碟；蒜頭 3 瓣切成蒜蓉，蔥 2 條分蔥白和蔥綠切粒，生抽 1 湯匙備用。",
+        "yue": "蝦仁 180 克沖淨後徹底抹乾，單層鋪在耐熱淺碟；蒜頭 3 瓣切成蒜蓉，蔥 2 條分蔥白和蔥綠切粒，生抽 1 湯匙備用。",
+        "zhHans": "蝦仁 180 克沖淨後徹底抹乾，單層鋪在耐熱淺碟；蒜頭 3 瓣切成蒜蓉，蔥 2 條分蔥白和蔥綠切粒，生抽 1 湯匙備用。",
+        "en": "Rinse 180 g Shrimp and pat very dry, then spread in a single layer on a shallow heatproof plate. Mince 3 cloves Garlic, separate 2 stalks Scallions into white and green rounds, and keep 1 tbsp Light soy sauce ready.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "蒜蓉蔥白鋪蝦面",
+        "yue": "蒜蓉蔥白鋪蝦面",
+        "zhHans": "蒜蓉蔥白鋪蝦面",
+        "en": "Cover shrimp with garlic scallion",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把蒜蓉和蔥白均勻撒在蝦仁 180 克上，厚身蝦放近碟外圈；蒸鍋加水煮至大滾，才把碟放入。",
+        "yue": "把蒜蓉和蔥白均勻撒在蝦仁 180 克上，厚身蝦放近碟外圈；蒸鍋加水煮至大滾，才把碟放入。",
+        "zhHans": "把蒜蓉和蔥白均勻撒在蝦仁 180 克上，厚身蝦放近碟外圈；蒸鍋加水煮至大滾，才把碟放入。",
+        "en": "Scatter the minced Garlic and scallion whites evenly over 180 g Shrimp, placing thicker pieces near the outer edge of the plate. Bring the steamer water to a full boil before adding the plate.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "猛蒸至蝦身剛捲",
+        "yue": "猛蒸至蝦身剛捲",
+        "zhHans": "猛蒸至蝦身剛捲",
+        "en": "Steam until shrimp just curl",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蓋好用中大火蒸 4 至 5 分鐘；蝦仁由灰轉粉紅、身體剛捲成 C 形、中心不透明時即熟，避免蒸到縮硬。",
+        "yue": "蓋好用中大火蒸 4 至 5 分鐘；蝦仁由灰轉粉紅、身體剛捲成 C 形、中心不透明時即熟，避免蒸到縮硬。",
+        "zhHans": "蓋好用中大火蒸 4 至 5 分鐘；蝦仁由灰轉粉紅、身體剛捲成 C 形、中心不透明時即熟，避免蒸到縮硬。",
+        "en": "Cover and steam over medium-high heat for 4-5 minutes. The Shrimp are done when they turn from gray to pink, curl into a C shape, and look opaque in the center; avoid steaming until tight and tough.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "生抽蔥綠趁熱收香",
+        "yue": "生抽蔥綠趁熱收香",
+        "zhHans": "生抽蔥綠趁熱收香",
+        "en": "Finish hot with soy and scallion greens",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "取出後立刻淋上生抽 1 湯匙，撒蔥綠；碟底蒸汁可留少許拌蝦，趁熱上桌，蒜香要清楚而蝦肉仍爽彈。",
+        "yue": "取出後立刻淋上生抽 1 湯匙，撒蔥綠；碟底蒸汁可留少許拌蝦，趁熱上桌，蒜香要清楚而蝦肉仍爽彈。",
+        "zhHans": "取出後立刻淋上生抽 1 湯匙，撒蔥綠；碟底蒸汁可留少許拌蝦，趁熱上桌，蒜香要清楚而蝦肉仍爽彈。",
+        "en": "Remove the plate and immediately drizzle with 1 tbsp Light soy sauce, then scatter the scallion greens. Keep a little steaming juice on the plate for the Shrimp; serve hot while garlicky and still springy.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/steamed-garlic-shrimp/cover-1.png",
+      "alt": "Generated meal cover image for steamed-garlic-shrimp",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#steamed-garlic-shrimp",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#steamed-garlic-shrimp",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "kimchi",
+  "status": "approved",
+  "names": {
+    "zhHant": "泡菜",
+    "zhHans": "泡菜",
+    "en": "Kimchi",
+    "ja": "キムチ",
+    "ko": "김치",
+    "th": null,
+    "vi": null,
+    "id": "Kimchi",
+    "tl": "Kimchi",
+    "yue": "泡菜"
+  },
+  "section": "produce",
+  "aliases": [
+    "napa kimchi"
+  ],
+  "storeNotes": {
+    "zhHant": "本地亞洲超市蔬果區；先看新鮮度和份量。",
+    "en": "本地亞洲超市蔬果區；先看新鮮度和份量。",
+    "yue": "本地亞洲超市蔬果區；先看新鮮度和份量。"
+  },
+  "substitutions": {
+    "zhHant": "Kimchi unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Kimchi unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Kimchi unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [
+    "fish",
+    "shellfish"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/kimchi.png",
+      "alt": "Generated ingredient image for kimchi",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#kimchi",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/kimchi",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

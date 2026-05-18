@@ -1,0 +1,211 @@
+{
+  "id": "onigiri-trio",
+  "status": "approved",
+  "names": {
+    "zhHant": "飯糰三款",
+    "zhHans": "饭团三款",
+    "en": "Onigiri trio",
+    "ja": "おにぎり三種",
+    "ko": "오니기리 세 가지",
+    "th": null,
+    "vi": null,
+    "id": "Onigiri trio",
+    "tl": "Onigiri trio",
+    "yue": "飯糰三款"
+  },
+  "summary": {
+    "zhHant": "飯糰三款 的本地買餸版本。組合餐方向，重點是先備料再整齊組裝。",
+    "en": "飯糰三款 的本地買餸版本。組合餐方向，重點是先備料再整齊組裝。",
+    "yue": "飯糰三款 的本地買餸版本。組合餐方向，重點是先備料再整齊組裝。"
+  },
+  "reason": {
+    "zhHant": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 18,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "nori",
+      "amounts": {
+        "zhHant": "4 張",
+        "zhHans": "4 张",
+        "en": "4 sheets",
+        "ja": "4枚",
+        "ko": "4장",
+        "th": null,
+        "vi": null,
+        "id": "4 lembar",
+        "tl": "4 piraso",
+        "yue": "4 張"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "3 隻",
+        "zhHans": "3 隻",
+        "en": "3 eggs",
+        "ja": "3個",
+        "ko": "3개",
+        "th": null,
+        "vi": null,
+        "id": "3 butir",
+        "tl": "3 piraso",
+        "yue": "3 隻"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "egg"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "白飯煮好放至暖手",
+        "yue": "白飯煮好放至暖手",
+        "zhHans": "白飯煮好放至暖手",
+        "en": "Cook rice and cool until warm",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯洗至水較清，放入飯煲煮飯。飯熟後打鬆，攤在大碗中放 5 至 10 分鐘，至仍溫暖但不燙手；飯太熱會黏手，太冷又不易成形。",
+        "yue": "白米 1 杯洗至水較清，放入飯煲煮飯。飯熟後打鬆，攤在大碗中放 5 至 10 分鐘，至仍溫暖但不燙手；飯太熱會黏手，太冷又不易成形。",
+        "zhHans": "白米 1 杯洗至水較清，放入飯煲煮飯。飯熟後打鬆，攤在大碗中放 5 至 10 分鐘，至仍溫暖但不燙手；飯太熱會黏手，太冷又不易成形。",
+        "en": "Rinse 1 cup rice until the water is clearer, then cook it in the rice cooker. When cooked, fluff it and spread it in a large bowl for 5-10 minutes until still warm but not burning hot; rice that is too hot sticks to your hands, while cold rice is harder to shape.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "三隻蛋煎成薄蛋碎",
+        "yue": "三隻蛋煎成薄蛋碎",
+        "zhHans": "三隻蛋煎成薄蛋碎",
+        "en": "Cook three eggs into soft curds",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "雞蛋 3 隻打散。平底鑊加少量油，用中小火倒入蛋液，煎至邊位凝固後輕推成嫩蛋碎，約 2 至 3 分鐘。蛋要全熟但仍柔軟，放涼至不出蒸氣。",
+        "yue": "雞蛋 3 隻打散。平底鑊加少量油，用中小火倒入蛋液，煎至邊位凝固後輕推成嫩蛋碎，約 2 至 3 分鐘。蛋要全熟但仍柔軟，放涼至不出蒸氣。",
+        "zhHans": "雞蛋 3 隻打散。平底鑊加少量油，用中小火倒入蛋液，煎至邊位凝固後輕推成嫩蛋碎，約 2 至 3 分鐘。蛋要全熟但仍柔軟，放涼至不出蒸氣。",
+        "en": "Beat 3 eggs. Heat a little oil in a skillet over medium-low heat, pour in the eggs, and gently push them into soft curds once the edges set, about 2-3 minutes. The egg should be fully cooked but still tender; let it cool until it is no longer steaming.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "四張紫菜剪帶剪片",
+        "yue": "四張紫菜剪帶剪片",
+        "zhHans": "四張紫菜剪帶剪片",
+        "en": "Cut nori and portion rice three ways",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "紫菜 4 張剪成不同用途：剪數條長帶包三角飯糰，再剪幾塊小方片貼在圓飯糰外面，其餘留作包飯。手沾少量水，把暖飯分成 6 份，其中 2 份包入蛋碎，2 份把蛋碎鋪面，2 份做淨飯形。",
+        "yue": "紫菜 4 張剪成不同用途：剪數條長帶包三角飯糰，再剪幾塊小方片貼在圓飯糰外面，其餘留作包飯。手沾少量水，把暖飯分成 6 份，其中 2 份包入蛋碎，2 份把蛋碎鋪面，2 份做淨飯形。",
+        "zhHans": "紫菜 4 張剪成不同用途：剪數條長帶包三角飯糰，再剪幾塊小方片貼在圓飯糰外面，其餘留作包飯。手沾少量水，把暖飯分成 6 份，其中 2 份包入蛋碎，2 份把蛋碎鋪面，2 份做淨飯形。",
+        "en": "Cut 4 sheets nori for different uses: several long strips for triangular rice balls, a few small squares for round rice balls, and the rest for wrapping. Wet your hands lightly with water and divide the warm rice into 6 portions: fill 2 with egg curds, top 2 with egg curds, and keep 2 as plain rice shapes.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "三款飯糰包上海苔",
+        "yue": "三款飯糰包上海苔",
+        "zhHans": "三款飯糰包上海苔",
+        "en": "Wrap three rice ball styles with nori",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把包蛋飯糰捏成三角並用紫菜帶圍住，鋪蛋飯糰捏成圓形後貼小紫菜片，淨飯形用餘下紫菜半包。每個飯糰要輕壓至不散，但不要壓實成硬飯；紫菜乾脆時立即食用。",
+        "yue": "把包蛋飯糰捏成三角並用紫菜帶圍住，鋪蛋飯糰捏成圓形後貼小紫菜片，淨飯形用餘下紫菜半包。每個飯糰要輕壓至不散，但不要壓實成硬飯；紫菜乾脆時立即食用。",
+        "zhHans": "把包蛋飯糰捏成三角並用紫菜帶圍住，鋪蛋飯糰捏成圓形後貼小紫菜片，淨飯形用餘下紫菜半包。每個飯糰要輕壓至不散，但不要壓實成硬飯；紫菜乾脆時立即食用。",
+        "en": "Shape the egg-filled portions into triangles and wrap them with nori strips, shape the egg-topped portions into rounds and press on small nori squares, and half-wrap the plain rice shapes with the remaining nori. Press each onigiri just enough to hold together without becoming hard; eat while the nori is still crisp.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/onigiri-trio/cover-1.png",
+      "alt": "Generated meal cover image for onigiri-trio",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#onigiri-trio",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#onigiri-trio",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

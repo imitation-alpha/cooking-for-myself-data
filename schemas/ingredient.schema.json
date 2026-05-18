@@ -1,0 +1,272 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CookingForMyselfIngredientCatalog",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "meta",
+    "ingredients"
+  ],
+  "properties": {
+    "meta": {
+      "type": "object"
+    },
+    "ingredients": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "status",
+          "names",
+          "section",
+          "aliases",
+          "storeNotes",
+          "substitutions",
+          "tags",
+          "images",
+          "provenance"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          },
+          "status": {
+            "enum": [
+              "draft",
+              "reviewed",
+              "approved"
+            ]
+          },
+          "names": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "zhHant",
+              "yue",
+              "zhHans",
+              "en",
+              "ja",
+              "ko",
+              "th",
+              "vi",
+              "id",
+              "tl"
+            ],
+            "properties": {
+              "zhHant": {
+                "type": "string",
+                "minLength": 1
+              },
+              "yue": {
+                "type": "string",
+                "minLength": 1
+              },
+              "zhHans": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "en": {
+                "type": "string",
+                "minLength": 1
+              },
+              "ja": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "ko": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "th": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "vi": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "id": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "tl": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              }
+            }
+          },
+          "section": {
+            "enum": [
+              "produce",
+              "meat",
+              "seafood",
+              "sauces",
+              "dryGoods",
+              "frozen"
+            ]
+          },
+          "aliases": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "storeNotes": {
+            "type": "object"
+          },
+          "substitutions": {
+            "type": "object"
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "images": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "path",
+                "alt",
+                "contentStyle",
+                "disclosure",
+                "license",
+                "attribution",
+                "sourceName",
+                "sourceURL",
+                "reviewStatus"
+              ],
+              "properties": {
+                "path": {
+                  "type": "string"
+                },
+                "alt": {
+                  "type": "string"
+                },
+                "contentStyle": {
+                  "enum": [
+                    "realistic_ingredient_photo"
+                  ]
+                },
+                "disclosure": {
+                  "enum": [
+                    "generated",
+                    "owned",
+                    "licensed",
+                    "placeholder"
+                  ]
+                },
+                "license": {
+                  "type": "string"
+                },
+                "attribution": {
+                  "type": "string"
+                },
+                "sourceName": {
+                  "type": "string"
+                },
+                "sourceURL": {
+                  "type": "string"
+                },
+                "reviewStatus": {
+                  "enum": [
+                    "needs_review",
+                    "reviewed",
+                    "approved"
+                  ]
+                }
+              }
+            }
+          },
+          "provenance": {
+            "type": "object",
+            "additionalProperties": true,
+            "required": [
+              "sourceName",
+              "sourceURL",
+              "license",
+              "attribution",
+              "reviewStatus"
+            ],
+            "properties": {
+              "sourceName": {
+                "type": "string"
+              },
+              "sourceURL": {
+                "type": "string"
+              },
+              "license": {
+                "type": "string"
+              },
+              "attribution": {
+                "type": "string"
+              },
+              "reviewStatus": {
+                "enum": [
+                  "draft",
+                  "reviewed",
+                  "approved"
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "egg",
+  "status": "approved",
+  "names": {
+    "zhHant": "雞蛋",
+    "zhHans": "鸡蛋",
+    "en": "Eggs",
+    "ja": "卵",
+    "ko": "달걀",
+    "th": null,
+    "vi": null,
+    "id": "Telur",
+    "tl": "Itlog",
+    "yue": "雞蛋"
+  },
+  "section": "dryGoods",
+  "aliases": [
+    "large eggs"
+  ],
+  "storeNotes": {
+    "zhHant": "乾貨或主食走廊；適合一次補貨。",
+    "en": "乾貨或主食走廊；適合一次補貨。",
+    "yue": "乾貨或主食走廊；適合一次補貨。"
+  },
+  "substitutions": {
+    "zhHant": "蛋限制時避免；需要黏合時可按菜式改用豆腐、薯蓉或澱粉水。",
+    "en": "蛋限制時避免；需要黏合時可按菜式改用豆腐、薯蓉或澱粉水。",
+    "yue": "蛋限制時避免；需要黏合時可按菜式改用豆腐、薯蓉或澱粉水。"
+  },
+  "tags": [
+    "egg"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/egg.png",
+      "alt": "Generated ingredient image for egg",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#egg",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/egg",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

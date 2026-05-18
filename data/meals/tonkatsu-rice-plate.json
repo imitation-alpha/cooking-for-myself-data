@@ -1,0 +1,226 @@
+{
+  "id": "tonkatsu-rice-plate",
+  "status": "approved",
+  "names": {
+    "zhHant": "吉列豬扒飯",
+    "zhHans": "吉列猪扒饭",
+    "en": "Tonkatsu rice plate",
+    "ja": "とんかつご飯プレート",
+    "ko": "돈가스 밥 플레이트",
+    "th": null,
+    "vi": null,
+    "id": "Tonkatsu rice plate",
+    "tl": "Tonkatsu rice plate",
+    "yue": "吉列豬扒飯"
+  },
+  "summary": {
+    "zhHant": "吉列豬扒飯 的本地買餸版本。煎香方向，重點是中火定型和最後調味。",
+    "en": "吉列豬扒飯 的本地買餸版本。煎香方向，重點是中火定型和最後調味。",
+    "yue": "吉列豬扒飯 的本地買餸版本。煎香方向，重點是中火定型和最後調味。"
+  },
+  "reason": {
+    "zhHant": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 32,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "pork-chop",
+      "amounts": {
+        "zhHant": "2 塊",
+        "zhHans": "2 块",
+        "en": "2 chops",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 potong",
+        "tl": "2 piraso",
+        "yue": "2 塊"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "pork"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "白米下煲豬扒拍薄",
+        "yue": "白米下煲豬扒拍薄",
+        "zhHans": "白米下煲豬扒拍薄",
+        "en": "Rice cooker and flattened pork chops",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯洗至水較清，放入飯煲煮飯。豬扒 2 塊抹乾，在脂肪邊輕切幾刀防止捲曲，再用刀背或肉槌拍至厚薄接近，蒜頭 3 瓣切碎，蔥 2 條切粒。",
+        "yue": "白米 1 杯洗至水較清，放入飯煲煮飯。豬扒 2 塊抹乾，在脂肪邊輕切幾刀防止捲曲，再用刀背或肉槌拍至厚薄接近，蒜頭 3 瓣切碎，蔥 2 條切粒。",
+        "zhHans": "白米 1 杯洗至水較清，放入飯煲煮飯。豬扒 2 塊抹乾，在脂肪邊輕切幾刀防止捲曲，再用刀背或肉槌拍至厚薄接近，蒜頭 3 瓣切碎，蔥 2 條切粒。",
+        "en": "Rinse 1 cup white rice until the water is clearer and cook it in the rice cooker. Pat 2 pork chops dry, make a few small cuts through the fat edge so they do not curl, then tap them with the back of a knife or a meat mallet until the thickness is even; mince 3 cloves garlic and finely cut 2 stalks scallions.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "中火慢煎豬扒",
+        "yue": "中火慢煎豬扒",
+        "zhHans": "中火慢煎豬扒",
+        "en": "Pan-sear the pork chops over steady heat",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鍋加油用中火燒熱，放入豬扒，不要重疊。每面煎 3 至 4 分鐘，邊緣轉金黃後轉中小火，再每面煎 1 至 2 分鐘至中心熟透無粉紅。",
+        "yue": "平底鍋加油用中火燒熱，放入豬扒，不要重疊。每面煎 3 至 4 分鐘，邊緣轉金黃後轉中小火，再每面煎 1 至 2 分鐘至中心熟透無粉紅。",
+        "zhHans": "平底鍋加油用中火燒熱，放入豬扒，不要重疊。每面煎 3 至 4 分鐘，邊緣轉金黃後轉中小火，再每面煎 1 至 2 分鐘至中心熟透無粉紅。",
+        "en": "Heat oil in a skillet over medium heat and add the pork chops without overlapping. Sear for 3-4 minutes per side, then lower to medium-low and cook 1-2 minutes more per side until the centers are cooked through with no pink.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "蒜蔥熱油提香",
+        "yue": "蒜蔥熱油提香",
+        "zhHans": "蒜蔥熱油提香",
+        "en": "Lift pan flavor with garlic and scallion",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "豬扒夾起靜置 3 分鐘。原鍋留少量油，轉小火下蒜碎煮 20 至 30 秒，再加入蔥粒和 1 湯匙水，把鍋底香味刮起成少量蒜蔥汁。",
+        "yue": "豬扒夾起靜置 3 分鐘。原鍋留少量油，轉小火下蒜碎煮 20 至 30 秒，再加入蔥粒和 1 湯匙水，把鍋底香味刮起成少量蒜蔥汁。",
+        "zhHans": "豬扒夾起靜置 3 分鐘。原鍋留少量油，轉小火下蒜碎煮 20 至 30 秒，再加入蔥粒和 1 湯匙水，把鍋底香味刮起成少量蒜蔥汁。",
+        "en": "Lift out the pork chops and rest them for 3 minutes. Leave a little oil in the pan, lower the heat, cook the minced garlic for 20-30 seconds, then add the scallions and 1 tbsp water, scraping up the browned bits into a small garlic-scallion pan sauce.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "切豬扒蓋白飯",
+        "yue": "切豬扒蓋白飯",
+        "zhHans": "切豬扒蓋白飯",
+        "en": "Slice pork over rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "豬扒斜切成容易入口的條，鋪在熱白飯上，淋少量蒜蔥汁。肉面應該有煎香邊、中心仍多汁；因沒有麵衣，口感是煎豬扒而不是吉列脆皮。",
+        "yue": "豬扒斜切成容易入口的條，鋪在熱白飯上，淋少量蒜蔥汁。肉面應該有煎香邊、中心仍多汁；因沒有麵衣，口感是煎豬扒而不是吉列脆皮。",
+        "zhHans": "豬扒斜切成容易入口的條，鋪在熱白飯上，淋少量蒜蔥汁。肉面應該有煎香邊、中心仍多汁；因沒有麵衣，口感是煎豬扒而不是吉列脆皮。",
+        "en": "Slice the pork chops on a diagonal into easy pieces, lay them over the hot white rice, and spoon on the small amount of garlic-scallion sauce. The meat should have browned edges and a juicy center; without breading, the texture is seared pork chop rather than crisp tonkatsu.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/tonkatsu-rice-plate/cover-1.png",
+      "alt": "Generated meal cover image for tonkatsu-rice-plate",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#tonkatsu-rice-plate",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#tonkatsu-rice-plate",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

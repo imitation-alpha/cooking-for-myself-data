@@ -1,0 +1,55 @@
+{
+  "id": "scallion-pancake",
+  "status": "approved",
+  "names": {
+    "zhHant": "蔥抓餅",
+    "zhHans": "葱抓饼",
+    "en": "Scallion pancake",
+    "ja": "葱油餅",
+    "ko": "총유빙",
+    "th": null,
+    "vi": null,
+    "id": "Scallion pancake",
+    "tl": "Scallion pancake",
+    "yue": "蔥抓餅"
+  },
+  "section": "frozen",
+  "aliases": [
+    "green onion pancake"
+  ],
+  "storeNotes": {
+    "zhHant": "急凍櫃；最後才拿，回家盡快冷藏。",
+    "en": "急凍櫃；最後才拿，回家盡快冷藏。",
+    "yue": "急凍櫃；最後才拿，回家盡快冷藏。"
+  },
+  "substitutions": {
+    "zhHant": "小麥／麩質或蛋限制時改用米粉、河粉或其他已標示合適的主食。",
+    "en": "小麥／麩質或蛋限制時改用米粉、河粉或其他已標示合適的主食。",
+    "yue": "小麥／麩質或蛋限制時改用米粉、河粉或其他已標示合適的主食。"
+  },
+  "tags": [
+    "wheatGluten"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/scallion-pancake.png",
+      "alt": "Generated ingredient image for scallion-pancake",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#scallion-pancake",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/scallion-pancake",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

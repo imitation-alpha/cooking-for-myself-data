@@ -1,0 +1,242 @@
+{
+  "id": "tteokbokki-skillet",
+  "status": "approved",
+  "names": {
+    "zhHant": "辣炒年糕",
+    "zhHans": "辣炒年糕",
+    "en": "Tteokbokki skillet",
+    "ja": "トッポッキ炒め",
+    "ko": "떡볶이",
+    "th": null,
+    "vi": null,
+    "id": "Tteokbokki skillet",
+    "tl": "Tteokbokki skillet",
+    "yue": "辣炒年糕"
+  },
+  "summary": {
+    "zhHant": "辣炒年糕 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "en": "辣炒年糕 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。",
+    "yue": "辣炒年糕 的本地買餸版本。快炒方向，重點是先備料、瀝乾、分批落鑊。"
+  },
+  "reason": {
+    "zhHant": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Korean home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "tteok",
+      "amounts": {
+        "zhHant": "300 克",
+        "zhHans": "300 克",
+        "en": "300 g",
+        "ja": "300 g",
+        "ko": "300 g",
+        "th": null,
+        "vi": null,
+        "id": "300 g",
+        "tl": "300 g",
+        "yue": "300 克"
+      }
+    },
+    {
+      "ingredientId": "gochujang",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "年糕浸軟蔥蒜切好",
+        "yue": "年糕浸軟蔥蒜切好",
+        "zhHans": "年糕浸軟蔥蒜切好",
+        "en": "Soften rice cakes and cut aromatics",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "年糕 300 克若是冷藏硬身，先用暖水浸 10 分鐘後瀝乾；若已柔軟，只需沖洗分開。蒜頭 3 瓣切碎，蔥 2 條分蔥白和蔥綠切段。",
+        "yue": "年糕 300 克若是冷藏硬身，先用暖水浸 10 分鐘後瀝乾；若已柔軟，只需沖洗分開。蒜頭 3 瓣切碎，蔥 2 條分蔥白和蔥綠切段。",
+        "zhHans": "年糕 300 克若是冷藏硬身，先用暖水浸 10 分鐘後瀝乾；若已柔軟，只需沖洗分開。蒜頭 3 瓣切碎，蔥 2 條分蔥白和蔥綠切段。",
+        "en": "If 300 g Korean rice cakes are cold and firm, soak them in warm water for 10 minutes and drain; if already soft, just rinse and separate them. Mince 3 cloves garlic and separate 2 stalks scallions into whites and greens.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "辣醬生抽開成鍋汁",
+        "yue": "辣醬生抽開成鍋汁",
+        "zhHans": "辣醬生抽開成鍋汁",
+        "en": "Make a skillet sauce with gochujang and soy",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "深平底鍋加入 250 毫升水、韓式辣醬 1 湯匙和生抽 1 湯匙，用中火攪開。放入蒜碎和蔥白，煮至湯汁均勻轉紅並開始細滾。",
+        "yue": "深平底鍋加入 250 毫升水、韓式辣醬 1 湯匙和生抽 1 湯匙，用中火攪開。放入蒜碎和蔥白，煮至湯汁均勻轉紅並開始細滾。",
+        "zhHans": "深平底鍋加入 250 毫升水、韓式辣醬 1 湯匙和生抽 1 湯匙，用中火攪開。放入蒜碎和蔥白，煮至湯汁均勻轉紅並開始細滾。",
+        "en": "In a deep skillet, combine 250 ml water, 1 tbsp gochujang, and 1 tbsp light soy sauce over medium heat. Add the minced garlic and scallion whites, stirring until the liquid turns evenly red and begins to simmer.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "細滾年糕至軟糯",
+        "yue": "細滾年糕至軟糯",
+        "zhHans": "細滾年糕至軟糯",
+        "en": "Simmer rice cakes until chewy-soft",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入年糕，保持中火細滾 7 至 9 分鐘，期間常常翻動防黏底。年糕應該膨脹、咬下去軟糯無硬芯；若鍋底太乾，每次加 1 至 2 湯匙水。",
+        "yue": "加入年糕，保持中火細滾 7 至 9 分鐘，期間常常翻動防黏底。年糕應該膨脹、咬下去軟糯無硬芯；若鍋底太乾，每次加 1 至 2 湯匙水。",
+        "zhHans": "加入年糕，保持中火細滾 7 至 9 分鐘，期間常常翻動防黏底。年糕應該膨脹、咬下去軟糯無硬芯；若鍋底太乾，每次加 1 至 2 湯匙水。",
+        "en": "Add the rice cakes and keep the skillet at a steady simmer over medium heat for 7-9 minutes, stirring often so they do not stick. They should swell and become chewy-soft with no hard core; if the pan dries out, add 1-2 tbsp water at a time.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "收成紅亮薄汁",
+        "yue": "收成紅亮薄汁",
+        "zhHans": "收成紅亮薄汁",
+        "en": "Reduce to a glossy red coating",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "汁液變成能包住年糕的紅亮薄汁時，加入蔥綠再煮 30 秒。上碟前確認每條年糕表面滑亮、鍋底仍有少量可舀起的醬汁，不要煮到乾硬。",
+        "yue": "汁液變成能包住年糕的紅亮薄汁時，加入蔥綠再煮 30 秒。上碟前確認每條年糕表面滑亮、鍋底仍有少量可舀起的醬汁，不要煮到乾硬。",
+        "zhHans": "汁液變成能包住年糕的紅亮薄汁時，加入蔥綠再煮 30 秒。上碟前確認每條年糕表面滑亮、鍋底仍有少量可舀起的醬汁，不要煮到乾硬。",
+        "en": "When the liquid becomes a glossy red sauce that coats the rice cakes, add the scallion greens and cook for 30 seconds. Before serving, check that every piece is shiny and that the pan still has a little spoonable sauce; do not reduce it until the rice cakes turn dry or hard.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/tteokbokki-skillet/cover-1.png",
+      "alt": "Generated meal cover image for tteokbokki-skillet",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#tteokbokki-skillet",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#tteokbokki-skillet",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

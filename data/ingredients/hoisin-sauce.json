@@ -1,0 +1,57 @@
+{
+  "id": "hoisin-sauce",
+  "status": "approved",
+  "names": {
+    "zhHant": "海鮮醬",
+    "zhHans": "海鲜酱",
+    "en": "Hoisin sauce",
+    "ja": "海鮮醤",
+    "ko": "해선장",
+    "th": null,
+    "vi": null,
+    "id": "Hoisin sauce",
+    "tl": "Hoisin sauce",
+    "yue": "海鮮醬"
+  },
+  "section": "sauces",
+  "aliases": [
+    "hoisin"
+  ],
+  "storeNotes": {
+    "zhHant": "調味料走廊；先看英文名和過敏成分。",
+    "en": "調味料走廊；先看英文名和過敏成分。",
+    "yue": "調味料走廊；先看英文名和過敏成分。"
+  },
+  "substitutions": {
+    "zhHant": "Hoisin sauce unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "en": "Hoisin sauce unavailable時，先按同區相近食材替代，再調整烹調時間。",
+    "yue": "Hoisin sauce unavailable時，先按同區相近食材替代，再調整烹調時間。"
+  },
+  "tags": [
+    "sesame",
+    "soy",
+    "wheatGluten"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/hoisin-sauce.png",
+      "alt": "Generated ingredient image for hoisin-sauce",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/ingredient-image-runs/ingredient-bulk-2026-05-16-all90#hoisin-sauce",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_ingredient_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/hoisin-sauce",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "id": "omurice",
+  "status": "approved",
+  "names": {
+    "zhHant": "蛋包飯",
+    "zhHans": "蛋包饭",
+    "en": "Omurice",
+    "ja": "オムライス",
+    "ko": "오므라이스",
+    "th": null,
+    "vi": null,
+    "id": "Omurice",
+    "tl": "Omurice",
+    "yue": "蛋包飯"
+  },
+  "summary": {
+    "zhHant": "蛋包飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "蛋包飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "蛋包飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Japanese home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "3 隻",
+        "zhHans": "3 隻",
+        "en": "3 eggs",
+        "ja": "3個",
+        "ko": "3개",
+        "th": null,
+        "vi": null,
+        "id": "3 butir",
+        "tl": "3 piraso",
+        "yue": "3 隻"
+      }
+    },
+    {
+      "ingredientId": "cooked-rice",
+      "amounts": {
+        "zhHant": "2 碗",
+        "zhHans": "2 碗",
+        "en": "2 bowls",
+        "ja": "2杯",
+        "ko": "2그릇",
+        "th": null,
+        "vi": null,
+        "id": "2 mangkuk",
+        "tl": "2 mangkok",
+        "yue": "2 碗"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "egg",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "熟飯鬆開蔥蒜切幼",
+        "yue": "熟飯鬆開蔥蒜切幼",
+        "zhHans": "熟飯鬆開蔥蒜切幼",
+        "en": "Loosen rice and cut scallion garlic",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "使用熟飯 2 碗；若只有白米 1 杯，先煮成飯後攤開放至微暖，避免炒時成團。蒜頭 3 瓣切碎，蔥 2 條切幼粒，雞蛋 3 隻打散備用。",
+        "yue": "使用熟飯 2 碗；若只有白米 1 杯，先煮成飯後攤開放至微暖，避免炒時成團。蒜頭 3 瓣切碎，蔥 2 條切幼粒，雞蛋 3 隻打散備用。",
+        "zhHans": "使用熟飯 2 碗；若只有白米 1 杯，先煮成飯後攤開放至微暖，避免炒時成團。蒜頭 3 瓣切碎，蔥 2 條切幼粒，雞蛋 3 隻打散備用。",
+        "en": "Use 2 bowls cooked rice; if starting from 1 cup rice, cook it first, then spread it out until just warm so it does not clump in the pan. Mince 3 cloves garlic, finely cut 2 stalks scallions, and beat 3 eggs.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "蒜蔥生抽炒飯成形",
+        "yue": "蒜蔥生抽炒飯成形",
+        "zhHans": "蒜蔥生抽炒飯成形",
+        "en": "Fry rice with soy scallion garlic",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鑊加油用中火燒熱，下蒜碎和一半蔥粒炒 20 至 30 秒。加入熟飯 2 碗壓散，淋入生抽 1 湯匙，炒 2 至 3 分鐘至飯粒分開、顏色均勻，先盛成兩份橢圓飯堆。",
+        "yue": "平底鑊加油用中火燒熱，下蒜碎和一半蔥粒炒 20 至 30 秒。加入熟飯 2 碗壓散，淋入生抽 1 湯匙，炒 2 至 3 分鐘至飯粒分開、顏色均勻，先盛成兩份橢圓飯堆。",
+        "zhHans": "平底鑊加油用中火燒熱，下蒜碎和一半蔥粒炒 20 至 30 秒。加入熟飯 2 碗壓散，淋入生抽 1 湯匙，炒 2 至 3 分鐘至飯粒分開、顏色均勻，先盛成兩份橢圓飯堆。",
+        "en": "Heat oil in a skillet over medium heat and cook the minced garlic with half the scallions for 20-30 seconds. Add 2 bowls cooked rice and press apart the grains, then drizzle in 1 tbsp light soy sauce. Stir-fry for 2-3 minutes until the grains separate and the color is even, then plate as two oval mounds.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "蛋液煎成柔軟蛋皮",
+        "yue": "蛋液煎成柔軟蛋皮",
+        "zhHans": "蛋液煎成柔軟蛋皮",
+        "en": "Cook soft egg sheets",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "抹淨平底鑊再加少量油，轉中小火。倒入一半蛋液，轉動鑊身成薄圓片，煎 45 至 60 秒至底部凝固、表面仍微濕；用同樣方法煎第二張蛋皮。",
+        "yue": "抹淨平底鑊再加少量油，轉中小火。倒入一半蛋液，轉動鑊身成薄圓片，煎 45 至 60 秒至底部凝固、表面仍微濕；用同樣方法煎第二張蛋皮。",
+        "zhHans": "抹淨平底鑊再加少量油，轉中小火。倒入一半蛋液，轉動鑊身成薄圓片，煎 45 至 60 秒至底部凝固、表面仍微濕；用同樣方法煎第二張蛋皮。",
+        "en": "Wipe the skillet, add a little oil, and lower to medium-low. Pour in half the beaten egg and tilt the pan into a thin round sheet. Cook for 45-60 seconds until the bottom is set and the top is still slightly moist; repeat with the second egg sheet.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "蛋皮覆飯撒蔥",
+        "yue": "蛋皮覆飯撒蔥",
+        "zhHans": "蛋皮覆飯撒蔥",
+        "en": "Drape egg over rice and scallions",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把每張蛋皮滑到一份炒飯上，邊位向下輕輕包住飯堆。灑餘下蔥粒，趁熱上碟；蛋皮要柔軟貼住飯，切開時見到蒜蔥生抽飯粒清楚分開。",
+        "yue": "把每張蛋皮滑到一份炒飯上，邊位向下輕輕包住飯堆。灑餘下蔥粒，趁熱上碟；蛋皮要柔軟貼住飯，切開時見到蒜蔥生抽飯粒清楚分開。",
+        "zhHans": "把每張蛋皮滑到一份炒飯上，邊位向下輕輕包住飯堆。灑餘下蔥粒，趁熱上碟；蛋皮要柔軟貼住飯，切開時見到蒜蔥生抽飯粒清楚分開。",
+        "en": "Slide each egg sheet over one mound of fried rice and tuck the edges down lightly around it. Scatter the remaining scallions over the top and serve hot; the egg should sit softly against the rice, and the cut surface should show distinct soy-garlic scallion rice grains.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/omurice/cover-1.png",
+      "alt": "Generated meal cover image for omurice",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#omurice",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#omurice",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

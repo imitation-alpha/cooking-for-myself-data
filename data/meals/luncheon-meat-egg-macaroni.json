@@ -1,0 +1,273 @@
+{
+  "id": "luncheon-meat-egg-macaroni",
+  "status": "approved",
+  "names": {
+    "zhHant": "餐蛋通粉",
+    "zhHans": "餐蛋通粉",
+    "en": "Luncheon meat and egg macaroni soup",
+    "ja": "ランチョンミート卵マカロニスープ",
+    "ko": "런천미트 달걀 마카로니탕",
+    "th": null,
+    "vi": null,
+    "id": "Luncheon meat and egg macaroni soup",
+    "tl": "Luncheon meat and egg macaroni soup",
+    "yue": "餐蛋通粉"
+  },
+  "summary": {
+    "zhHant": "餐蛋通粉 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。",
+    "en": "餐蛋通粉 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。",
+    "yue": "餐蛋通粉 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong cafe cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Hong Kong cafe cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Hong Kong cafe cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 18,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "luncheon-meat",
+      "amounts": {
+        "zhHant": "4 片",
+        "zhHans": "4 片",
+        "en": "4 slices",
+        "ja": "4枚",
+        "ko": "4장",
+        "th": null,
+        "vi": null,
+        "id": "4 iris",
+        "tl": "4 hiwa",
+        "yue": "4 片"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "3 隻",
+        "zhHans": "3 隻",
+        "en": "3 eggs",
+        "ja": "3個",
+        "ko": "3개",
+        "th": null,
+        "vi": null,
+        "id": "3 butir",
+        "tl": "3 piraso",
+        "yue": "3 隻"
+      }
+    },
+    {
+      "ingredientId": "macaroni",
+      "amounts": {
+        "zhHant": "160 克",
+        "zhHans": "160 克",
+        "en": "160 g",
+        "ja": "160 g",
+        "ko": "160 g",
+        "th": null,
+        "vi": null,
+        "id": "160 g",
+        "tl": "160 g",
+        "yue": "160 克"
+      }
+    },
+    {
+      "ingredientId": "chicken-broth",
+      "amounts": {
+        "zhHant": "600 毫升",
+        "zhHans": "600 毫升",
+        "en": "600 ml",
+        "ja": "600 ml",
+        "ko": "600 ml",
+        "th": null,
+        "vi": null,
+        "id": "600 ml",
+        "tl": "600 ml",
+        "yue": "600 毫升"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "4 片",
+        "zhHans": "4 片",
+        "en": "4 slices",
+        "ja": "4枚",
+        "ko": "4장",
+        "th": null,
+        "vi": null,
+        "id": "4 iris",
+        "tl": "4 hiwa",
+        "yue": "4 片"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "pork",
+    "egg",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "切餐肉蔥薑蒜",
+        "yue": "切餐肉蔥薑蒜",
+        "zhHans": "切餐肉蔥薑蒜",
+        "en": "Cut luncheon meat and aromatics",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "午餐肉 4 片切半或保留整片；蒜頭 3 瓣拍扁，薑 4 片拍鬆，蔥 2 條切粒。雞蛋 3 隻可先打散做蛋花，或保留原隻煎蛋。",
+        "yue": "午餐肉 4 片切半或保留整片；蒜頭 3 瓣拍扁，薑 4 片拍鬆，蔥 2 條切粒。雞蛋 3 隻可先打散做蛋花，或保留原隻煎蛋。",
+        "zhHans": "午餐肉 4 片切半或保留整片；蒜頭 3 瓣拍扁，薑 4 片拍鬆，蔥 2 條切粒。雞蛋 3 隻可先打散做蛋花，或保留原隻煎蛋。",
+        "en": "Cut 4 slices luncheon meat in half or keep them whole. Smash 3 cloves garlic, bruise 4 slices ginger, and finely cut 2 stalks scallions. Beat 3 eggs for egg ribbons, or keep them whole if you prefer fried eggs.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "煎香午餐肉和蛋",
+        "yue": "煎香午餐肉和蛋",
+        "zhHans": "煎香午餐肉和蛋",
+        "en": "Brown luncheon meat and cook eggs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鑊加少量油用中火煎午餐肉，每面 1 至 2 分鐘至邊緣微脆，先取出。若做煎蛋，用同鑊把雞蛋煎至蛋白凝固、蛋黃按喜好熟度；若做蛋花，雞蛋留到湯中使用。",
+        "yue": "平底鑊加少量油用中火煎午餐肉，每面 1 至 2 分鐘至邊緣微脆，先取出。若做煎蛋，用同鑊把雞蛋煎至蛋白凝固、蛋黃按喜好熟度；若做蛋花，雞蛋留到湯中使用。",
+        "zhHans": "平底鑊加少量油用中火煎午餐肉，每面 1 至 2 分鐘至邊緣微脆，先取出。若做煎蛋，用同鑊把雞蛋煎至蛋白凝固、蛋黃按喜好熟度；若做蛋花，雞蛋留到湯中使用。",
+        "en": "Heat a little oil in a skillet over medium heat and fry the luncheon meat for 1-2 minutes per side until the edges are lightly crisp, then remove it. If making fried eggs, cook the eggs in the same pan until the whites set and the yolks are as done as you like; if making egg ribbons, save the beaten eggs for the soup.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "雞湯煮通粉至彈口",
+        "yue": "雞湯煮通粉至彈口",
+        "zhHans": "雞湯煮通粉至彈口",
+        "en": "Cook macaroni in chicken broth",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鍋中加入雞湯 600 毫升、蒜頭和薑片，煮滾後下通粉 160 克。保持中火滾 7 至 9 分鐘，至通粉熟透但仍有彈性；湯太少可加水調整。",
+        "yue": "鍋中加入雞湯 600 毫升、蒜頭和薑片，煮滾後下通粉 160 克。保持中火滾 7 至 9 分鐘，至通粉熟透但仍有彈性；湯太少可加水調整。",
+        "zhHans": "鍋中加入雞湯 600 毫升、蒜頭和薑片，煮滾後下通粉 160 克。保持中火滾 7 至 9 分鐘，至通粉熟透但仍有彈性；湯太少可加水調整。",
+        "en": "Add 600 ml chicken broth, the garlic, and the ginger to a pot. Bring to a boil, then add 160 g macaroni and keep it bubbling over medium heat for 7-9 minutes, until the macaroni is cooked but still springy. Add water if the soup level gets too low.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "蛋花或煎蛋上碗",
+        "yue": "蛋花或煎蛋上碗",
+        "zhHans": "蛋花或煎蛋上碗",
+        "en": "Bowl with egg and luncheon meat",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "若做蛋花，轉小火把蛋液慢慢倒入湯中，等 10 秒再輕推成蛋絲。夾走薑片，通粉連湯入碗，放上午餐肉和煎蛋或蛋花，灑蔥粒，趁湯熱、通粉未發脹時吃。",
+        "yue": "若做蛋花，轉小火把蛋液慢慢倒入湯中，等 10 秒再輕推成蛋絲。夾走薑片，通粉連湯入碗，放上午餐肉和煎蛋或蛋花，灑蔥粒，趁湯熱、通粉未發脹時吃。",
+        "zhHans": "若做蛋花，轉小火把蛋液慢慢倒入湯中，等 10 秒再輕推成蛋絲。夾走薑片，通粉連湯入碗，放上午餐肉和煎蛋或蛋花，灑蔥粒，趁湯熱、通粉未發脹時吃。",
+        "en": "If making egg ribbons, lower the heat, slowly pour the beaten eggs into the soup, wait 10 seconds, then gently push them into strands. Remove the ginger slices, bowl the macaroni with soup, top with luncheon meat and either fried eggs or egg ribbons, scatter scallions, and eat while the soup is hot and the macaroni has not swollen.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/luncheon-meat-egg-macaroni/cover-1.png",
+      "alt": "Generated meal cover image for luncheon-meat-egg-macaroni",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#luncheon-meat-egg-macaroni",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#luncheon-meat-egg-macaroni",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}

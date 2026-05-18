@@ -1,0 +1,258 @@
+{
+  "id": "pad-kra-pao",
+  "status": "approved",
+  "names": {
+    "zhHant": "泰式打拋肉飯",
+    "zhHans": "泰式打抛肉饭",
+    "en": "Pad kra pao",
+    "ja": "ガパオライス",
+    "ko": "팟끄라파오",
+    "th": null,
+    "vi": null,
+    "id": "Pad kra pao",
+    "tl": "Pad kra pao",
+    "yue": "泰式打拋肉飯"
+  },
+  "summary": {
+    "zhHant": "泰式打拋肉飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "en": "泰式打拋肉飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。",
+    "yue": "泰式打拋肉飯 的本地買餸版本。飯餐方向，重點是主料、配菜和醬汁比例清楚。"
+  },
+  "reason": {
+    "zhHant": "Thai home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "en": "Thai home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
+    "yue": "Thai home cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 28,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "pork-mince",
+      "amounts": {
+        "zhHant": "220 克",
+        "zhHans": "220 克",
+        "en": "220 g",
+        "ja": "220 g",
+        "ko": "220 g",
+        "th": null,
+        "vi": null,
+        "id": "220 g",
+        "tl": "220 g",
+        "yue": "220 克"
+      }
+    },
+    {
+      "ingredientId": "thai-basil",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "1 杯",
+        "zhHans": "1 杯",
+        "en": "1 cup",
+        "ja": "1カップ",
+        "ko": "1컵",
+        "th": null,
+        "vi": null,
+        "id": "1 cangkir",
+        "tl": "1 tasa",
+        "yue": "1 杯"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "pork",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "羅勒摘葉肉撥鬆",
+        "yue": "羅勒摘葉肉撥鬆",
+        "zhHans": "羅勒摘葉肉撥鬆",
+        "en": "Pick basil leaves and loosen pork",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米 1 杯先煮飯；泰國羅勒 1 杯摘葉，免治豬肉 220 克撥鬆，蒜頭 3 瓣切碎，蔥 2 條切粒，生抽 1 湯匙放近爐邊。",
+        "yue": "白米 1 杯先煮飯；泰國羅勒 1 杯摘葉，免治豬肉 220 克撥鬆，蒜頭 3 瓣切碎，蔥 2 條切粒，生抽 1 湯匙放近爐邊。",
+        "zhHans": "白米 1 杯先煮飯；泰國羅勒 1 杯摘葉，免治豬肉 220 克撥鬆，蒜頭 3 瓣切碎，蔥 2 條切粒，生抽 1 湯匙放近爐邊。",
+        "en": "Cook 1 cup White rice first. Pick the leaves from 1 cup Thai basil, loosen 220 g Ground pork, mince 3 cloves Garlic, slice 2 stalks Scallions, and keep 1 tbsp Light soy sauce beside the stove.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "蒜蔥爆香打拋肉",
+        "yue": "蒜蔥爆香打拋肉",
+        "zhHans": "蒜蔥爆香打拋肉",
+        "en": "Sear the basil-pork base",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鑊用大火燒熱後落油，炒蒜頭和蔥白 20 秒；加入免治豬肉 220 克，用鑊鏟壓散，炒 4 至 5 分鐘至肉粒乾身、邊位微焦。",
+        "yue": "鑊用大火燒熱後落油，炒蒜頭和蔥白 20 秒；加入免治豬肉 220 克，用鑊鏟壓散，炒 4 至 5 分鐘至肉粒乾身、邊位微焦。",
+        "zhHans": "鑊用大火燒熱後落油，炒蒜頭和蔥白 20 秒；加入免治豬肉 220 克，用鑊鏟壓散，炒 4 至 5 分鐘至肉粒乾身、邊位微焦。",
+        "en": "Heat a wok over high heat, add oil, and cook the Garlic and scallion whites for 20 seconds. Add 220 g Ground pork, press it apart with the spatula, and stir-fry for 4-5 minutes until the pork is dry-looking with lightly browned edges.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "生抽收緊肉汁",
+        "yue": "生抽收緊肉汁",
+        "zhHans": "生抽收緊肉汁",
+        "en": "Reduce the soy pan juices",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "沿鑊邊淋入生抽 1 湯匙和少量水，大火兜 45 至 60 秒；肉粒應吸住汁但不水汪汪，鍋底只剩薄薄一層油亮肉汁。",
+        "yue": "沿鑊邊淋入生抽 1 湯匙和少量水，大火兜 45 至 60 秒；肉粒應吸住汁但不水汪汪，鍋底只剩薄薄一層油亮肉汁。",
+        "zhHans": "沿鑊邊淋入生抽 1 湯匙和少量水，大火兜 45 至 60 秒；肉粒應吸住汁但不水汪汪，鍋底只剩薄薄一層油亮肉汁。",
+        "en": "Pour 1 tbsp Light soy sauce and a small splash of water around the side of the wok, then toss over high heat for 45-60 seconds. The pork should absorb the liquid, leaving only a thin glossy layer of pan juices.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "羅勒最後塌香",
+        "yue": "羅勒最後塌香",
+        "zhHans": "羅勒最後塌香",
+        "en": "Wilt the basil at the end",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "關火前加入泰國羅勒 1 杯和蔥綠，快速翻 15 至 20 秒，羅勒剛塌下就離火；把打拋肉鋪在白飯上，趁羅勒香味仍明顯時食用。",
+        "yue": "關火前加入泰國羅勒 1 杯和蔥綠，快速翻 15 至 20 秒，羅勒剛塌下就離火；把打拋肉鋪在白飯上，趁羅勒香味仍明顯時食用。",
+        "zhHans": "關火前加入泰國羅勒 1 杯和蔥綠，快速翻 15 至 20 秒，羅勒剛塌下就離火；把打拋肉鋪在白飯上，趁羅勒香味仍明顯時食用。",
+        "en": "Just before turning off the heat, add 1 cup Thai basil and the scallion greens, then toss for 15-20 seconds until the basil just wilts. Spoon the pork over White rice and serve while the basil aroma is still clear.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/pad-kra-pao/cover-1.png",
+      "alt": "Generated meal cover image for pad-kra-pao",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#pad-kra-pao",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself generated all90 recipe seed",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#pad-kra-pao",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself automated validation",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-17T01:24:05.164Z"
+  }
+}
