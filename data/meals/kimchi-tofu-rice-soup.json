@@ -1,0 +1,315 @@
+{
+  "id": "kimchi-tofu-rice-soup",
+  "status": "approved",
+  "names": {
+    "zhHant": "泡菜豆腐飯湯",
+    "yue": "泡菜豆腐飯湯",
+    "zhHans": "泡菜豆腐饭汤",
+    "en": "Kimchi tofu rice soup",
+    "ja": "キムチ豆腐ご飯スープ",
+    "ko": "김치 두부 밥국",
+    "th": "ซุปข้าวกิมจิเต้าหู้นิ่ม",
+    "vi": "Súp cơm kimchi đậu hũ non",
+    "id": "Sup nasi kimchi tahu lembut",
+    "tl": "Sabaw na kanin na may kimchi at malambot na tokwa"
+  },
+  "summary": {
+    "zhHant": "泡菜豆腐飯湯是一碗清爽微酸的快手湯飯，用雞湯、薑、蔥和少量生抽托出泡菜味，再把滑豆腐和熱湯淋在熟飯上，30 分鐘內完成。",
+    "yue": "泡菜豆腐飯湯係一碗清爽微酸嘅快手湯飯，用雞湯、薑、蔥同少量生抽托出泡菜味，再將滑豆腐同熱湯淋喺熟飯上，30 分鐘內完成。",
+    "zhHans": "泡菜豆腐饭汤是一碗清爽微酸的快手汤饭，用鸡汤、姜、葱和少量生抽托出泡菜味，再把滑豆腐和热汤淋在熟饭上，30 分钟内完成。",
+    "en": "A light, gently tangy rice soup with kimchi, soft tofu, ginger, scallion, chicken broth, and a little light soy ladled over cooked rice, ready within 30 minutes.",
+    "ja": "キムチ、絹ごし豆腐、しょうが、ねぎ、チキンブロス、少量の薄口しょうゆを温かいご飯にかける、30分以内の軽いご飯スープです。",
+    "ko": "김치, 순두부, 생강, 대파, 치킨 브로스, 약간의 연한 간장을 밥 위에 부어 먹는 산뜻한 밥국으로 30분 안에 만들 수 있습니다.",
+    "th": "ซุปข้าวรสเบาอมเปรี้ยวจากกิมจิ เต้าหู้นิ่ม ขิง ต้นหอม น้ำซุปไก่ และซีอิ๊วขาวเล็กน้อย ราดบนข้าวสุก เสร็จภายใน 30 นาที",
+    "vi": "Một bát súp cơm nhẹ, hơi chua dịu với kimchi, đậu hũ non, gừng, hành lá, nước dùng gà và ít nước tương nhạt, chan lên cơm chín trong vòng 30 phút.",
+    "id": "Sup nasi ringan yang sedikit asam dengan kimchi, tahu lembut, jahe, daun bawang, kaldu ayam, dan sedikit kecap asin muda, disiram di atas nasi matang dalam 30 menit.",
+    "tl": "Magaan at bahagyang maasim na sabaw sa kanin na may kimchi, malambot na tokwa, luya, sibuyas na mura, sabaw ng manok, at kaunting light soy, handa sa loob ng 30 minuto."
+  },
+  "reason": {
+    "zhHant": "熟飯讓湯飯很快成形，雞湯和薑帶出清淡湯底，泡菜提供酸辣和蔬菜感，滑豆腐補足柔軟蛋白質；飯和湯分開處理，口感不會變成濃粥。",
+    "yue": "熟飯令湯飯好快成形，雞湯同薑帶出清淡湯底，泡菜提供酸辣同蔬菜感，滑豆腐補足柔軟蛋白質；飯同湯分開處理，口感唔會變成濃粥。",
+    "zhHans": "熟饭让汤饭很快成形，鸡汤和姜带出清淡汤底，泡菜提供酸辣和蔬菜感，滑豆腐补足柔软蛋白质；饭和汤分开处理，口感不会变成浓粥。",
+    "en": "Cooked rice makes the bowl fast, chicken broth and ginger keep the base light, kimchi adds tang and vegetables, and soft tofu brings gentle protein; keeping the rice separate prevents the soup from turning thick.",
+    "ja": "炊いたご飯で素早く作れ、チキンブロスとしょうがで軽いスープにし、キムチで酸味と野菜感、豆腐でやさしいたんぱく質を加えます。ご飯を別にするので重くなりません。",
+    "ko": "밥이 있어 빨리 완성되고, 치킨 브로스와 생강이 가벼운 국물을 만들며, 김치는 산미와 채소감을, 순두부는 부드러운 단백질을 더합니다. 밥을 따로 두어 국물이 걸쭉해지지 않습니다.",
+    "th": "ข้าวสุกช่วยให้ทำได้เร็ว น้ำซุปไก่กับขิงทำให้ซุปเบา กิมจิเพิ่มรสเปรี้ยวเผ็ดและผัก ส่วนเต้าหู้นิ่มเพิ่มโปรตีนอ่อน ๆ การแยกข้าวไว้ก่อนช่วยไม่ให้ซุปข้นเกินไป",
+    "vi": "Cơm chín giúp món hoàn thành nhanh, nước dùng gà và gừng giữ nền súp nhẹ, kimchi thêm vị chua cay và rau, còn đậu hũ non bổ sung đạm mềm; để cơm riêng giúp súp không đặc như cháo.",
+    "id": "Nasi matang membuat hidangan cepat, kaldu ayam dan jahe menjaga kuah tetap ringan, kimchi memberi rasa asam pedas dan sayuran, sementara tahu lembut menambah protein; nasi dipisah agar sup tidak mengental.",
+    "tl": "Pinapabilis ng lutong kanin ang pagkain, pinapagaan ng sabaw ng manok at luya ang base, nagbibigay ang kimchi ng asim-anghang at gulay, at nagdadagdag ang malambot na tokwa ng banayad na protina; hiwalay ang kanin para hindi lumapot ang sabaw."
+  },
+  "timeMinutes": 25,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "kimchi",
+      "amounts": {
+        "zhHant": "160 克",
+        "yue": "160 克",
+        "zhHans": "160 克",
+        "en": "160 g",
+        "ja": "160 g",
+        "ko": "160 g",
+        "th": "160 กรัม",
+        "vi": "160 g",
+        "id": "160 g",
+        "tl": "160 g"
+      }
+    },
+    {
+      "ingredientId": "soft-tofu",
+      "amounts": {
+        "zhHant": "1 盒",
+        "yue": "1 盒",
+        "zhHans": "1 盒",
+        "en": "1 package",
+        "ja": "1パック",
+        "ko": "1팩",
+        "th": "1 กล่อง",
+        "vi": "1 hộp",
+        "id": "1 bungkus",
+        "tl": "1 pakete"
+      }
+    },
+    {
+      "ingredientId": "cooked-rice",
+      "amounts": {
+        "zhHant": "2 碗",
+        "yue": "2 碗",
+        "zhHans": "2 碗",
+        "en": "2 bowls cooked rice",
+        "ja": "ご飯2杯",
+        "ko": "밥 2공기",
+        "th": "ข้าวสุก 2 ถ้วย",
+        "vi": "2 bát cơm chín",
+        "id": "2 mangkuk nasi matang",
+        "tl": "2 mangkok na lutong kanin"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "yue": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": "2 ต้น",
+        "vi": "2 nhánh",
+        "id": "2 batang",
+        "tl": "2 tangkay"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "4 片",
+        "yue": "4 片",
+        "zhHans": "4 片",
+        "en": "4 slices",
+        "ja": "4枚",
+        "ko": "4쪽",
+        "th": "4 แว่น",
+        "vi": "4 lát",
+        "id": "4 iris",
+        "tl": "4 hiwa"
+      }
+    },
+    {
+      "ingredientId": "chicken-broth",
+      "amounts": {
+        "zhHant": "650 毫升",
+        "yue": "650 毫升",
+        "zhHans": "650 毫升",
+        "en": "650 ml",
+        "ja": "650 ml",
+        "ko": "650 ml",
+        "th": "650 มล.",
+        "vi": "650 ml",
+        "id": "650 ml",
+        "tl": "650 ml"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "2 茶匙",
+        "yue": "2 茶匙",
+        "zhHans": "2 茶匙",
+        "en": "2 tsp",
+        "ja": "小さじ2",
+        "ko": "2작은술",
+        "th": "2 ช้อนชา",
+        "vi": "2 thìa cà phê",
+        "id": "2 sdt",
+        "tl": "2 kutsarita"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "fish",
+    "shellfish",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "備好飯、豆腐和蔥薑",
+        "yue": "備好飯、豆腐同蔥薑",
+        "zhHans": "备好饭、豆腐和葱姜",
+        "en": "Prep rice, tofu, scallion, and ginger",
+        "ja": "ご飯、豆腐、ねぎ、しょうがを準備する",
+        "ko": "밥, 두부, 대파, 생강 준비하기",
+        "th": "เตรียมข้าว เต้าหู้ ต้นหอม และขิง",
+        "vi": "Chuẩn bị cơm, đậu hũ, hành lá và gừng",
+        "id": "Siapkan nasi, tahu, daun bawang, dan jahe",
+        "tl": "Ihanda ang kanin, tokwa, sibuyas na mura, at luya"
+      },
+      "detail": {
+        "zhHant": "熟飯 2 碗翻鬆後分入兩個深碗。滑豆腐 1 盒瀝去盒中水，切成大塊；泡菜 160 克若太大片就剪短。蔥 2 條分開蔥白和蔥綠切粒，薑 4 片拍鬆。",
+        "yue": "熟飯 2 碗翻鬆後分入兩個深碗。滑豆腐 1 盒瀝走盒中水，切成大件；泡菜 160 克如果太大片就剪短。蔥 2 條分開蔥白同蔥綠切粒，薑 4 片拍鬆。",
+        "zhHans": "熟饭 2 碗翻松后分入两个深碗。滑豆腐 1 盒沥去盒中水，切成大块；泡菜 160 克如果太大片就剪短。葱 2 条分开葱白和葱绿切粒，姜 4 片拍松。",
+        "en": "Fluff 2 bowls cooked rice and divide it between two deep bowls. Drain 1 package soft tofu and cut it into large pieces; snip 160 g kimchi shorter if needed. Slice 2 scallions, separating whites and greens, and bruise 4 slices ginger.",
+        "ja": "ご飯2杯をほぐして深めの器2つに分ける。絹ごし豆腐1パックは水を切って大きめに切り、キムチ160 gは大きければ短く切る。ねぎ2本は白い部分と青い部分に分けて刻み、しょうが4枚は軽くたたく。",
+        "ko": "밥 2공기를 풀어 깊은 그릇 2개에 나눕니다. 순두부 1팩은 물을 빼고 큼직하게 자르고, 김치 160 g은 크면 짧게 자릅니다. 대파 2대는 흰 부분과 초록 부분을 나누어 썰고, 생강 4쪽은 살짝 으깹니다.",
+        "th": "ยีข้าวสุก 2 ถ้วยให้ร่วนแล้วแบ่งใส่ชามลึก 2 ใบ เทน้ำออกจากเต้าหู้นิ่ม 1 กล่องแล้วหั่นชิ้นใหญ่ ตัดกิมจิ 160 กรัมให้สั้นถ้าชิ้นใหญ่ ซอยต้นหอม 2 ต้นแยกส่วนขาวกับเขียว และทุบขิง 4 แว่นเบา ๆ",
+        "vi": "Xới tơi 2 bát cơm chín rồi chia vào 2 tô sâu. Chắt nước 1 hộp đậu hũ non và cắt miếng lớn; cắt ngắn 160 g kimchi nếu miếng quá to. Thái 2 nhánh hành lá, để riêng phần trắng và xanh, rồi đập dập 4 lát gừng.",
+        "id": "Aduk lepas 2 mangkuk nasi matang dan bagi ke 2 mangkuk dalam. Tiriskan 1 bungkus tahu lembut lalu potong besar; gunting 160 g kimchi lebih pendek bila perlu. Iris 2 batang daun bawang, pisahkan putih dan hijau, lalu memarkan 4 iris jahe.",
+        "tl": "Paluwagin ang 2 mangkok na lutong kanin at hatiin sa 2 malalim na mangkok. Alisin ang tubig ng 1 pakete ng malambot na tokwa at hiwain nang malalaki; paikliin ang 160 g kimchi kung malalaki ang piraso. Hiwain ang 2 tangkay na sibuyas na mura, ihiwalay ang puti at berde, at bahagyang durugin ang 4 hiwa ng luya."
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "煮清雞薑湯底",
+        "yue": "煮清雞薑湯底",
+        "zhHans": "煮清鸡姜汤底",
+        "en": "Simmer a light ginger broth",
+        "ja": "軽いしょうがスープを煮る",
+        "ko": "가벼운 생강 국물 끓이기",
+        "th": "เคี่ยวน้ำซุปขิงรสเบา",
+        "vi": "Nấu nước dùng gừng nhẹ",
+        "id": "Didihkan kuah jahe yang ringan",
+        "tl": "Pakuluan ang magaan na sabaw na may luya"
+      },
+      "detail": {
+        "zhHant": "鍋中加入雞湯 650 毫升、薑片和蔥白，中火煮至微滾後轉小火 4 分鐘。加入生抽 2 茶匙拌勻，湯要保持清淡，不需要額外收濃。",
+        "yue": "鍋中加入雞湯 650 毫升、薑片同蔥白，中火煮至微滾後轉小火 4 分鐘。加入生抽 2 茶匙拌勻，湯要保持清淡，唔需要額外收濃。",
+        "zhHans": "锅中加入鸡汤 650 毫升、姜片和葱白，中火煮至微滚后转小火 4 分钟。加入生抽 2 茶匙拌匀，汤要保持清淡，不需要额外收浓。",
+        "en": "Add 650 ml chicken broth, the ginger slices, and scallion whites to a pot. Bring to a gentle simmer over medium heat, then lower the heat for 4 minutes. Stir in 2 tsp light soy; keep the broth light and do not reduce it.",
+        "ja": "鍋にチキンブロス650 ml、しょうが、ねぎの白い部分を入れる。中火で軽く煮立て、弱火にして4分煮る。薄口しょうゆ小さじ2を混ぜ、スープは軽いままにして煮詰めない。",
+        "ko": "냄비에 치킨 브로스 650 ml, 생강, 대파 흰 부분을 넣습니다. 중불에서 은근히 끓으면 약불로 낮춰 4분 끓입니다. 연한 간장 2작은술을 섞고, 국물은 졸이지 말고 가볍게 유지합니다.",
+        "th": "ใส่น้ำซุปไก่ 650 มล. ขิง และต้นหอมส่วนขาวลงในหม้อ ต้มไฟกลางจนเดือดอ่อน ๆ แล้วลดไฟอ่อน 4 นาที คนซีอิ๊วขาว 2 ช้อนชาลงไป ให้ซุปยังเบา ไม่ต้องเคี่ยวให้งวด",
+        "vi": "Cho 650 ml nước dùng gà, gừng và phần trắng hành lá vào nồi. Đun lửa vừa đến khi sôi nhẹ, rồi hạ nhỏ lửa 4 phút. Khuấy 2 thìa cà phê nước tương nhạt vào; giữ nước dùng thanh, không nấu cạn.",
+        "id": "Masukkan 650 ml kaldu ayam, irisan jahe, dan bagian putih daun bawang ke panci. Didihkan perlahan dengan api sedang, lalu kecilkan api selama 4 menit. Aduk masuk 2 sdt kecap asin muda; jaga kuah tetap ringan dan jangan direduksi.",
+        "tl": "Ilagay sa kaserola ang 650 ml sabaw ng manok, mga hiwa ng luya, at puting bahagi ng sibuyas na mura. Pakuluan nang mahina sa katamtamang init, saka hinaan sa loob ng 4 minuto. Ihalo ang 2 kutsarita light soy; panatilihing magaan ang sabaw at huwag pakapalin."
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "泡菜入湯煮出微酸",
+        "yue": "泡菜入湯煮出微酸",
+        "zhHans": "泡菜入汤煮出微酸",
+        "en": "Simmer kimchi for gentle tang",
+        "ja": "キムチを煮てやさしい酸味を出す",
+        "ko": "김치를 넣어 산뜻한 맛 내기",
+        "th": "ต้มกิมจิให้รสเปรี้ยวอ่อน",
+        "vi": "Nấu kimchi cho vị chua dịu",
+        "id": "Rebus kimchi untuk rasa asam lembut",
+        "tl": "Pakuluan ang kimchi para sa banayad na asim"
+      },
+      "detail": {
+        "zhHant": "把泡菜連少量泡菜汁放入湯中，用小火煮 3 分鐘，只煮到湯色轉淡紅、味道融合。保持細泡，不要大滾，讓泡菜仍有爽脆感。",
+        "yue": "將泡菜連少量泡菜汁放入湯中，用小火煮 3 分鐘，只煮到湯色轉淡紅、味道融合。保持細泡，唔好大滾，令泡菜仍然有爽脆感。",
+        "zhHans": "把泡菜连少量泡菜汁放入汤中，用小火煮 3 分钟，只煮到汤色转淡红、味道融合。保持细泡，不要大滚，让泡菜仍有爽脆感。",
+        "en": "Add the kimchi with a little kimchi juice to the broth and simmer gently for 3 minutes, just until the liquid turns pale red and the flavors come together. Keep small bubbles rather than a hard boil so the kimchi stays a little crisp.",
+        "ja": "キムチと少量のキムチの汁をスープに入れ、弱火で3分煮る。スープが淡い赤色になり、味がなじむ程度でよい。強く沸かさず小さな泡を保ち、キムチの歯ざわりを少し残す。",
+        "ko": "김치와 김치 국물을 조금 넣고 약불에서 3분 끓입니다. 국물이 연한 붉은색이 되고 맛이 어우러질 정도면 됩니다. 세게 끓이지 말고 작은 기포를 유지해 김치의 아삭함을 조금 남깁니다.",
+        "th": "ใส่กิมจิพร้อมน้ำกิมจิเล็กน้อยลงในน้ำซุป เคี่ยวเบา ๆ 3 นาที แค่ให้ซุปเป็นสีแดงอ่อนและรสเข้ากัน รักษาให้เดือดเป็นฟองเล็ก ๆ ไม่เดือดแรง เพื่อให้กิมจิยังกรอบเล็กน้อย",
+        "vi": "Cho kimchi cùng ít nước kimchi vào nước dùng và nấu liu riu 3 phút, chỉ đến khi nước chuyển đỏ nhạt và vị hòa quyện. Giữ sôi nhẹ thay vì sôi mạnh để kimchi còn hơi giòn.",
+        "id": "Masukkan kimchi dengan sedikit air kimchi ke kuah dan didihkan pelan 3 menit, cukup sampai kuah berwarna merah muda dan rasanya menyatu. Jaga gelembung kecil, bukan mendidih kuat, agar kimchi masih agak renyah.",
+        "tl": "Ilagay ang kimchi kasama ng kaunting katas nito sa sabaw at pakuluan nang mahina sa loob ng 3 minuto, hanggang maging mapulang bahagya ang sabaw at maghalo ang lasa. Panatilihin ang maliliit na bula, hindi malakas na kulo, para may kaunting lutong pa ang kimchi."
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "滑豆腐輕輕煮熱",
+        "yue": "滑豆腐輕輕煮熱",
+        "zhHans": "滑豆腐轻轻煮热",
+        "en": "Warm the soft tofu gently",
+        "ja": "豆腐をやさしく温める",
+        "ko": "순두부 부드럽게 데우기",
+        "th": "อุ่นเต้าหู้นิ่มอย่างเบามือ",
+        "vi": "Làm nóng đậu hũ non nhẹ tay",
+        "id": "Hangatkan tahu lembut perlahan",
+        "tl": "Painitin nang marahan ang malambot na tokwa"
+      },
+      "detail": {
+        "zhHant": "把滑豆腐大塊輕放入湯中，用湯勺把泡菜湯淋上表面。小火煮 3 至 4 分鐘，期間不要攪碎豆腐；豆腐中心熱透即可關火。",
+        "yue": "將滑豆腐大件輕放入湯中，用湯勺將泡菜湯淋上表面。小火煮 3 至 4 分鐘，期間唔好攪碎豆腐；豆腐中心熱透即可關火。",
+        "zhHans": "把滑豆腐大块轻放入汤中，用汤勺把泡菜汤淋上表面。小火煮 3 至 4 分钟，期间不要搅碎豆腐；豆腐中心热透即可关火。",
+        "en": "Nestle the large soft tofu pieces into the soup and spoon the kimchi broth over them. Simmer on low for 3-4 minutes without breaking up the tofu; turn off the heat once the centers are hot.",
+        "ja": "大きく切った豆腐をスープにそっと入れ、キムチスープを上からかける。弱火で3〜4分、豆腐を崩さないように温め、中心まで熱くなったら火を止める。",
+        "ko": "큼직한 순두부 조각을 국물에 조심히 넣고 김치 국물을 위에 끼얹습니다. 두부가 부서지지 않게 약불에서 3-4분 데우고, 속까지 뜨거워지면 불을 끕니다.",
+        "th": "ค่อย ๆ วางเต้าหู้นิ่มชิ้นใหญ่ลงในซุป แล้วตักน้ำซุปกิมจิราดด้านบน เคี่ยวไฟอ่อน 3-4 นาทีโดยไม่คนให้เต้าหู้แตก ปิดไฟเมื่อกลางชิ้นร้อนทั่ว",
+        "vi": "Nhẹ nhàng cho các miếng đậu hũ non lớn vào súp và múc nước dùng kimchi rưới lên. Nấu nhỏ lửa 3-4 phút, không khuấy làm nát đậu; tắt bếp khi phần giữa đã nóng.",
+        "id": "Letakkan potongan besar tahu lembut ke dalam sup dan siram dengan kuah kimchi. Didihkan dengan api kecil 3-4 menit tanpa menghancurkan tahu; matikan api saat bagian tengahnya sudah panas.",
+        "tl": "Dahan-dahang ilagay ang malalaking piraso ng malambot na tokwa sa sabaw at buhusan sa ibabaw ng sabaw ng kimchi. Pakuluan sa mahinang init 3-4 minuto nang hindi dinudurog ang tokwa; patayin kapag mainit na ang gitna."
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "熱湯淋飯灑蔥綠",
+        "yue": "熱湯淋飯灑蔥綠",
+        "zhHans": "热汤淋饭撒葱绿",
+        "en": "Ladle soup over rice and finish with scallions",
+        "ja": "ご飯にスープをかけ、青ねぎで仕上げる",
+        "ko": "밥 위에 국물을 붓고 대파 초록 부분으로 마무리하기",
+        "th": "ราดซุปบนข้าวและโรยต้นหอมเขียว",
+        "vi": "Chan súp lên cơm và hoàn tất với hành lá xanh",
+        "id": "Siram sup ke nasi dan selesaikan dengan daun bawang hijau",
+        "tl": "Ibuhos ang sabaw sa kanin at tapusin sa berdeng sibuyas na mura"
+      },
+      "detail": {
+        "zhHant": "把泡菜、豆腐和清湯平均淋在兩碗飯上，湯量剛好蓋過飯面即可。灑上蔥綠後立即食用；飯粒應吸到熱湯但仍分明，整碗保持清爽微酸。",
+        "yue": "將泡菜、豆腐同清湯平均淋喺兩碗飯上，湯量剛好蓋過飯面即可。灑上蔥綠後即刻食用；飯粒應該吸到熱湯但仍然分明，成碗保持清爽微酸。",
+        "zhHans": "把泡菜、豆腐和清汤平均淋在两碗饭上，汤量刚好盖过饭面即可。撒上葱绿后立即食用；饭粒应该吸到热汤但仍分明，整碗保持清爽微酸。",
+        "en": "Divide the kimchi, tofu, and light broth over the two bowls of rice, adding just enough soup to cover the grains. Scatter with scallion greens and serve right away; the rice should absorb hot broth while staying distinct, and the bowl should remain bright and light.",
+        "ja": "キムチ、豆腐、軽いスープを2つのご飯の器に均等にかけ、ご飯がちょうど浸るくらいにする。青ねぎを散らしてすぐに食べる。ご飯は熱いスープを吸いながら粒が残り、全体はさっぱりした酸味に仕上がる。",
+        "ko": "김치, 두부, 가벼운 국물을 밥 2그릇 위에 고르게 붓고, 밥알이 잠길 만큼만 넣습니다. 대파 초록 부분을 뿌려 바로 냅니다. 밥알은 뜨거운 국물을 머금되 퍼지지 않고, 한 그릇은 산뜻하고 가볍게 유지됩니다.",
+        "th": "แบ่งกิมจิ เต้าหู้ และน้ำซุปเบา ๆ ราดบนข้าว 2 ชาม ใส่ซุปแค่พอท่วมเมล็ดข้าว โรยต้นหอมส่วนเขียวแล้วเสิร์ฟทันที ข้าวควรซึมน้ำซุปร้อนแต่ยังเป็นเม็ด และทั้งชามควรสดชื่นรสเปรี้ยวอ่อน",
+        "vi": "Chia kimchi, đậu hũ và nước dùng nhẹ lên 2 tô cơm, chan vừa đủ ngập mặt cơm. Rắc phần xanh hành lá và dùng ngay; hạt cơm nên hút nước nóng nhưng vẫn tơi, cả tô giữ vị thanh và chua dịu.",
+        "id": "Bagi kimchi, tahu, dan kuah ringan ke atas 2 mangkuk nasi, cukup sampai kuah menutup butiran nasi. Taburi bagian hijau daun bawang dan sajikan segera; nasi harus menyerap kuah panas tetapi tetap terpisah, dengan rasa segar dan ringan.",
+        "tl": "Hatiin ang kimchi, tokwa, at magaan na sabaw sa 2 mangkok ng kanin, sapat lang para matakpan ang mga butil. Budburan ng berdeng sibuyas na mura at ihain agad; dapat sumipsip ng mainit na sabaw ang kanin pero malinaw pa rin ang mga butil, at manatiling presko at magaan ang lasa."
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/kimchi-tofu-rice-soup/cover-1.png",
+      "alt": "Generated meal cover image for kimchi-tofu-rice-soup",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself light-but-fueled image run",
+      "sourceURL": "local://cooking-for-myself-data/light-but-fueled-2026-05-18#kimchi-tofu-rice-soup",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself light-but-fueled meal expansion",
+    "sourceURL": "local://cooking-for-myself-data/data/meals/kimchi-tofu-rice-soup.json",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "approved",
+    "generated": true,
+    "generatedAt": "2026-05-18T00:00:00Z"
+  }
+}

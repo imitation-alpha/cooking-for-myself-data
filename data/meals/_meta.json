@@ -1,7 +1,7 @@
 {
   "name": "cooking-for-myself-data",
   "version": "0.1.0",
-  "generatedAt": "2026-05-17T01:26:28.139Z",
+  "generatedAt": "2026-05-18T00:00:00.000Z",
   "sourceRunId": "bulk-2026-05-16-all90",
   "approvedAt": "2026-05-16",
   "canonicalLanguages": [
@@ -17,7 +17,7 @@
   ],
   "counts": {
     "ingredients": 85,
-    "meals": 88
+    "meals": 112
   },
   "licenses": {
     "data": "ODC-BY-1.0",
@@ -112,6 +112,30 @@
     "pad-thai",
     "pho-ga",
     "lemongrass-chicken-rice",
-    "goi-cuon-dinner"
+    "goi-cuon-dinner",
+    "miso-salmon-soba-bowl",
+    "kimchi-tofu-egg-rice-bowl",
+    "ginger-scallion-chicken-rice-bowl",
+    "teriyaki-salmon-cucumber-rice-bowl",
+    "shrimp-soba-cucumber-bowl",
+    "tofu-egg-bibimbap-bowl",
+    "lemongrass-chicken-rice-noodle-bowl",
+    "tomato-egg-tofu-udon",
+    "deconstructed-kimbap-bowl",
+    "salmon-onigiri-plate",
+    "gochujang-tofu-lettuce-cups",
+    "shrimp-rice-paper-noodle-rolls",
+    "cold-soba-tofu-set",
+    "chicken-lettuce-rice-wraps",
+    "miso-salmon-rice-soup",
+    "napa-tofu-egg-drop-soup",
+    "kimchi-tofu-rice-soup",
+    "chicken-soba-broth-bowl",
+    "tomato-tofu-egg-soup",
+    "ginger-white-fish-rice-soup",
+    "teriyaki-chicken-rice-lunchbox",
+    "sweet-potato-leaves-tofu-rice-set",
+    "chicken-soboro-cucumber-rice-box",
+    "gochujang-chicken-rice-box"
   ]
 }

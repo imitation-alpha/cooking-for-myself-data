@@ -1,0 +1,313 @@
+{
+  "id": "gochujang-chicken-rice-box",
+  "status": "approved",
+  "names": {
+    "zhHant": "韓式辣雞飯盒",
+    "yue": "韓式辣雞飯盒",
+    "zhHans": "韩式辣鸡饭盒",
+    "en": "Gochujang chicken rice box",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": "Gochujang chicken rice box",
+    "tl": "Gochujang chicken rice box"
+  },
+  "summary": {
+    "zhHant": "雞髀肉用韓式辣醬、薑和蔥快速煎香，配熟飯、青瓜和爽口紹菜，30 分鐘內完成，適合午餐飯盒和 meal-prep。",
+    "yue": "雞髀肉用韓式辣醬、薑同蔥快速煎香，配熟飯、青瓜同爽口紹菜，30 分鐘內完成，啱做午餐飯盒同 meal-prep。",
+    "zhHans": "鸡腿肉用韩式辣酱、姜和葱快速煎香，配熟饭、青瓜和爽口大白菜，30 分钟内完成，适合午餐饭盒和 meal-prep。",
+    "en": "Chicken thigh is quickly pan-cooked with gochujang, ginger, and scallion, then packed with cooked rice, cucumber, and crisp napa cabbage for a 30-minute meal-prep lunchbox.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "reason": {
+    "zhHant": "熟飯縮短準備時間，雞髀肉提供飽足蛋白質，韓式辣醬帶鹹辣味；青瓜和紹菜分格放好，讓午餐盒冷熱都清爽。",
+    "yue": "熟飯慳準備時間，雞髀肉提供飽肚蛋白質，韓式辣醬帶鹹辣味；青瓜同紹菜分格放好，令午餐盒冷熱都清爽。",
+    "zhHans": "熟饭缩短准备时间，鸡腿肉提供饱足蛋白质，韩式辣酱带咸辣味；青瓜和大白菜分格放好，让午餐盒冷热都清爽。",
+    "en": "Cooked rice keeps the workflow fast, chicken thigh brings satisfying protein, and gochujang adds savory heat; cucumber and napa cabbage pack neatly so the lunchbox stays fresh hot or cold.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "timeMinutes": 25,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "2 件",
+        "yue": "2 件",
+        "zhHans": "2 件",
+        "en": "2 thighs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "2 thighs",
+        "tl": "2 thighs"
+      }
+    },
+    {
+      "ingredientId": "gochujang",
+      "amounts": {
+        "zhHant": "2 湯匙",
+        "yue": "2 湯匙",
+        "zhHans": "2 汤匙",
+        "en": "2 tbsp",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "2 tbsp",
+        "tl": "2 tbsp"
+      }
+    },
+    {
+      "ingredientId": "cooked-rice",
+      "amounts": {
+        "zhHant": "2 碗",
+        "yue": "2 碗",
+        "zhHans": "2 碗",
+        "en": "2 bowls",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "2 bowls",
+        "tl": "2 bowls"
+      }
+    },
+    {
+      "ingredientId": "cucumber",
+      "amounts": {
+        "zhHant": "1 條",
+        "yue": "1 條",
+        "zhHans": "1 条",
+        "en": "1 cucumber",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "1 cucumber",
+        "tl": "1 cucumber"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "yue": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "2 stalks",
+        "tl": "2 stalks"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "1 小塊",
+        "yue": "1 小塊",
+        "zhHans": "1 小块",
+        "en": "1 small piece",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "1 small piece",
+        "tl": "1 small piece"
+      }
+    },
+    {
+      "ingredientId": "napa-cabbage",
+      "amounts": {
+        "zhHant": "4 片葉",
+        "yue": "4 片葉",
+        "zhHans": "4 片叶",
+        "en": "4 leaves",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "4 leaves",
+        "tl": "4 leaves"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "切好飯盒配料",
+        "yue": "切好飯盒配料",
+        "zhHans": "切好饭盒配料",
+        "en": "Prep the rice box ingredients",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "雞髀肉 2 件抹乾，切成飯盒容易夾起的厚片。青瓜 1 條切半月片，紹菜 4 片葉切幼絲，薑 1 小塊磨蓉，蔥 2 條切粒並分開蔥白和蔥綠；熟飯 2 碗先翻鬆。",
+        "yue": "雞髀肉 2 件抹乾，切成飯盒容易夾起嘅厚片。青瓜 1 條切半月片，紹菜 4 片葉切幼絲，薑 1 小塊磨蓉，蔥 2 條切粒並分開蔥白同蔥綠；熟飯 2 碗先翻鬆。",
+        "zhHans": "鸡腿肉 2 件抹干，切成饭盒容易夹起的厚片。青瓜 1 条切半月片，大白菜 4 片叶切细丝，姜 1 小块磨蓉，葱 2 条切粒并分开葱白和葱绿；熟饭 2 碗先翻松。",
+        "en": "Pat 2 chicken thighs dry and slice them into thick lunchbox-friendly pieces. Cut 1 cucumber into half-moons, shred 4 napa cabbage leaves, grate 1 small piece ginger, slice 2 scallions with whites and greens kept separate, and fluff 2 bowls cooked rice.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "煎香雞髀肉",
+        "yue": "煎香雞髀肉",
+        "zhHans": "煎香鸡腿肉",
+        "en": "Pan-cook the chicken thigh",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "防黏平底鍋用中火預熱，放入雞髀肉平鋪，先不要急著翻動。煎 4 至 5 分鐘至底部微金黃，再翻面煎 3 至 4 分鐘，讓中心熟透。",
+        "yue": "防黏平底鑊用中火預熱，放入雞髀肉平鋪，先唔好急住翻動。煎 4 至 5 分鐘至底部微金黃，再反面煎 3 至 4 分鐘，令中心熟透。",
+        "zhHans": "防粘平底锅用中火预热，放入鸡腿肉平铺，先不要急着翻动。煎 4 至 5 分钟至底部微金黄，再翻面煎 3 至 4 分钟，让中心熟透。",
+        "en": "Preheat a nonstick skillet over medium heat, add the chicken in a single layer, and let it sear before moving it. Cook for 4-5 minutes until lightly golden underneath, then turn and cook 3-4 minutes more until the centers are done.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "掛上韓式辣醬",
+        "yue": "掛上韓式辣醬",
+        "zhHans": "挂上韩式辣酱",
+        "en": "Glaze with gochujang",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把火調低，加入薑蓉、蔥白和韓式辣醬 2 湯匙。用鑊鏟快速拌炒 60 至 90 秒，讓辣醬薄薄包住雞肉表面，聞到薑蔥香就停止久炒。",
+        "yue": "將火調低，加入薑蓉、蔥白同韓式辣醬 2 湯匙。用鑊鏟快速拌炒 60 至 90 秒，令辣醬薄薄包住雞肉表面，聞到薑蔥香就停止久炒。",
+        "zhHans": "把火调低，加入姜蓉、葱白和韩式辣酱 2 汤匙。用锅铲快速拌炒 60 至 90 秒，让辣酱薄薄包住鸡肉表面，闻到姜葱香就停止久炒。",
+        "en": "Lower the heat, then add the grated ginger, scallion whites, and 2 tbsp gochujang. Fold quickly for 60-90 seconds so the paste clings in a thin glaze around the chicken, stopping once the ginger and scallion smell fragrant.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "用紹菜收成配菜",
+        "yue": "用紹菜收成配菜",
+        "zhHans": "用大白菜收成配菜",
+        "en": "Fold in napa cabbage",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入紹菜絲，和雞肉一起翻炒 1 至 2 分鐘，只需略為變軟並沾到鍋中的辣醬香。紹菜仍保持少許爽口，飯盒放涼後口感會更好。",
+        "yue": "加入紹菜絲，同雞肉一齊翻炒 1 至 2 分鐘，只需要略為變軟並沾到鑊中嘅辣醬香。紹菜仍保持少少爽口，飯盒放涼後口感會更好。",
+        "zhHans": "加入大白菜丝，和鸡肉一起翻炒 1 至 2 分钟，只需略为变软并沾到锅中的辣酱香。大白菜仍保持少许爽口，饭盒放凉后口感会更好。",
+        "en": "Add the shredded napa cabbage and toss with the chicken for 1-2 minutes, just until slightly softened and coated with the spicy pan flavor. Keep a little crunch so the lunchbox still tastes fresh after cooling.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "分格裝成飯盒",
+        "yue": "分格裝成飯盒",
+        "zhHans": "分格装成饭盒",
+        "en": "Pack the rice boxes",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把熟飯分入 2 個飯盒，旁邊放韓式辣雞和紹菜，再放青瓜片作清爽配菜。灑上蔥綠；若作 meal-prep，先完全放涼再蓋好冷藏，青瓜最好分格保存。",
+        "yue": "將熟飯分入 2 個飯盒，旁邊放韓式辣雞同紹菜，再放青瓜片做清爽配菜。灑上蔥綠；如果做 meal-prep，先完全放涼再冚好冷藏，青瓜最好分格保存。",
+        "zhHans": "把熟饭分入 2 个饭盒，旁边放韩式辣鸡和大白菜，再放青瓜片作清爽配菜。撒上葱绿；若作 meal-prep，先完全放凉再盖好冷藏，青瓜最好分格保存。",
+        "en": "Divide the cooked rice between 2 lunchboxes, then pack the gochujang chicken and napa cabbage beside it with cucumber slices as a cool side. Scatter scallion greens over the top; for meal prep, cool completely before covering and keep cucumber in its own section.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/gochujang-chicken-rice-box/cover-1.png",
+      "alt": "Generated meal cover image for gochujang-chicken-rice-box",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself light-but-fueled image run",
+      "sourceURL": "local://cooking-for-myself-data/light-but-fueled-2026-05-18#gochujang-chicken-rice-box",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself light-but-fueled meal expansion",
+    "sourceURL": "local://cooking-for-myself-data/data/meals/gochujang-chicken-rice-box.json",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "approved",
+    "generated": true,
+    "generatedAt": "2026-05-18T00:00:00Z"
+  }
+}

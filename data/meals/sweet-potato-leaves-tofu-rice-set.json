@@ -1,0 +1,298 @@
+{
+  "id": "sweet-potato-leaves-tofu-rice-set",
+  "status": "approved",
+  "names": {
+    "zhHant": "地瓜葉豆腐飯餐",
+    "yue": "地瓜葉豆腐飯餐",
+    "zhHans": "地瓜叶豆腐饭餐",
+    "en": "Sweet potato leaves tofu rice set",
+    "ja": "さつまいも葉と豆腐のご飯セット",
+    "ko": "고구마잎 두부 밥상",
+    "th": "ชุดข้าวใบมันเทศกับเต้าหู้",
+    "vi": "Set cơm lá khoai lang đậu hũ",
+    "id": "Set nasi daun ubi dan tahu",
+    "tl": "Set ng kanin, dahon ng kamote at tofu"
+  },
+  "summary": {
+    "zhHant": "地瓜葉、豆腐、蒜蓉蔥花和生抽放在熟飯旁邊，做成清爽兩人飯餐；配菜和主食分明，亦適合裝成午餐盒。",
+    "yue": "地瓜葉、豆腐、蒜蓉蔥花同生抽放喺熟飯旁邊，做成清爽兩人飯餐；配菜同主食分明，亦都啱裝成午餐盒。",
+    "zhHans": "地瓜叶、豆腐、蒜蓉葱花和生抽放在熟饭旁边，做成清爽两人饭餐；配菜和主食分明，也适合装成午餐盒。",
+    "en": "Sweet potato leaves, tofu, garlic, scallions, and light soy sit beside cooked rice for a clean two-person rice set with distinct vegetables, protein, and grains that also packs well for lunch.",
+    "ja": "さつまいも葉、豆腐、にんにく、ねぎ、薄口しょうゆを温かいご飯の横に盛る、二人分の軽いご飯セット。弁当にも入れやすい一皿です。",
+    "ko": "고구마잎, 두부, 마늘, 대파, 연한 간장을 따뜻한 밥 옆에 담아 채소와 단백질, 밥이 분명한 2인용 가벼운 밥상입니다.",
+    "th": "ใบมันเทศ เต้าหู้ กระเทียม ต้นหอม และซีอิ๊วขาววางข้างข้าวสุก เป็นชุดข้าวสองที่แบบเบา ๆ ที่แยกผัก โปรตีน และข้าวได้ชัดเจน",
+    "vi": "Lá khoai lang, đậu hũ, tỏi, hành lá và nước tương nhạt ăn cạnh cơm chín, tạo thành set cơm nhẹ cho hai người, dễ chia phần mang đi.",
+    "id": "Daun ubi, tahu, bawang putih, daun bawang, dan kecap asin ringan disajikan di samping nasi matang untuk set nasi dua porsi yang ringan dan mudah dibawa.",
+    "tl": "Dahon ng kamote, tofu, bawang, scallion, at light soy ang kasama ng lutong kanin para sa magaan na rice set para sa dalawang tao at madaling ibaon."
+  },
+  "reason": {
+    "zhHant": "豆腐補足植物蛋白，地瓜葉帶來葉菜份量，熟飯讓餐點穩定飽肚；蒜、蔥和生抽足夠調味，不需要重醬或多個鍋具。",
+    "yue": "豆腐補足植物蛋白，地瓜葉帶嚟葉菜份量，熟飯令餐點穩定飽肚；蒜、蔥同生抽已經夠調味，唔需要重醬或者好多鍋具。",
+    "zhHans": "豆腐补足植物蛋白，地瓜叶带来叶菜份量，熟饭让餐点稳定饱腹；蒜、葱和生抽足够调味，不需要重酱或多个锅具。",
+    "en": "Tofu adds plant protein, sweet potato leaves bring a generous green component, and cooked rice makes the meal filling. Garlic, scallion, and light soy keep the seasoning focused without heavy sauce or extra cookware.",
+    "ja": "豆腐で植物性たんぱく質を足し、さつまいも葉で青菜をしっかり取れます。ご飯で満足感が出て、にんにく、ねぎ、薄口しょうゆだけで味がまとまります。",
+    "ko": "두부는 식물성 단백질을 더하고 고구마잎은 넉넉한 잎채소가 됩니다. 밥으로 든든하며 마늘, 대파, 연한 간장만으로 맛이 깔끔합니다.",
+    "th": "เต้าหู้เพิ่มโปรตีนจากพืช ใบมันเทศเพิ่มผักใบเขียว และข้าวสุกช่วยให้อิ่มพอดี กระเทียม ต้นหอม และซีอิ๊วขาวให้รสชัดโดยไม่ต้องใช้ซอสหนัก",
+    "vi": "Đậu hũ bổ sung đạm thực vật, lá khoai lang cho phần rau xanh rõ ràng, còn cơm chín giúp bữa ăn no lâu. Tỏi, hành lá và nước tương nhạt đủ tạo vị gọn.",
+    "id": "Tahu memberi protein nabati, daun ubi menambah porsi sayur hijau, dan nasi matang membuatnya mengenyangkan. Bawang putih, daun bawang, dan kecap asin ringan cukup untuk rasa yang bersih.",
+    "tl": "May plant protein mula sa tofu, gulay mula sa dahon ng kamote, at busog na base mula sa kanin. Sapat ang bawang, scallion, at light soy para malinaw ang lasa."
+  },
+  "timeMinutes": 24,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "sweet-potato-leaves",
+      "amounts": {
+        "zhHant": "1 札",
+        "yue": "1 札",
+        "zhHans": "1 札",
+        "en": "1 bunch",
+        "ja": "1束",
+        "ko": "1단",
+        "th": "1 กำ",
+        "vi": "1 bó",
+        "id": "1 ikat",
+        "tl": "1 tali"
+      }
+    },
+    {
+      "ingredientId": "tofu",
+      "amounts": {
+        "zhHant": "300 克",
+        "yue": "300 克",
+        "zhHans": "300 克",
+        "en": "300 g",
+        "ja": "300 g",
+        "ko": "300 g",
+        "th": "300 กรัม",
+        "vi": "300 g",
+        "id": "300 g",
+        "tl": "300 g"
+      }
+    },
+    {
+      "ingredientId": "cooked-rice",
+      "amounts": {
+        "zhHant": "2 碗",
+        "yue": "2 碗",
+        "zhHans": "2 碗",
+        "en": "2 bowls",
+        "ja": "2杯",
+        "ko": "2공기",
+        "th": "2 ถ้วย",
+        "vi": "2 bát",
+        "id": "2 mangkuk",
+        "tl": "2 mangkok"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "yue": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": "3 กลีบ",
+        "vi": "3 tép",
+        "id": "3 siung",
+        "tl": "3 butil"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 1/2 湯匙",
+        "yue": "1 1/2 湯匙",
+        "zhHans": "1 1/2 汤匙",
+        "en": "1 1/2 tbsp",
+        "ja": "大さじ1と1/2",
+        "ko": "1 1/2큰술",
+        "th": "1 1/2 ช้อนโต๊ะ",
+        "vi": "1 1/2 muỗng canh",
+        "id": "1 1/2 sdm",
+        "tl": "1 1/2 kutsara"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "yue": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": "2 ต้น",
+        "vi": "2 nhánh",
+        "id": "2 batang",
+        "tl": "2 tangkay"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "備好飯和葉菜豆腐",
+        "yue": "備好飯同葉菜豆腐",
+        "zhHans": "备好饭和叶菜豆腐",
+        "en": "Prep rice, greens, and tofu",
+        "ja": "ご飯、青菜、豆腐を準備する",
+        "ko": "밥, 채소, 두부 준비",
+        "th": "เตรียมข้าว ผัก และเต้าหู้",
+        "vi": "Chuẩn bị cơm, rau và đậu hũ",
+        "id": "Siapkan nasi, sayur, dan tahu",
+        "tl": "Ihanda ang kanin, gulay, at tofu"
+      },
+      "detail": {
+        "zhHant": "熟飯 2 碗翻鬆並保持溫熱。地瓜葉 1 札洗淨瀝乾，粗梗切短段、葉片保留大片；豆腐 300 克抹乾後切厚片，蒜頭 3 瓣切碎，蔥 2 條切粒。",
+        "yue": "熟飯 2 碗翻鬆並保持溫熱。地瓜葉 1 札洗淨瀝乾，粗梗切短段、葉片保留大片；豆腐 300 克抹乾後切厚片，蒜頭 3 瓣切碎，蔥 2 條切粒。",
+        "zhHans": "熟饭 2 碗翻松并保持温热。地瓜叶 1 札洗净沥干，粗梗切短段、叶片保留大片；豆腐 300 克抹干后切厚片，蒜头 3 瓣切碎，葱 2 条切粒。",
+        "en": "Fluff 2 bowls cooked rice and keep it warm. Wash and drain 1 bunch sweet potato leaves, cutting thick stems into short pieces and leaving the leaves large. Pat 300 g tofu dry and cut into thick slices; mince 3 garlic cloves and slice 2 scallions.",
+        "ja": "温かいご飯2杯をほぐしておきます。さつまいも葉1束を洗って水気を切り、太い茎は短く切り、葉は大きめに残します。豆腐300 gは水気を拭いて厚切りにし、にんにく3片とねぎ2本を刻みます。",
+        "ko": "따뜻한 밥 2공기를 풀어 둡니다. 고구마잎 1단은 씻어 물기를 빼고 굵은 줄기는 짧게, 잎은 큼직하게 둡니다. 두부 300 g은 물기를 닦아 두껍게 썰고, 마늘 3쪽과 대파 2대를 썹니다.",
+        "th": "ซุยข้าวสุก 2 ถ้วยให้ร่วนและอุ่นไว้ ล้างใบมันเทศ 1 กำแล้วสะเด็ดน้ำ หั่นก้านหนาเป็นท่อนสั้นและคงใบไว้เป็นชิ้นใหญ่ ซับเต้าหู้ 300 กรัมให้แห้งแล้วหั่นหนา สับกระเทียม 3 กลีบและซอยต้นหอม 2 ต้น",
+        "vi": "Xới tơi 2 bát cơm chín và giữ ấm. Rửa 1 bó lá khoai lang, để ráo, cắt phần cọng dày thành đoạn ngắn và giữ lá lớn. Thấm khô 300 g đậu hũ rồi cắt miếng dày; băm 3 tép tỏi và thái 2 nhánh hành lá.",
+        "id": "Aduk 2 mangkuk nasi matang agar lepas dan tetap hangat. Cuci 1 ikat daun ubi, tiriskan, potong batang tebal menjadi ruas pendek dan biarkan daun tetap besar. Keringkan 300 g tahu lalu iris tebal; cincang 3 siung bawang putih dan iris 2 batang daun bawang.",
+        "tl": "Paluwagin ang 2 mangkok na lutong kanin at panatilihing mainit. Hugasan at patuluin ang 1 tali ng dahon ng kamote, hiwain ang makakapal na tangkay, at panatilihing malalaki ang dahon. Patuyuin ang 300 g tofu at hiwain nang makapal; tadtarin ang 3 butil bawang at 2 tangkay scallion."
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "豆腐煎至熱透",
+        "yue": "豆腐煎至熱透",
+        "zhHans": "豆腐煎至热透",
+        "en": "Warm the tofu through",
+        "ja": "豆腐を中まで温める",
+        "ko": "두부를 속까지 데우기",
+        "th": "อุ่นเต้าหู้ให้ร้อนทั่ว",
+        "vi": "Làm nóng đậu hũ",
+        "id": "Hangatkan tahu hingga panas",
+        "tl": "Painitin ang tofu"
+      },
+      "detail": {
+        "zhHant": "不沾鍋以中火預熱，放入豆腐厚片平鋪，煎 3 至 4 分鐘後翻面再煎 2 分鐘。表面微乾、中心熱透即可先盛起，保持完整不要壓碎。",
+        "yue": "不沾鍋用中火預熱，放入豆腐厚片平鋪，煎 3 至 4 分鐘後翻面再煎 2 分鐘。表面微乾、中心熱透就可以先盛起，保持完整唔好壓碎。",
+        "zhHans": "不粘锅以中火预热，放入豆腐厚片平铺，煎 3 至 4 分钟后翻面再煎 2 分钟。表面微干、中心热透即可先盛起，保持完整不要压碎。",
+        "en": "Preheat a nonstick skillet over medium heat. Lay in the tofu slices in one layer, cook for 3-4 minutes, then turn and cook 2 minutes more. Lift them out once the surfaces look lightly dry and the centers are hot, keeping the pieces intact.",
+        "ja": "ノンスティックフライパンを中火で温め、豆腐を一段に並べます。3〜4分焼いて返し、さらに2分温めます。表面が少し乾き中心まで熱くなったら取り出し、崩さないようにします。",
+        "ko": "논스틱 팬을 중불로 예열하고 두부를 한 겹으로 놓습니다. 3-4분 익힌 뒤 뒤집어 2분 더 데웁니다. 겉면이 살짝 마르고 속까지 뜨거우면 부서지지 않게 꺼냅니다.",
+        "th": "อุ่นกระทะไม่ติดกระทะด้วยไฟกลาง วางเต้าหู้เป็นชั้นเดียว ย่าง 3-4 นาทีแล้วพลิกอีกด้านต่อ 2 นาที เมื่อผิวแห้งเล็กน้อยและด้านในร้อนทั่ว ให้ตักออกโดยไม่กดให้แตก",
+        "vi": "Làm nóng chảo chống dính ở lửa vừa. Xếp đậu hũ thành một lớp, áp 3-4 phút, lật mặt rồi áp thêm 2 phút. Khi mặt hơi khô và bên trong nóng đều thì lấy ra, giữ miếng đậu nguyên vẹn.",
+        "id": "Panaskan wajan antilengket di api sedang. Letakkan irisan tahu dalam satu lapis, masak 3-4 menit, balik, lalu masak 2 menit lagi. Angkat saat permukaannya agak kering dan bagian tengah panas, jaga agar potongan tetap utuh.",
+        "tl": "Painitin ang nonstick pan sa katamtamang apoy. Ilatag ang tofu sa isang patong, lutuin ng 3-4 minuto, baligtarin, at lutuin pa ng 2 minuto. Ilabas kapag bahagyang tuyo ang ibabaw at mainit ang gitna, nang hindi nadudurog."
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "蒜蔥焗軟地瓜葉",
+        "yue": "蒜蔥焗軟地瓜葉",
+        "zhHans": "蒜葱焖软地瓜叶",
+        "en": "Steam the greens with garlic and scallion",
+        "ja": "にんにくとねぎで葉を蒸す",
+        "ko": "마늘과 대파로 채소 익히기",
+        "th": "อบผักกับกระเทียมและต้นหอม",
+        "vi": "Làm mềm rau với tỏi và hành",
+        "id": "Layukan sayur dengan bawang dan daun bawang",
+        "tl": "Palambutin ang dahon kasama ang bawang at scallion"
+      },
+      "detail": {
+        "zhHant": "同一鍋加入蒜蓉、蔥白和地瓜葉梗段，中火翻動 30 秒。加入地瓜葉葉片和 3 湯匙清水，蓋上鍋蓋焗 2 分鐘，見葉片塌下但仍翠綠才打開。",
+        "yue": "同一個鍋加入蒜蓉、蔥白同地瓜葉梗段，中火翻動 30 秒。加入地瓜葉葉片同 3 湯匙清水，蓋上鍋蓋焗 2 分鐘，見葉片塌低但仍然翠綠先打開。",
+        "zhHans": "同一锅加入蒜蓉、葱白和地瓜叶梗段，中火翻动 30 秒。加入地瓜叶叶片和 3 汤匙清水，盖上锅盖焖 2 分钟，见叶片塌下但仍翠绿才打开。",
+        "en": "In the same skillet, add the garlic, scallion whites, and sweet potato leaf stems; stir over medium heat for 30 seconds. Add the leaves and 3 tbsp water, cover, and steam for 2 minutes, just until the leaves collapse but stay bright green.",
+        "ja": "同じフライパンににんにく、ねぎの白い部分、さつまいも葉の茎を入れ、中火で30秒動かします。葉と水大さじ3を加え、ふたをして2分蒸し、葉がしんなりしても鮮やかな緑のうちに開けます。",
+        "ko": "같은 팬에 마늘, 대파 흰 부분, 고구마잎 줄기를 넣고 중불에서 30초 저어 줍니다. 잎과 물 3큰술을 넣고 덮어 2분 찌듯 익히며, 잎이 숨이 죽어도 선명한 초록일 때 엽니다.",
+        "th": "ใส่กระเทียม ต้นหอมส่วนขาว และก้านใบมันเทศลงในกระทะเดิม ผัดไฟกลาง 30 วินาที ใส่ใบและน้ำ 3 ช้อนโต๊ะ ปิดฝาอบ 2 นาที จนใบยุบแต่ยังเขียวสด",
+        "vi": "Cho tỏi, phần trắng hành lá và cọng lá khoai lang vào cùng chảo, đảo ở lửa vừa 30 giây. Thêm phần lá và 3 muỗng canh nước, đậy nắp hấp 2 phút, chỉ đến khi lá xẹp xuống nhưng vẫn xanh sáng.",
+        "id": "Di wajan yang sama, masukkan bawang putih, bagian putih daun bawang, dan batang daun ubi; aduk di api sedang 30 detik. Tambahkan daun dan 3 sdm air, tutup, lalu kukus 2 menit sampai daun layu tetapi tetap hijau cerah.",
+        "tl": "Sa parehong pan, ilagay ang bawang, puting bahagi ng scallion, at tangkay ng dahon ng kamote; haluin sa katamtamang apoy ng 30 segundo. Idagdag ang dahon at 3 kutsarang tubig, takpan, at pasingawan ng 2 minuto hanggang lumambot pero matingkad pa ang berde."
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "生抽回鍋掛汁",
+        "yue": "生抽回鍋掛汁",
+        "zhHans": "生抽回锅挂汁",
+        "en": "Return tofu and glaze with soy",
+        "ja": "豆腐を戻してしょうゆをからめる",
+        "ko": "두부를 넣고 간장 입히기",
+        "th": "ใส่เต้าหู้กลับและเคลือบซีอิ๊ว",
+        "vi": "Cho đậu hũ lại chảo và áo nước tương",
+        "id": "Masukkan tahu kembali dan balut kecap",
+        "tl": "Ibalik ang tofu at pahiran ng light soy"
+      },
+      "detail": {
+        "zhHant": "打開鍋蓋，加入生抽 1 1/2 湯匙和豆腐厚片，輕輕把菜汁舀到豆腐上。再煮 1 分鐘至豆腐邊緣染上醬色，最後拌入蔥綠。",
+        "yue": "打開鍋蓋，加入生抽 1 1/2 湯匙同豆腐厚片，輕輕將菜汁舀上豆腐。再煮 1 分鐘至豆腐邊緣染上醬色，最後拌入蔥綠。",
+        "zhHans": "打开锅盖，加入生抽 1 1/2 汤匙和豆腐厚片，轻轻把菜汁舀到豆腐上。再煮 1 分钟至豆腐边缘染上酱色，最后拌入葱绿。",
+        "en": "Uncover, add 1 1/2 tbsp light soy sauce and return the tofu slices. Spoon the vegetable juices over the tofu gently. Cook 1 minute more, until the tofu edges take on soy color, then fold in the scallion greens.",
+        "ja": "ふたを開け、薄口しょうゆ大さじ1と1/2と豆腐を戻します。野菜の汁を豆腐にやさしくかけ、豆腐の端にしょうゆ色がつくまでさらに1分煮て、最後にねぎの青い部分を混ぜます。",
+        "ko": "뚜껑을 열고 연한 간장 1 1/2큰술과 두부를 다시 넣습니다. 채소 국물을 두부 위에 조심스럽게 끼얹고 1분 더 익혀 두부 가장자리에 간장색이 돌면 대파 초록 부분을 넣습니다.",
+        "th": "เปิดฝา ใส่ซีอิ๊วขาว 1 1/2 ช้อนโต๊ะและเต้าหู้กลับลงไป ตักน้ำผักราดบนเต้าหู้อย่างเบามือ ต้มต่อ 1 นาทีจนขอบเต้าหู้มีสีซีอิ๊ว แล้วคลุกต้นหอมส่วนเขียว",
+        "vi": "Mở nắp, thêm 1 1/2 muỗng canh nước tương nhạt và cho đậu hũ lại vào chảo. Nhẹ tay múc nước rau rưới lên đậu. Nấu thêm 1 phút đến khi mép đậu thấm màu tương, rồi trộn phần xanh hành lá.",
+        "id": "Buka tutup, tambahkan 1 1/2 sdm kecap asin ringan dan masukkan kembali irisan tahu. Sendokkan sari sayur ke atas tahu dengan lembut. Masak 1 menit lagi sampai tepi tahu berwarna kecap, lalu aduk bagian hijau daun bawang.",
+        "tl": "Buksan ang takip, idagdag ang 1 1/2 kutsarang light soy at ibalik ang tofu. Dahan-dahang kutsarahin ang katas ng gulay sa ibabaw ng tofu. Lutuin pa ng 1 minuto hanggang kumulay ang gilid ng tofu, saka ihalo ang berdeng scallion."
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "分裝成飯餐或便當",
+        "yue": "分裝成飯餐或便當",
+        "zhHans": "分装成饭餐或便当",
+        "en": "Pack as rice sets or lunchboxes",
+        "ja": "ご飯セットか弁当に分ける",
+        "ko": "밥상이나 도시락으로 담기",
+        "th": "จัดเป็นชุดข้าวหรือกล่องกลางวัน",
+        "vi": "Chia thành set cơm hoặc hộp cơm",
+        "id": "Bagi menjadi set nasi atau bekal",
+        "tl": "Ihain bilang rice set o baon"
+      },
+      "detail": {
+        "zhHant": "把熟飯分入 2 個碗或飯盒，一邊放地瓜葉，一邊放豆腐，將鍋底少量蒜蔥生抽汁淋在豆腐和飯邊。飯盒版本先放涼 5 分鐘再蓋上。",
+        "yue": "將熟飯分入 2 個碗或者飯盒，一邊放地瓜葉，一邊放豆腐，將鍋底少量蒜蔥生抽汁淋喺豆腐同飯邊。飯盒版本先放涼 5 分鐘再蓋上。",
+        "zhHans": "把熟饭分入 2 个碗或饭盒，一边放地瓜叶，一边放豆腐，将锅底少量蒜葱生抽汁淋在豆腐和饭边。饭盒版本先放凉 5 分钟再盖上。",
+        "en": "Divide the cooked rice between 2 bowls or lunchboxes. Place sweet potato leaves on one side and tofu on the other, then drizzle the small amount of garlic scallion soy juices over the tofu and edge of the rice. For lunchboxes, cool 5 minutes before closing.",
+        "ja": "ご飯を2つの器または弁当箱に分けます。片側にさつまいも葉、もう片側に豆腐を置き、フライパンに残ったにんにくねぎしょうゆの汁を豆腐とご飯の端にかけます。弁当なら5分冷ましてから閉じます。",
+        "ko": "밥을 2개의 그릇이나 도시락에 나눕니다. 한쪽에는 고구마잎, 다른 쪽에는 두부를 담고 팬 바닥의 마늘 대파 간장 국물을 두부와 밥 가장자리에 뿌립니다. 도시락은 5분 식힌 뒤 닫습니다.",
+        "th": "แบ่งข้าวสุกลงในชามหรือกล่องกลางวัน 2 ใบ วางใบมันเทศด้านหนึ่งและเต้าหู้อีกด้านหนึ่ง แล้วราดน้ำซีอิ๊วกระเทียมต้นหอมที่เหลือเล็กน้อยบนเต้าหู้และขอบข้าว ถ้าเป็นกล่องกลางวัน พักให้เย็น 5 นาทีก่อนปิดฝา",
+        "vi": "Chia cơm chín vào 2 bát hoặc hộp cơm. Đặt lá khoai lang một bên, đậu hũ một bên, rồi rưới phần nước tương tỏi hành còn lại lên đậu và mép cơm. Nếu mang đi, để nguội 5 phút rồi mới đậy nắp.",
+        "id": "Bagi nasi matang ke 2 mangkuk atau kotak bekal. Letakkan daun ubi di satu sisi dan tahu di sisi lain, lalu siram sedikit kuah bawang putih, daun bawang, dan kecap dari wajan ke atas tahu dan tepi nasi. Untuk bekal, dinginkan 5 menit sebelum ditutup.",
+        "tl": "Hatiin ang lutong kanin sa 2 mangkok o lunchbox. Ilagay ang dahon ng kamote sa isang gilid at tofu sa kabila, tapos ibuhos ang kaunting katas ng bawang, scallion, at light soy sa tofu at gilid ng kanin. Para sa baon, palamigin muna ng 5 minuto bago takpan."
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/sweet-potato-leaves-tofu-rice-set/cover-1.png",
+      "alt": "Generated meal cover image for sweet potato leaves tofu rice set",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself light meals image run",
+      "sourceURL": "local://cooking-for-myself-data/light-meals-2026-05-18#sweet-potato-leaves-tofu-rice-set",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself light meals expansion",
+    "sourceURL": "local://cooking-for-myself-data/data/meals/sweet-potato-leaves-tofu-rice-set.json",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "approved",
+    "generated": true,
+    "generatedAt": "2026-05-18T00:00:00Z"
+  }
+}
