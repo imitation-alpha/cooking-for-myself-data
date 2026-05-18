@@ -1,0 +1,314 @@
+{
+  "id": "miso-salmon-rice-soup",
+  "status": "approved",
+  "names": {
+    "zhHant": "味噌三文魚飯湯",
+    "yue": "味噌三文魚飯湯",
+    "zhHans": "味噌三文鱼饭汤",
+    "en": "Miso salmon rice soup",
+    "ja": "味噌サーモンご飯スープ",
+    "ko": "미소 연어 밥국",
+    "th": "ซุปข้าวแซลมอนมิโสะ",
+    "vi": "Súp cơm cá hồi miso",
+    "id": "Sup nasi salmon miso",
+    "tl": "Miso salmon rice soup"
+  },
+  "summary": {
+    "zhHant": "味噌三文魚飯湯是一碗清淡但有蛋白質的快手湯飯，用味噌薑湯輕輕煮三文魚和紹菜，再把熱湯淋在冷飯上，適合 30 分鐘內完成的兩人晚餐。",
+    "yue": "味噌三文魚飯湯係一碗清淡但有蛋白質嘅快手湯飯，用味噌薑湯輕輕煮三文魚同紹菜，再將熱湯淋喺冷飯上，適合 30 分鐘內完成嘅兩人晚餐。",
+    "zhHans": "味噌三文鱼饭汤是一碗清淡但有蛋白质的快手汤饭，用味噌姜汤轻轻煮三文鱼和绍菜，再把热汤淋在冷饭上，适合 30 分钟内完成的两人晚餐。",
+    "en": "A light two-person rice soup with salmon gently poached in ginger miso broth, napa cabbage, scallion, and cooked rice, ready within 30 minutes.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "reason": {
+    "zhHant": "三文魚提供主蛋白，冷飯讓湯飯快速成形，味噌、生抽、薑和蔥做出柔和鹹香；紹菜增加清甜和菜量，整體是 light soup 而不是濃重鍋物。",
+    "yue": "三文魚提供主蛋白，冷飯令湯飯好快成形，味噌、生抽、薑同蔥做出柔和鹹香；紹菜增加清甜同菜量，整體係 light soup 而唔係濃重鍋物。",
+    "zhHans": "三文鱼提供主蛋白，冷饭让汤饭快速成形，味噌、生抽、姜和葱做出柔和咸香；绍菜增加清甜和菜量，整体是 light soup 而不是浓重锅物。",
+    "en": "Salmon gives the soup protein, cooked rice makes it fast, and miso, light soy, ginger, and scallion build a gentle savory broth; napa cabbage keeps the bowl sweet, leafy, and light.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "timeMinutes": 25,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "salmon-fillet",
+      "amounts": {
+        "zhHant": "2 件",
+        "yue": "2 件",
+        "zhHans": "2 件",
+        "en": "2 fillets",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 fillet",
+        "tl": "2 fillet"
+      }
+    },
+    {
+      "ingredientId": "miso",
+      "amounts": {
+        "zhHant": "2 湯匙",
+        "yue": "2 湯匙",
+        "zhHans": "2 汤匙",
+        "en": "2 tbsp",
+        "ja": "大さじ2",
+        "ko": "2큰술",
+        "th": null,
+        "vi": null,
+        "id": "2 sdm",
+        "tl": "2 kutsara"
+      }
+    },
+    {
+      "ingredientId": "cooked-rice",
+      "amounts": {
+        "zhHant": "2 碗",
+        "yue": "2 碗",
+        "zhHans": "2 碗",
+        "en": "2 bowls cooked rice",
+        "ja": "ご飯2杯",
+        "ko": "밥 2공기",
+        "th": null,
+        "vi": null,
+        "id": "2 mangkuk nasi matang",
+        "tl": "2 mangkok cooked rice"
+      }
+    },
+    {
+      "ingredientId": "napa-cabbage",
+      "amounts": {
+        "zhHant": "4 片",
+        "yue": "4 片",
+        "zhHans": "4 片",
+        "en": "4 leaves",
+        "ja": "4枚",
+        "ko": "4장",
+        "th": null,
+        "vi": null,
+        "id": "4 lembar",
+        "tl": "4 dahon"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "yue": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "4 片",
+        "yue": "4 片",
+        "zhHans": "4 片",
+        "en": "4 slices",
+        "ja": "4枚",
+        "ko": "4장",
+        "th": null,
+        "vi": null,
+        "id": "4 iris",
+        "tl": "4 hiwa"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "2 茶匙",
+        "yue": "2 茶匙",
+        "zhHans": "2 茶匙",
+        "en": "2 tsp",
+        "ja": "小さじ2",
+        "ko": "2작은술",
+        "th": null,
+        "vi": null,
+        "id": "2 sdt",
+        "tl": "2 kutsarita"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "fish",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "切好魚菜蔥薑",
+        "yue": "切好魚菜蔥薑",
+        "zhHans": "切好鱼菜葱姜",
+        "en": "Cut salmon, greens, scallion, and ginger",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "三文魚柳 2 件抹乾後切成大塊；紹菜 4 片切成 3 厘米闊段。蔥 2 條分開蔥白和蔥綠切粒，薑 4 片拍鬆，冷飯 2 碗先分入兩個大湯碗。",
+        "yue": "三文魚柳 2 件抹乾後切成大件；紹菜 4 片切成 3 厘米闊段。蔥 2 條分開蔥白同蔥綠切粒，薑 4 片拍鬆，冷飯 2 碗先分入兩個大湯碗。",
+        "zhHans": "三文鱼柳 2 件抹干后切成大块；绍菜 4 片切成 3 厘米宽段。葱 2 条分开葱白和葱绿切粒，姜 4 片拍松，冷饭 2 碗先分入两个大汤碗。",
+        "en": "Pat 2 salmon fillets dry and cut them into large pieces. Cut 4 napa cabbage leaves into 3 cm strips. Separate 2 scallions into whites and greens, finely slice them, bruise 4 ginger slices, and divide 2 bowls cooked rice between two deep soup bowls.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "煮出清味噌薑湯",
+        "yue": "煮出清味噌薑湯",
+        "zhHans": "煮出清味噌姜汤",
+        "en": "Make a light ginger miso broth",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鍋中加入 700 毫升水、薑片和蔥白，中火煮至微滾後轉小火 3 分鐘。關至最小火，把味噌 2 湯匙放入湯勺，用熱湯慢慢化開，再加入生抽 2 茶匙拌勻。",
+        "yue": "鍋中加入 700 毫升水、薑片同蔥白，中火煮至微滾後轉小火 3 分鐘。關至最小火，將味噌 2 湯匙放入湯勺，用熱湯慢慢化開，再加入生抽 2 茶匙拌勻。",
+        "zhHans": "锅中加入 700 毫升水、姜片和葱白，中火煮至微滚后转小火 3 分钟。关至最小火，把味噌 2 汤匙放入汤勺，用热汤慢慢化开，再加入生抽 2 茶匙拌匀。",
+        "en": "Add 700 ml water, the ginger slices, and scallion whites to a pot. Bring to a gentle simmer over medium heat, then lower the heat for 3 minutes. Turn the heat to very low, loosen 2 tbsp miso in a ladle with hot broth, then stir it back in with 2 tsp light soy sauce.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "紹菜先煮至柔軟",
+        "yue": "紹菜先煮至柔軟",
+        "zhHans": "绍菜先煮至柔软",
+        "en": "Simmer napa cabbage until tender",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把紹菜放入味噌湯，用小火保持細泡 3 至 4 分鐘，至菜梗剛變半透明但葉片仍有形。湯保持輕微滾動即可，不要大滾，以免味噌味變粗。",
+        "yue": "將紹菜放入味噌湯，用小火保持細泡 3 至 4 分鐘，至菜梗剛變半透明但葉片仍有形。湯保持輕微滾動即可，唔好大滾，以免味噌味變粗。",
+        "zhHans": "把绍菜放入味噌汤，用小火保持细泡 3 至 4 分钟，至菜梗刚变半透明但叶片仍有形。汤保持轻微滚动即可，不要大滚，以免味噌味变粗。",
+        "en": "Add the napa cabbage to the miso broth and keep it at small bubbles for 3-4 minutes, until the stems just turn translucent while the leaves still hold their shape. Keep the broth gently moving rather than boiling hard so the miso stays mellow.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "三文魚輕輕浸熟",
+        "yue": "三文魚輕輕浸熟",
+        "zhHans": "三文鱼轻轻浸熟",
+        "en": "Poach salmon gently",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把三文魚塊放入湯中，保持小火 4 至 5 分鐘，中途只輕推一次，不要大力攪拌。魚肉轉淺粉色、中心剛熟即可；如果湯太鹹，加少量熱水調淡。",
+        "yue": "將三文魚件放入湯中，保持小火 4 至 5 分鐘，中途只輕推一次，唔好大力攪拌。魚肉轉淺粉色、中心剛熟即可；如果湯太鹹，加少量熱水調淡。",
+        "zhHans": "把三文鱼块放入汤中，保持小火 4 至 5 分钟，中途只轻推一次，不要大力搅拌。鱼肉转浅粉色、中心刚熟即可；如果汤太咸，加少量热水调淡。",
+        "en": "Slide the salmon pieces into the broth and keep the heat low for 4-5 minutes, nudging once halfway through instead of stirring hard. Stop when the fish turns pale pink and is just cooked in the center; if the broth tastes too salty, dilute it with a little hot water.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "熱湯淋飯即食",
+        "yue": "熱湯淋飯即食",
+        "zhHans": "热汤淋饭即食",
+        "en": "Ladle hot soup over rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把三文魚和紹菜平均放在兩碗飯上，再淋入熱味噌湯至剛蓋過飯面。灑上蔥綠後立即上桌；飯粒應吸到清湯但不糊，三文魚保持完整濕潤。",
+        "yue": "將三文魚同紹菜平均放喺兩碗飯上，再淋入熱味噌湯至剛蓋過飯面。灑上蔥綠後即刻上桌；飯粒應該吸到清湯但唔糊，三文魚保持完整濕潤。",
+        "zhHans": "把三文鱼和绍菜平均放在两碗饭上，再淋入热味噌汤至刚盖过饭面。撒上葱绿后立即上桌；饭粒应吸到清汤但不糊，三文鱼保持完整湿润。",
+        "en": "Divide the salmon and napa cabbage over the two bowls of rice, then ladle in hot miso broth until it just covers the rice. Finish with scallion greens and serve immediately; the grains should absorb the light soup without turning mushy, and the salmon should stay moist and intact.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/miso-salmon-rice-soup/cover-1.png",
+      "alt": "Generated meal cover image for miso-salmon-rice-soup",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself light-but-fueled image run",
+      "sourceURL": "local://cooking-for-myself-data/light-but-fueled-2026-05-18#miso-salmon-rice-soup",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself light-but-fueled meal expansion",
+    "sourceURL": "local://cooking-for-myself-data/data/meals/miso-salmon-rice-soup.json",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "approved",
+    "generated": true,
+    "generatedAt": "2026-05-18T00:00:00Z"
+  }
+}

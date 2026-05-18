@@ -1,0 +1,314 @@
+{
+  "id": "deconstructed-kimbap-bowl",
+  "status": "approved",
+  "names": {
+    "zhHant": "拆開紫菜包飯碗",
+    "yue": "拆開紫菜包飯碗",
+    "zhHans": "拆开紫菜包饭碗",
+    "en": "Deconstructed kimbap bowl",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "拆開紫菜包飯碗是 25 分鐘的清爽主食碗，用熟飯、蛋、豆腐、青瓜、甘筍、紫菜和生抽做出紫菜包飯的味道，但不用捲，適合忙碌日子快速補能量。",
+    "yue": "拆開紫菜包飯碗係 25 分鐘嘅清爽主食碗，用熟飯、蛋、豆腐、青瓜、甘筍、紫菜同生抽做出紫菜包飯味道，但唔使捲，啱忙碌日子快速補能量。",
+    "zhHans": "拆开紫菜包饭碗是 25 分钟的清爽主食碗，用熟饭、蛋、豆腐、青瓜、甘笋、紫菜和生抽做出紫菜包饭的味道，但不用卷，适合忙碌日子快速补能量。",
+    "en": "A fresh 25-minute bowl that gives kimbap energy without rolling: cooked rice, egg, tofu, cucumber, carrot, nori, and light soy in a practical meal-prep style for two.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "reason": {
+    "zhHant": "熟飯提供穩定主食，雞蛋和豆腐補蛋白，青瓜與甘筍保持清爽脆口，紫菜和生抽帶出紫菜包飯風味；不用捲壽司席，少器具、快完成，符合 modern light-but-fueled bowl 方向。",
+    "yue": "熟飯提供穩定主食，雞蛋同豆腐補蛋白，青瓜同甘筍保持清爽脆口，紫菜同生抽帶出紫菜包飯風味；唔使捲壽司席，少器具、快完成，啱 modern light-but-fueled bowl 方向。",
+    "zhHans": "熟饭提供稳定主食，鸡蛋和豆腐补蛋白，青瓜与甘笋保持清爽脆口，紫菜和生抽带出紫菜包饭风味；不用卷寿司席，少器具、快完成，符合 modern light-but-fueled bowl 方向。",
+    "en": "Cooked rice gives steady fuel, egg and tofu add protein, cucumber and carrot keep the bowl crisp, and nori with light soy gives the kimbap cue without a heavy sauce or rolling mat.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "timeMinutes": 25,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "cooked-rice",
+      "amounts": {
+        "zhHant": "2 碗",
+        "yue": "2 碗",
+        "zhHans": "2 碗",
+        "en": "2 bowls",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "2 隻",
+        "yue": "2 隻",
+        "zhHans": "2 只",
+        "en": "2 eggs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "ingredientId": "cucumber",
+      "amounts": {
+        "zhHant": "1 條",
+        "yue": "1 條",
+        "zhHans": "1 条",
+        "en": "1 cucumber",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "ingredientId": "nori",
+      "amounts": {
+        "zhHant": "2 張",
+        "yue": "2 張",
+        "zhHans": "2 张",
+        "en": "2 sheets",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "ingredientId": "carrot",
+      "amounts": {
+        "zhHant": "1 條",
+        "yue": "1 條",
+        "zhHans": "1 条",
+        "en": "1 carrot",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "ingredientId": "tofu",
+      "amounts": {
+        "zhHant": "250 克",
+        "yue": "250 克",
+        "zhHans": "250 克",
+        "en": "250 g",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1.5 湯匙",
+        "yue": "1.5 湯匙",
+        "zhHans": "1.5 汤匙",
+        "en": "1.5 tbsp",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "restrictionTags": [
+    "egg",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "熟飯回溫青瓜甘筍切絲",
+        "yue": "熟飯回溫青瓜甘筍切絲",
+        "zhHans": "熟饭回温青瓜甘笋切丝",
+        "en": "Warm rice and cut the crisp vegetables",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "熟飯 2 碗加熱至溫暖鬆散，分入兩個寬口碗。青瓜 1 條切幼條，甘筍 1 條削成薄絲或切幼條，紫菜 2 張先保持乾爽，等最後才撕開。",
+        "yue": "熟飯 2 碗加熱到暖同鬆散，分入兩個闊口碗。青瓜 1 條切幼條，甘筍 1 條刨成薄絲或者切幼條，紫菜 2 張先保持乾爽，等最後先撕開。",
+        "zhHans": "熟饭 2 碗加热至温暖松散，分入两个宽口碗。青瓜 1 条切细条，甘笋 1 条削成薄丝或切细条，紫菜 2 张先保持干爽，等最后才撕开。",
+        "en": "Warm 2 bowls cooked rice until loose and hot, then divide between two wide bowls. Cut 1 cucumber into thin sticks, shave or cut 1 carrot into thin strips, and keep 2 sheets nori dry until the final assembly.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "煎薄蛋切成蛋絲",
+        "yue": "煎薄蛋切成蛋絲",
+        "zhHans": "煎薄蛋切成蛋丝",
+        "en": "Cook a thin egg sheet",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "雞蛋 2 隻打散。易潔平底鍋用中小火燒熱，倒入蛋液攤成薄蛋片，約 2 分鐘凝固後翻面 20 秒。取出放涼半分鐘，切成容易入口的蛋絲。",
+        "yue": "雞蛋 2 隻打散。易潔平底鑊用中細火燒熱，倒入蛋液攤成薄蛋片，約 2 分鐘凝固後反面 20 秒。拎出放涼半分鐘，切成容易入口嘅蛋絲。",
+        "zhHans": "鸡蛋 2 只打散。不粘平底锅用中小火烧热，倒入蛋液摊成薄蛋片，约 2 分钟凝固后翻面 20 秒。取出放凉半分钟，切成容易入口的蛋丝。",
+        "en": "Beat 2 eggs. Heat a nonstick skillet over medium-low heat, pour in the eggs, and spread into a thin sheet. Cook about 2 minutes until set, turn for 20 seconds, rest for 30 seconds, then slice into easy-to-eat ribbons.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "豆腐煎香拌生抽",
+        "yue": "豆腐煎香拌生抽",
+        "zhHans": "豆腐煎香拌生抽",
+        "en": "Sear tofu with light soy",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "豆腐 250 克抹乾後切成小方塊，放入同一個易潔平底鍋，用中火煎 5 至 6 分鐘至邊位微金黃。淋入生抽 1 湯匙，快速翻動至豆腐表面均勻帶鹹香。",
+        "yue": "豆腐 250 克抹乾後切成小方粒，放入同一個易潔平底鑊，用中火煎 5 至 6 分鐘至邊位微金黃。淋入生抽 1 湯匙，快速翻動至豆腐表面均勻帶鹹香。",
+        "zhHans": "豆腐 250 克抹干后切成小方块，放入同一个不粘平底锅，用中火煎 5 至 6 分钟至边位微金黄。淋入生抽 1 汤匙，快速翻动至豆腐表面均匀带咸香。",
+        "en": "Pat 250 g tofu dry and cut into small cubes. Add it to the same nonstick skillet and sear over medium heat for 5-6 minutes until the edges are lightly golden. Drizzle in 1 tbsp light soy sauce and toss quickly so the tofu is evenly savory.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "分區鋪成彩色飯碗",
+        "yue": "分區鋪成彩色飯碗",
+        "zhHans": "分区铺成彩色饭碗",
+        "en": "Arrange the bowl in fresh sections",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把生抽豆腐放在飯的一邊，另一邊排上蛋絲、青瓜條和甘筍絲。每種材料分區放，不要全部拌散，完成時要像拆開的紫菜包飯，顏色清楚又不厚重。",
+        "yue": "將生抽豆腐放喺飯一邊，另一邊排上蛋絲、青瓜條同甘筍絲。每種材料分區放，唔好全部拌散，完成時要似拆開嘅紫菜包飯，顏色清楚又唔厚重。",
+        "zhHans": "把生抽豆腐放在饭的一边，另一边排上蛋丝、青瓜条和甘笋丝。每种材料分区放，不要全部拌散，完成时要像拆开的紫菜包饭，颜色清楚又不厚重。",
+        "en": "Place the soy-glazed tofu on one side of the rice, then arrange egg ribbons, cucumber sticks, and carrot strips in their own sections. Keep the toppings distinct instead of fully mixing, so it reads like an opened-up kimbap bowl that stays bright and light.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "撕紫菜少量生抽收尾",
+        "yue": "撕紫菜少量生抽收尾",
+        "zhHans": "撕紫菜少量生抽收尾",
+        "en": "Finish with nori and a small soy drizzle",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "上桌前把紫菜 2 張剪成短條或撕成大片，鋪在飯碗表面。按口味把餘下生抽 0.5 湯匙分到兩碗，吃時由邊位輕拌，讓紫菜仍有脆感。",
+        "yue": "上枱前將紫菜 2 張剪成短條或者撕成大片，鋪喺飯碗表面。按口味將餘下生抽 0.5 湯匙分到兩碗，食嘅時候由邊位輕拌，令紫菜仍然有脆感。",
+        "zhHans": "上桌前把紫菜 2 张剪成短条或撕成大片，铺在饭碗表面。按口味把剩下生抽 0.5 汤匙分到两碗，吃时从边位轻拌，让紫菜仍有脆感。",
+        "en": "Just before serving, cut or tear 2 sheets nori into short strips or broad shards and scatter them over the bowls. Divide the remaining 0.5 tbsp light soy sauce between the two bowls to taste, then gently mix from the edge so the nori keeps some crunch.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/deconstructed-kimbap-bowl/cover-1.png",
+      "alt": "Generated meal cover image for deconstructed-kimbap-bowl",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/codex-2026-05-18#deconstructed-kimbap-bowl",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself single meal authoring",
+    "sourceURL": "local://cooking-for-myself/cooking-for-myself-data/data/meals/deconstructed-kimbap-bowl.json",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "approved",
+    "generated": true,
+    "generatedAt": "2026-05-18T00:00:00.000Z"
+  }
+}
