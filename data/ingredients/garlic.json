@@ -49,5 +49,47 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
+  },
+  "nutrition": {
+    "estimate": true,
+    "rangePercent": {
+      "low": 0.9,
+      "high": 1.15
+    },
+    "form": "fresh raw",
+    "nutrientsPer100g": {
+      "kcal": 149,
+      "sodiumMg": 17
+    },
+    "unitWeights": [
+      {
+        "unit": "g",
+        "grams": 1,
+        "sourceRefId": "baseline-garlic",
+        "note": "Mass measure."
+      },
+      {
+        "unit": "clove",
+        "grams": 3,
+        "sourceRefId": "baseline-garlic",
+        "note": "Planning conversion estimate; verify against package size or source measure."
+      }
+    ],
+    "sourceRefs": [
+      {
+        "id": "baseline-garlic",
+        "sourceType": "other_reviewed",
+        "sourceName": "Cooking For Myself baseline nutrition estimate",
+        "sourceURL": "local://cooking-for-myself/nutrition-baseline-v1#garlic",
+        "accessedAt": "2026-05-20",
+        "foodDescription": "Garlic, fresh raw baseline estimate",
+        "sourceNutrientsPer100g": {
+          "kcal": 149,
+          "sodiumMg": 17
+        }
+      }
+    ],
+    "confidence": "medium",
+    "reviewStatus": "needs_review"
   }
 }

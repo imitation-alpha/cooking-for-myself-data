@@ -40,6 +40,10 @@
         "id": "2 sdm",
         "tl": "2 kutsara",
         "yue": "2 湯匙"
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "tbsp"
       }
     },
     {
@@ -55,6 +59,10 @@
         "id": "1 blok",
         "tl": "1 bloke",
         "yue": "1 盒"
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "block"
       }
     },
     {
@@ -70,6 +78,10 @@
         "id": "1 cangkir",
         "tl": "1 tasa",
         "yue": "1 杯"
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "cup"
       }
     },
     {
@@ -85,6 +97,10 @@
         "id": "3 siung",
         "tl": "3 butil",
         "yue": "3 瓣"
+      },
+      "measure": {
+        "quantity": 3,
+        "unit": "clove"
       }
     },
     {
@@ -100,6 +116,10 @@
         "id": "2 batang",
         "tl": "2 tangkay",
         "yue": "2 條"
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "stalk"
       }
     },
     {
@@ -115,6 +135,10 @@
         "id": "4 iris",
         "tl": "4 hiwa",
         "yue": "4 片"
+      },
+      "measure": {
+        "quantity": 4,
+        "unit": "slice"
       }
     },
     {
@@ -130,6 +154,10 @@
         "id": "600 ml",
         "tl": "600 ml",
         "yue": "600 毫升"
+      },
+      "measure": {
+        "quantity": 600,
+        "unit": "ml"
       }
     }
   ],
@@ -267,5 +295,16 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
-  }
+  },
+  "nutritionAssumptions": [
+    {
+      "id": "default-cooking-oil",
+      "kind": "cooking_oil",
+      "measure": {
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      "reason": "Steps imply cooking oil; included as a planning estimate."
+    }
+  ]
 }

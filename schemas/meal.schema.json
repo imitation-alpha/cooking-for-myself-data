@@ -286,6 +286,77 @@
                       ]
                     }
                   }
+                },
+                "measure": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": [
+                    "quantity",
+                    "unit"
+                  ],
+                  "properties": {
+                    "quantity": {
+                      "type": "number",
+                      "exclusiveMinimum": 0
+                    },
+                    "unit": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "preparation": {
+                      "type": "string"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "nutritionAssumptions": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "id",
+                "kind",
+                "measure",
+                "reason"
+              ],
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+                },
+                "kind": {
+                  "enum": [
+                    "cooking_oil",
+                    "added_salt",
+                    "sauce_adjustment",
+                    "broth_adjustment",
+                    "other"
+                  ]
+                },
+                "measure": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": [
+                    "quantity",
+                    "unit"
+                  ],
+                  "properties": {
+                    "quantity": {
+                      "type": "number",
+                      "exclusiveMinimum": 0
+                    },
+                    "unit": {
+                      "type": "string",
+                      "minLength": 1
+                    }
+                  }
+                },
+                "reason": {
+                  "type": "string",
+                  "minLength": 1
                 }
               }
             }

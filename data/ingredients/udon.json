@@ -51,5 +51,47 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
+  },
+  "nutrition": {
+    "estimate": true,
+    "rangePercent": {
+      "low": 0.9,
+      "high": 1.15
+    },
+    "form": "prepared cooked noodles",
+    "nutrientsPer100g": {
+      "kcal": 127,
+      "sodiumMg": 164
+    },
+    "unitWeights": [
+      {
+        "unit": "g",
+        "grams": 1,
+        "sourceRefId": "baseline-udon",
+        "note": "Mass measure."
+      },
+      {
+        "unit": "pack",
+        "grams": 200,
+        "sourceRefId": "baseline-udon",
+        "note": "Planning conversion estimate; verify against package size or source measure."
+      }
+    ],
+    "sourceRefs": [
+      {
+        "id": "baseline-udon",
+        "sourceType": "other_reviewed",
+        "sourceName": "Cooking For Myself baseline nutrition estimate",
+        "sourceURL": "local://cooking-for-myself/nutrition-baseline-v1#udon",
+        "accessedAt": "2026-05-20",
+        "foodDescription": "Udon noodles, prepared cooked noodles baseline estimate",
+        "sourceNutrientsPer100g": {
+          "kcal": 127,
+          "sodiumMg": 164
+        }
+      }
+    ],
+    "confidence": "low",
+    "reviewStatus": "needs_review"
   }
 }

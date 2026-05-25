@@ -1,0 +1,302 @@
+{
+  "id": "clear-broth-beef-brisket",
+  "status": "approved",
+  "names": {
+    "zhHant": "清湯牛腩",
+    "zhHans": "清汤牛腩",
+    "en": "Clear broth beef brisket",
+    "ja": "澄まし牛バラ煮",
+    "ko": "맑은 소양지탕",
+    "th": null,
+    "vi": null,
+    "id": "Clear broth beef brisket",
+    "tl": "Clear broth beef brisket",
+    "yue": "清湯牛腩"
+  },
+  "summary": {
+    "zhHant": "港式清湯牛腩的家常版本。湯底保持清澈，重點是先汆水洗淨，再用薑蔥慢慢煮腍。",
+    "en": "A home-style Hong Kong clear broth beef brisket. The broth stays light and clean by blanching the beef first, then simmering gently with ginger and scallion until tender.",
+    "yue": "港式清湯牛腩的家常版本。湯底保持清澈，重點是先汆水洗淨，再用薑蔥慢慢煮腍。"
+  },
+  "reason": {
+    "zhHant": "Hong Kong / Cantonese soup cooking；新增作為無飯無麵的清湯牛腩主菜，適合本地亞洲超市買餸。",
+    "en": "Hong Kong / Cantonese soup cooking; added as a no-rice, no-noodle clear broth beef brisket main dish for local Asian grocery shopping.",
+    "yue": "Hong Kong / Cantonese soup cooking；新增作為無飯無麵的清湯牛腩主菜，適合本地亞洲超市買餸。"
+  },
+  "timeMinutes": 75,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "beef-brisket",
+      "amounts": {
+        "zhHant": "450 克",
+        "zhHans": "450 克",
+        "en": "450 g",
+        "ja": "450 g",
+        "ko": "450 g",
+        "th": null,
+        "vi": null,
+        "id": "450 g",
+        "tl": "450 g",
+        "yue": "450 克"
+      },
+      "measure": {
+        "quantity": 450,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "chicken-broth",
+      "amounts": {
+        "zhHant": "900 毫升",
+        "zhHans": "900 毫升",
+        "en": "900 ml",
+        "ja": "900 ml",
+        "ko": "900 ml",
+        "th": null,
+        "vi": null,
+        "id": "900 ml",
+        "tl": "900 ml",
+        "yue": "900 毫升"
+      },
+      "measure": {
+        "quantity": 900,
+        "unit": "ml"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "6 片",
+        "zhHans": "6 片",
+        "en": "6 slices",
+        "ja": "6枚",
+        "ko": "6장",
+        "th": null,
+        "vi": null,
+        "id": "6 iris",
+        "tl": "6 hiwa",
+        "yue": "6 片"
+      },
+      "measure": {
+        "quantity": 6,
+        "unit": "slice"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "3 條",
+        "zhHans": "3 条",
+        "en": "3 stalks",
+        "ja": "3本",
+        "ko": "3대",
+        "th": null,
+        "vi": null,
+        "id": "3 batang",
+        "tl": "3 tangkay",
+        "yue": "3 條"
+      },
+      "measure": {
+        "quantity": 3,
+        "unit": "stalk"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "3 瓣",
+        "zhHans": "3 瓣",
+        "en": "3 cloves",
+        "ja": "3片",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 siung",
+        "tl": "3 butil",
+        "yue": "3 瓣"
+      },
+      "measure": {
+        "quantity": 3,
+        "unit": "clove"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "tbsp"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "beef",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "牛腩汆水洗淨",
+        "yue": "牛腩汆水洗淨",
+        "zhHans": "牛腩汆水洗净",
+        "en": "Blanch and rinse the brisket",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "牛腩 450 克切成約 3 厘米件，放入冷水鍋中用中火煮滾。滾起後多煮 2 分鐘，撈出用暖水沖走浮沫和碎骨，鍋也洗淨；這一步會令湯底保持清澈。",
+        "yue": "牛腩 450 克切成約 3 厘米件，放入冷水鍋中用中火煮滾。滾起後多煮 2 分鐘，撈出用暖水沖走浮沫和碎骨，鍋也洗淨；這一步會令湯底保持清澈。",
+        "zhHans": "牛腩 450 克切成约 3 厘米件，放入冷水锅中用中火煮滚。滚起后多煮 2 分钟，捞出用暖水冲走浮沫和碎骨，锅也洗净；这一步会令汤底保持清澈。",
+        "en": "Cut 450 g beef brisket into roughly 3 cm chunks, place them in a pot of cold water, and bring to a boil over medium heat. Boil for 2 more minutes, lift out the beef, rinse away foam and bone fragments with warm water, and wash the pot; this keeps the broth clear.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "薑蔥蒜起清湯底",
+        "yue": "薑蔥蒜起清湯底",
+        "zhHans": "姜葱蒜起清汤底",
+        "en": "Start the clear ginger scallion broth",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "薑 6 片拍鬆，蔥 3 條分蔥白和蔥綠，蒜頭 3 瓣拍裂。乾淨湯鍋加少量油，用中小火把薑、蔥白和蒜炒 45 秒至有香味但不要焦，倒入雞湯 900 毫升和 500 毫升清水。",
+        "yue": "薑 6 片拍鬆，蔥 3 條分蔥白和蔥綠，蒜頭 3 瓣拍裂。乾淨湯鍋加少量油，用中小火把薑、蔥白和蒜炒 45 秒至有香味但不要焦，倒入雞湯 900 毫升和 500 毫升清水。",
+        "zhHans": "姜 6 片拍松，葱 3 条分葱白和葱绿，蒜头 3 瓣拍裂。干净汤锅加少量油，用中小火把姜、葱白和蒜炒 45 秒至有香味但不要焦，倒入鸡汤 900 毫升和 500 毫升清水。",
+        "en": "Bruise 6 slices ginger, separate 3 scallion stalks into whites and greens, and crack 3 cloves garlic. Add a little oil to the clean soup pot, cook the ginger, scallion whites, and garlic over medium-low heat for 45 seconds until fragrant but not browned, then pour in 900 ml chicken broth and 500 ml water.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "小火煮腍牛腩",
+        "yue": "小火煮腍牛腩",
+        "zhHans": "小火煮软牛腩",
+        "en": "Simmer the brisket until tender",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把汆好水的牛腩放回湯鍋，煮滾後轉小火，半蓋煮 55 至 60 分鐘。中途只保持微微冒泡，不要大滾；若湯面有浮油或泡沫，用匙羹撇走，牛腩能被筷子插入便夠腍。",
+        "yue": "把汆好水的牛腩放回湯鍋，煮滾後轉小火，半蓋煮 55 至 60 分鐘。中途只保持微微冒泡，不要大滾；若湯面有浮油或泡沫，用匙羹撇走，牛腩能被筷子插入便夠腍。",
+        "zhHans": "把汆好水的牛腩放回汤锅，煮滚后转小火，半盖煮 55 至 60 分钟。中途只保持微微冒泡，不要大滚；若汤面有浮油或泡沫，用匙羹撇走，牛腩能被筷子插入便够软。",
+        "en": "Return the blanched brisket to the soup pot, bring it to a boil, then lower to a gentle simmer and half-cover for 55-60 minutes. Keep the surface barely bubbling instead of hard boiling; skim off foam or excess oil as needed, and stop when chopsticks slide into the beef easily.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "調味上碗保持清爽",
+        "yue": "調味上碗保持清爽",
+        "zhHans": "调味上碗保持清爽",
+        "en": "Season and serve the broth clean",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入生抽 1 湯匙，再按湯的鹹淡少量加鹽。撈走薑、蒜和蔥白，放入蔥綠煮 20 秒。牛腩分入兩個碗，淋上清湯和蔥綠；成品應該湯色清亮、牛腩軟腍，沒有飯或麵。",
+        "yue": "加入生抽 1 湯匙，再按湯的鹹淡少量加鹽。撈走薑、蒜和蔥白，放入蔥綠煮 20 秒。牛腩分入兩個碗，淋上清湯和蔥綠；成品應該湯色清亮、牛腩軟腍，沒有飯或麵。",
+        "zhHans": "加入生抽 1 汤匙，再按汤的咸淡少量加盐。捞走姜、蒜和葱白，放入葱绿煮 20 秒。牛腩分入两个碗，淋上清汤和葱绿；成品应该汤色清亮、牛腩软嫩，没有饭或面。",
+        "en": "Add 1 tbsp light soy sauce, then adjust lightly with salt depending on the broth. Remove the ginger, garlic, and scallion whites, add the scallion greens for 20 seconds, and divide the brisket between two bowls. Ladle over the clear broth and greens; the finished dish should be clean-tasting, tender, and served without rice or noodles.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/clear-broth-beef-brisket/cover-1.png",
+      "alt": "Generated meal cover image for clear-broth-beef-brisket",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image",
+      "sourceURL": "local://cooking-for-myself-data/assets/meals/clear-broth-beef-brisket/cover-1.png",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself public data repo",
+    "sourceURL": "local://cooking-for-myself-data/data/meals/clear-broth-beef-brisket.json",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-19T20:55:00.000Z"
+  },
+  "nutritionAssumptions": [
+    {
+      "id": "default-cooking-oil",
+      "kind": "cooking_oil",
+      "measure": {
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      "reason": "Steps imply cooking oil; included as a planning estimate."
+    },
+    {
+      "id": "default-added-salt",
+      "kind": "added_salt",
+      "measure": {
+        "quantity": 0.25,
+        "unit": "tsp"
+      },
+      "reason": "Steps imply added salt; included as a planning estimate."
+    }
+  ]
+}

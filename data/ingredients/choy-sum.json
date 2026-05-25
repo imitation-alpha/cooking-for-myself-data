@@ -50,5 +50,47 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
+  },
+  "nutrition": {
+    "estimate": true,
+    "rangePercent": {
+      "low": 0.9,
+      "high": 1.15
+    },
+    "form": "fresh raw",
+    "nutrientsPer100g": {
+      "kcal": 13,
+      "sodiumMg": 65
+    },
+    "unitWeights": [
+      {
+        "unit": "g",
+        "grams": 1,
+        "sourceRefId": "baseline-choy-sum",
+        "note": "Mass measure."
+      },
+      {
+        "unit": "bunch",
+        "grams": 250,
+        "sourceRefId": "baseline-choy-sum",
+        "note": "Planning conversion estimate; verify against package size or source measure."
+      }
+    ],
+    "sourceRefs": [
+      {
+        "id": "baseline-choy-sum",
+        "sourceType": "other_reviewed",
+        "sourceName": "Cooking For Myself baseline nutrition estimate",
+        "sourceURL": "local://cooking-for-myself/nutrition-baseline-v1#choy-sum",
+        "accessedAt": "2026-05-20",
+        "foodDescription": "Choy sum, fresh raw baseline estimate",
+        "sourceNutrientsPer100g": {
+          "kcal": 13,
+          "sodiumMg": 65
+        }
+      }
+    ],
+    "confidence": "low",
+    "reviewStatus": "needs_review"
   }
 }

@@ -53,5 +53,47 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
+  },
+  "nutrition": {
+    "estimate": true,
+    "rangePercent": {
+      "low": 0.9,
+      "high": 1.15
+    },
+    "form": "raw fillet",
+    "nutrientsPer100g": {
+      "kcal": 90,
+      "sodiumMg": 70
+    },
+    "unitWeights": [
+      {
+        "unit": "g",
+        "grams": 1,
+        "sourceRefId": "baseline-white-fish-fillet",
+        "note": "Mass measure."
+      },
+      {
+        "unit": "fillet",
+        "grams": 150,
+        "sourceRefId": "baseline-white-fish-fillet",
+        "note": "Planning conversion estimate; verify against package size or source measure."
+      }
+    ],
+    "sourceRefs": [
+      {
+        "id": "baseline-white-fish-fillet",
+        "sourceType": "other_reviewed",
+        "sourceName": "Cooking For Myself baseline nutrition estimate",
+        "sourceURL": "local://cooking-for-myself/nutrition-baseline-v1#white-fish-fillet",
+        "accessedAt": "2026-05-20",
+        "foodDescription": "White fish fillet, raw fillet baseline estimate",
+        "sourceNutrientsPer100g": {
+          "kcal": 90,
+          "sodiumMg": 70
+        }
+      }
+    ],
+    "confidence": "medium",
+    "reviewStatus": "needs_review"
   }
 }

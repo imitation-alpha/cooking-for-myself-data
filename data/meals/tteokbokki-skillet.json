@@ -40,6 +40,10 @@
         "id": "300 g",
         "tl": "300 g",
         "yue": "300 克"
+      },
+      "measure": {
+        "quantity": 300,
+        "unit": "g"
       }
     },
     {
@@ -55,6 +59,10 @@
         "id": "1 sdm",
         "tl": "1 kutsara",
         "yue": "1 湯匙"
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "tbsp"
       }
     },
     {
@@ -70,6 +78,10 @@
         "id": "3 siung",
         "tl": "3 butil",
         "yue": "3 瓣"
+      },
+      "measure": {
+        "quantity": 3,
+        "unit": "clove"
       }
     },
     {
@@ -85,6 +97,10 @@
         "id": "2 batang",
         "tl": "2 tangkay",
         "yue": "2 條"
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "stalk"
       }
     },
     {
@@ -100,6 +116,10 @@
         "id": "1 sdm",
         "tl": "1 kutsara",
         "yue": "1 湯匙"
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "tbsp"
       }
     }
   ],

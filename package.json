@@ -6,7 +6,14 @@
   "scripts": {
     "validate": "node tools/validate.mjs",
     "export:app-seed": "node tools/export-app-seed.mjs",
-    "test": "npm run validate && npm run export:app-seed",
+    "nutrition:audit": "node tools/nutrition-audit.mjs",
+    "nutrition:gate": "npm run validate && node tools/nutrition-audit.mjs --strict",
+    "nutrition:verify": "node tools/two-level-nutrition-audit.mjs",
+    "nutrition:llm-rate": "node tools/llm-nutrition-rater.mjs",
+    "nutrition:test": "node --test tools/tests/*.test.mjs",
+    "review:export": "npm run export:app-seed && node tools/export-review-data.mjs",
+    "review:build": "npm run review:export && node tools/build-review-site.mjs",
+    "test": "npm run validate && npm run nutrition:test && npm run export:app-seed",
     "build:site": "npm run test && node tools/build-site.mjs",
     "preview:site": "node tools/serve-site.mjs"
   }

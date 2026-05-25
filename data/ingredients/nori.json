@@ -49,5 +49,47 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
+  },
+  "nutrition": {
+    "estimate": true,
+    "rangePercent": {
+      "low": 0.9,
+      "high": 1.15
+    },
+    "form": "dried seaweed",
+    "nutrientsPer100g": {
+      "kcal": 306,
+      "sodiumMg": 48
+    },
+    "unitWeights": [
+      {
+        "unit": "g",
+        "grams": 1,
+        "sourceRefId": "baseline-nori",
+        "note": "Mass measure."
+      },
+      {
+        "unit": "sheet",
+        "grams": 2.5,
+        "sourceRefId": "baseline-nori",
+        "note": "Planning conversion estimate; verify against package size or source measure."
+      }
+    ],
+    "sourceRefs": [
+      {
+        "id": "baseline-nori",
+        "sourceType": "other_reviewed",
+        "sourceName": "Cooking For Myself baseline nutrition estimate",
+        "sourceURL": "local://cooking-for-myself/nutrition-baseline-v1#nori",
+        "accessedAt": "2026-05-20",
+        "foodDescription": "Nori, dried seaweed baseline estimate",
+        "sourceNutrientsPer100g": {
+          "kcal": 306,
+          "sodiumMg": 48
+        }
+      }
+    ],
+    "confidence": "medium",
+    "reviewStatus": "needs_review"
   }
 }

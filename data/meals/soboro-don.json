@@ -40,6 +40,10 @@
         "id": "2 potong",
         "tl": "2 piraso",
         "yue": "2 件"
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "thigh"
       }
     },
     {
@@ -55,6 +59,10 @@
         "id": "1 cangkir",
         "tl": "1 tasa",
         "yue": "1 杯"
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "cup"
       }
     },
     {
@@ -70,6 +78,10 @@
         "id": "3 siung",
         "tl": "3 butil",
         "yue": "3 瓣"
+      },
+      "measure": {
+        "quantity": 3,
+        "unit": "clove"
       }
     },
     {
@@ -85,6 +97,10 @@
         "id": "2 batang",
         "tl": "2 tangkay",
         "yue": "2 條"
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "stalk"
       }
     },
     {
@@ -100,6 +116,10 @@
         "id": "1 sdm",
         "tl": "1 kutsara",
         "yue": "1 湯匙"
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "tbsp"
       }
     }
   ],
@@ -220,12 +240,12 @@
   "images": [
     {
       "path": "assets/meals/soboro-don/cover-1.png",
-      "alt": "Generated meal cover image for soboro-don",
+      "alt": "Generated image of Japanese chicken soboro don with egg and scallions",
       "disclosure": "generated",
       "license": "CC-BY-4.0",
       "attribution": "Cooking For Myself contributors",
-      "sourceName": "Cooking For Myself generated image run",
-      "sourceURL": "local://cooking-for-myself/content/image-runs/bulk-2026-05-16-all90#soboro-don",
+      "sourceName": "Cooking For Myself reviewed generated image replacement",
+      "sourceURL": "local://cooking-for-myself/generated-images/019e40a4-504d-73e3-961c-e94f93c5de29#soboro-don",
       "reviewStatus": "approved",
       "contentStyle": "realistic_food_photo"
     }
@@ -238,5 +258,16 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
-  }
+  },
+  "nutritionAssumptions": [
+    {
+      "id": "default-cooking-oil",
+      "kind": "cooking_oil",
+      "measure": {
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      "reason": "Steps imply cooking oil; included as a planning estimate."
+    }
+  ]
 }

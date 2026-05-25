@@ -13,6 +13,7 @@ This repository is the canonical source for meal metadata, ingredient metadata, 
 - `schemas/`: public schema contracts.
 
 For app, website, and SDK integration guidance, see [docs/developer-guide.md](docs/developer-guide.md).
+For nutrition estimate verification, see [docs/nutrition-verification.md](docs/nutrition-verification.md).
 
 ## Browse the dataset
 
@@ -45,6 +46,10 @@ Language keys are `zhHant`, `zhHans`, `en`, `ja`, `ko`, `th`, `vi`, `id`, and `t
 
 ```bash
 npm test
+npm run nutrition:audit  # generates deterministic nutrition audit packets
+npm run nutrition:verify # writes ingredient + meal verification reports with +/-10% tolerance
+npm run nutrition:llm-rate # asks Codex CLI + Claude CLI to rate the audit; fails into human review on hard issues
+npm run nutrition:gate   # strict release gate; blocks until nutrition data is complete
 ```
 
 ## Licensing

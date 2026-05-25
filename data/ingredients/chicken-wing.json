@@ -49,5 +49,47 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
+  },
+  "nutrition": {
+    "estimate": true,
+    "rangePercent": {
+      "low": 0.9,
+      "high": 1.15
+    },
+    "form": "raw edible portion",
+    "nutrientsPer100g": {
+      "kcal": 191,
+      "sodiumMg": 82
+    },
+    "unitWeights": [
+      {
+        "unit": "g",
+        "grams": 1,
+        "sourceRefId": "baseline-chicken-wing",
+        "note": "Mass measure."
+      },
+      {
+        "unit": "wing",
+        "grams": 35,
+        "sourceRefId": "baseline-chicken-wing",
+        "note": "Planning conversion estimate; verify against package size or source measure."
+      }
+    ],
+    "sourceRefs": [
+      {
+        "id": "baseline-chicken-wing",
+        "sourceType": "other_reviewed",
+        "sourceName": "Cooking For Myself baseline nutrition estimate",
+        "sourceURL": "local://cooking-for-myself/nutrition-baseline-v1#chicken-wing",
+        "accessedAt": "2026-05-20",
+        "foodDescription": "Chicken wings, raw edible portion baseline estimate",
+        "sourceNutrientsPer100g": {
+          "kcal": 191,
+          "sodiumMg": 82
+        }
+      }
+    ],
+    "confidence": "medium",
+    "reviewStatus": "needs_review"
   }
 }

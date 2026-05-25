@@ -53,5 +53,47 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
+  },
+  "nutrition": {
+    "estimate": true,
+    "rangePercent": {
+      "low": 0.9,
+      "high": 1.15
+    },
+    "form": "prepared cake",
+    "nutrientsPer100g": {
+      "kcal": 140,
+      "sodiumMg": 420
+    },
+    "unitWeights": [
+      {
+        "unit": "g",
+        "grams": 1,
+        "sourceRefId": "baseline-daikon-cake",
+        "note": "Mass measure."
+      },
+      {
+        "unit": "slice",
+        "grams": 60,
+        "sourceRefId": "baseline-daikon-cake",
+        "note": "Planning conversion estimate; verify against package size or source measure."
+      }
+    ],
+    "sourceRefs": [
+      {
+        "id": "baseline-daikon-cake",
+        "sourceType": "other_reviewed",
+        "sourceName": "Cooking For Myself baseline nutrition estimate",
+        "sourceURL": "local://cooking-for-myself/nutrition-baseline-v1#daikon-cake",
+        "accessedAt": "2026-05-20",
+        "foodDescription": "Turnip cake, prepared cake baseline estimate",
+        "sourceNutrientsPer100g": {
+          "kcal": 140,
+          "sodiumMg": 420
+        }
+      }
+    ],
+    "confidence": "low",
+    "reviewStatus": "needs_review"
   }
 }

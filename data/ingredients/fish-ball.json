@@ -52,5 +52,47 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
+  },
+  "nutrition": {
+    "estimate": true,
+    "rangePercent": {
+      "low": 0.9,
+      "high": 1.15
+    },
+    "form": "prepared processed",
+    "nutrientsPer100g": {
+      "kcal": 160,
+      "sodiumMg": 700
+    },
+    "unitWeights": [
+      {
+        "unit": "g",
+        "grams": 1,
+        "sourceRefId": "baseline-fish-ball",
+        "note": "Mass measure."
+      },
+      {
+        "unit": "piece",
+        "grams": 20,
+        "sourceRefId": "baseline-fish-ball",
+        "note": "Planning conversion estimate; verify against package size or source measure."
+      }
+    ],
+    "sourceRefs": [
+      {
+        "id": "baseline-fish-ball",
+        "sourceType": "other_reviewed",
+        "sourceName": "Cooking For Myself baseline nutrition estimate",
+        "sourceURL": "local://cooking-for-myself/nutrition-baseline-v1#fish-ball",
+        "accessedAt": "2026-05-20",
+        "foodDescription": "Fish balls, prepared processed baseline estimate",
+        "sourceNutrientsPer100g": {
+          "kcal": 160,
+          "sodiumMg": 700
+        }
+      }
+    ],
+    "confidence": "low",
+    "reviewStatus": "needs_review"
   }
 }
