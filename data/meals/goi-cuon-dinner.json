@@ -40,10 +40,6 @@
         "id": "180 g",
         "tl": "180 g",
         "yue": "180 克"
-      },
-      "measure": {
-        "quantity": 180,
-        "unit": "g"
       }
     },
     {
@@ -59,10 +55,6 @@
         "id": "8 lembar",
         "tl": "8 piraso",
         "yue": "8 張"
-      },
-      "measure": {
-        "quantity": 8,
-        "unit": "sheet"
       }
     },
     {
@@ -78,10 +70,6 @@
         "id": "1 bonggol",
         "tl": "1 ulo",
         "yue": "1 棵"
-      },
-      "measure": {
-        "quantity": 1,
-        "unit": "head"
       }
     },
     {
@@ -97,10 +85,6 @@
         "id": "180 g",
         "tl": "180 g",
         "yue": "180 克"
-      },
-      "measure": {
-        "quantity": 180,
-        "unit": "g"
       }
     }
   ],
@@ -238,16 +222,5 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
-  },
-  "nutritionAssumptions": [
-    {
-      "id": "default-cooking-oil",
-      "kind": "cooking_oil",
-      "measure": {
-        "quantity": 1,
-        "unit": "tbsp"
-      },
-      "reason": "Steps imply cooking oil; included as a planning estimate."
-    }
-  ]
+  }
 }

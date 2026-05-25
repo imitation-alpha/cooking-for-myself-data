@@ -52,47 +52,5 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
-  },
-  "nutrition": {
-    "estimate": true,
-    "rangePercent": {
-      "low": 0.9,
-      "high": 1.15
-    },
-    "form": "prepared paste",
-    "nutrientsPer100g": {
-      "kcal": 242,
-      "sodiumMg": 3270
-    },
-    "unitWeights": [
-      {
-        "unit": "g",
-        "grams": 1,
-        "sourceRefId": "baseline-gochujang",
-        "note": "Mass measure."
-      },
-      {
-        "unit": "tbsp",
-        "grams": 18,
-        "sourceRefId": "baseline-gochujang",
-        "note": "Planning conversion estimate; verify against package size or source measure."
-      }
-    ],
-    "sourceRefs": [
-      {
-        "id": "baseline-gochujang",
-        "sourceType": "other_reviewed",
-        "sourceName": "Cooking For Myself baseline nutrition estimate",
-        "sourceURL": "local://cooking-for-myself/nutrition-baseline-v1#gochujang",
-        "accessedAt": "2026-05-20",
-        "foodDescription": "Gochujang, prepared paste baseline estimate",
-        "sourceNutrientsPer100g": {
-          "kcal": 242,
-          "sodiumMg": 3270
-        }
-      }
-    ],
-    "confidence": "low",
-    "reviewStatus": "needs_review"
   }
 }

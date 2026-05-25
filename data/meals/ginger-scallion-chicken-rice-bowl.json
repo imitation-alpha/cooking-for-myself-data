@@ -1,0 +1,284 @@
+{
+  "id": "ginger-scallion-chicken-rice-bowl",
+  "status": "approved",
+  "names": {
+    "zhHant": "薑蔥雞飯碗",
+    "yue": "薑蔥雞飯碗",
+    "zhHans": "姜葱鸡饭碗",
+    "en": "Ginger-scallion chicken rice bowl",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": "Ginger-scallion chicken rice bowl",
+    "tl": "Ginger-scallion chicken rice bowl"
+  },
+  "summary": {
+    "zhHant": "嫩煎雞髀切片鋪在熱飯上，配青瓜和薑蔥生抽汁，清爽但夠飽肚。",
+    "yue": "嫩煎雞髀切片鋪喺熱飯上，配青瓜同薑蔥生抽汁，清爽但夠飽肚。",
+    "en": "Sliced pan-cooked chicken thigh over warm rice with cucumber and a ginger-scallion soy spoon sauce; light, fresh, and filling."
+  },
+  "reason": {
+    "zhHant": "用熟飯快速組成高蛋白飯碗，薑蔥提香、青瓜增加清爽口感，30 分鐘內完成。",
+    "yue": "用熟飯快速砌成高蛋白飯碗，薑蔥夠香、青瓜令成碗更清爽，30 分鐘內完成。",
+    "en": "Uses cooked rice for speed, chicken thigh for staying power, cucumber for freshness, and ginger-scallion soy sauce for flavor within 30 minutes."
+  },
+  "timeMinutes": 25,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "2 件",
+        "yue": "2 件",
+        "zhHans": "2 件",
+        "en": "2 thighs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "2 thighs",
+        "tl": "2 thighs"
+      }
+    },
+    {
+      "ingredientId": "cooked-rice",
+      "amounts": {
+        "zhHant": "2 碗",
+        "yue": "2 碗",
+        "zhHans": "2 碗",
+        "en": "2 bowls",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "2 bowls",
+        "tl": "2 bowls"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "1 小塊",
+        "yue": "1 小塊",
+        "zhHans": "1 小块",
+        "en": "1 small piece",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "1 small piece",
+        "tl": "1 small piece"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "3 條",
+        "yue": "3 條",
+        "zhHans": "3 条",
+        "en": "3 stalks",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "3 stalks",
+        "tl": "3 stalks"
+      }
+    },
+    {
+      "ingredientId": "cucumber",
+      "amounts": {
+        "zhHant": "半條",
+        "yue": "半條",
+        "zhHans": "半条",
+        "en": "1/2 cucumber",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "1/2 cucumber",
+        "tl": "1/2 cucumber"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 1/2 湯匙",
+        "yue": "1 1/2 湯匙",
+        "zhHans": "1 1/2 汤匙",
+        "en": "1 1/2 tbsp",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "1 1/2 tbsp",
+        "tl": "1 1/2 tbsp"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "切配青瓜薑蔥",
+        "yue": "切配青瓜薑蔥",
+        "zhHans": "切配青瓜姜葱",
+        "en": "Prep cucumber, ginger, and scallion",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "青瓜半條切薄片或幼條，薑 1 小塊磨成蓉或切極幼粒，蔥 3 條分開蔥白和蔥綠切幼粒。熟飯 2 碗先弄鬆，保持溫熱。",
+        "yue": "青瓜半條切薄片或幼條，薑 1 小塊磨成蓉或切到極幼粒，蔥 3 條分開蔥白同蔥綠切幼粒。熟飯 2 碗先整鬆，保持溫熱。",
+        "zhHans": "青瓜半条切薄片或细条，姜 1 小块磨成蓉或切极细粒，葱 3 条分开葱白和葱绿切细粒。熟饭 2 碗先拨松，保持温热。",
+        "en": "Slice 1/2 cucumber into thin rounds or sticks. Grate or very finely mince 1 small piece ginger, then finely slice 3 scallions with whites and greens kept separate. Fluff 2 bowls cooked rice and keep it warm.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "生抽薑汁抹雞",
+        "yue": "生抽薑汁抹雞",
+        "zhHans": "生抽姜汁抹鸡",
+        "en": "Rub chicken with soy and ginger",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "雞髀肉 2 件抹乾，厚位輕切一刀。用半湯匙生抽和三分之一薑蓉抹勻雞肉，放置 5 分鐘；這樣有底味但不會太鹹。",
+        "yue": "雞髀肉 2 件抹乾，厚位輕輕切一刀。用半湯匙生抽同三分之一薑蓉抹勻雞肉，放 5 分鐘；咁樣有底味但唔會太鹹。",
+        "zhHans": "鸡髀肉 2 件抹干，厚位轻切一刀。用半汤匙生抽和三分之一姜蓉抹匀鸡肉，放置 5 分钟；这样有底味但不会太咸。",
+        "en": "Pat 2 chicken thighs dry and lightly score the thickest parts. Rub them with 1/2 tbsp light soy sauce and one third of the ginger, then rest for 5 minutes so the chicken is seasoned but not salty.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煎熟雞髀肉",
+        "yue": "煎熟雞髀肉",
+        "zhHans": "煎熟鸡髀肉",
+        "en": "Pan-cook the chicken",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鑊用中火燒熱，加少量油，放入雞髀肉煎 4 分鐘。翻面後加 2 湯匙水，蓋上焗 5 至 6 分鐘，至中心全熟無粉紅；取出休息 3 分鐘。",
+        "yue": "平底鑊用中火燒熱，加少量油，放入雞髀肉煎 4 分鐘。反面後加 2 湯匙水，冚蓋焗 5 至 6 分鐘，至中心全熟無粉紅；拎出休息 3 分鐘。",
+        "zhHans": "平底锅用中火烧热，加少量油，放入鸡髀肉煎 4 分钟。翻面后加 2 汤匙水，盖上焖 5 至 6 分钟，至中心全熟无粉红；取出休息 3 分钟。",
+        "en": "Heat a skillet over medium heat with a small amount of oil. Add the chicken and sear for 4 minutes. Turn, add 2 tbsp water, cover, and cook for 5-6 minutes until the centers are fully cooked with no pink; rest for 3 minutes.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "拌出薑蔥生抽汁",
+        "yue": "拌出薑蔥生抽汁",
+        "zhHans": "拌出姜葱生抽汁",
+        "en": "Make the ginger-scallion soy sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "原鑊轉小火，下餘下薑蓉和蔥白炒 30 秒至香。關火後加入 1 湯匙生抽和 2 湯匙熱水，刮起鑊底雞汁，拌成可淋的薑蔥汁。",
+        "yue": "原鑊轉小火，落餘下薑蓉同蔥白炒 30 秒至香。熄火後加入 1 湯匙生抽同 2 湯匙熱水，刮起鑊底雞汁，拌成可以淋嘅薑蔥汁。",
+        "zhHans": "原锅转小火，下余下姜蓉和葱白炒 30 秒至香。关火后加入 1 汤匙生抽和 2 汤匙热水，刮起锅底鸡汁，拌成可淋的姜葱汁。",
+        "en": "Lower the same pan to low heat, add the remaining ginger and scallion whites, and cook for 30 seconds until fragrant. Turn off the heat, add 1 tbsp light soy sauce and 2 tbsp hot water, then scrape up the chicken juices to make a spoonable sauce.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "切雞砌飯碗",
+        "yue": "切雞砌飯碗",
+        "zhHans": "切鸡组饭碗",
+        "en": "Slice chicken and assemble bowls",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "雞肉切片。每碗放一半熟飯，鋪上雞片和青瓜，淋薑蔥生抽汁，最後灑蔥綠。飯吸到少量汁即可，保留青瓜爽脆感。",
+        "yue": "雞肉切片。每碗放一半熟飯，鋪上雞片同青瓜，淋薑蔥生抽汁，最後灑蔥綠。飯吸到少量汁就夠，保留青瓜爽脆感。",
+        "zhHans": "鸡肉切片。每碗放一半熟饭，铺上鸡片和青瓜，淋姜葱生抽汁，最后撒葱绿。饭吸到少量汁即可，保留青瓜爽脆感。",
+        "en": "Slice the chicken. Add half the cooked rice to each bowl, top with chicken slices and cucumber, spoon over the ginger-scallion soy sauce, and finish with scallion greens. Let the rice catch a little sauce while the cucumber stays crisp.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/ginger-scallion-chicken-rice-bowl/cover-1.png",
+      "alt": "Generated meal cover image for ginger-scallion-chicken-rice-bowl",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself light-but-fueled image run",
+      "sourceURL": "local://cooking-for-myself-data/light-but-fueled-2026-05-18#ginger-scallion-chicken-rice-bowl",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself light-but-fueled meal expansion",
+    "sourceURL": "local://cooking-for-myself-data/data/meals/ginger-scallion-chicken-rice-bowl.json",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "approved",
+    "generated": true,
+    "generatedAt": "2026-05-18T00:00:00Z"
+  }
+}

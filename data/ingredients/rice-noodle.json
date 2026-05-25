@@ -49,41 +49,5 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
-  },
-  "nutrition": {
-    "estimate": true,
-    "rangePercent": {
-      "low": 0.9,
-      "high": 1.15
-    },
-    "form": "dry as sold rice noodles",
-    "nutrientsPer100g": {
-      "kcal": 364,
-      "sodiumMg": 5
-    },
-    "unitWeights": [
-      {
-        "unit": "g",
-        "grams": 1,
-        "sourceRefId": "baseline-rice-noodle",
-        "note": "Mass measure."
-      }
-    ],
-    "sourceRefs": [
-      {
-        "id": "baseline-rice-noodle",
-        "sourceType": "other_reviewed",
-        "sourceName": "Cooking For Myself baseline nutrition estimate",
-        "sourceURL": "local://cooking-for-myself/nutrition-baseline-v1#rice-noodle",
-        "accessedAt": "2026-05-20",
-        "foodDescription": "Rice noodles, dry as sold rice noodles baseline estimate",
-        "sourceNutrientsPer100g": {
-          "kcal": 364,
-          "sodiumMg": 5
-        }
-      }
-    ],
-    "confidence": "medium",
-    "reviewStatus": "needs_review"
   }
 }

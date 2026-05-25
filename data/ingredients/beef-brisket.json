@@ -51,41 +51,5 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
-  },
-  "nutrition": {
-    "estimate": true,
-    "rangePercent": {
-      "low": 0.9,
-      "high": 1.15
-    },
-    "form": "raw beef brisket",
-    "nutrientsPer100g": {
-      "kcal": 251,
-      "sodiumMg": 66
-    },
-    "unitWeights": [
-      {
-        "unit": "g",
-        "grams": 1,
-        "sourceRefId": "baseline-beef-brisket",
-        "note": "Mass measure."
-      }
-    ],
-    "sourceRefs": [
-      {
-        "id": "baseline-beef-brisket",
-        "sourceType": "other_reviewed",
-        "sourceName": "Cooking For Myself baseline nutrition estimate",
-        "sourceURL": "local://cooking-for-myself/nutrition-baseline-v1#beef-brisket",
-        "accessedAt": "2026-05-20",
-        "foodDescription": "Beef brisket, raw beef brisket baseline estimate",
-        "sourceNutrientsPer100g": {
-          "kcal": 251,
-          "sodiumMg": 66
-        }
-      }
-    ],
-    "confidence": "medium",
-    "reviewStatus": "needs_review"
   }
 }

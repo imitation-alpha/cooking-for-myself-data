@@ -51,41 +51,5 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
-  },
-  "nutrition": {
-    "estimate": true,
-    "rangePercent": {
-      "low": 0.9,
-      "high": 1.15
-    },
-    "form": "prepared roast pork",
-    "nutrientsPer100g": {
-      "kcal": 300,
-      "sodiumMg": 800
-    },
-    "unitWeights": [
-      {
-        "unit": "g",
-        "grams": 1,
-        "sourceRefId": "baseline-char-siu",
-        "note": "Mass measure."
-      }
-    ],
-    "sourceRefs": [
-      {
-        "id": "baseline-char-siu",
-        "sourceType": "other_reviewed",
-        "sourceName": "Cooking For Myself baseline nutrition estimate",
-        "sourceURL": "local://cooking-for-myself/nutrition-baseline-v1#char-siu",
-        "accessedAt": "2026-05-20",
-        "foodDescription": "Char siu, prepared roast pork baseline estimate",
-        "sourceNutrientsPer100g": {
-          "kcal": 300,
-          "sodiumMg": 800
-        }
-      }
-    ],
-    "confidence": "low",
-    "reviewStatus": "needs_review"
   }
 }

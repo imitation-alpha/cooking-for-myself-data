@@ -1,0 +1,313 @@
+{
+  "id": "chicken-soba-broth-bowl",
+  "status": "approved",
+  "names": {
+    "zhHant": "雞肉蕎麥清湯碗",
+    "yue": "雞肉蕎麥清湯碗",
+    "zhHans": "鸡肉荞麦清汤碗",
+    "en": "Chicken soba broth bowl",
+    "ja": "チキンそばスープボウル",
+    "ko": "치킨 소바 국물 볼",
+    "th": "ชามโซบะไก่น้ำซุป",
+    "vi": "Tô soba gà nước dùng",
+    "id": "Mangkuk soba ayam berkuah",
+    "tl": "Mangkok na soba at manok sa sabaw"
+  },
+  "summary": {
+    "zhHant": "雞髀肉、蕎麥麵和白菜放入清雞湯，薑和蔥提香，生抽只作輕調味，是 30 分鐘內完成的兩人清爽湯麵碗。",
+    "yue": "雞髀肉、蕎麥麵同白菜放入清雞湯，薑同蔥提香，生抽只做輕調味，係 30 分鐘內完成嘅兩人清爽湯麵碗。",
+    "zhHans": "鸡髀肉、荞麦面和白菜放入清鸡汤，姜和葱提香，生抽只作轻调味，是 30 分钟内完成的两人清爽汤面碗。",
+    "en": "Chicken thigh, soba noodles, and napa cabbage sit in a clear chicken broth scented with ginger and scallion, with light soy used only for gentle seasoning.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "reason": {
+    "zhHant": "雞湯直接做湯底，蕎麥麵提供主食份量，白菜令湯碗清甜，雞髀肉保持嫩滑，步驟少而且不用重口味醬汁。",
+    "yue": "雞湯直接做湯底，蕎麥麵提供主食份量，白菜令湯碗清甜，雞髀肉保持嫩滑，步驟少而且唔需要重口味醬汁。",
+    "zhHans": "鸡汤直接做汤底，荞麦面提供主食份量，白菜让汤碗清甜，鸡髀肉保持嫩滑，步骤少而且不用重口味酱汁。",
+    "en": "The broth becomes the base, soba makes it a full meal, napa cabbage keeps it sweet and light, and chicken thigh stays tender without a heavy sauce.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "timeMinutes": 25,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "2 件",
+        "yue": "2 件",
+        "zhHans": "2 件",
+        "en": "2 thighs",
+        "ja": "2枚",
+        "ko": "2장",
+        "th": "2 ชิ้น",
+        "vi": "2 miếng",
+        "id": "2 potong",
+        "tl": "2 piraso"
+      }
+    },
+    {
+      "ingredientId": "soba",
+      "amounts": {
+        "zhHant": "180 克",
+        "yue": "180 克",
+        "zhHans": "180 克",
+        "en": "180 g",
+        "ja": "180 g",
+        "ko": "180 g",
+        "th": "180 กรัม",
+        "vi": "180 g",
+        "id": "180 g",
+        "tl": "180 g"
+      }
+    },
+    {
+      "ingredientId": "chicken-broth",
+      "amounts": {
+        "zhHant": "700 毫升",
+        "yue": "700 毫升",
+        "zhHans": "700 毫升",
+        "en": "700 ml",
+        "ja": "700 ml",
+        "ko": "700 ml",
+        "th": "700 มล.",
+        "vi": "700 ml",
+        "id": "700 ml",
+        "tl": "700 ml"
+      }
+    },
+    {
+      "ingredientId": "napa-cabbage",
+      "amounts": {
+        "zhHant": "250 克",
+        "yue": "250 克",
+        "zhHans": "250 克",
+        "en": "250 g",
+        "ja": "250 g",
+        "ko": "250 g",
+        "th": "250 กรัม",
+        "vi": "250 g",
+        "id": "250 g",
+        "tl": "250 g"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "yue": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": "2 ต้น",
+        "vi": "2 nhánh",
+        "id": "2 batang",
+        "tl": "2 tangkay"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "4 片",
+        "yue": "4 片",
+        "zhHans": "4 片",
+        "en": "4 slices",
+        "ja": "4枚",
+        "ko": "4쪽",
+        "th": "4 แว่น",
+        "vi": "4 lát",
+        "id": "4 iris",
+        "tl": "4 hiwa"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "yue": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": "1 ช้อนโต๊ะ",
+        "vi": "1 muỗng canh",
+        "id": "1 sdm",
+        "tl": "1 kutsara"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "wheatGluten",
+    "soy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "切好雞肉和湯料",
+        "yue": "切好雞肉同湯料",
+        "zhHans": "切好鸡肉和汤料",
+        "en": "Prep the chicken and broth aromatics",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "雞髀肉 2 件抹乾後切成一口大小。白菜 250 克切粗條，蔥 2 條分開蔥白和蔥綠切粒，薑 4 片拍鬆，方便短時間煮出香味。",
+        "yue": "雞髀肉 2 件抹乾後切成一啖大小。白菜 250 克切粗條，蔥 2 條分開蔥白同蔥綠切粒，薑 4 片拍鬆，方便短時間煮出香味。",
+        "zhHans": "鸡髀肉 2 件抹干后切成一口大小。白菜 250 克切粗条，葱 2 条分开葱白和葱绿切粒，姜 4 片拍松，方便短时间煮出香味。",
+        "en": "Pat 2 chicken thighs dry and cut them into bite-size pieces. Cut 250 g napa cabbage into thick strips, slice 2 scallions with whites and greens kept separate, and lightly crush 4 ginger slices so they flavor the broth quickly.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "蕎麥麵煮熟瀝乾",
+        "yue": "蕎麥麵煮熟瀝乾",
+        "zhHans": "荞麦面煮熟沥干",
+        "en": "Cook and drain the soba",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "煲一鍋水，放入蕎麥麵 180 克，按包裝或約 4 至 5 分鐘煮至中心無硬芯。撈起後用清水沖一沖，瀝乾後分入兩個湯碗。",
+        "yue": "煲一鍋水，放入蕎麥麵 180 克，按包裝或者約 4 至 5 分鐘煮到中心無硬芯。撈起後用清水沖一沖，瀝乾後分入兩個湯碗。",
+        "zhHans": "烧一锅水，放入荞麦面 180 克，按包装或约 4 至 5 分钟煮至中心没有硬芯。捞起后用清水冲一冲，沥干后分入两个汤碗。",
+        "en": "Bring a pot of water to a boil, add 180 g soba, and cook according to the package, or about 4-5 minutes, until the center is no longer hard. Drain, rinse briefly with clean water, and divide between two soup bowls.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "雞湯煮香薑蔥",
+        "yue": "雞湯煮香薑蔥",
+        "zhHans": "鸡汤煮香姜葱",
+        "en": "Simmer ginger and scallion in broth",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "小鍋加入雞湯 700 毫升、薑片、蔥白和生抽 1 湯匙，用中火煮滾後轉小火煮 3 分鐘，讓湯底有薑蔥香但仍保持清亮。",
+        "yue": "小鍋加入雞湯 700 毫升、薑片、蔥白同生抽 1 湯匙，用中火煮滾後轉小火煮 3 分鐘，令湯底有薑蔥香但仍然保持清亮。",
+        "zhHans": "小锅加入鸡汤 700 毫升、姜片、葱白和生抽 1 汤匙，用中火煮滚后转小火煮 3 分钟，让汤底有姜葱香但仍保持清亮。",
+        "en": "Add 700 ml chicken broth, the ginger, scallion whites, and 1 tbsp light soy sauce to a small pot. Bring to a boil over medium heat, then simmer gently for 3 minutes so the broth is aromatic but still clear.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "雞肉白菜煮至剛熟",
+        "yue": "雞肉白菜煮到啱啱熟",
+        "zhHans": "鸡肉白菜煮至刚熟",
+        "en": "Cook chicken and napa until just done",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把雞肉放入微滾湯中煮 5 至 6 分鐘，再加入白菜煮 2 至 3 分鐘，至雞肉全熟無粉紅而白菜仍有少許爽口感。撈走薑片即可。",
+        "yue": "將雞肉放入微滾湯中煮 5 至 6 分鐘，再加入白菜煮 2 至 3 分鐘，至雞肉全熟無粉紅而白菜仲有少少爽口感。撈走薑片就得。",
+        "zhHans": "把鸡肉放入微滚汤中煮 5 至 6 分钟，再加入白菜煮 2 至 3 分钟，至鸡肉全熟无粉红而白菜仍有少许爽口感。捞走姜片即可。",
+        "en": "Add the chicken to the gently bubbling broth and cook for 5-6 minutes. Add the napa cabbage and cook 2-3 minutes more, until the chicken has no pink in the center and the cabbage still has a little bite. Remove the ginger slices.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "把清湯倒入蕎麥碗",
+        "yue": "將清湯倒入蕎麥碗",
+        "zhHans": "把清汤倒入荞麦碗",
+        "en": "Ladle broth into the soba bowls",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把雞肉和白菜分到兩碗蕎麥麵上，倒入熱雞湯，最後灑蔥綠。完成時應見到清湯、蕎麥麵、雞肉、白菜和蔥花分明，口味清爽。",
+        "yue": "將雞肉同白菜分到兩碗蕎麥麵上，倒入熱雞湯，最後灑蔥綠。完成時應該見到清湯、蕎麥麵、雞肉、白菜同蔥花分明，口味清爽。",
+        "zhHans": "把鸡肉和白菜分到两碗荞麦面上，倒入热鸡汤，最后撒葱绿。完成时应看到清汤、荞麦面、鸡肉、白菜和葱花分明，口味清爽。",
+        "en": "Divide the chicken and napa over the two bowls of soba, ladle in the hot broth, and finish with scallion greens. The finished bowls should clearly show clear broth, soba, chicken, napa, and scallion with a light taste.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/chicken-soba-broth-bowl/cover-1.png",
+      "alt": "Generated meal cover image for chicken-soba-broth-bowl",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself light meals image run",
+      "sourceURL": "local://cooking-for-myself-data/light-meals-2026-05-18#chicken-soba-broth-bowl",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself light meals expansion",
+    "sourceURL": "local://cooking-for-myself-data/data/meals/chicken-soba-broth-bowl.json",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "approved",
+    "generated": true,
+    "generatedAt": "2026-05-18T00:00:00Z"
+  }
+}

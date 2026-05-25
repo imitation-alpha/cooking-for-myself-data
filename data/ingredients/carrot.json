@@ -49,47 +49,5 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
-  },
-  "nutrition": {
-    "estimate": true,
-    "rangePercent": {
-      "low": 0.9,
-      "high": 1.15
-    },
-    "form": "fresh raw",
-    "nutrientsPer100g": {
-      "kcal": 41,
-      "sodiumMg": 69
-    },
-    "unitWeights": [
-      {
-        "unit": "g",
-        "grams": 1,
-        "sourceRefId": "baseline-carrot",
-        "note": "Mass measure."
-      },
-      {
-        "unit": "carrot",
-        "grams": 61,
-        "sourceRefId": "baseline-carrot",
-        "note": "Planning conversion estimate; verify against package size or source measure."
-      }
-    ],
-    "sourceRefs": [
-      {
-        "id": "baseline-carrot",
-        "sourceType": "other_reviewed",
-        "sourceName": "Cooking For Myself baseline nutrition estimate",
-        "sourceURL": "local://cooking-for-myself/nutrition-baseline-v1#carrot",
-        "accessedAt": "2026-05-20",
-        "foodDescription": "Carrot, fresh raw baseline estimate",
-        "sourceNutrientsPer100g": {
-          "kcal": 41,
-          "sodiumMg": 69
-        }
-      }
-    ],
-    "confidence": "medium",
-    "reviewStatus": "needs_review"
   }
 }

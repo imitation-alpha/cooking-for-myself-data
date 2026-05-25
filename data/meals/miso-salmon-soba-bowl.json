@@ -1,0 +1,300 @@
+{
+  "id": "miso-salmon-soba-bowl",
+  "status": "approved",
+  "names": {
+    "zhHant": "味噌三文魚蕎麥碗",
+    "zhHans": "味噌三文鱼荞麦碗",
+    "en": "Miso salmon soba bowl",
+    "ja": "味噌サーモンそばボウル",
+    "ko": "미소 연어 소바 볼",
+    "th": null,
+    "vi": null,
+    "id": "Miso salmon soba bowl",
+    "tl": "Miso salmon soba bowl",
+    "yue": "味噌三文魚蕎麥碗"
+  },
+  "summary": {
+    "zhHant": "味噌三文魚蕎麥碗是一個清爽但夠能量的快手主食碗，三文魚、蕎麥麵、青瓜和蔥放在同一碗，適合下班或訓練後 30 分鐘內完成。",
+    "en": "A light but fueled bowl with miso-glazed salmon, soba noodles, cucumber, and scallion, built for a fast two-person weeknight or post-training meal.",
+    "yue": "味噌三文魚蕎麥碗係清爽但夠飽肚嘅快手主食碗，三文魚、蕎麥麵、青瓜同蔥放埋一碗，適合放工或者運動後 30 分鐘內完成。"
+  },
+  "reason": {
+    "zhHant": "魚類蛋白配蕎麥麵提供飽足感，味噌和生抽帶出鹹香，青瓜保留清脆口感，符合 light-but-fueled 的日常餐方向。",
+    "en": "Fish protein and soba make it satisfying, while miso, light soy, cucumber, and scallion keep the bowl savory, fresh, and practical for a modern light-but-fueled meal.",
+    "yue": "魚類蛋白加蕎麥麵有飽肚感，味噌同生抽帶鹹香，青瓜保留爽脆口感，啱 light-but-fueled 嘅日常餐方向。"
+  },
+  "timeMinutes": 25,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "salmon-fillet",
+      "amounts": {
+        "zhHant": "2 件",
+        "zhHans": "2 件",
+        "en": "2 fillets",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 fillet",
+        "tl": "2 fillet",
+        "yue": "2 件"
+      }
+    },
+    {
+      "ingredientId": "soba",
+      "amounts": {
+        "zhHant": "180 克",
+        "zhHans": "180 克",
+        "en": "180 g",
+        "ja": "180 g",
+        "ko": "180 g",
+        "th": null,
+        "vi": null,
+        "id": "180 g",
+        "tl": "180 g",
+        "yue": "180 克"
+      }
+    },
+    {
+      "ingredientId": "miso",
+      "amounts": {
+        "zhHant": "1.5 湯匙",
+        "zhHans": "1.5 汤匙",
+        "en": "1.5 tbsp",
+        "ja": "大さじ1.5",
+        "ko": "1.5큰술",
+        "th": null,
+        "vi": null,
+        "id": "1.5 sdm",
+        "tl": "1.5 kutsara",
+        "yue": "1.5 湯匙"
+      }
+    },
+    {
+      "ingredientId": "cucumber",
+      "amounts": {
+        "zhHant": "1 條",
+        "zhHans": "1 条",
+        "en": "1 cucumber",
+        "ja": "1本",
+        "ko": "1개",
+        "th": null,
+        "vi": null,
+        "id": "1 cucumber",
+        "tl": "1 cucumber",
+        "yue": "1 條"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay",
+        "yue": "2 條"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "2 片",
+        "zhHans": "2 片",
+        "en": "2 slices",
+        "ja": "2枚",
+        "ko": "2장",
+        "th": null,
+        "vi": null,
+        "id": "2 iris",
+        "tl": "2 hiwa",
+        "yue": "2 片"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": "大さじ1",
+        "ko": "1큰술",
+        "th": null,
+        "vi": null,
+        "id": "1 sdm",
+        "tl": "1 kutsara",
+        "yue": "1 湯匙"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "fish",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "備好麵碗和味噌汁",
+        "yue": "備好麵碗和味噌汁",
+        "zhHans": "备好面碗和味噌汁",
+        "en": "Prep the noodle bowl and miso sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "煲一鍋水準備煮蕎麥麵。青瓜 1 條切幼條，蔥 2 條分開蔥白和蔥綠切幼粒，薑 2 片切碎。味噌 1.5 湯匙、生抽 1 湯匙和 3 湯匙水先拌成順滑醬汁。",
+        "yue": "煲一鍋水準備煮蕎麥麵。青瓜 1 條切幼條，蔥 2 條分開蔥白同蔥綠切幼粒，薑 2 片切碎。味噌 1.5 湯匙、生抽 1 湯匙同 3 湯匙水先拌成順滑醬汁。",
+        "zhHans": "烧一锅水准备煮荞麦面。青瓜 1 条切细条，葱 2 条分开葱白和葱绿切细粒，姜 2 片切碎。味噌 1.5 汤匙、生抽 1 汤匙和 3 汤匙水先拌成顺滑酱汁。",
+        "en": "Bring a pot of water to a boil for the soba. Cut 1 cucumber into thin sticks, separate 2 scallions into finely cut whites and greens, and mince 2 slices ginger. Stir 1.5 tbsp miso, 1 tbsp light soy sauce, and 3 tbsp water into a smooth sauce.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "蕎麥麵煮熟沖冷",
+        "yue": "蕎麥麵煮熟沖凍",
+        "zhHans": "荞麦面煮熟冲冷",
+        "en": "Cook soba and rinse cool",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蕎麥麵 180 克放入滾水，按包裝或約 4 至 5 分鐘煮至中心無硬芯。撈起後用冷水沖洗，輕輕搓走表面黏性，瀝乾到不滴水，分入兩個碗。",
+        "yue": "蕎麥麵 180 克放入滾水，按包裝或者約 4 至 5 分鐘煮到中心無硬芯。撈起後用凍水沖洗，輕輕搓走表面黏性，瀝乾到唔滴水，分入兩個碗。",
+        "zhHans": "荞麦面 180 克放入滚水，按包装或约 4 至 5 分钟煮至中心没有硬芯。捞起后用冷水冲洗，轻轻搓走表面黏性，沥干到不滴水，分入两个碗。",
+        "en": "Add 180 g soba to the boiling water and cook according to the package, or about 4-5 minutes, until the center is no longer hard. Drain, rinse under cold water, gently rub away surface starch, drain until not dripping, and divide between two bowls.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "三文魚煎到金黃",
+        "yue": "三文魚煎到金黃",
+        "zhHans": "三文鱼煎到金黄",
+        "en": "Sear salmon until golden",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "三文魚柳 2 件用廚房紙抹乾。平底鑊加少量油用中火燒熱，三文魚較光滑一面先向下煎 3 至 4 分鐘，翻面後再煎 2 至 3 分鐘，邊位金黃但中心仍保持濕潤。",
+        "yue": "三文魚柳 2 件用廚房紙抹乾。平底鑊加少量油用中火燒熱，三文魚較光滑一面先向下煎 3 至 4 分鐘，翻面後再煎 2 至 3 分鐘，邊位金黃但中心仍保持濕潤。",
+        "zhHans": "三文鱼柳 2 件用厨房纸抹干。平底锅加少量油用中火烧热，三文鱼较光滑一面先向下煎 3 至 4 分钟，翻面后再煎 2 至 3 分钟，边缘金黄但中心仍保持湿润。",
+        "en": "Pat 2 salmon fillets dry with paper towels. Heat a little oil in a skillet over medium heat, place the smooth side down first, and sear for 3-4 minutes. Turn and cook 2-3 minutes more, until the edges are golden while the center stays moist.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "味噌薑蔥汁掛魚",
+        "yue": "味噌薑蔥汁掛魚",
+        "zhHans": "味噌姜葱汁挂鱼",
+        "en": "Glaze the fish with miso ginger scallion",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把魚推到鑊邊，轉中小火，下薑碎和蔥白炒 20 秒。倒入味噌生抽汁，輕輕搖鑊讓醬汁沾到魚身，煮 1 分鐘至表面有薄薄亮汁；如果太稠，加 1 湯匙水鬆開。",
+        "yue": "將魚推到鑊邊，轉中小火，下薑碎同蔥白炒 20 秒。倒入味噌生抽汁，輕輕搖鑊令醬汁沾到魚身，煮 1 分鐘至表面有薄薄亮汁；如果太稠，加 1 湯匙水鬆開。",
+        "zhHans": "把鱼推到锅边，转中小火，下姜碎和葱白炒 20 秒。倒入味噌生抽汁，轻轻摇锅让酱汁沾到鱼身，煮 1 分钟至表面有薄薄亮汁；如果太稠，加 1 汤匙水调开。",
+        "en": "Push the fish to the side of the pan, lower to medium-low, and cook the minced ginger and scallion whites for 20 seconds. Pour in the miso soy sauce, gently tilt the pan so it coats the fish, and cook 1 minute until the surface has a thin glossy glaze; loosen with 1 tbsp water if it gets too thick.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "青瓜蔥綠組成蕎麥碗",
+        "yue": "青瓜蔥綠組成蕎麥碗",
+        "zhHans": "青瓜葱绿组成荞麦碗",
+        "en": "Assemble the soba bowls with cucumber",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把青瓜條放在蕎麥麵旁，三文魚放上面，將鑊底餘下味噌汁少量淋在魚和麵上。灑上蔥綠後即食；麵應清爽不積水，三文魚有鹹香味噌薄汁，青瓜保持爽脆。",
+        "yue": "將青瓜條放喺蕎麥麵旁邊，三文魚放上面，將鑊底餘下味噌汁少量淋喺魚同麵上。灑上蔥綠後即食；麵應該清爽唔積水，三文魚有鹹香味噌薄汁，青瓜保持爽脆。",
+        "zhHans": "把青瓜条放在荞麦面旁，三文鱼放上面，将锅底剩下的味噌汁少量淋在鱼和面上。撒上葱绿后即食；面应清爽不积水，三文鱼有咸香味噌薄汁，青瓜保持爽脆。",
+        "en": "Place the cucumber sticks beside the soba, set the salmon on top, and spoon a small amount of remaining miso glaze over the fish and noodles. Scatter scallion greens and eat right away; the noodles should be clean and not watery, the salmon lightly glazed, and the cucumber crisp.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/miso-salmon-soba-bowl/cover-1.png",
+      "alt": "Generated meal cover image for miso-salmon-soba-bowl",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself light-but-fueled image run",
+      "sourceURL": "local://cooking-for-myself-data/light-but-fueled-2026-05-18#miso-salmon-soba-bowl",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself light-but-fueled meal expansion",
+    "sourceURL": "local://cooking-for-myself-data/data/meals/miso-salmon-soba-bowl.json",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "approved",
+    "generated": true,
+    "generatedAt": "2026-05-18T00:00:00Z"
+  }
+}

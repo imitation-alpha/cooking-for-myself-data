@@ -1,7 +1,4 @@
 node_modules/
 dist/
 _site/
-_review-site/
-nutrition-audits/
 .DS_Store
-.gstack/

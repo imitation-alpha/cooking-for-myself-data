@@ -40,10 +40,6 @@
         "id": "350 g",
         "tl": "350 g",
         "yue": "350 克"
-      },
-      "measure": {
-        "quantity": 350,
-        "unit": "g"
       }
     },
     {
@@ -59,10 +55,6 @@
         "id": "2 potong",
         "tl": "2 piraso",
         "yue": "2 塊"
-      },
-      "measure": {
-        "quantity": 2,
-        "unit": "chop"
       }
     },
     {
@@ -78,10 +70,6 @@
         "id": "220 g",
         "tl": "220 g",
         "yue": "220 克"
-      },
-      "measure": {
-        "quantity": 220,
-        "unit": "g"
       }
     },
     {
@@ -97,10 +85,6 @@
         "id": "1 cangkir",
         "tl": "1 tasa",
         "yue": "1 杯"
-      },
-      "measure": {
-        "quantity": 1,
-        "unit": "cup"
       }
     },
     {
@@ -116,10 +100,6 @@
         "id": "3 siung",
         "tl": "3 butil",
         "yue": "3 瓣"
-      },
-      "measure": {
-        "quantity": 3,
-        "unit": "clove"
       }
     },
     {
@@ -135,10 +115,6 @@
         "id": "2 batang",
         "tl": "2 tangkay",
         "yue": "2 條"
-      },
-      "measure": {
-        "quantity": 2,
-        "unit": "stalk"
       }
     },
     {
@@ -154,10 +130,6 @@
         "id": "1 sdm",
         "tl": "1 kutsara",
         "yue": "1 湯匙"
-      },
-      "measure": {
-        "quantity": 1,
-        "unit": "tbsp"
       }
     }
   ],
@@ -297,16 +269,5 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
-  },
-  "nutritionAssumptions": [
-    {
-      "id": "default-cooking-oil",
-      "kind": "cooking_oil",
-      "measure": {
-        "quantity": 1,
-        "unit": "tbsp"
-      },
-      "reason": "Steps imply cooking oil; included as a planning estimate."
-    }
-  ]
+  }
 }

@@ -40,10 +40,6 @@
         "id": "4 lembar",
         "tl": "4 piraso",
         "yue": "4 張"
-      },
-      "measure": {
-        "quantity": 4,
-        "unit": "sheet"
       }
     },
     {
@@ -59,10 +55,6 @@
         "id": "1 cangkir",
         "tl": "1 tasa",
         "yue": "1 杯"
-      },
-      "measure": {
-        "quantity": 1,
-        "unit": "cup"
       }
     },
     {
@@ -78,10 +70,6 @@
         "id": "3 butir",
         "tl": "3 piraso",
         "yue": "3 隻"
-      },
-      "measure": {
-        "quantity": 3,
-        "unit": "egg"
       }
     }
   ],
@@ -219,16 +207,5 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
-  },
-  "nutritionAssumptions": [
-    {
-      "id": "default-cooking-oil",
-      "kind": "cooking_oil",
-      "measure": {
-        "quantity": 1,
-        "unit": "tbsp"
-      },
-      "reason": "Steps imply cooking oil; included as a planning estimate."
-    }
-  ]
+  }
 }

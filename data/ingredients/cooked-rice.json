@@ -49,47 +49,5 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
-  },
-  "nutrition": {
-    "estimate": true,
-    "rangePercent": {
-      "low": 0.9,
-      "high": 1.15
-    },
-    "form": "cooked plain",
-    "nutrientsPer100g": {
-      "kcal": 130,
-      "sodiumMg": 1
-    },
-    "unitWeights": [
-      {
-        "unit": "g",
-        "grams": 1,
-        "sourceRefId": "baseline-cooked-rice",
-        "note": "Mass measure."
-      },
-      {
-        "unit": "bowl",
-        "grams": 180,
-        "sourceRefId": "baseline-cooked-rice",
-        "note": "Planning conversion estimate; verify against package size or source measure."
-      }
-    ],
-    "sourceRefs": [
-      {
-        "id": "baseline-cooked-rice",
-        "sourceType": "other_reviewed",
-        "sourceName": "Cooking For Myself baseline nutrition estimate",
-        "sourceURL": "local://cooking-for-myself/nutrition-baseline-v1#cooked-rice",
-        "accessedAt": "2026-05-20",
-        "foodDescription": "Cooked rice, cooked plain baseline estimate",
-        "sourceNutrientsPer100g": {
-          "kcal": 130,
-          "sodiumMg": 1
-        }
-      }
-    ],
-    "confidence": "medium",
-    "reviewStatus": "needs_review"
   }
 }

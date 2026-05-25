@@ -1,0 +1,313 @@
+{
+  "id": "lemongrass-chicken-rice-noodle-bowl",
+  "status": "approved",
+  "names": {
+    "zhHant": "香茅雞髀金邊粉碗",
+    "yue": "香茅雞髀金邊粉碗",
+    "zhHans": "香茅鸡腿肉米粉碗",
+    "en": "Lemongrass chicken rice noodle bowl",
+    "ja": "レモングラスチキンライスヌードルボウル",
+    "ko": "레몬그라스 치킨 쌀국수 볼",
+    "th": null,
+    "vi": null,
+    "id": "Mangkuk mi beras ayam serai",
+    "tl": "Lemongrass chicken rice noodle bowl"
+  },
+  "summary": {
+    "zhHant": "香茅雞髀金邊粉碗是清爽但夠能量的 25 分鐘主食碗，香茅生抽雞髀肉配金邊粉、青瓜和蔥，適合下班或訓練後快手補給。",
+    "yue": "香茅雞髀金邊粉碗係清爽但夠能量嘅 25 分鐘主食碗，香茅生抽雞髀肉配金邊粉、青瓜同蔥，啱放工或者訓練後快手補給。",
+    "zhHans": "香茅鸡腿肉米粉碗是清爽但够能量的 25 分钟主食碗，香茅生抽鸡腿肉配米粉、青瓜和葱，适合下班或训练后快速补给。",
+    "en": "A fresh 25-minute bowl with lemongrass soy-glazed chicken thigh, rice noodles, cucumber, and scallion, built to feel light while still fueling a busy day or post-training dinner.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "reason": {
+    "zhHant": "雞髀肉提供飽足蛋白，金邊粉補充主食能量，青瓜保留清脆水分，香茅、薑、蔥和生抽帶出乾淨鹹香，不需要厚重醬汁。",
+    "yue": "雞髀肉有飽肚蛋白，金邊粉補主食能量，青瓜保留爽脆水分，香茅、薑、蔥同生抽帶乾淨鹹香，唔需要厚重醬汁。",
+    "zhHans": "鸡腿肉提供饱足蛋白，米粉补充主食能量，青瓜保留清脆水分，香茅、姜、葱和生抽带出干净咸香，不需要厚重酱汁。",
+    "en": "Chicken thigh brings satisfying protein, rice noodles add practical carbs, cucumber keeps the bowl crisp, and lemongrass, ginger, scallion, and light soy make it savory without a heavy sauce.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "timeMinutes": 25,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "2 件",
+        "yue": "2 件",
+        "zhHans": "2 件",
+        "en": "2 thighs",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": null,
+        "vi": null,
+        "id": "2 potong",
+        "tl": "2 piraso"
+      }
+    },
+    {
+      "ingredientId": "lemongrass",
+      "amounts": {
+        "zhHant": "2 支",
+        "yue": "2 支",
+        "zhHans": "2 支",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay"
+      }
+    },
+    {
+      "ingredientId": "rice-noodle",
+      "amounts": {
+        "zhHant": "160 克",
+        "yue": "160 克",
+        "zhHans": "160 克",
+        "en": "160 g",
+        "ja": "160 g",
+        "ko": "160 g",
+        "th": null,
+        "vi": null,
+        "id": "160 g",
+        "tl": "160 g"
+      }
+    },
+    {
+      "ingredientId": "cucumber",
+      "amounts": {
+        "zhHant": "1 條",
+        "yue": "1 條",
+        "zhHans": "1 条",
+        "en": "1 cucumber",
+        "ja": "1本",
+        "ko": "1개",
+        "th": null,
+        "vi": null,
+        "id": "1 cucumber",
+        "tl": "1 cucumber"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "yue": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "2 片",
+        "yue": "2 片",
+        "zhHans": "2 片",
+        "en": "2 slices",
+        "ja": "2枚",
+        "ko": "2장",
+        "th": null,
+        "vi": null,
+        "id": "2 iris",
+        "tl": "2 hiwa"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1.5 湯匙",
+        "yue": "1.5 湯匙",
+        "zhHans": "1.5 汤匙",
+        "en": "1.5 tbsp",
+        "ja": "大さじ1.5",
+        "ko": "1.5큰술",
+        "th": null,
+        "vi": null,
+        "id": "1.5 sdm",
+        "tl": "1.5 kutsara"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "香茅薑蔥分好",
+        "yue": "香茅薑蔥分好",
+        "zhHans": "香茅姜葱分好",
+        "en": "Prep the lemongrass aromatics",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "煲一鍋水準備金邊粉。香茅 2 支只取嫩白部分，拍鬆後切碎；薑 2 片切碎，蔥 2 條分開蔥白和蔥綠切粒。青瓜 1 條切幼條，雞髀肉 2 件抹乾並切成一口厚片。",
+        "yue": "煲一鍋水準備金邊粉。香茅 2 支只取嫩白部分，拍鬆後切碎；薑 2 片切碎，蔥 2 條分開蔥白同蔥綠切粒。青瓜 1 條切幼條，雞髀肉 2 件抹乾並切成一口厚片。",
+        "zhHans": "烧一锅水准备米粉。香茅 2 支只取嫩白部分，拍松后切碎；姜 2 片切碎，葱 2 条分开葱白和葱绿切粒。青瓜 1 条切细条，鸡腿肉 2 件抹干并切成一口厚片。",
+        "en": "Bring a pot of water to a boil for the rice noodles. Use only the tender pale part of 2 lemongrass stalks, bruise and mince it; mince 2 slices ginger, separate 2 scallions into white and green rounds, cut 1 cucumber into thin sticks, and pat 2 chicken thighs dry before slicing into bite-size thick pieces.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "金邊粉煮熟沖涼",
+        "yue": "金邊粉煮熟沖凍",
+        "zhHans": "米粉煮熟冲凉",
+        "en": "Cook and cool the rice noodles",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "金邊粉 160 克放入滾水，按包裝或約 4 至 6 分鐘煮到中心無硬芯。撈起後用冷水沖洗，輕輕鬆開麵條，瀝乾至不滴水，再分入兩個碗。",
+        "yue": "金邊粉 160 克放入滾水，按包裝或者約 4 至 6 分鐘煮到中心無硬芯。撈起後用凍水沖洗，輕輕鬆開麵條，瀝乾到唔滴水，再分入兩個碗。",
+        "zhHans": "米粉 160 克放入滚水，按包装或约 4 至 6 分钟煮到中心没有硬芯。捞起后用冷水冲洗，轻轻松开面条，沥干至不滴水，再分入两个碗。",
+        "en": "Add 160 g rice noodles to the boiling water and cook according to the package, or about 4-6 minutes, until the center is no longer hard. Drain, rinse with cold water, gently loosen the strands, drain until not dripping, and divide between two bowls.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "雞髀肉短醃後煎香",
+        "yue": "雞髀肉短醃後煎香",
+        "zhHans": "鸡腿肉短腌后煎香",
+        "en": "Short-marinate and sear the chicken",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "雞髀肉和香茅、薑、蔥白、生抽 1 湯匙拌勻，放 8 分鐘。燒熱易潔鑊至中火，雞肉平鋪下鑊煎 3 至 4 分鐘，翻面再煎 3 分鐘，直到邊位金黃而中心熟透。",
+        "yue": "雞髀肉同香茅、薑、蔥白、生抽 1 湯匙拌勻，放 8 分鐘。燒熱易潔鑊至中火，雞肉平鋪落鑊煎 3 至 4 分鐘，反面再煎 3 分鐘，直到邊位金黃而中心熟透。",
+        "zhHans": "鸡腿肉和香茅、姜、葱白、生抽 1 汤匙拌匀，放 8 分钟。烧热不粘锅至中火，鸡肉平铺下锅煎 3 至 4 分钟，翻面再煎 3 分钟，直到边缘金黄而中心熟透。",
+        "en": "Toss the chicken with the lemongrass, ginger, scallion whites, and 1 tbsp light soy sauce, then rest for 8 minutes. Heat a nonstick skillet over medium heat, spread the chicken in one layer, sear for 3-4 minutes, turn, and cook 3 minutes more until the edges are golden and the centers are cooked through.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "生抽水收成薄亮汁",
+        "yue": "生抽水收成薄亮汁",
+        "zhHans": "生抽水收成薄亮汁",
+        "en": "Reduce a light soy glaze",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入餘下生抽 0.5 湯匙和 2 湯匙水，轉中小火拌 45 至 60 秒，讓香茅薑蔥貼住雞肉成薄亮汁。汁只需剛剛包住表面，不要煮到厚重或鹹濃。",
+        "yue": "加入餘下生抽 0.5 湯匙同 2 湯匙水，轉中小火拌 45 至 60 秒，令香茅薑蔥貼住雞肉成薄亮汁。汁只需要啱啱包住表面，唔好煮到厚重或者太鹹。",
+        "zhHans": "加入余下生抽 0.5 汤匙和 2 汤匙水，转中小火拌 45 至 60 秒，让香茅姜葱贴住鸡肉成薄亮汁。汁只需刚刚包住表面，不要煮到厚重或过咸。",
+        "en": "Add the remaining 0.5 tbsp light soy sauce and 2 tbsp water, lower to medium-low, and toss for 45-60 seconds so the lemongrass, ginger, and scallion cling to the chicken as a thin glossy glaze. The sauce should barely coat the surface, not turn heavy or overly salty.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "青瓜蔥綠組成粉碗",
+        "yue": "青瓜蔥綠組成粉碗",
+        "zhHans": "青瓜葱绿组成粉碗",
+        "en": "Assemble with cucumber and scallion",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把青瓜條放在金邊粉旁，將香茅雞髀肉和鑊底薄汁放上面，最後灑上蔥綠。即食時麵條應清爽不積水，雞肉有淡淡香茅生抽亮汁，青瓜保持冰涼爽脆。",
+        "yue": "將青瓜條放喺金邊粉旁邊，將香茅雞髀肉同鑊底薄汁放上面，最後灑上蔥綠。即食時麵條應該清爽唔積水，雞肉有淡淡香茅生抽亮汁，青瓜保持冰涼爽脆。",
+        "zhHans": "把青瓜条放在米粉旁，将香茅鸡腿肉和锅底薄汁放上面，最后撒上葱绿。即食时面条应清爽不积水，鸡肉有淡淡香茅生抽亮汁，青瓜保持冰凉爽脆。",
+        "en": "Place the cucumber sticks beside the rice noodles, top with the lemongrass chicken and the thin pan glaze, then scatter the scallion greens. Eat right away; the noodles should be clean and not watery, the chicken lightly glossy with lemongrass soy, and the cucumber cool and crisp.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/lemongrass-chicken-rice-noodle-bowl/cover-1.png",
+      "alt": "Generated meal cover image for lemongrass-chicken-rice-noodle-bowl",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself light-but-fueled image run",
+      "sourceURL": "local://cooking-for-myself-data/light-but-fueled-2026-05-18#lemongrass-chicken-rice-noodle-bowl",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself light-but-fueled meal expansion",
+    "sourceURL": "local://cooking-for-myself-data/data/meals/lemongrass-chicken-rice-noodle-bowl.json",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "approved",
+    "generated": true,
+    "generatedAt": "2026-05-18T00:00:00Z"
+  }
+}

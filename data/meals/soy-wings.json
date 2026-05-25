@@ -40,10 +40,6 @@
         "id": "12 sayap",
         "tl": "12 pakpak",
         "yue": "12 隻"
-      },
-      "measure": {
-        "quantity": 12,
-        "unit": "wing"
       }
     },
     {
@@ -59,10 +55,6 @@
         "id": "2 potong",
         "tl": "2 piraso",
         "yue": "2 件"
-      },
-      "measure": {
-        "quantity": 2,
-        "unit": "thigh"
       }
     },
     {
@@ -78,10 +70,6 @@
         "id": "3 siung",
         "tl": "3 butil",
         "yue": "3 瓣"
-      },
-      "measure": {
-        "quantity": 3,
-        "unit": "clove"
       }
     },
     {
@@ -97,10 +85,6 @@
         "id": "2 batang",
         "tl": "2 tangkay",
         "yue": "2 條"
-      },
-      "measure": {
-        "quantity": 2,
-        "unit": "stalk"
       }
     },
     {
@@ -116,10 +100,6 @@
         "id": "1 sdm",
         "tl": "1 kutsara",
         "yue": "1 湯匙"
-      },
-      "measure": {
-        "quantity": 1,
-        "unit": "tbsp"
       }
     }
   ],
@@ -258,16 +238,5 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
-  },
-  "nutritionAssumptions": [
-    {
-      "id": "default-cooking-oil",
-      "kind": "cooking_oil",
-      "measure": {
-        "quantity": 1,
-        "unit": "tbsp"
-      },
-      "reason": "Steps imply cooking oil; included as a planning estimate."
-    }
-  ]
+  }
 }

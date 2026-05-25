@@ -1,0 +1,105 @@
+{
+  "id": "milk",
+  "status": "approved",
+  "names": {
+    "zhHant": "Milk",
+    "yue": "Milk",
+    "zhHans": null,
+    "en": "Milk",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "section": "dryGoods",
+  "aliases": [
+    "whole milk"
+  ],
+  "storeNotes": {
+    "zhHant": "Milk is stocked in mainstream or international grocery stores; choose a plain, flexible version for weekly cooking.",
+    "yue": "Milk is stocked in mainstream or international grocery stores; choose a plain, flexible version for weekly cooking.",
+    "zhHans": null,
+    "en": "Milk is stocked in mainstream or international grocery stores; choose a plain, flexible version for weekly cooking.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "substitutions": {
+    "zhHant": "If Milk is unavailable, use a similar ingredient from the same grocery section and adjust cooking time.",
+    "yue": "If Milk is unavailable, use a similar ingredient from the same grocery section and adjust cooking time.",
+    "zhHans": null,
+    "en": "If Milk is unavailable, use a similar ingredient from the same grocery section and adjust cooking time.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "tags": [
+    "milk"
+  ],
+  "nutrition": {
+    "estimate": true,
+    "rangePercent": {
+      "low": 0.9,
+      "high": 1.15
+    },
+    "nutrientsPer100g": {
+      "kcal": 61,
+      "sodiumMg": 43
+    },
+    "unitWeights": [
+      {
+        "unit": "g",
+        "grams": 1
+      },
+      {
+        "unit": "cup",
+        "grams": 244
+      }
+    ],
+    "sourceRefs": [
+      {
+        "sourceType": "usda_fdc",
+        "sourceName": "USDA FoodData Central generic reference",
+        "sourceURL": "https://fdc.nal.usda.gov/",
+        "accessedAt": "2026-05-22",
+        "foodDescription": "Milk",
+        "sourceNutrientsPer100g": {
+          "kcal": 61,
+          "sodiumMg": 43
+        }
+      }
+    ],
+    "confidence": "medium",
+    "reviewStatus": "reviewed"
+  },
+  "images": [
+    {
+      "path": "assets/ingredients/milk.png",
+      "alt": "Generated ingredient image for Milk",
+      "contentStyle": "realistic_ingredient_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "CookingForMyself generated image catalog",
+      "sourceName": "CookingForMyself global 520 meal expansion",
+      "sourceURL": "local://cooking-for-myself-data/docs/global-meal-expansion-candidates.json#ingredient-milk",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself global 520 meal expansion",
+    "sourceURL": "local://cooking-for-myself-data/docs/global-meal-expansion-candidates.json#ingredient-milk",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself original generated catalog",
+    "reviewStatus": "approved",
+    "generated": true,
+    "generatedAt": "2026-05-22T00:00:00.000Z"
+  }
+}

@@ -40,10 +40,6 @@
         "id": "250 g",
         "tl": "250 g",
         "yue": "250 克"
-      },
-      "measure": {
-        "quantity": 250,
-        "unit": "g"
       }
     },
     {
@@ -59,10 +55,6 @@
         "id": "2 gulung",
         "tl": "2 pugad",
         "yue": "2 個麵餅"
-      },
-      "measure": {
-        "quantity": 2,
-        "unit": "noodle_nest"
       }
     },
     {
@@ -78,10 +70,6 @@
         "id": "1 sdm",
         "tl": "1 kutsara",
         "yue": "1 湯匙"
-      },
-      "measure": {
-        "quantity": 1,
-        "unit": "tbsp"
       }
     },
     {
@@ -97,10 +85,6 @@
         "id": "350 g",
         "tl": "350 g",
         "yue": "350 克"
-      },
-      "measure": {
-        "quantity": 350,
-        "unit": "g"
       }
     },
     {
@@ -116,10 +100,6 @@
         "id": "700 ml",
         "tl": "700 ml",
         "yue": "700 毫升"
-      },
-      "measure": {
-        "quantity": 700,
-        "unit": "ml"
       }
     },
     {
@@ -135,10 +115,6 @@
         "id": "3 siung",
         "tl": "3 butil",
         "yue": "3 瓣"
-      },
-      "measure": {
-        "quantity": 3,
-        "unit": "clove"
       }
     },
     {
@@ -154,10 +130,6 @@
         "id": "2 batang",
         "tl": "2 tangkay",
         "yue": "2 條"
-      },
-      "measure": {
-        "quantity": 2,
-        "unit": "stalk"
       }
     },
     {
@@ -173,10 +145,6 @@
         "id": "1 sdm",
         "tl": "1 kutsara",
         "yue": "1 湯匙"
-      },
-      "measure": {
-        "quantity": 1,
-        "unit": "tbsp"
       }
     }
   ],
@@ -318,16 +286,5 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
-  },
-  "nutritionAssumptions": [
-    {
-      "id": "default-cooking-oil",
-      "kind": "cooking_oil",
-      "measure": {
-        "quantity": 1,
-        "unit": "tbsp"
-      },
-      "reason": "Steps imply cooking oil; included as a planning estimate."
-    }
-  ]
+  }
 }

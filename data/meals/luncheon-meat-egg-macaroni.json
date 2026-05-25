@@ -40,10 +40,6 @@
         "id": "4 iris",
         "tl": "4 hiwa",
         "yue": "4 片"
-      },
-      "measure": {
-        "quantity": 4,
-        "unit": "slice"
       }
     },
     {
@@ -59,10 +55,6 @@
         "id": "3 butir",
         "tl": "3 piraso",
         "yue": "3 隻"
-      },
-      "measure": {
-        "quantity": 3,
-        "unit": "egg"
       }
     },
     {
@@ -78,10 +70,6 @@
         "id": "160 g",
         "tl": "160 g",
         "yue": "160 克"
-      },
-      "measure": {
-        "quantity": 160,
-        "unit": "g"
       }
     },
     {
@@ -97,10 +85,6 @@
         "id": "600 ml",
         "tl": "600 ml",
         "yue": "600 毫升"
-      },
-      "measure": {
-        "quantity": 600,
-        "unit": "ml"
       }
     },
     {
@@ -116,10 +100,6 @@
         "id": "3 siung",
         "tl": "3 butil",
         "yue": "3 瓣"
-      },
-      "measure": {
-        "quantity": 3,
-        "unit": "clove"
       }
     },
     {
@@ -135,10 +115,6 @@
         "id": "2 batang",
         "tl": "2 tangkay",
         "yue": "2 條"
-      },
-      "measure": {
-        "quantity": 2,
-        "unit": "stalk"
       }
     },
     {
@@ -154,10 +130,6 @@
         "id": "4 iris",
         "tl": "4 hiwa",
         "yue": "4 片"
-      },
-      "measure": {
-        "quantity": 4,
-        "unit": "slice"
       }
     }
   ],
@@ -297,16 +269,5 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
-  },
-  "nutritionAssumptions": [
-    {
-      "id": "default-cooking-oil",
-      "kind": "cooking_oil",
-      "measure": {
-        "quantity": 1,
-        "unit": "tbsp"
-      },
-      "reason": "Steps imply cooking oil; included as a planning estimate."
-    }
-  ]
+  }
 }

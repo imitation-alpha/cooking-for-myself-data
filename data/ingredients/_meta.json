@@ -1,8 +1,8 @@
 {
   "name": "cooking-for-myself-data",
   "version": "0.1.0",
-  "generatedAt": "2026-05-17T01:26:28.139Z",
-  "sourceRunId": "bulk-2026-05-16-all90",
+  "generatedAt": "2026-05-22T00:00:00.000Z",
+  "sourceRunId": "global-520-expansion",
   "approvedAt": "2026-05-16",
   "canonicalLanguages": [
     "zhHant",
@@ -16,7 +16,7 @@
     "tl"
   ],
   "counts": {
-    "ingredients": 85,
+    "ingredients": 126,
     "meals": 88
   },
   "licenses": {
@@ -109,6 +109,47 @@
     "corn",
     "potato",
     "onion",
-    "basil"
+    "basil",
+    "pasta",
+    "flour",
+    "breadcrumbs",
+    "butter",
+    "milk",
+    "cream",
+    "cheese",
+    "parmesan",
+    "feta",
+    "yogurt",
+    "olive-oil",
+    "canned-tomato",
+    "mushroom",
+    "bell-pepper",
+    "zucchini",
+    "spinach",
+    "broccoli",
+    "cabbage",
+    "peas",
+    "ground-beef",
+    "lamb",
+    "sausage",
+    "bacon",
+    "turkey-mince",
+    "tuna",
+    "chickpeas",
+    "lentils",
+    "black-beans",
+    "kidney-beans",
+    "tortilla",
+    "flatbread",
+    "cilantro",
+    "lime",
+    "avocado",
+    "plantain",
+    "cassava",
+    "couscous",
+    "bulgur",
+    "harissa",
+    "tahini",
+    "mustard-sauce"
   ]
 }

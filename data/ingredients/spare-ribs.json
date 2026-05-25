@@ -51,41 +51,5 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
-  },
-  "nutrition": {
-    "estimate": true,
-    "rangePercent": {
-      "low": 0.9,
-      "high": 1.15
-    },
-    "form": "raw pork ribs",
-    "nutrientsPer100g": {
-      "kcal": 277,
-      "sodiumMg": 90
-    },
-    "unitWeights": [
-      {
-        "unit": "g",
-        "grams": 1,
-        "sourceRefId": "baseline-spare-ribs",
-        "note": "Mass measure."
-      }
-    ],
-    "sourceRefs": [
-      {
-        "id": "baseline-spare-ribs",
-        "sourceType": "other_reviewed",
-        "sourceName": "Cooking For Myself baseline nutrition estimate",
-        "sourceURL": "local://cooking-for-myself/nutrition-baseline-v1#spare-ribs",
-        "accessedAt": "2026-05-20",
-        "foodDescription": "Pork spare ribs, raw pork ribs baseline estimate",
-        "sourceNutrientsPer100g": {
-          "kcal": 277,
-          "sodiumMg": 90
-        }
-      }
-    ],
-    "confidence": "medium",
-    "reviewStatus": "needs_review"
   }
 }

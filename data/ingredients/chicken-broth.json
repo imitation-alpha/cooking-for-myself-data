@@ -49,47 +49,5 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
-  },
-  "nutrition": {
-    "estimate": true,
-    "rangePercent": {
-      "low": 0.9,
-      "high": 1.15
-    },
-    "form": "prepared broth",
-    "nutrientsPer100g": {
-      "kcal": 6,
-      "sodiumMg": 343
-    },
-    "unitWeights": [
-      {
-        "unit": "g",
-        "grams": 1,
-        "sourceRefId": "baseline-chicken-broth",
-        "note": "Mass measure."
-      },
-      {
-        "unit": "ml",
-        "grams": 1,
-        "sourceRefId": "baseline-chicken-broth",
-        "note": "Planning conversion estimate; verify against package size or source measure."
-      }
-    ],
-    "sourceRefs": [
-      {
-        "id": "baseline-chicken-broth",
-        "sourceType": "other_reviewed",
-        "sourceName": "Cooking For Myself baseline nutrition estimate",
-        "sourceURL": "local://cooking-for-myself/nutrition-baseline-v1#chicken-broth",
-        "accessedAt": "2026-05-20",
-        "foodDescription": "Chicken broth, prepared broth baseline estimate",
-        "sourceNutrientsPer100g": {
-          "kcal": 6,
-          "sodiumMg": 343
-        }
-      }
-    ],
-    "confidence": "low",
-    "reviewStatus": "needs_review"
   }
 }

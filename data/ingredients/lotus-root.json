@@ -49,41 +49,5 @@
     "reviewStatus": "reviewed",
     "generated": true,
     "generatedAt": "2026-05-17T01:24:05.164Z"
-  },
-  "nutrition": {
-    "estimate": true,
-    "rangePercent": {
-      "low": 0.9,
-      "high": 1.15
-    },
-    "form": "fresh raw",
-    "nutrientsPer100g": {
-      "kcal": 74,
-      "sodiumMg": 40
-    },
-    "unitWeights": [
-      {
-        "unit": "g",
-        "grams": 1,
-        "sourceRefId": "baseline-lotus-root",
-        "note": "Mass measure."
-      }
-    ],
-    "sourceRefs": [
-      {
-        "id": "baseline-lotus-root",
-        "sourceType": "other_reviewed",
-        "sourceName": "Cooking For Myself baseline nutrition estimate",
-        "sourceURL": "local://cooking-for-myself/nutrition-baseline-v1#lotus-root",
-        "accessedAt": "2026-05-20",
-        "foodDescription": "Lotus root, fresh raw baseline estimate",
-        "sourceNutrientsPer100g": {
-          "kcal": 74,
-          "sodiumMg": 40
-        }
-      }
-    ],
-    "confidence": "medium",
-    "reviewStatus": "needs_review"
   }
 }

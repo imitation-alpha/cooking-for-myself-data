@@ -1,0 +1,106 @@
+{
+  "id": "tortilla",
+  "status": "approved",
+  "names": {
+    "zhHant": "Tortillas",
+    "yue": "Tortillas",
+    "zhHans": null,
+    "en": "Tortillas",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "section": "dryGoods",
+  "aliases": [
+    "flour tortillas",
+    "corn tortillas"
+  ],
+  "storeNotes": {
+    "zhHant": "Tortillas is stocked in mainstream or international grocery stores; choose a plain, flexible version for weekly cooking.",
+    "yue": "Tortillas is stocked in mainstream or international grocery stores; choose a plain, flexible version for weekly cooking.",
+    "zhHans": null,
+    "en": "Tortillas is stocked in mainstream or international grocery stores; choose a plain, flexible version for weekly cooking.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "substitutions": {
+    "zhHant": "If Tortillas is unavailable, use a similar ingredient from the same grocery section and adjust cooking time.",
+    "yue": "If Tortillas is unavailable, use a similar ingredient from the same grocery section and adjust cooking time.",
+    "zhHans": null,
+    "en": "If Tortillas is unavailable, use a similar ingredient from the same grocery section and adjust cooking time.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "tags": [
+    "wheatGluten"
+  ],
+  "nutrition": {
+    "estimate": true,
+    "rangePercent": {
+      "low": 0.9,
+      "high": 1.15
+    },
+    "nutrientsPer100g": {
+      "kcal": 312,
+      "sodiumMg": 682
+    },
+    "unitWeights": [
+      {
+        "unit": "g",
+        "grams": 1
+      },
+      {
+        "unit": "tortilla",
+        "grams": 45
+      }
+    ],
+    "sourceRefs": [
+      {
+        "sourceType": "usda_fdc",
+        "sourceName": "USDA FoodData Central generic reference",
+        "sourceURL": "https://fdc.nal.usda.gov/",
+        "accessedAt": "2026-05-22",
+        "foodDescription": "Tortillas",
+        "sourceNutrientsPer100g": {
+          "kcal": 312,
+          "sodiumMg": 682
+        }
+      }
+    ],
+    "confidence": "medium",
+    "reviewStatus": "reviewed"
+  },
+  "images": [
+    {
+      "path": "assets/ingredients/tortilla.png",
+      "alt": "Generated ingredient image for Tortillas",
+      "contentStyle": "realistic_ingredient_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "CookingForMyself generated image catalog",
+      "sourceName": "CookingForMyself global 520 meal expansion",
+      "sourceURL": "local://cooking-for-myself-data/docs/global-meal-expansion-candidates.json#ingredient-tortilla",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself global 520 meal expansion",
+    "sourceURL": "local://cooking-for-myself-data/docs/global-meal-expansion-candidates.json#ingredient-tortilla",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself original generated catalog",
+    "reviewStatus": "approved",
+    "generated": true,
+    "generatedAt": "2026-05-22T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "id": "tomato-tofu-egg-soup",
+  "status": "approved",
+  "names": {
+    "zhHant": "番茄豆腐蛋花湯",
+    "yue": "番茄豆腐蛋花湯",
+    "zhHans": "番茄豆腐蛋花汤",
+    "en": "Tomato tofu egg drop soup",
+    "ja": "トマト豆腐卵スープ",
+    "ko": "토마토 두부 계란국",
+    "th": "ซุปมะเขือเทศเต้าหู้ไข่",
+    "vi": "Súp cà chua đậu hũ trứng",
+    "id": "Sup tomat tahu telur",
+    "tl": "Tomato tofu egg soup"
+  },
+  "summary": {
+    "zhHant": "番茄豆腐蛋花湯是一碗 25 分鐘內完成的清爽家常湯，用番茄的酸甜、雞湯的鮮味、滑豆腐和蛋花做出輕盈但有蛋白質的兩人份晚餐。",
+    "yue": "番茄豆腐蛋花湯係一碗 25 分鐘內完成嘅清爽家常湯，用番茄酸甜、雞湯鮮味、滑豆腐同蛋花做出輕盈但有蛋白質嘅兩人份晚餐。",
+    "zhHans": "番茄豆腐蛋花汤是一碗 25 分钟内完成的清爽家常汤，用番茄的酸甜、鸡汤的鲜味、滑豆腐和蛋花做出轻盈但有蛋白质的两人份晚餐。",
+    "en": "A light 25-minute home soup for two, built with sweet-tart tomato, savory chicken broth, soft tofu, and tender egg ribbons for gentle protein without heaviness.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "reason": {
+    "zhHant": "番茄讓湯底清甜帶酸，雞湯和少量生抽提供乾淨鹹鮮；滑豆腐和雞蛋補足溫和蛋白，薑和蔥提香，整體是 light soup 而不是濃重羹湯。",
+    "yue": "番茄令湯底清甜帶酸，雞湯同少量生抽提供乾淨鹹鮮；滑豆腐同雞蛋補足溫和蛋白，薑同蔥提香，整體係 light soup 而唔係濃重羹湯。",
+    "zhHans": "番茄让汤底清甜带酸，鸡汤和少量生抽提供干净咸鲜；滑豆腐和鸡蛋补足温和蛋白，姜和葱提香，整体是 light soup 而不是浓重羹汤。",
+    "en": "Tomato keeps the broth bright, chicken broth and a little light soy add clean savoriness, while soft tofu and egg bring gentle protein; ginger and scallion lift the soup without making it rich or heavy.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "timeMinutes": 25,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "tomato",
+      "amounts": {
+        "zhHant": "2 個中型",
+        "yue": "2 個中型",
+        "zhHans": "2 个中型",
+        "en": "2 medium tomatoes",
+        "ja": "中2個",
+        "ko": "중간 크기 2개",
+        "th": null,
+        "vi": null,
+        "id": "2 tomat sedang",
+        "tl": "2 katamtamang kamatis"
+      }
+    },
+    {
+      "ingredientId": "soft-tofu",
+      "amounts": {
+        "zhHant": "1 盒",
+        "yue": "1 盒",
+        "zhHans": "1 盒",
+        "en": "1 block",
+        "ja": "1丁",
+        "ko": "1모",
+        "th": null,
+        "vi": null,
+        "id": "1 blok",
+        "tl": "1 bloke"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "2 隻",
+        "yue": "2 隻",
+        "zhHans": "2 只",
+        "en": "2 eggs",
+        "ja": "2個",
+        "ko": "2개",
+        "th": null,
+        "vi": null,
+        "id": "2 butir",
+        "tl": "2 piraso"
+      }
+    },
+    {
+      "ingredientId": "chicken-broth",
+      "amounts": {
+        "zhHant": "700 毫升",
+        "yue": "700 毫升",
+        "zhHans": "700 毫升",
+        "en": "700 ml",
+        "ja": "700 ml",
+        "ko": "700 ml",
+        "th": null,
+        "vi": null,
+        "id": "700 ml",
+        "tl": "700 ml"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "yue": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "3 片",
+        "yue": "3 片",
+        "zhHans": "3 片",
+        "en": "3 slices",
+        "ja": "3枚",
+        "ko": "3쪽",
+        "th": null,
+        "vi": null,
+        "id": "3 iris",
+        "tl": "3 hiwa"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "2 茶匙",
+        "yue": "2 茶匙",
+        "zhHans": "2 茶匙",
+        "en": "2 tsp",
+        "ja": "小さじ2",
+        "ko": "2작은술",
+        "th": null,
+        "vi": null,
+        "id": "2 sdt",
+        "tl": "2 kutsarita"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy",
+    "egg",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "切番茄豆腐打蛋",
+        "yue": "切番茄豆腐打蛋",
+        "zhHans": "切番茄豆腐打蛋",
+        "en": "Prep tomatoes, tofu, eggs, and aromatics",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "番茄 2 個切成大塊；滑豆腐 1 盒倒走多餘水分後切成大粒。雞蛋 2 隻打散至蛋白蛋黃均勻。蔥 2 條分開蔥白和蔥綠切粒，薑 3 片拍鬆。",
+        "yue": "番茄 2 個切成大件；滑豆腐 1 盒倒走多餘水分後切成大粒。雞蛋 2 隻打散至蛋白蛋黃均勻。蔥 2 條分開蔥白同蔥綠切粒，薑 3 片拍鬆。",
+        "zhHans": "番茄 2 个切成大块；滑豆腐 1 盒倒走多余水分后切成大粒。鸡蛋 2 只打散至蛋白蛋黄均匀。葱 2 条分开葱白和葱绿切粒，姜 3 片拍松。",
+        "en": "Cut 2 tomatoes into large chunks; drain 1 block soft tofu and cut it into big pieces. Beat 2 eggs until the whites and yolks are even. Separate 2 scallions into whites and greens, slice them, and bruise 3 ginger slices.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "煮薑蔥清雞湯底",
+        "yue": "煮薑蔥清雞湯底",
+        "zhHans": "煮姜葱清鸡汤底",
+        "en": "Simmer ginger and scallion in broth",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "小鍋加入雞湯 700 毫升、薑片和蔥白，中火煮至微滾後轉小火 3 分鐘。湯面保持細泡即可，讓薑蔥香味慢慢進入湯底。",
+        "yue": "小鍋加入雞湯 700 毫升、薑片同蔥白，中火煮至微滾後轉小火 3 分鐘。湯面保持細泡即可，令薑蔥香味慢慢入湯底。",
+        "zhHans": "小锅加入鸡汤 700 毫升、姜片和葱白，中火煮至微滚后转小火 3 分钟。汤面保持细泡即可，让姜葱香味慢慢进入汤底。",
+        "en": "Add 700 ml chicken broth, the ginger, and scallion whites to a small pot. Bring to a gentle simmer over medium heat, then lower the heat for 3 minutes so the ginger and scallion flavor the broth without boiling hard.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "番茄煮出酸甜味",
+        "yue": "番茄煮出酸甜味",
+        "zhHans": "番茄煮出酸甜味",
+        "en": "Cook tomatoes into the light soup",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把番茄塊加入湯中，小火煮 5 至 6 分鐘，間中輕壓一兩塊番茄讓湯色變紅。番茄要出味但仍保留部分形狀，湯底保持清爽不要煮成濃醬。",
+        "yue": "將番茄件加入湯中，小火煮 5 至 6 分鐘，間中輕壓一兩件番茄令湯色變紅。番茄要出味但仍然保留部分形狀，湯底保持清爽唔好煮成濃醬。",
+        "zhHans": "把番茄块加入汤中，小火煮 5 至 6 分钟，间中轻压一两块番茄让汤色变红。番茄要出味但仍保留部分形状，汤底保持清爽不要煮成浓酱。",
+        "en": "Add the tomato chunks and simmer gently for 5-6 minutes, pressing one or two pieces so the broth turns red. The tomatoes should flavor the soup while still holding some shape; keep it clear and light rather than reducing it into a thick sauce.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "滑豆腐入湯暖透",
+        "yue": "滑豆腐入湯暖透",
+        "zhHans": "滑豆腐入汤暖透",
+        "en": "Warm the soft tofu gently",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把滑豆腐輕輕滑入湯中，保持小火 2 至 3 分鐘至暖透。加入生抽 2 茶匙調味，只用湯勺從邊緣輕推，避免豆腐碎散。",
+        "yue": "將滑豆腐輕輕滑入湯中，保持小火 2 至 3 分鐘至暖透。加入生抽 2 茶匙調味，只用湯勺從邊緣輕推，避免豆腐碎散。",
+        "zhHans": "把滑豆腐轻轻滑入汤中，保持小火 2 至 3 分钟至暖透。加入生抽 2 茶匙调味，只用汤勺从边缘轻推，避免豆腐碎散。",
+        "en": "Slide the soft tofu into the soup and keep it at a low simmer for 2-3 minutes until warmed through. Season with 2 tsp light soy sauce, nudging only from the edge with a ladle so the tofu does not break apart.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "落蛋花蔥綠完成",
+        "yue": "落蛋花蔥綠完成",
+        "zhHans": "落蛋花葱绿完成",
+        "en": "Set egg ribbons and finish with scallion",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "轉最小火，把蛋液沿湯面慢慢倒入，停 20 秒讓蛋花定型，再輕輕推開。分入兩個湯碗，撒上蔥綠；完成時應看見清湯、番茄、滑豆腐和柔軟蛋花分明。",
+        "yue": "轉最小火，將蛋液沿湯面慢慢倒入，停 20 秒令蛋花定型，再輕輕推開。分入兩個湯碗，灑上蔥綠；完成時應該見到清湯、番茄、滑豆腐同柔軟蛋花分明。",
+        "zhHans": "转最小火，把蛋液沿汤面慢慢倒入，停 20 秒让蛋花定型，再轻轻推开。分入两个汤碗，撒上葱绿；完成时应看见清汤、番茄、滑豆腐和柔软蛋花分明。",
+        "en": "Turn the heat to very low and slowly pour the beaten eggs across the soup surface. Pause for 20 seconds so ribbons form, then gently loosen them. Divide into two soup bowls and scatter scallion greens; the finished soup should show clear broth, tomato, soft tofu, and tender egg ribbons distinctly.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/tomato-tofu-egg-soup/cover-1.png",
+      "alt": "Generated meal cover image for tomato-tofu-egg-soup",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself generated image run",
+      "sourceURL": "local://cooking-for-myself/content/image-runs/codex-2026-05-18#tomato-tofu-egg-soup",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself single meal authoring",
+    "sourceURL": "local://cooking-for-myself/cooking-for-myself-data/data/meals/tomato-tofu-egg-soup.json",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "approved",
+    "generated": true,
+    "generatedAt": "2026-05-18T00:00:00.000Z"
+  }
+}
