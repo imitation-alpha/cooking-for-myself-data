@@ -1,0 +1,291 @@
+{
+  "id": "teriyaki-chicken-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "照燒雞飯",
+    "yue": "照燒雞飯",
+    "zhHans": "照烧鸡饭",
+    "en": "Teriyaki chicken rice",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "照燒雞飯 是一款亞洲飯碟，用 白米 1、去骨雞腿肉 320、照燒醬 3、青瓜半條、蔥 1 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "照燒雞飯 是一款亞洲飯碟，用 白米 1、去骨雞腿肉 320、照燒醬 3、青瓜半條、蔥 1 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "照烧鸡饭 是一款亞洲饭碟，用 白米 1、去骨鸡腿肉 320、照烧酱 3、青瓜半条、葱 1 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Teriyaki chicken rice is a review-first candidate meal built around rice, boneless chicken thigh, teriyaki sauce, 1/2 cucumber."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 25,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "白米 1 杯",
+        "yue": "白米 1 杯",
+        "zhHans": "白米 1 杯",
+        "en": "1 cup rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "cup"
+      }
+    },
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "去骨雞腿肉 320 克",
+        "yue": "去骨雞腿肉 320 克",
+        "zhHans": "去骨鸡腿肉 320 克",
+        "en": "320 g boneless chicken thigh",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 320,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "teriyaki-sauce",
+      "amounts": {
+        "zhHant": "照燒醬 3 湯匙",
+        "yue": "照燒醬 3 湯匙",
+        "zhHans": "照烧酱 3 汤匙",
+        "en": "3 tbsp teriyaki sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 3,
+        "unit": "tbsp"
+      }
+    },
+    {
+      "ingredientId": "cucumber",
+      "amounts": {
+        "zhHant": "青瓜半條",
+        "yue": "青瓜半條",
+        "zhHans": "青瓜半条",
+        "en": "1/2 cucumber",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 0.5,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "蔥 1 條",
+        "yue": "蔥 1 條",
+        "zhHans": "葱 1 条",
+        "en": "1 scallion",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "stalk"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理去骨雞腿肉和照燒醬（照燒雞飯）",
+        "yue": "先處理去骨雞腿肉和照燒醬（照燒雞飯）",
+        "zhHans": "先處理去骨鸡腿肉和照烧酱（照烧鸡饭）",
+        "en": "Prep boneless chicken thigh and teriyaki sauce (Teriyaki chicken rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把去骨雞腿肉抹乾或切成一口大小，照燒醬和青瓜分開放好；白米按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把去骨雞腿肉抹乾或切成一口大小，照燒醬和青瓜分開放好；白米按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把去骨鸡腿肉抹干或切成一口大小，照烧酱和青瓜分開放好；白米按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the boneless chicken thigh, keep the teriyaki sauce and cucumber separate, and get the rice ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "先煮白米（照燒雞飯）",
+        "yue": "先煮白米（照燒雞飯）",
+        "zhHans": "先煮白米（照烧鸡饭）",
+        "en": "Cook rice (Teriyaki chicken rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米先煮到可上碟的狀態並保溫；照燒雞飯完成時就能直接組合。 這一步看照燒醬和青瓜的狀態決定時間，讓照燒雞飯完成時口感清楚。",
+        "yue": "白米先煮到可上碟的狀態並保溫；照燒雞飯完成時就能直接組合。 這一步看照燒醬和青瓜的狀態決定時間，讓照燒雞飯完成時口感清楚。",
+        "zhHans": "白米先煮到可上碟的狀態並保溫；照烧鸡饭完成時就能直接組合。 这一步看照烧酱和青瓜的狀態決定時間，让照烧鸡饭完成時口感清楚。",
+        "en": "Cook rice until ready to serve and keep it warm so Teriyaki chicken rice can be assembled immediately. Check cucumber against scallion and keep the 25-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煎香去骨雞腿肉（照燒雞飯）",
+        "yue": "煎香去骨雞腿肉（照燒雞飯）",
+        "zhHans": "煎香去骨鸡腿肉（照烧鸡饭）",
+        "en": "Sear boneless chicken thigh (Teriyaki chicken rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "去骨雞腿肉抹乾後下鍋，表面上色才翻動；加入照燒醬時轉中火，避免外焦內生。",
+        "yue": "去骨雞腿肉抹乾後下鍋，表面上色才翻動；加入照燒醬時轉中火，避免外焦內生。",
+        "zhHans": "去骨鸡腿肉抹干后下锅，表面上色才翻動；加入照烧酱時转中火，避免外焦内生。",
+        "en": "Dry boneless chicken thigh, sear until colored before moving it, then add teriyaki sauce over medium heat for control.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "用照燒醬收味（照燒雞飯）",
+        "yue": "用照燒醬收味（照燒雞飯）",
+        "zhHans": "用照烧酱收味（照烧鸡饭）",
+        "en": "Finish with teriyaki sauce (Teriyaki chicken rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "同鍋加入照燒醬和青瓜，刮起鍋底香味，小火煮到可以薄薄掛在去骨雞腿肉上。",
+        "yue": "同鍋加入照燒醬和青瓜，刮起鍋底香味，小火煮到可以薄薄掛在去骨雞腿肉上。",
+        "zhHans": "同锅加入照烧酱和青瓜，刮起锅底香味，小火煮到可以薄薄掛在去骨鸡腿肉上。",
+        "en": "Add teriyaki sauce and cucumber to the same pan, scrape up browned bits, and simmer until it coats the boneless chicken thigh.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "排好照燒雞飯（照燒雞飯）",
+        "yue": "排好照燒雞飯（照燒雞飯）",
+        "zhHans": "排好照烧鸡饭（照烧鸡饭）",
+        "en": "Plate Teriyaki chicken rice (Teriyaki chicken rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米先放底，鋪上去骨雞腿肉和照燒醬，最後淋少量醬汁，保持份量清楚。 這一步看白米和去骨雞腿肉的狀態決定時間，讓照燒雞飯完成時口感清楚。",
+        "yue": "白米先放底，鋪上去骨雞腿肉和照燒醬，最後淋少量醬汁，保持份量清楚。 這一步看白米和去骨雞腿肉的狀態決定時間，讓照燒雞飯完成時口感清楚。",
+        "zhHans": "白米先放底，鋪上去骨鸡腿肉和照烧酱，最后淋少量酱汁，保持份量清楚。 这一步看白米和去骨鸡腿肉的狀態決定時間，让照烧鸡饭完成時口感清楚。",
+        "en": "Set down rice, add boneless chicken thigh and teriyaki sauce, then spoon over a little sauce for a tidy plate.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/teriyaki-chicken-rice/cover-1.png",
+      "alt": "Generated food photo of Teriyaki chicken rice",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#teriyaki-chicken-rice/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#teriyaki-chicken-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "lasagna-noodle",
+  "status": "approved",
+  "names": {
+    "zhHant": "千層麵片",
+    "yue": "千層麵片",
+    "zhHans": "千层面片",
+    "en": "Lasagna noodles",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "section": "dryGoods",
+  "aliases": [
+    "lasagne sheets"
+  ],
+  "storeNotes": {
+    "zhHant": "千層麵片 是這次 80 道候選菜式需要的補充食材，買餸時選擇份量清楚、狀態新鮮的版本。",
+    "yue": "千層麵片 是這次 80 道候選菜式需要的補充食材，買餸時選擇份量清楚、狀態新鮮的版本。",
+    "zhHans": "千层面片 是这次 80 道候選菜式需要的補充食材，買餸時選擇份量清楚、狀態新鲜的版本。",
+    "en": "Lasagna noodles was added as a reviewed supplemental ingredient for the 80-meal review batch."
+  },
+  "substitutions": {
+    "zhHant": "如買不到 千層麵片，可用同類食材代替，並按厚薄或鹹度調整烹調時間。",
+    "yue": "如買不到 千層麵片，可用同類食材代替，並按厚薄或鹹度調整烹調時間。",
+    "zhHans": "如買不到 千层面片，可用同類食材代替，並按厚薄或咸度调整烹调時間。",
+    "en": "If Lasagna noodles is unavailable, use a close ingredient from the same section and adjust cooking time or seasoning."
+  },
+  "tags": [
+    "wheatGluten"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/lasagna-noodle.png",
+      "alt": "Generated ingredient image for Lasagna noodles",
+      "contentStyle": "realistic_ingredient_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#ingredients/lasagna-noodle/image",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#ingredients/lasagna-noodle",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

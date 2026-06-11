@@ -1,0 +1,311 @@
+{
+  "id": "fish-and-chips-bowl",
+  "status": "approved",
+  "names": {
+    "zhHant": "魚柳薯條碗",
+    "yue": "魚柳薯條碗",
+    "zhHans": "鱼柳薯条碗",
+    "en": "Fish and chips bowl",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "魚柳薯條碗 是一款西式碟飯和主菜，用 白魚柳 300、薯仔 450、雞蛋 1、麵包糠 60、麵粉 40 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "魚柳薯條碗 是一款西式碟飯和主菜，用 白魚柳 300、薯仔 450、雞蛋 1、麵包糠 60、麵粉 40 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "鱼柳薯条碗 是一款西式碟饭和主菜，用 白鱼柳 300、薯仔 450、鸡蛋 1、面包糠 60、面粉 40 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Fish and chips bowl is a review-first candidate meal built around white fish fillet, potatoes, 1 egg, breadcrumbs."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 35,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "white-fish-fillet",
+      "amounts": {
+        "zhHant": "白魚柳 300 克",
+        "yue": "白魚柳 300 克",
+        "zhHans": "白鱼柳 300 克",
+        "en": "300 g white fish fillet",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 300,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "potato",
+      "amounts": {
+        "zhHant": "薯仔 450 克",
+        "yue": "薯仔 450 克",
+        "zhHans": "薯仔 450 克",
+        "en": "450 g potatoes",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 450,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "雞蛋 1 隻",
+        "yue": "雞蛋 1 隻",
+        "zhHans": "鸡蛋 1 只",
+        "en": "1 egg",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "breadcrumbs",
+      "amounts": {
+        "zhHant": "麵包糠 60 克",
+        "yue": "麵包糠 60 克",
+        "zhHans": "面包糠 60 克",
+        "en": "60 g breadcrumbs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 60,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "flour",
+      "amounts": {
+        "zhHant": "麵粉 40 克",
+        "yue": "麵粉 40 克",
+        "zhHans": "面粉 40 克",
+        "en": "40 g flour",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 40,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "lettuce",
+      "amounts": {
+        "zhHant": "生菜 2 杯",
+        "yue": "生菜 2 杯",
+        "zhHans": "生菜 2 杯",
+        "en": "2 cups lettuce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "cup"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "fish",
+    "egg",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理薯仔和雞蛋（魚柳薯條碗）",
+        "yue": "先處理薯仔和雞蛋（魚柳薯條碗）",
+        "zhHans": "先處理薯仔和鸡蛋（鱼柳薯条碗）",
+        "en": "Prep potatoes and egg (Fish and chips bowl)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把薯仔抹乾或切成一口大小，雞蛋和麵包糠分開放好；白魚柳按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把薯仔抹乾或切成一口大小，雞蛋和麵包糠分開放好；白魚柳按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把薯仔抹干或切成一口大小，鸡蛋和面包糠分開放好；白鱼柳按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the potatoes, keep the egg and breadcrumbs separate, and get the white fish fillet ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "先煮白魚柳（魚柳薯條碗）",
+        "yue": "先煮白魚柳（魚柳薯條碗）",
+        "zhHans": "先煮白鱼柳（鱼柳薯条碗）",
+        "en": "Cook white fish fillet (Fish and chips bowl)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白魚柳先煮到可上碟的狀態並保溫；魚柳薯條碗完成時就能直接組合。 這一步看雞蛋和麵包糠的狀態決定時間，讓魚柳薯條碗完成時口感清楚。",
+        "yue": "白魚柳先煮到可上碟的狀態並保溫；魚柳薯條碗完成時就能直接組合。 這一步看雞蛋和麵包糠的狀態決定時間，讓魚柳薯條碗完成時口感清楚。",
+        "zhHans": "白鱼柳先煮到可上碟的狀態並保溫；鱼柳薯条碗完成時就能直接組合。 这一步看鸡蛋和面包糠的狀態決定時間，让鱼柳薯条碗完成時口感清楚。",
+        "en": "Cook white fish fillet until ready to serve and keep it warm so Fish and chips bowl can be assembled immediately.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煎香薯仔（魚柳薯條碗）",
+        "yue": "煎香薯仔（魚柳薯條碗）",
+        "zhHans": "煎香薯仔（鱼柳薯条碗）",
+        "en": "Sear potatoes (Fish and chips bowl)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "薯仔抹乾後下鍋，表面上色才翻動；加入雞蛋時轉中火，避免外焦內生。 這一步看麵包糠和麵粉的狀態決定時間，讓魚柳薯條碗完成時口感清楚。",
+        "yue": "薯仔抹乾後下鍋，表面上色才翻動；加入雞蛋時轉中火，避免外焦內生。 這一步看麵包糠和麵粉的狀態決定時間，讓魚柳薯條碗完成時口感清楚。",
+        "zhHans": "薯仔抹干后下锅，表面上色才翻動；加入鸡蛋時转中火，避免外焦内生。 这一步看面包糠和面粉的狀態決定時間，让鱼柳薯条碗完成時口感清楚。",
+        "en": "Dry potatoes, sear until colored before moving it, then add egg over medium heat for control.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "用麵粉收味（魚柳薯條碗）",
+        "yue": "用麵粉收味（魚柳薯條碗）",
+        "zhHans": "用面粉收味（鱼柳薯条碗）",
+        "en": "Finish with flour (Fish and chips bowl)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "同鍋加入麵粉和麵包糠，刮起鍋底香味，小火煮到可以薄薄掛在薯仔上。 這一步看麵粉和生菜的狀態決定時間，讓魚柳薯條碗完成時口感清楚。",
+        "yue": "同鍋加入麵粉和麵包糠，刮起鍋底香味，小火煮到可以薄薄掛在薯仔上。 這一步看麵粉和生菜的狀態決定時間，讓魚柳薯條碗完成時口感清楚。",
+        "zhHans": "同锅加入面粉和面包糠，刮起锅底香味，小火煮到可以薄薄掛在薯仔上。 这一步看面粉和生菜的狀態決定時間，让鱼柳薯条碗完成時口感清楚。",
+        "en": "Add flour and breadcrumbs to the same pan, scrape up browned bits, and simmer until it coats the potatoes.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "排好魚柳薯條碗（魚柳薯條碗）",
+        "yue": "排好魚柳薯條碗（魚柳薯條碗）",
+        "zhHans": "排好鱼柳薯条碗（鱼柳薯条碗）",
+        "en": "Plate Fish and chips bowl (Fish and chips bowl)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白魚柳先放底，鋪上薯仔和雞蛋，最後淋少量醬汁，保持份量清楚。 這一步看生菜和白魚柳的狀態決定時間，讓魚柳薯條碗完成時口感清楚。",
+        "yue": "白魚柳先放底，鋪上薯仔和雞蛋，最後淋少量醬汁，保持份量清楚。 這一步看生菜和白魚柳的狀態決定時間，讓魚柳薯條碗完成時口感清楚。",
+        "zhHans": "白鱼柳先放底，鋪上薯仔和鸡蛋，最后淋少量酱汁，保持份量清楚。 这一步看生菜和白鱼柳的狀態決定時間，让鱼柳薯条碗完成時口感清楚。",
+        "en": "Set down white fish fillet, add potatoes and egg, then spoon over a little sauce for a tidy plate.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/fish-and-chips-bowl/cover-1.png",
+      "alt": "Generated food photo of Fish and chips bowl",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#fish-and-chips-bowl/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#fish-and-chips-bowl",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

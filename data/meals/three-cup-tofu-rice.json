@@ -1,0 +1,310 @@
+{
+  "id": "three-cup-tofu-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "三杯豆腐飯",
+    "yue": "三杯豆腐飯",
+    "zhHans": "三杯豆腐饭",
+    "en": "Three-cup tofu rice",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "三杯豆腐飯 是一款亞洲飯碟，用 白米 1、硬豆腐 300、三杯醬 3、羅勒 10、蒜頭 4 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "三杯豆腐飯 是一款亞洲飯碟，用 白米 1、硬豆腐 300、三杯醬 3、羅勒 10、蒜頭 4 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "三杯豆腐饭 是一款亞洲饭碟，用 白米 1、硬豆腐 300、三杯酱 3、羅勒 10、蒜頭 4 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Three-cup tofu rice is a review-first candidate meal built around rice, firm tofu, three-cup sauce, Thai basil."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 24,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "白米 1 杯",
+        "yue": "白米 1 杯",
+        "zhHans": "白米 1 杯",
+        "en": "1 cup rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "cup"
+      }
+    },
+    {
+      "ingredientId": "tofu",
+      "amounts": {
+        "zhHant": "硬豆腐 300 克",
+        "yue": "硬豆腐 300 克",
+        "zhHans": "硬豆腐 300 克",
+        "en": "300 g firm tofu",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 300,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "three-cup-sauce",
+      "amounts": {
+        "zhHant": "三杯醬 3 湯匙",
+        "yue": "三杯醬 3 湯匙",
+        "zhHans": "三杯酱 3 汤匙",
+        "en": "3 tbsp three-cup sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 3,
+        "unit": "tbsp"
+      }
+    },
+    {
+      "ingredientId": "thai-basil",
+      "amounts": {
+        "zhHant": "羅勒 10 克",
+        "yue": "羅勒 10 克",
+        "zhHans": "羅勒 10 克",
+        "en": "10 g Thai basil",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 10,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "蒜頭 4 瓣",
+        "yue": "蒜頭 4 瓣",
+        "zhHans": "蒜頭 4 瓣",
+        "en": "4 garlic cloves",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 4,
+        "unit": "clove"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "薑 5 片",
+        "yue": "薑 5 片",
+        "zhHans": "姜 5 片",
+        "en": "5 slices ginger",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 5,
+        "unit": "slice"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理硬豆腐和三杯醬（三杯豆腐飯）",
+        "yue": "先處理硬豆腐和三杯醬（三杯豆腐飯）",
+        "zhHans": "先處理硬豆腐和三杯酱（三杯豆腐饭）",
+        "en": "Prep firm tofu and three-cup sauce (Three-cup tofu rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把硬豆腐抹乾或切成一口大小，三杯醬和羅勒分開放好；白米按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把硬豆腐抹乾或切成一口大小，三杯醬和羅勒分開放好；白米按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把硬豆腐抹干或切成一口大小，三杯酱和羅勒分開放好；白米按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the firm tofu, keep the three-cup sauce and Thai basil separate, and get the rice ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "先煮白米（三杯豆腐飯）",
+        "yue": "先煮白米（三杯豆腐飯）",
+        "zhHans": "先煮白米（三杯豆腐饭）",
+        "en": "Cook rice (Three-cup tofu rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米先煮到可上碟的狀態並保溫；三杯豆腐飯完成時就能直接組合。 這一步看三杯醬和羅勒的狀態決定時間，讓三杯豆腐飯完成時口感清楚。",
+        "yue": "白米先煮到可上碟的狀態並保溫；三杯豆腐飯完成時就能直接組合。 這一步看三杯醬和羅勒的狀態決定時間，讓三杯豆腐飯完成時口感清楚。",
+        "zhHans": "白米先煮到可上碟的狀態並保溫；三杯豆腐饭完成時就能直接組合。 这一步看三杯酱和羅勒的狀態決定時間，让三杯豆腐饭完成時口感清楚。",
+        "en": "Cook rice until ready to serve and keep it warm so Three-cup tofu rice can be assembled immediately. Check Thai basil against garlic cloves and keep the 24-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煎香硬豆腐（三杯豆腐飯）",
+        "yue": "煎香硬豆腐（三杯豆腐飯）",
+        "zhHans": "煎香硬豆腐（三杯豆腐饭）",
+        "en": "Sear firm tofu (Three-cup tofu rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "硬豆腐抹乾後下鍋，表面上色才翻動；加入三杯醬時轉中火，避免外焦內生。 這一步看羅勒和蒜頭的狀態決定時間，讓三杯豆腐飯完成時口感清楚。",
+        "yue": "硬豆腐抹乾後下鍋，表面上色才翻動；加入三杯醬時轉中火，避免外焦內生。 這一步看羅勒和蒜頭的狀態決定時間，讓三杯豆腐飯完成時口感清楚。",
+        "zhHans": "硬豆腐抹干后下锅，表面上色才翻動；加入三杯酱時转中火，避免外焦内生。 这一步看羅勒和蒜頭的狀態決定時間，让三杯豆腐饭完成時口感清楚。",
+        "en": "Dry firm tofu, sear until colored before moving it, then add three-cup sauce over medium heat for control.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "用三杯醬收味（三杯豆腐飯）",
+        "yue": "用三杯醬收味（三杯豆腐飯）",
+        "zhHans": "用三杯酱收味（三杯豆腐饭）",
+        "en": "Finish with three-cup sauce (Three-cup tofu rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "同鍋加入三杯醬和羅勒，刮起鍋底香味，小火煮到可以薄薄掛在硬豆腐上。 這一步看蒜頭和薑的狀態決定時間，讓三杯豆腐飯完成時口感清楚。",
+        "yue": "同鍋加入三杯醬和羅勒，刮起鍋底香味，小火煮到可以薄薄掛在硬豆腐上。 這一步看蒜頭和薑的狀態決定時間，讓三杯豆腐飯完成時口感清楚。",
+        "zhHans": "同锅加入三杯酱和羅勒，刮起锅底香味，小火煮到可以薄薄掛在硬豆腐上。 这一步看蒜頭和姜的狀態決定時間，让三杯豆腐饭完成時口感清楚。",
+        "en": "Add three-cup sauce and Thai basil to the same pan, scrape up browned bits, and simmer until it coats the firm tofu.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "排好三杯豆腐飯（三杯豆腐飯）",
+        "yue": "排好三杯豆腐飯（三杯豆腐飯）",
+        "zhHans": "排好三杯豆腐饭（三杯豆腐饭）",
+        "en": "Plate Three-cup tofu rice (Three-cup tofu rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米先放底，鋪上硬豆腐和三杯醬，最後淋少量醬汁，保持份量清楚。 這一步看薑和白米的狀態決定時間，讓三杯豆腐飯完成時口感清楚。",
+        "yue": "白米先放底，鋪上硬豆腐和三杯醬，最後淋少量醬汁，保持份量清楚。 這一步看薑和白米的狀態決定時間，讓三杯豆腐飯完成時口感清楚。",
+        "zhHans": "白米先放底，鋪上硬豆腐和三杯酱，最后淋少量酱汁，保持份量清楚。 这一步看姜和白米的狀態決定時間，让三杯豆腐饭完成時口感清楚。",
+        "en": "Set down rice, add firm tofu and three-cup sauce, then spoon over a little sauce for a tidy plate.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/three-cup-tofu-rice/cover-1.png",
+      "alt": "Generated food photo of Three-cup tofu rice",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#three-cup-tofu-rice/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#three-cup-tofu-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

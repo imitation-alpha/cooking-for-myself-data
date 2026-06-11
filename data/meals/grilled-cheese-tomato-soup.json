@@ -1,0 +1,329 @@
+{
+  "id": "grilled-cheese-tomato-soup",
+  "status": "approved",
+  "names": {
+    "zhHant": "烤芝士三文治配番茄湯",
+    "yue": "烤芝士三文治配番茄湯",
+    "zhHans": "烤芝士三文治配番茄汤",
+    "en": "Grilled cheese sandwich with tomato soup",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "烤芝士三文治配番茄湯 是一款三文治漢堡卷，用 方包 4、芝士 4、牛油 30、番茄 3、洋蔥半個 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "烤芝士三文治配番茄湯 是一款三文治漢堡卷，用 方包 4、芝士 4、牛油 30、番茄 3、洋蔥半個 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "烤芝士三文治配番茄汤 是一款三文治汉堡卷，用 方包 4、芝士 4、牛油 30、番茄 3、洋葱半个 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Grilled cheese sandwich with tomato soup is a review-first candidate meal built around bread, cheese, butter, 3 tomatoes."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 25,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "bread",
+      "amounts": {
+        "zhHant": "方包 4 片",
+        "yue": "方包 4 片",
+        "zhHans": "方包 4 片",
+        "en": "4 slices bread",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 4,
+        "unit": "slice"
+      }
+    },
+    {
+      "ingredientId": "cheese",
+      "amounts": {
+        "zhHant": "芝士 4 片",
+        "yue": "芝士 4 片",
+        "zhHans": "芝士 4 片",
+        "en": "4 slices cheese",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 4,
+        "unit": "slice"
+      }
+    },
+    {
+      "ingredientId": "butter",
+      "amounts": {
+        "zhHant": "牛油 30 克",
+        "yue": "牛油 30 克",
+        "zhHans": "牛油 30 克",
+        "en": "30 g butter",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 30,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "tomato",
+      "amounts": {
+        "zhHant": "番茄 3 個",
+        "yue": "番茄 3 個",
+        "zhHans": "番茄 3 个",
+        "en": "3 tomatoes",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 3,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "onion",
+      "amounts": {
+        "zhHant": "洋蔥半個",
+        "yue": "洋蔥半個",
+        "zhHans": "洋葱半个",
+        "en": "1/2 onion",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 0.5,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "蒜頭 1 瓣",
+        "yue": "蒜頭 1 瓣",
+        "zhHans": "蒜頭 1 瓣",
+        "en": "1 garlic clove",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "clove"
+      }
+    },
+    {
+      "ingredientId": "cream",
+      "amounts": {
+        "zhHant": "忌廉 50 毫升",
+        "yue": "忌廉 50 毫升",
+        "zhHans": "忌廉 50 毫升",
+        "en": "50 ml cream",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 50,
+        "unit": "ml"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "dairy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理芝士和牛油（烤芝士三文治配番茄湯）",
+        "yue": "先處理芝士和牛油（烤芝士三文治配番茄湯）",
+        "zhHans": "先處理芝士和牛油（烤芝士三文治配番茄汤）",
+        "en": "Prep cheese and butter (Grilled cheese sandwich with tomato soup)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把芝士抹乾或切成一口大小，牛油和番茄分開放好；方包按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把芝士抹乾或切成一口大小，牛油和番茄分開放好；方包按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把芝士抹干或切成一口大小，牛油和番茄分開放好；方包按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the cheese, keep the butter and tomatoes separate, and get the bread ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "煎好芝士（烤芝士三文治配番茄湯）",
+        "yue": "煎好芝士（烤芝士三文治配番茄湯）",
+        "zhHans": "煎好芝士（烤芝士三文治配番茄汤）",
+        "en": "Cook cheese (Grilled cheese sandwich with tomato soup)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "芝士先調味後煎至熟透，靜置兩分鐘才切或夾入，肉汁不會把方包浸濕。 這一步看牛油和番茄的狀態決定時間，讓烤芝士三文治配番茄湯完成時口感清楚。",
+        "yue": "芝士先調味後煎至熟透，靜置兩分鐘才切或夾入，肉汁不會把方包浸濕。 這一步看牛油和番茄的狀態決定時間，讓烤芝士三文治配番茄湯完成時口感清楚。",
+        "zhHans": "芝士先调味后煎至熟透，靜置兩分钟才切或夾入，肉汁不会把方包浸湿。 这一步看牛油和番茄的狀態決定時間，让烤芝士三文治配番茄汤完成時口感清楚。",
+        "en": "Season and cook cheese through, then rest for two minutes before slicing or filling so the bread stays dry.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "整理牛油配菜（烤芝士三文治配番茄湯）",
+        "yue": "整理牛油配菜（烤芝士三文治配番茄湯）",
+        "zhHans": "整理牛油配菜（烤芝士三文治配番茄汤）",
+        "en": "Ready butter (Grilled cheese sandwich with tomato soup)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "牛油、番茄和洋蔥切好後抹乾，烤芝士三文治配番茄湯入口會爽口而不鬆散。 這一步看番茄和洋蔥的狀態決定時間，讓烤芝士三文治配番茄湯完成時口感清楚。",
+        "yue": "牛油、番茄和洋蔥切好後抹乾，烤芝士三文治配番茄湯入口會爽口而不鬆散。 這一步看番茄和洋蔥的狀態決定時間，讓烤芝士三文治配番茄湯完成時口感清楚。",
+        "zhHans": "牛油、番茄和洋葱切好后抹干，烤芝士三文治配番茄汤入口会爽口而不松散。 这一步看番茄和洋葱的狀態決定時間，让烤芝士三文治配番茄汤完成時口感清楚。",
+        "en": "Cut and dry butter, tomatoes, and onion so Grilled cheese sandwich with tomato soup stays crisp and holds together.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "烘熱方包（烤芝士三文治配番茄湯）",
+        "yue": "烘熱方包（烤芝士三文治配番茄湯）",
+        "zhHans": "烘热方包（烤芝士三文治配番茄汤）",
+        "en": "Toast bread (Grilled cheese sandwich with tomato soup)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "方包用乾鍋烘至微脆，再抹上芝士；熱餡料放上去也不會太快變軟。 這一步看洋蔥和蒜頭的狀態決定時間，讓烤芝士三文治配番茄湯完成時口感清楚。",
+        "yue": "方包用乾鍋烘至微脆，再抹上芝士；熱餡料放上去也不會太快變軟。 這一步看洋蔥和蒜頭的狀態決定時間，讓烤芝士三文治配番茄湯完成時口感清楚。",
+        "zhHans": "方包用干锅烘至微脆，再抹上芝士；热餡料放上去也不会太快變软。 这一步看洋葱和蒜頭的狀態決定時間，让烤芝士三文治配番茄汤完成時口感清楚。",
+        "en": "Toast the bread until lightly crisp, then spread cheese so hot filling does not soften it too quickly. Check bread against cheese and keep the 25-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "夾緊上桌（烤芝士三文治配番茄湯）",
+        "yue": "夾緊上桌（烤芝士三文治配番茄湯）",
+        "zhHans": "夾緊上桌（烤芝士三文治配番茄汤）",
+        "en": "Assemble firmly (Grilled cheese sandwich with tomato soup)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "按方包、芝士、配菜的次序組合，卷緊或合上後切半，趁外層仍暖時食用。 這一步看蒜頭和忌廉的狀態決定時間，讓烤芝士三文治配番茄湯完成時口感清楚。",
+        "yue": "按方包、芝士、配菜的次序組合，卷緊或合上後切半，趁外層仍暖時食用。 這一步看蒜頭和忌廉的狀態決定時間，讓烤芝士三文治配番茄湯完成時口感清楚。",
+        "zhHans": "按方包、芝士、配菜的次序組合，卷緊或合上后切半，趁外层仍暖時食用。 这一步看蒜頭和忌廉的狀態決定時間，让烤芝士三文治配番茄汤完成時口感清楚。",
+        "en": "Layer bread, cheese, and vegetables in order, close or roll firmly, halve, and serve while warm.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/grilled-cheese-tomato-soup/cover-1.png",
+      "alt": "Generated food photo of Grilled cheese sandwich with tomato soup",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#grilled-cheese-tomato-soup/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#grilled-cheese-tomato-soup",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

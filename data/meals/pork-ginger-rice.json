@@ -1,0 +1,311 @@
+{
+  "id": "pork-ginger-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "豬肉生薑燒飯",
+    "yue": "豬肉生薑燒飯",
+    "zhHans": "猪肉生姜烧饭",
+    "en": "Pork ginger rice",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "豬肉生薑燒飯 是一款亞洲飯碟，用 白米 1、薄切豬肉 260、薑蓉 2、洋蔥半個、生抽 2 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "豬肉生薑燒飯 是一款亞洲飯碟，用 白米 1、薄切豬肉 260、薑蓉 2、洋蔥半個、生抽 2 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "猪肉生姜烧饭 是一款亞洲饭碟，用 白米 1、薄切猪肉 260、姜蓉 2、洋葱半个、生抽 2 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Pork ginger rice is a review-first candidate meal built around rice, thin-sliced pork, grated ginger, 1/2 onion."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 20,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "白米 1 杯",
+        "yue": "白米 1 杯",
+        "zhHans": "白米 1 杯",
+        "en": "1 cup rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "cup"
+      }
+    },
+    {
+      "ingredientId": "pork-shoulder",
+      "amounts": {
+        "zhHant": "薄切豬肉 260 克",
+        "yue": "薄切豬肉 260 克",
+        "zhHans": "薄切猪肉 260 克",
+        "en": "260 g thin-sliced pork",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 260,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "薑蓉 2 茶匙",
+        "yue": "薑蓉 2 茶匙",
+        "zhHans": "姜蓉 2 茶匙",
+        "en": "2 tsp grated ginger",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "tsp"
+      }
+    },
+    {
+      "ingredientId": "onion",
+      "amounts": {
+        "zhHant": "洋蔥半個",
+        "yue": "洋蔥半個",
+        "zhHans": "洋葱半个",
+        "en": "1/2 onion",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 0.5,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "生抽 2 湯匙",
+        "yue": "生抽 2 湯匙",
+        "zhHans": "生抽 2 汤匙",
+        "en": "2 tbsp light soy sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "tbsp"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "蔥 1 條",
+        "yue": "蔥 1 條",
+        "zhHans": "葱 1 条",
+        "en": "1 scallion",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "stalk"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "pork",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理薄切豬肉和薑蓉（豬肉生薑燒飯）",
+        "yue": "先處理薄切豬肉和薑蓉（豬肉生薑燒飯）",
+        "zhHans": "先處理薄切猪肉和姜蓉（猪肉生姜烧饭）",
+        "en": "Prep thin-sliced pork and grated ginger (Pork ginger rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把薄切豬肉抹乾或切成一口大小，薑蓉和洋蔥分開放好；白米按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把薄切豬肉抹乾或切成一口大小，薑蓉和洋蔥分開放好；白米按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把薄切猪肉抹干或切成一口大小，姜蓉和洋葱分開放好；白米按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the thin-sliced pork, keep the grated ginger and onion separate, and get the rice ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "先煮白米（豬肉生薑燒飯）",
+        "yue": "先煮白米（豬肉生薑燒飯）",
+        "zhHans": "先煮白米（猪肉生姜烧饭）",
+        "en": "Cook rice (Pork ginger rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米先煮到可上碟的狀態並保溫；豬肉生薑燒飯完成時就能直接組合。 這一步看薑蓉和洋蔥的狀態決定時間，讓豬肉生薑燒飯完成時口感清楚。",
+        "yue": "白米先煮到可上碟的狀態並保溫；豬肉生薑燒飯完成時就能直接組合。 這一步看薑蓉和洋蔥的狀態決定時間，讓豬肉生薑燒飯完成時口感清楚。",
+        "zhHans": "白米先煮到可上碟的狀態並保溫；猪肉生姜烧饭完成時就能直接組合。 这一步看姜蓉和洋葱的狀態決定時間，让猪肉生姜烧饭完成時口感清楚。",
+        "en": "Cook rice until ready to serve and keep it warm so Pork ginger rice can be assembled immediately. Check light soy sauce against scallion and keep the 20-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煎香薄切豬肉（豬肉生薑燒飯）",
+        "yue": "煎香薄切豬肉（豬肉生薑燒飯）",
+        "zhHans": "煎香薄切猪肉（猪肉生姜烧饭）",
+        "en": "Sear thin-sliced pork (Pork ginger rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "薄切豬肉抹乾後下鍋，表面上色才翻動；加入薑蓉時轉中火，避免外焦內生。 這一步看洋蔥和生抽的狀態決定時間，讓豬肉生薑燒飯完成時口感清楚。",
+        "yue": "薄切豬肉抹乾後下鍋，表面上色才翻動；加入薑蓉時轉中火，避免外焦內生。 這一步看洋蔥和生抽的狀態決定時間，讓豬肉生薑燒飯完成時口感清楚。",
+        "zhHans": "薄切猪肉抹干后下锅，表面上色才翻動；加入姜蓉時转中火，避免外焦内生。 这一步看洋葱和生抽的狀態決定時間，让猪肉生姜烧饭完成時口感清楚。",
+        "en": "Dry thin-sliced pork, sear until colored before moving it, then add grated ginger over medium heat for control.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "用生抽收味（豬肉生薑燒飯）",
+        "yue": "用生抽收味（豬肉生薑燒飯）",
+        "zhHans": "用生抽收味（猪肉生姜烧饭）",
+        "en": "Finish with light soy sauce (Pork ginger rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "同鍋加入生抽和洋蔥，刮起鍋底香味，小火煮到可以薄薄掛在薄切豬肉上。 這一步看生抽和蔥的狀態決定時間，讓豬肉生薑燒飯完成時口感清楚。",
+        "yue": "同鍋加入生抽和洋蔥，刮起鍋底香味，小火煮到可以薄薄掛在薄切豬肉上。 這一步看生抽和蔥的狀態決定時間，讓豬肉生薑燒飯完成時口感清楚。",
+        "zhHans": "同锅加入生抽和洋葱，刮起锅底香味，小火煮到可以薄薄掛在薄切猪肉上。 这一步看生抽和葱的狀態決定時間，让猪肉生姜烧饭完成時口感清楚。",
+        "en": "Add light soy sauce and onion to the same pan, scrape up browned bits, and simmer until it coats the thin-sliced pork.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "排好豬肉生薑燒飯（豬肉生薑燒飯）",
+        "yue": "排好豬肉生薑燒飯（豬肉生薑燒飯）",
+        "zhHans": "排好猪肉生姜烧饭（猪肉生姜烧饭）",
+        "en": "Plate Pork ginger rice (Pork ginger rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米先放底，鋪上薄切豬肉和薑蓉，最後淋少量醬汁，保持份量清楚。 這一步看蔥和白米的狀態決定時間，讓豬肉生薑燒飯完成時口感清楚。",
+        "yue": "白米先放底，鋪上薄切豬肉和薑蓉，最後淋少量醬汁，保持份量清楚。 這一步看蔥和白米的狀態決定時間，讓豬肉生薑燒飯完成時口感清楚。",
+        "zhHans": "白米先放底，鋪上薄切猪肉和姜蓉，最后淋少量酱汁，保持份量清楚。 这一步看葱和白米的狀態決定時間，让猪肉生姜烧饭完成時口感清楚。",
+        "en": "Set down rice, add thin-sliced pork and grated ginger, then spoon over a little sauce for a tidy plate.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/pork-ginger-rice/cover-1.png",
+      "alt": "Generated food photo of Pork ginger rice",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#pork-ginger-rice/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#pork-ginger-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

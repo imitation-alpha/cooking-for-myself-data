@@ -1,0 +1,350 @@
+{
+  "id": "nasi-lemak",
+  "status": "approved",
+  "names": {
+    "zhHant": "馬來椰漿飯",
+    "yue": "馬來椰漿飯",
+    "zhHans": "马來椰浆饭",
+    "en": "Nasi lemak",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "馬來椰漿飯 是一款亞洲飯碟，用 白米 1、椰奶 200、去骨雞腿肉 300、雞蛋 2、青瓜半條 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "馬來椰漿飯 是一款亞洲飯碟，用 白米 1、椰奶 200、去骨雞腿肉 300、雞蛋 2、青瓜半條 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "马來椰浆饭 是一款亞洲饭碟，用 白米 1、椰奶 200、去骨鸡腿肉 300、鸡蛋 2、青瓜半条 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Nasi lemak is a review-first candidate meal built around rice, coconut milk, boneless chicken thigh, 2 eggs."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 42,
+  "difficulty": "需時",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "白米 1 杯",
+        "yue": "白米 1 杯",
+        "zhHans": "白米 1 杯",
+        "en": "1 cup rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "cup"
+      }
+    },
+    {
+      "ingredientId": "coconut-milk",
+      "amounts": {
+        "zhHant": "椰奶 200 毫升",
+        "yue": "椰奶 200 毫升",
+        "zhHans": "椰奶 200 毫升",
+        "en": "200 ml coconut milk",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 200,
+        "unit": "ml"
+      }
+    },
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "去骨雞腿肉 300 克",
+        "yue": "去骨雞腿肉 300 克",
+        "zhHans": "去骨鸡腿肉 300 克",
+        "en": "300 g boneless chicken thigh",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 300,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "雞蛋 2 隻",
+        "yue": "雞蛋 2 隻",
+        "zhHans": "鸡蛋 2 只",
+        "en": "2 eggs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "cucumber",
+      "amounts": {
+        "zhHant": "青瓜半條",
+        "yue": "青瓜半條",
+        "zhHans": "青瓜半条",
+        "en": "1/2 cucumber",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 0.5,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "peanut",
+      "amounts": {
+        "zhHant": "花生 40 克",
+        "yue": "花生 40 克",
+        "zhHans": "花生 40 克",
+        "en": "40 g peanuts",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 40,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "dried-shrimp",
+      "amounts": {
+        "zhHant": "蝦米 25 克",
+        "yue": "蝦米 25 克",
+        "zhHans": "虾米 25 克",
+        "en": "25 g dried shrimp",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 25,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "gochujang",
+      "amounts": {
+        "zhHant": "辣醬 1 湯匙",
+        "yue": "辣醬 1 湯匙",
+        "zhHans": "辣酱 1 汤匙",
+        "en": "1 tbsp chili paste",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "tbsp"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "egg",
+    "peanut",
+    "shellfish",
+    "spicy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理椰奶和去骨雞腿肉（馬來椰漿飯）",
+        "yue": "先處理椰奶和去骨雞腿肉（馬來椰漿飯）",
+        "zhHans": "先處理椰奶和去骨鸡腿肉（马來椰浆饭）",
+        "en": "Prep coconut milk and boneless chicken thigh (Nasi lemak)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把椰奶抹乾或切成一口大小，去骨雞腿肉和雞蛋分開放好；白米按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把椰奶抹乾或切成一口大小，去骨雞腿肉和雞蛋分開放好；白米按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把椰奶抹干或切成一口大小，去骨鸡腿肉和鸡蛋分開放好；白米按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the coconut milk, keep the boneless chicken thigh and eggs separate, and get the rice ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "先煮白米（馬來椰漿飯）",
+        "yue": "先煮白米（馬來椰漿飯）",
+        "zhHans": "先煮白米（马來椰浆饭）",
+        "en": "Cook rice (Nasi lemak)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米先煮到可上碟的狀態並保溫；馬來椰漿飯完成時就能直接組合。 這一步看去骨雞腿肉和雞蛋的狀態決定時間，讓馬來椰漿飯完成時口感清楚。",
+        "yue": "白米先煮到可上碟的狀態並保溫；馬來椰漿飯完成時就能直接組合。 這一步看去骨雞腿肉和雞蛋的狀態決定時間，讓馬來椰漿飯完成時口感清楚。",
+        "zhHans": "白米先煮到可上碟的狀態並保溫；马來椰浆饭完成時就能直接組合。 这一步看去骨鸡腿肉和鸡蛋的狀態決定時間，让马來椰浆饭完成時口感清楚。",
+        "en": "Cook rice until ready to serve and keep it warm so Nasi lemak can be assembled immediately. Check eggs against cucumber and keep the 42-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煎香椰奶（馬來椰漿飯）",
+        "yue": "煎香椰奶（馬來椰漿飯）",
+        "zhHans": "煎香椰奶（马來椰浆饭）",
+        "en": "Sear coconut milk (Nasi lemak)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "椰奶抹乾後下鍋，表面上色才翻動；加入去骨雞腿肉時轉中火，避免外焦內生。",
+        "yue": "椰奶抹乾後下鍋，表面上色才翻動；加入去骨雞腿肉時轉中火，避免外焦內生。",
+        "zhHans": "椰奶抹干后下锅，表面上色才翻動；加入去骨鸡腿肉時转中火，避免外焦内生。",
+        "en": "Dry coconut milk, sear until colored before moving it, then add boneless chicken thigh over medium heat for control.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "用辣醬收味（馬來椰漿飯）",
+        "yue": "用辣醬收味（馬來椰漿飯）",
+        "zhHans": "用辣酱收味（马來椰浆饭）",
+        "en": "Finish with cucumber (Nasi lemak)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "同鍋加入辣醬和雞蛋，刮起鍋底香味，小火煮到可以薄薄掛在椰奶上。 這一步看青瓜和花生的狀態決定時間，讓馬來椰漿飯完成時口感清楚。",
+        "yue": "同鍋加入辣醬和雞蛋，刮起鍋底香味，小火煮到可以薄薄掛在椰奶上。 這一步看青瓜和花生的狀態決定時間，讓馬來椰漿飯完成時口感清楚。",
+        "zhHans": "同锅加入辣酱和鸡蛋，刮起锅底香味，小火煮到可以薄薄掛在椰奶上。 这一步看青瓜和花生的狀態決定時間，让马來椰浆饭完成時口感清楚。",
+        "en": "Add cucumber and eggs to the same pan, scrape up browned bits, and simmer until it coats the coconut milk.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "排好馬來椰漿飯（馬來椰漿飯）",
+        "yue": "排好馬來椰漿飯（馬來椰漿飯）",
+        "zhHans": "排好马來椰浆饭（马來椰浆饭）",
+        "en": "Plate Nasi lemak (Nasi lemak)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米先放底，鋪上椰奶和去骨雞腿肉，最後淋少量醬汁，保持份量清楚。 這一步看花生和蝦米的狀態決定時間，讓馬來椰漿飯完成時口感清楚。",
+        "yue": "白米先放底，鋪上椰奶和去骨雞腿肉，最後淋少量醬汁，保持份量清楚。 這一步看花生和蝦米的狀態決定時間，讓馬來椰漿飯完成時口感清楚。",
+        "zhHans": "白米先放底，鋪上椰奶和去骨鸡腿肉，最后淋少量酱汁，保持份量清楚。 这一步看花生和虾米的狀態決定時間，让马來椰浆饭完成時口感清楚。",
+        "en": "Set down rice, add coconut milk and boneless chicken thigh, then spoon over a little sauce for a tidy plate.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/nasi-lemak/cover-1.png",
+      "alt": "Generated food photo of Nasi lemak",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#nasi-lemak/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#nasi-lemak",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

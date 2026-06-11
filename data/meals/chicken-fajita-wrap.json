@@ -1,0 +1,309 @@
+{
+  "id": "chicken-fajita-wrap",
+  "status": "approved",
+  "names": {
+    "zhHant": "雞肉法士達卷",
+    "yue": "雞肉法士達卷",
+    "zhHans": "鸡肉法士達卷",
+    "en": "Chicken fajita wrap",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "雞肉法士達卷 是一款三文治漢堡卷，用 墨西哥薄餅 2、雞腿扒 1、甜椒 1、洋蔥半個、牛油果半個 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "雞肉法士達卷 是一款三文治漢堡卷，用 墨西哥薄餅 2、雞腿扒 1、甜椒 1、洋蔥半個、牛油果半個 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "鸡肉法士達卷 是一款三文治汉堡卷，用 墨西哥薄饼 2、鸡腿扒 1、甜椒 1、洋葱半个、牛油果半个 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Chicken fajita wrap is a review-first candidate meal built around 2 tortillas, 1 chicken thigh, 1 bell pepper, 1/2 onion."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 25,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "tortilla",
+      "amounts": {
+        "zhHant": "墨西哥薄餅 2 張",
+        "yue": "墨西哥薄餅 2 張",
+        "zhHans": "墨西哥薄饼 2 张",
+        "en": "2 tortillas",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "雞腿扒 1 塊",
+        "yue": "雞腿扒 1 塊",
+        "zhHans": "鸡腿扒 1 块",
+        "en": "1 chicken thigh",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "bell-pepper",
+      "amounts": {
+        "zhHant": "甜椒 1 個",
+        "yue": "甜椒 1 個",
+        "zhHans": "甜椒 1 个",
+        "en": "1 bell pepper",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "onion",
+      "amounts": {
+        "zhHant": "洋蔥半個",
+        "yue": "洋蔥半個",
+        "zhHans": "洋葱半个",
+        "en": "1/2 onion",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 0.5,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "avocado",
+      "amounts": {
+        "zhHant": "牛油果半個",
+        "yue": "牛油果半個",
+        "zhHans": "牛油果半个",
+        "en": "1/2 avocado",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 0.5,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "lime",
+      "amounts": {
+        "zhHant": "青檸半個",
+        "yue": "青檸半個",
+        "zhHans": "青柠半个",
+        "en": "1/2 lime",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 0.5,
+        "unit": "piece"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理雞腿扒和甜椒（雞肉法士達卷）",
+        "yue": "先處理雞腿扒和甜椒（雞肉法士達卷）",
+        "zhHans": "先處理鸡腿扒和甜椒（鸡肉法士達卷）",
+        "en": "Prep chicken thigh and bell pepper (Chicken fajita wrap)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把雞腿扒抹乾或切成一口大小，甜椒和洋蔥分開放好；墨西哥薄餅按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把雞腿扒抹乾或切成一口大小，甜椒和洋蔥分開放好；墨西哥薄餅按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把鸡腿扒抹干或切成一口大小，甜椒和洋葱分開放好；墨西哥薄饼按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the chicken thigh, keep the bell pepper and onion separate, and get the tortillas ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "煎好雞腿扒（雞肉法士達卷）",
+        "yue": "煎好雞腿扒（雞肉法士達卷）",
+        "zhHans": "煎好鸡腿扒（鸡肉法士達卷）",
+        "en": "Cook chicken thigh (Chicken fajita wrap)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "雞腿扒先調味後煎至熟透，靜置兩分鐘才切或夾入，肉汁不會把墨西哥薄餅浸濕。 補充檢查青檸和墨西哥薄餅，並按25分鐘節奏控制火候。",
+        "yue": "雞腿扒先調味後煎至熟透，靜置兩分鐘才切或夾入，肉汁不會把墨西哥薄餅浸濕。 補充檢查青檸和墨西哥薄餅，並按25分鐘節奏控制火候。",
+        "zhHans": "鸡腿扒先调味后煎至熟透，靜置兩分钟才切或夾入，肉汁不会把墨西哥薄饼浸湿。 補充檢查青柠和墨西哥薄饼，並按25分钟節奏控制火候。",
+        "en": "Season and cook chicken thigh through, then rest for two minutes before slicing or filling so the tortillas stays dry. Check lime against tortillas and keep the 25-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "整理甜椒配菜（雞肉法士達卷）",
+        "yue": "整理甜椒配菜（雞肉法士達卷）",
+        "zhHans": "整理甜椒配菜（鸡肉法士達卷）",
+        "en": "Ready bell pepper (Chicken fajita wrap)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "甜椒、洋蔥和牛油果切好後抹乾，雞肉法士達卷入口會爽口而不鬆散。 這一步看洋蔥和牛油果的狀態決定時間，讓雞肉法士達卷完成時口感清楚。",
+        "yue": "甜椒、洋蔥和牛油果切好後抹乾，雞肉法士達卷入口會爽口而不鬆散。 這一步看洋蔥和牛油果的狀態決定時間，讓雞肉法士達卷完成時口感清楚。",
+        "zhHans": "甜椒、洋葱和牛油果切好后抹干，鸡肉法士達卷入口会爽口而不松散。 这一步看洋葱和牛油果的狀態決定時間，让鸡肉法士達卷完成時口感清楚。",
+        "en": "Cut and dry bell pepper, onion, and avocado so Chicken fajita wrap stays crisp and holds together.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "烘熱墨西哥薄餅（雞肉法士達卷）",
+        "yue": "烘熱墨西哥薄餅（雞肉法士達卷）",
+        "zhHans": "烘热墨西哥薄饼（鸡肉法士達卷）",
+        "en": "Toast tortillas (Chicken fajita wrap)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "墨西哥薄餅用乾鍋烘至微脆，再抹上牛油果；熱餡料放上去也不會太快變軟。 這一步看牛油果和青檸的狀態決定時間，讓雞肉法士達卷完成時口感清楚。",
+        "yue": "墨西哥薄餅用乾鍋烘至微脆，再抹上牛油果；熱餡料放上去也不會太快變軟。 這一步看牛油果和青檸的狀態決定時間，讓雞肉法士達卷完成時口感清楚。",
+        "zhHans": "墨西哥薄饼用干锅烘至微脆，再抹上牛油果；热餡料放上去也不会太快變软。 这一步看牛油果和青柠的狀態決定時間，让鸡肉法士達卷完成時口感清楚。",
+        "en": "Toast the tortillas until lightly crisp, then spread avocado so hot filling does not soften it too quickly.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "夾緊上桌（雞肉法士達卷）",
+        "yue": "夾緊上桌（雞肉法士達卷）",
+        "zhHans": "夾緊上桌（鸡肉法士達卷）",
+        "en": "Assemble firmly (Chicken fajita wrap)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "按墨西哥薄餅、雞腿扒、配菜的次序組合，卷緊或合上後切半，趁外層仍暖時食用。 補充檢查甜椒和洋蔥，並按25分鐘節奏控制火候。",
+        "yue": "按墨西哥薄餅、雞腿扒、配菜的次序組合，卷緊或合上後切半，趁外層仍暖時食用。 補充檢查甜椒和洋蔥，並按25分鐘節奏控制火候。",
+        "zhHans": "按墨西哥薄饼、鸡腿扒、配菜的次序組合，卷緊或合上后切半，趁外层仍暖時食用。 補充檢查甜椒和洋葱，並按25分钟節奏控制火候。",
+        "en": "Layer tortillas, chicken thigh, and vegetables in order, close or roll firmly, halve, and serve while warm. Check bell pepper against onion and keep the 25-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/chicken-fajita-wrap/cover-1.png",
+      "alt": "Generated food photo of Chicken fajita wrap",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#chicken-fajita-wrap/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#chicken-fajita-wrap",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

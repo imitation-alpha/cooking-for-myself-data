@@ -1,0 +1,313 @@
+{
+  "id": "silky-egg-beef-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "滑蛋牛肉飯",
+    "yue": "滑蛋牛肉飯",
+    "zhHans": "滑蛋牛肉饭",
+    "en": "Silky egg beef rice",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "滑蛋牛肉飯 是一款亞洲飯碟，用 白米 1、牛肉片 220、雞蛋 3、洋蔥半個、生抽 1 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "滑蛋牛肉飯 是一款亞洲飯碟，用 白米 1、牛肉片 220、雞蛋 3、洋蔥半個、生抽 1 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "滑蛋牛肉饭 是一款亞洲饭碟，用 白米 1、牛肉片 220、鸡蛋 3、洋葱半个、生抽 1 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Silky egg beef rice is a review-first candidate meal built around rice, sliced beef, 3 eggs, 1/2 onion."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 20,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "白米 1 杯",
+        "yue": "白米 1 杯",
+        "zhHans": "白米 1 杯",
+        "en": "1 cup rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "cup"
+      }
+    },
+    {
+      "ingredientId": "beef-slice",
+      "amounts": {
+        "zhHant": "牛肉片 220 克",
+        "yue": "牛肉片 220 克",
+        "zhHans": "牛肉片 220 克",
+        "en": "220 g sliced beef",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 220,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "雞蛋 3 隻",
+        "yue": "雞蛋 3 隻",
+        "zhHans": "鸡蛋 3 只",
+        "en": "3 eggs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 3,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "onion",
+      "amounts": {
+        "zhHant": "洋蔥半個",
+        "yue": "洋蔥半個",
+        "zhHans": "洋葱半个",
+        "en": "1/2 onion",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 0.5,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "生抽 1 湯匙",
+        "yue": "生抽 1 湯匙",
+        "zhHans": "生抽 1 汤匙",
+        "en": "1 tbsp light soy sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "tbsp"
+      }
+    },
+    {
+      "ingredientId": "oyster-sauce",
+      "amounts": {
+        "zhHant": "蠔油 1 茶匙",
+        "yue": "蠔油 1 茶匙",
+        "zhHans": "蠔油 1 茶匙",
+        "en": "1 tsp oyster sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "tsp"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "beef",
+    "egg",
+    "shellfish",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理牛肉片和雞蛋（滑蛋牛肉飯）",
+        "yue": "先處理牛肉片和雞蛋（滑蛋牛肉飯）",
+        "zhHans": "先處理牛肉片和鸡蛋（滑蛋牛肉饭）",
+        "en": "Prep sliced beef and eggs (Silky egg beef rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把牛肉片抹乾或切成一口大小，雞蛋和洋蔥分開放好；白米按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把牛肉片抹乾或切成一口大小，雞蛋和洋蔥分開放好；白米按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把牛肉片抹干或切成一口大小，鸡蛋和洋葱分開放好；白米按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the sliced beef, keep the eggs and onion separate, and get the rice ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "先煮白米（滑蛋牛肉飯）",
+        "yue": "先煮白米（滑蛋牛肉飯）",
+        "zhHans": "先煮白米（滑蛋牛肉饭）",
+        "en": "Cook rice (Silky egg beef rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米先煮到可上碟的狀態並保溫；滑蛋牛肉飯完成時就能直接組合。 這一步看雞蛋和洋蔥的狀態決定時間，讓滑蛋牛肉飯完成時口感清楚。",
+        "yue": "白米先煮到可上碟的狀態並保溫；滑蛋牛肉飯完成時就能直接組合。 這一步看雞蛋和洋蔥的狀態決定時間，讓滑蛋牛肉飯完成時口感清楚。",
+        "zhHans": "白米先煮到可上碟的狀態並保溫；滑蛋牛肉饭完成時就能直接組合。 这一步看鸡蛋和洋葱的狀態決定時間，让滑蛋牛肉饭完成時口感清楚。",
+        "en": "Cook rice until ready to serve and keep it warm so Silky egg beef rice can be assembled immediately. Check oyster sauce against rice and keep the 20-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煎香牛肉片（滑蛋牛肉飯）",
+        "yue": "煎香牛肉片（滑蛋牛肉飯）",
+        "zhHans": "煎香牛肉片（滑蛋牛肉饭）",
+        "en": "Sear sliced beef (Silky egg beef rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "牛肉片抹乾後下鍋，表面上色才翻動；加入雞蛋時轉中火，避免外焦內生。 這一步看洋蔥和生抽的狀態決定時間，讓滑蛋牛肉飯完成時口感清楚。",
+        "yue": "牛肉片抹乾後下鍋，表面上色才翻動；加入雞蛋時轉中火，避免外焦內生。 這一步看洋蔥和生抽的狀態決定時間，讓滑蛋牛肉飯完成時口感清楚。",
+        "zhHans": "牛肉片抹干后下锅，表面上色才翻動；加入鸡蛋時转中火，避免外焦内生。 这一步看洋葱和生抽的狀態決定時間，让滑蛋牛肉饭完成時口感清楚。",
+        "en": "Dry sliced beef, sear until colored before moving it, then add eggs over medium heat for control.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "用生抽收味（滑蛋牛肉飯）",
+        "yue": "用生抽收味（滑蛋牛肉飯）",
+        "zhHans": "用生抽收味（滑蛋牛肉饭）",
+        "en": "Finish with light soy sauce (Silky egg beef rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "同鍋加入生抽和洋蔥，刮起鍋底香味，小火煮到可以薄薄掛在牛肉片上。 這一步看生抽和蠔油的狀態決定時間，讓滑蛋牛肉飯完成時口感清楚。",
+        "yue": "同鍋加入生抽和洋蔥，刮起鍋底香味，小火煮到可以薄薄掛在牛肉片上。 這一步看生抽和蠔油的狀態決定時間，讓滑蛋牛肉飯完成時口感清楚。",
+        "zhHans": "同锅加入生抽和洋葱，刮起锅底香味，小火煮到可以薄薄掛在牛肉片上。 这一步看生抽和蠔油的狀態決定時間，让滑蛋牛肉饭完成時口感清楚。",
+        "en": "Add light soy sauce and onion to the same pan, scrape up browned bits, and simmer until it coats the sliced beef. Check sliced beef against eggs and keep the 20-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "排好滑蛋牛肉飯（滑蛋牛肉飯）",
+        "yue": "排好滑蛋牛肉飯（滑蛋牛肉飯）",
+        "zhHans": "排好滑蛋牛肉饭（滑蛋牛肉饭）",
+        "en": "Plate Silky egg beef rice (Silky egg beef rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米先放底，鋪上牛肉片和雞蛋，最後淋少量醬汁，保持份量清楚。 這一步看蠔油和白米的狀態決定時間，讓滑蛋牛肉飯完成時口感清楚。",
+        "yue": "白米先放底，鋪上牛肉片和雞蛋，最後淋少量醬汁，保持份量清楚。 這一步看蠔油和白米的狀態決定時間，讓滑蛋牛肉飯完成時口感清楚。",
+        "zhHans": "白米先放底，鋪上牛肉片和鸡蛋，最后淋少量酱汁，保持份量清楚。 这一步看蠔油和白米的狀態決定時間，让滑蛋牛肉饭完成時口感清楚。",
+        "en": "Set down rice, add sliced beef and eggs, then spoon over a little sauce for a tidy plate.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/silky-egg-beef-rice/cover-1.png",
+      "alt": "Generated food photo of Silky egg beef rice",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#silky-egg-beef-rice/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#silky-egg-beef-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}
