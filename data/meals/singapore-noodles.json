@@ -1,0 +1,332 @@
+{
+  "id": "singapore-noodles",
+  "status": "approved",
+  "names": {
+    "zhHant": "星洲炒米",
+    "yue": "星洲炒米",
+    "zhHans": "星洲炒米",
+    "en": "Singapore noodles",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "星洲炒米 是一款亞洲麵粉，用 米粉 180、蝦仁 160、雞蛋 2、甜椒 1、洋蔥半個 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "星洲炒米 是一款亞洲麵粉，用 米粉 180、蝦仁 160、雞蛋 2、甜椒 1、洋蔥半個 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "星洲炒米 是一款亞洲面粉，用 米粉 180、虾仁 160、鸡蛋 2、甜椒 1、洋葱半个 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Singapore noodles is a review-first candidate meal built around rice noodles, shrimp, 2 eggs, 1 bell pepper."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 25,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "rice-noodle",
+      "amounts": {
+        "zhHant": "米粉 180 克",
+        "yue": "米粉 180 克",
+        "zhHans": "米粉 180 克",
+        "en": "180 g rice noodles",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 180,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "shrimp",
+      "amounts": {
+        "zhHant": "蝦仁 160 克",
+        "yue": "蝦仁 160 克",
+        "zhHans": "虾仁 160 克",
+        "en": "160 g shrimp",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 160,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "雞蛋 2 隻",
+        "yue": "雞蛋 2 隻",
+        "zhHans": "鸡蛋 2 只",
+        "en": "2 eggs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "bell-pepper",
+      "amounts": {
+        "zhHant": "甜椒 1 個",
+        "yue": "甜椒 1 個",
+        "zhHans": "甜椒 1 个",
+        "en": "1 bell pepper",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "onion",
+      "amounts": {
+        "zhHant": "洋蔥半個",
+        "yue": "洋蔥半個",
+        "zhHans": "洋葱半个",
+        "en": "1/2 onion",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 0.5,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "curry-paste",
+      "amounts": {
+        "zhHant": "咖喱醬 1 湯匙",
+        "yue": "咖喱醬 1 湯匙",
+        "zhHans": "咖喱酱 1 汤匙",
+        "en": "1 tbsp curry paste",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "tbsp"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "生抽 1 湯匙",
+        "yue": "生抽 1 湯匙",
+        "zhHans": "生抽 1 汤匙",
+        "en": "1 tbsp light soy sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "tbsp"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "shellfish",
+    "egg",
+    "soy",
+    "wheatGluten",
+    "spicy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理蝦仁和雞蛋（星洲炒米）",
+        "yue": "先處理蝦仁和雞蛋（星洲炒米）",
+        "zhHans": "先處理虾仁和鸡蛋（星洲炒米）",
+        "en": "Prep shrimp and eggs (Singapore noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把蝦仁抹乾或切成一口大小，雞蛋和甜椒分開放好；米粉按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把蝦仁抹乾或切成一口大小，雞蛋和甜椒分開放好；米粉按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把虾仁抹干或切成一口大小，鸡蛋和甜椒分開放好；米粉按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the shrimp, keep the eggs and bell pepper separate, and get the rice noodles ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "燙開米粉（星洲炒米）",
+        "yue": "燙開米粉（星洲炒米）",
+        "zhHans": "燙開米粉（星洲炒米）",
+        "en": "Soften rice noodles (Singapore noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "米粉煮到剛散開就瀝乾，趁熱拌少量油；這樣再炒星洲炒米時不會黏成一團。 這一步看雞蛋和甜椒的狀態決定時間，讓星洲炒米完成時口感清楚。",
+        "yue": "米粉煮到剛散開就瀝乾，趁熱拌少量油；這樣再炒星洲炒米時不會黏成一團。 這一步看雞蛋和甜椒的狀態決定時間，讓星洲炒米完成時口感清楚。",
+        "zhHans": "米粉煮到剛散開就瀝干，趁热拌少量油；这樣再炒星洲炒米時不会黏成一團。 这一步看鸡蛋和甜椒的狀態決定時間，让星洲炒米完成時口感清楚。",
+        "en": "Cook the rice noodles only until loosened, drain well, and oil lightly so Singapore noodles can be tossed without clumping.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "快炒蝦仁（星洲炒米）",
+        "yue": "快炒蝦仁（星洲炒米）",
+        "zhHans": "快炒虾仁（星洲炒米）",
+        "en": "Sear shrimp (Singapore noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蝦仁用大火先炒至轉色，加入雞蛋和甜椒兜兩下便盛起，保留鑊氣但不要炒老。",
+        "yue": "蝦仁用大火先炒至轉色，加入雞蛋和甜椒兜兩下便盛起，保留鑊氣但不要炒老。",
+        "zhHans": "虾仁用大火先炒至转色，加入鸡蛋和甜椒兜兩下便盛起，保留锅气但不要炒老。",
+        "en": "Sear the shrimp hard, add eggs and bell pepper briefly, then lift everything out before it overcooks.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "用咖喱醬掛住麵身（星洲炒米）",
+        "yue": "用咖喱醬掛住麵身（星洲炒米）",
+        "zhHans": "用咖喱酱掛住面身（星洲炒米）",
+        "en": "Coat with curry paste (Singapore noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "原鑊放入咖喱醬和少量水，倒回米粉快速翻炒，等每條麵都沾到醬色再回放蝦仁。",
+        "yue": "原鑊放入咖喱醬和少量水，倒回米粉快速翻炒，等每條麵都沾到醬色再回放蝦仁。",
+        "zhHans": "原锅放入咖喱酱和少量水，倒回米粉快速翻炒，等每条面都沾到酱色再回放虾仁。",
+        "en": "Loosen curry paste in the pan with a splash of water, toss in the rice noodles, then return the shrimp once the noodles are glossy.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "炒到乾身上碟（星洲炒米）",
+        "yue": "炒到乾身上碟（星洲炒米）",
+        "zhHans": "炒到干身上碟（星洲炒米）",
+        "en": "Finish with wok aroma (Singapore noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "星洲炒米最後用大火多兜三十秒，試味後立即上碟，讓米粉保持爽口而不是濕軟。",
+        "yue": "星洲炒米最後用大火多兜三十秒，試味後立即上碟，讓米粉保持爽口而不是濕軟。",
+        "zhHans": "星洲炒米最后用大火多兜三十秒，試味后立即上碟，让米粉保持爽口而不是湿软。",
+        "en": "Finish Singapore noodles over high heat for about 30 seconds, taste, and plate while the rice noodles still has bounce.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/singapore-noodles/cover-1.png",
+      "alt": "Generated food photo of Singapore noodles",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#singapore-noodles/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#singapore-noodles",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

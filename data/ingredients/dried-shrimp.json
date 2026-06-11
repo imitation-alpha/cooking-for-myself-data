@@ -1,0 +1,92 @@
+{
+  "id": "dried-shrimp",
+  "status": "approved",
+  "names": {
+    "zhHant": "蝦米",
+    "yue": "蝦米",
+    "zhHans": "虾米",
+    "en": "Dried shrimp",
+    "ja": "Dried shrimp",
+    "ko": "Dried shrimp",
+    "th": "Dried shrimp",
+    "vi": "Dried shrimp",
+    "id": "Dried shrimp",
+    "tl": "Dried shrimp"
+  },
+  "section": "dryGoods",
+  "aliases": [
+    "ha mai",
+    "dried prawns",
+    "dried small shrimp"
+  ],
+  "storeNotes": {
+    "zhHant": "中式乾貨或冷藏乾貨區；選氣味鮮香、不刺鼻、包裝乾爽的蝦米。",
+    "en": "中式乾貨或冷藏乾貨區；選氣味鮮香、不刺鼻、包裝乾爽的蝦米。",
+    "yue": "中式乾貨或冷藏乾貨區；選氣味鮮香、不刺鼻、包裝乾爽的蝦米。"
+  },
+  "substitutions": {
+    "zhHant": "過敏或素食者可省略；想保留鮮味可用少量冬菇水或昆布高湯。",
+    "en": "過敏或素食者可省略；想保留鮮味可用少量冬菇水或昆布高湯。",
+    "yue": "過敏或素食者可省略；想保留鮮味可用少量冬菇水或昆布高湯。"
+  },
+  "tags": [
+    "shellfish"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/dried-shrimp.png",
+      "alt": "Generated ingredient image for Dried shrimp",
+      "contentStyle": "realistic_ingredient_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#ingredients/dried-shrimp/image",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/dried-shrimp",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-28T23:22:58.542Z"
+  },
+  "nutrition": {
+    "estimate": true,
+    "rangePercent": {
+      "low": 0.9,
+      "high": 1.15
+    },
+    "nutrientsPer100g": {
+      "kcal": 253,
+      "sodiumMg": 2200
+    },
+    "unitWeights": [
+      {
+        "unit": "g",
+        "grams": 1,
+        "sourceRefId": "baseline-dried-shrimp",
+        "note": "Planning conversion estimate from app seed."
+      }
+    ],
+    "sourceRefs": [
+      {
+        "id": "baseline-dried-shrimp",
+        "sourceType": "other_reviewed",
+        "sourceName": "Cooking For Myself baseline nutrition estimate",
+        "sourceURL": "local://cooking-for-myself/nutrition-baseline-v1#dried-shrimp",
+        "accessedAt": "2026-05-28",
+        "foodDescription": "Dried shrimp baseline estimate",
+        "sourceNutrientsPer100g": {
+          "kcal": 253,
+          "sodiumMg": 2200
+        }
+      }
+    ],
+    "confidence": "medium",
+    "reviewStatus": "reviewed"
+  }
+}

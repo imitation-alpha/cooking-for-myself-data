@@ -1,0 +1,333 @@
+{
+  "id": "simple-budae-jjigae-noodles",
+  "status": "approved",
+  "names": {
+    "zhHant": "簡易部隊鍋麵",
+    "yue": "簡易部隊鍋麵",
+    "zhHans": "簡易部隊锅面",
+    "en": "Simple budae jjigae noodles",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "簡易部隊鍋麵 是一款亞洲麵粉，用 即食麵 1、泡菜 120、午餐肉 120、香腸 2、豆腐 150 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "簡易部隊鍋麵 是一款亞洲麵粉，用 即食麵 1、泡菜 120、午餐肉 120、香腸 2、豆腐 150 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "簡易部隊锅面 是一款亞洲面粉，用 即食面 1、泡菜 120、午餐肉 120、香肠 2、豆腐 150 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Simple budae jjigae noodles is a review-first candidate meal built around instant noodles, kimchi, luncheon meat, 2 sausages."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 20,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "dried-noodle",
+      "amounts": {
+        "zhHant": "即食麵 1 包",
+        "yue": "即食麵 1 包",
+        "zhHans": "即食面 1 包",
+        "en": "1 packet instant noodles",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "packet"
+      }
+    },
+    {
+      "ingredientId": "kimchi",
+      "amounts": {
+        "zhHant": "泡菜 120 克",
+        "yue": "泡菜 120 克",
+        "zhHans": "泡菜 120 克",
+        "en": "120 g kimchi",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 120,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "luncheon-meat",
+      "amounts": {
+        "zhHant": "午餐肉 120 克",
+        "yue": "午餐肉 120 克",
+        "zhHans": "午餐肉 120 克",
+        "en": "120 g luncheon meat",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 120,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "sausage",
+      "amounts": {
+        "zhHant": "香腸 2 條",
+        "yue": "香腸 2 條",
+        "zhHans": "香肠 2 条",
+        "en": "2 sausages",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "tofu",
+      "amounts": {
+        "zhHant": "豆腐 150 克",
+        "yue": "豆腐 150 克",
+        "zhHans": "豆腐 150 克",
+        "en": "150 g tofu",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 150,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cheese",
+      "amounts": {
+        "zhHant": "芝士 1 片",
+        "yue": "芝士 1 片",
+        "zhHans": "芝士 1 片",
+        "en": "1 slice cheese",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "slice"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "雞蛋 1 隻",
+        "yue": "雞蛋 1 隻",
+        "zhHans": "鸡蛋 1 只",
+        "en": "1 egg",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "piece"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "pork",
+    "egg",
+    "dairy",
+    "soy",
+    "wheatGluten",
+    "spicy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理泡菜和午餐肉（簡易部隊鍋麵）",
+        "yue": "先處理泡菜和午餐肉（簡易部隊鍋麵）",
+        "zhHans": "先處理泡菜和午餐肉（簡易部隊锅面）",
+        "en": "Prep kimchi and luncheon meat (Simple budae jjigae noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把泡菜抹乾或切成一口大小，午餐肉和香腸分開放好；即食麵按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把泡菜抹乾或切成一口大小，午餐肉和香腸分開放好；即食麵按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把泡菜抹干或切成一口大小，午餐肉和香肠分開放好；即食面按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the kimchi, keep the luncheon meat and sausages separate, and get the instant noodles ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "分碗放好即食麵（簡易部隊鍋麵）",
+        "yue": "分碗放好即食麵（簡易部隊鍋麵）",
+        "zhHans": "分碗放好即食面（簡易部隊锅面）",
+        "en": "Bowl the instant noodles (Simple budae jjigae noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "即食麵先煮至剛熟並分入碗中，避免直接在湯裡久煮，把簡易部隊鍋麵的湯底拖得混濁。",
+        "yue": "即食麵先煮至剛熟並分入碗中，避免直接在湯裡久煮，把簡易部隊鍋麵的湯底拖得混濁。",
+        "zhHans": "即食面先煮至剛熟並分入碗中，避免直接在汤里久煮，把簡易部隊锅面的汤底拖得混濁。",
+        "en": "Cook the instant noodles just until tender and place it in bowls so the broth for Simple budae jjigae noodles stays clean.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煮出芝士湯底（簡易部隊鍋麵）",
+        "yue": "煮出芝士湯底（簡易部隊鍋麵）",
+        "zhHans": "煮出芝士汤底（簡易部隊锅面）",
+        "en": "Build the cheese broth (Simple budae jjigae noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鍋中先炒香芝士、香腸和豆腐，再加水或湯，小火煮到香味融合。 這一步看香腸和豆腐的狀態決定時間，讓簡易部隊鍋麵完成時口感清楚。",
+        "yue": "鍋中先炒香芝士、香腸和豆腐，再加水或湯，小火煮到香味融合。 這一步看香腸和豆腐的狀態決定時間，讓簡易部隊鍋麵完成時口感清楚。",
+        "zhHans": "锅中先炒香芝士、香肠和豆腐，再加水或汤，小火煮到香味融合。 这一步看香肠和豆腐的狀態決定時間，让簡易部隊锅面完成時口感清楚。",
+        "en": "Bloom cheese, sausages, and tofu, then add water or stock and simmer until the broth tastes integrated.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "下泡菜和午餐肉（簡易部隊鍋麵）",
+        "yue": "下泡菜和午餐肉（簡易部隊鍋麵）",
+        "zhHans": "下泡菜和午餐肉（簡易部隊锅面）",
+        "en": "Cook kimchi and luncheon meat (Simple budae jjigae noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "泡菜先下鍋，快熟時加入午餐肉；看到邊緣剛熟便停火，湯面保持清而有香氣。",
+        "yue": "泡菜先下鍋，快熟時加入午餐肉；看到邊緣剛熟便停火，湯面保持清而有香氣。",
+        "zhHans": "泡菜先下锅，快熟時加入午餐肉；看到边緣剛熟便停火，汤面保持清而有香气。",
+        "en": "Add kimchi first, then luncheon meat near the end, stopping as soon as the edges are cooked through.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "熱湯淋麵（簡易部隊鍋麵）",
+        "yue": "熱湯淋麵（簡易部隊鍋麵）",
+        "zhHans": "热汤淋面（簡易部隊锅面）",
+        "en": "Ladle over noodles (Simple budae jjigae noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把湯和配料淋上即食麵，最後用香腸或豆腐補香，簡易部隊鍋麵要趁熱立即食用。",
+        "yue": "把湯和配料淋上即食麵，最後用香腸或豆腐補香，簡易部隊鍋麵要趁熱立即食用。",
+        "zhHans": "把汤和配料淋上即食面，最后用香肠或豆腐補香，簡易部隊锅面要趁热立即食用。",
+        "en": "Ladle broth and toppings over the instant noodles, then finish with sausages or tofu and serve Simple budae jjigae noodles immediately.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/simple-budae-jjigae-noodles/cover-1.png",
+      "alt": "Generated food photo of Simple budae jjigae noodles",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#simple-budae-jjigae-noodles/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#simple-budae-jjigae-noodles",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

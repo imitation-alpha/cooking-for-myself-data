@@ -1,0 +1,310 @@
+{
+  "id": "thai-coconut-shrimp-rice-noodle-soup",
+  "status": "approved",
+  "names": {
+    "zhHant": "泰式椰汁蝦湯米線",
+    "yue": "泰式椰汁蝦湯米線",
+    "zhHans": "泰式椰汁虾汤米線",
+    "en": "Thai coconut shrimp rice noodle soup",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "泰式椰汁蝦湯米線 是一款亞洲麵粉，用 米線 180、蝦仁 220、椰奶 250、咖喱醬 1.5、蘑菇 100 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "泰式椰汁蝦湯米線 是一款亞洲麵粉，用 米線 180、蝦仁 220、椰奶 250、咖喱醬 1.5、蘑菇 100 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "泰式椰汁虾汤米線 是一款亞洲面粉，用 米線 180、虾仁 220、椰奶 250、咖喱酱 1.5、蘑菇 100 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Thai coconut shrimp rice noodle soup is a review-first candidate meal built around rice noodles, shrimp, coconut milk, curry paste."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 25,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "rice-noodle",
+      "amounts": {
+        "zhHant": "米線 180 克",
+        "yue": "米線 180 克",
+        "zhHans": "米線 180 克",
+        "en": "180 g rice noodles",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 180,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "shrimp",
+      "amounts": {
+        "zhHant": "蝦仁 220 克",
+        "yue": "蝦仁 220 克",
+        "zhHans": "虾仁 220 克",
+        "en": "220 g shrimp",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 220,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "coconut-milk",
+      "amounts": {
+        "zhHant": "椰奶 250 毫升",
+        "yue": "椰奶 250 毫升",
+        "zhHans": "椰奶 250 毫升",
+        "en": "250 ml coconut milk",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 250,
+        "unit": "ml"
+      }
+    },
+    {
+      "ingredientId": "curry-paste",
+      "amounts": {
+        "zhHant": "咖喱醬 1.5 湯匙",
+        "yue": "咖喱醬 1.5 湯匙",
+        "zhHans": "咖喱酱 1.5 汤匙",
+        "en": "1.5 tbsp curry paste",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1.5,
+        "unit": "tbsp"
+      }
+    },
+    {
+      "ingredientId": "mushroom",
+      "amounts": {
+        "zhHant": "蘑菇 100 克",
+        "yue": "蘑菇 100 克",
+        "zhHans": "蘑菇 100 克",
+        "en": "100 g mushrooms",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 100,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "lime",
+      "amounts": {
+        "zhHant": "青檸 1 個",
+        "yue": "青檸 1 個",
+        "zhHans": "青柠 1 个",
+        "en": "1 lime",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "piece"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "shellfish",
+    "spicy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理蝦仁和椰奶（泰式椰汁蝦湯米線）",
+        "yue": "先處理蝦仁和椰奶（泰式椰汁蝦湯米線）",
+        "zhHans": "先處理虾仁和椰奶（泰式椰汁虾汤米線）",
+        "en": "Prep shrimp and coconut milk (Thai coconut shrimp rice noodle soup)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把蝦仁抹乾或切成一口大小，椰奶和咖喱醬分開放好；米線按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把蝦仁抹乾或切成一口大小，椰奶和咖喱醬分開放好；米線按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把虾仁抹干或切成一口大小，椰奶和咖喱酱分開放好；米線按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the shrimp, keep the coconut milk and curry paste separate, and get the rice noodles ready before heat goes on. Check mushrooms against lime and keep the 25-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "分碗放好米線（泰式椰汁蝦湯米線）",
+        "yue": "分碗放好米線（泰式椰汁蝦湯米線）",
+        "zhHans": "分碗放好米線（泰式椰汁虾汤米線）",
+        "en": "Bowl the rice noodles (Thai coconut shrimp rice noodle soup)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "米線先煮至剛熟並分入碗中，避免直接在湯裡久煮，把泰式椰汁蝦湯米線的湯底拖得混濁。 補充檢查青檸和米線，並按25分鐘節奏控制火候。",
+        "yue": "米線先煮至剛熟並分入碗中，避免直接在湯裡久煮，把泰式椰汁蝦湯米線的湯底拖得混濁。 補充檢查青檸和米線，並按25分鐘節奏控制火候。",
+        "zhHans": "米線先煮至剛熟並分入碗中，避免直接在汤里久煮，把泰式椰汁虾汤米線的汤底拖得混濁。 補充檢查青柠和米線，並按25分钟節奏控制火候。",
+        "en": "Cook the rice noodles just until tender and place it in bowls so the broth for Thai coconut shrimp rice noodle soup stays clean. Check lime against rice noodles and keep the 25-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煮出咖喱醬湯底（泰式椰汁蝦湯米線）",
+        "yue": "煮出咖喱醬湯底（泰式椰汁蝦湯米線）",
+        "zhHans": "煮出咖喱酱汤底（泰式椰汁虾汤米線）",
+        "en": "Build the curry paste broth (Thai coconut shrimp rice noodle soup)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鍋中先炒香咖喱醬、咖喱醬和蘑菇，再加水或湯，小火煮到香味融合。 這一步看咖喱醬和蘑菇的狀態決定時間，讓泰式椰汁蝦湯米線完成時口感清楚。",
+        "yue": "鍋中先炒香咖喱醬、咖喱醬和蘑菇，再加水或湯，小火煮到香味融合。 這一步看咖喱醬和蘑菇的狀態決定時間，讓泰式椰汁蝦湯米線完成時口感清楚。",
+        "zhHans": "锅中先炒香咖喱酱、咖喱酱和蘑菇，再加水或汤，小火煮到香味融合。 这一步看咖喱酱和蘑菇的狀態決定時間，让泰式椰汁虾汤米線完成時口感清楚。",
+        "en": "Bloom curry paste, curry paste, and mushrooms, then add water or stock and simmer until the broth tastes integrated.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "下蝦仁和椰奶（泰式椰汁蝦湯米線）",
+        "yue": "下蝦仁和椰奶（泰式椰汁蝦湯米線）",
+        "zhHans": "下虾仁和椰奶（泰式椰汁虾汤米線）",
+        "en": "Cook shrimp and coconut milk (Thai coconut shrimp rice noodle soup)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蝦仁先下鍋，快熟時加入椰奶；看到邊緣剛熟便停火，湯面保持清而有香氣。 這一步看蘑菇和青檸的狀態決定時間，讓泰式椰汁蝦湯米線完成時口感清楚。",
+        "yue": "蝦仁先下鍋，快熟時加入椰奶；看到邊緣剛熟便停火，湯面保持清而有香氣。 這一步看蘑菇和青檸的狀態決定時間，讓泰式椰汁蝦湯米線完成時口感清楚。",
+        "zhHans": "虾仁先下锅，快熟時加入椰奶；看到边緣剛熟便停火，汤面保持清而有香气。 这一步看蘑菇和青柠的狀態決定時間，让泰式椰汁虾汤米線完成時口感清楚。",
+        "en": "Add shrimp first, then coconut milk near the end, stopping as soon as the edges are cooked through. Check shrimp against coconut milk and keep the 25-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "熱湯淋麵（泰式椰汁蝦湯米線）",
+        "yue": "熱湯淋麵（泰式椰汁蝦湯米線）",
+        "zhHans": "热汤淋面（泰式椰汁虾汤米線）",
+        "en": "Ladle over noodles (Thai coconut shrimp rice noodle soup)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把湯和配料淋上米線，最後用咖喱醬或蘑菇補香，泰式椰汁蝦湯米線要趁熱立即食用。",
+        "yue": "把湯和配料淋上米線，最後用咖喱醬或蘑菇補香，泰式椰汁蝦湯米線要趁熱立即食用。",
+        "zhHans": "把汤和配料淋上米線，最后用咖喱酱或蘑菇補香，泰式椰汁虾汤米線要趁热立即食用。",
+        "en": "Ladle broth and toppings over the rice noodles, then finish with curry paste or mushrooms and serve Thai coconut shrimp rice noodle soup immediately.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/thai-coconut-shrimp-rice-noodle-soup/cover-1.png",
+      "alt": "Generated food photo of Thai coconut shrimp rice noodle soup",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#thai-coconut-shrimp-rice-noodle-soup/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#thai-coconut-shrimp-rice-noodle-soup",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

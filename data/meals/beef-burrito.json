@@ -1,0 +1,311 @@
+{
+  "id": "beef-burrito",
+  "status": "approved",
+  "names": {
+    "zhHant": "墨西哥牛肉卷",
+    "yue": "墨西哥牛肉卷",
+    "zhHans": "墨西哥牛肉卷",
+    "en": "Beef burrito",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "墨西哥牛肉卷 是一款三文治漢堡卷，用 大墨西哥薄餅 2、牛肉碎 250、熟飯 1、黑豆 120、芝士碎 60 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "墨西哥牛肉卷 是一款三文治漢堡卷，用 大墨西哥薄餅 2、牛肉碎 250、熟飯 1、黑豆 120、芝士碎 60 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "墨西哥牛肉卷 是一款三文治汉堡卷，用 大墨西哥薄饼 2、牛肉碎 250、熟饭 1、黑豆 120、芝士碎 60 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Beef burrito is a review-first candidate meal built around 2 large tortillas, ground beef, cooked rice, black beans."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 30,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "tortilla",
+      "amounts": {
+        "zhHant": "大墨西哥薄餅 2 張",
+        "yue": "大墨西哥薄餅 2 張",
+        "zhHans": "大墨西哥薄饼 2 张",
+        "en": "2 large tortillas",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "ground-beef",
+      "amounts": {
+        "zhHant": "牛肉碎 250 克",
+        "yue": "牛肉碎 250 克",
+        "zhHans": "牛肉碎 250 克",
+        "en": "250 g ground beef",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 250,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cooked-rice",
+      "amounts": {
+        "zhHant": "熟飯 1 碗",
+        "yue": "熟飯 1 碗",
+        "zhHans": "熟饭 1 碗",
+        "en": "1 bowl cooked rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "bowl"
+      }
+    },
+    {
+      "ingredientId": "black-beans",
+      "amounts": {
+        "zhHant": "黑豆 120 克",
+        "yue": "黑豆 120 克",
+        "zhHans": "黑豆 120 克",
+        "en": "120 g black beans",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 120,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cheese",
+      "amounts": {
+        "zhHant": "芝士碎 60 克",
+        "yue": "芝士碎 60 克",
+        "zhHans": "芝士碎 60 克",
+        "en": "60 g shredded cheese",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 60,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "lettuce",
+      "amounts": {
+        "zhHant": "生菜 1 杯",
+        "yue": "生菜 1 杯",
+        "zhHans": "生菜 1 杯",
+        "en": "1 cup lettuce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "cup"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "beef",
+    "dairy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理牛肉碎和熟飯（墨西哥牛肉卷）",
+        "yue": "先處理牛肉碎和熟飯（墨西哥牛肉卷）",
+        "zhHans": "先處理牛肉碎和熟饭（墨西哥牛肉卷）",
+        "en": "Prep ground beef and bowl cooked rice (Beef burrito)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把牛肉碎抹乾或切成一口大小，熟飯和黑豆分開放好；大墨西哥薄餅按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把牛肉碎抹乾或切成一口大小，熟飯和黑豆分開放好；大墨西哥薄餅按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把牛肉碎抹干或切成一口大小，熟饭和黑豆分開放好；大墨西哥薄饼按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the ground beef, keep the bowl cooked rice and black beans separate, and get the large tortillas ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "煎好牛肉碎（墨西哥牛肉卷）",
+        "yue": "煎好牛肉碎（墨西哥牛肉卷）",
+        "zhHans": "煎好牛肉碎（墨西哥牛肉卷）",
+        "en": "Cook ground beef (Beef burrito)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "牛肉碎先調味後煎至熟透，靜置兩分鐘才切或夾入，肉汁不會把大墨西哥薄餅浸濕。",
+        "yue": "牛肉碎先調味後煎至熟透，靜置兩分鐘才切或夾入，肉汁不會把大墨西哥薄餅浸濕。",
+        "zhHans": "牛肉碎先调味后煎至熟透，靜置兩分钟才切或夾入，肉汁不会把大墨西哥薄饼浸湿。",
+        "en": "Season and cook ground beef through, then rest for two minutes before slicing or filling so the large tortillas stays dry.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "整理熟飯配菜（墨西哥牛肉卷）",
+        "yue": "整理熟飯配菜（墨西哥牛肉卷）",
+        "zhHans": "整理熟饭配菜（墨西哥牛肉卷）",
+        "en": "Ready bowl cooked rice (Beef burrito)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "熟飯、黑豆和芝士碎切好後抹乾，墨西哥牛肉卷入口會爽口而不鬆散。 這一步看黑豆和芝士碎的狀態決定時間，讓墨西哥牛肉卷完成時口感清楚。",
+        "yue": "熟飯、黑豆和芝士碎切好後抹乾，墨西哥牛肉卷入口會爽口而不鬆散。 這一步看黑豆和芝士碎的狀態決定時間，讓墨西哥牛肉卷完成時口感清楚。",
+        "zhHans": "熟饭、黑豆和芝士碎切好后抹干，墨西哥牛肉卷入口会爽口而不松散。 这一步看黑豆和芝士碎的狀態決定時間，让墨西哥牛肉卷完成時口感清楚。",
+        "en": "Cut and dry bowl cooked rice, black beans, and shredded cheese so Beef burrito stays crisp and holds together.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "烘熱大墨西哥薄餅（墨西哥牛肉卷）",
+        "yue": "烘熱大墨西哥薄餅（墨西哥牛肉卷）",
+        "zhHans": "烘热大墨西哥薄饼（墨西哥牛肉卷）",
+        "en": "Toast large tortillas (Beef burrito)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "大墨西哥薄餅用乾鍋烘至微脆，再抹上芝士碎；熱餡料放上去也不會太快變軟。",
+        "yue": "大墨西哥薄餅用乾鍋烘至微脆，再抹上芝士碎；熱餡料放上去也不會太快變軟。",
+        "zhHans": "大墨西哥薄饼用干锅烘至微脆，再抹上芝士碎；热餡料放上去也不会太快變软。",
+        "en": "Toast the large tortillas until lightly crisp, then spread shredded cheese so hot filling does not soften it too quickly.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "夾緊上桌（墨西哥牛肉卷）",
+        "yue": "夾緊上桌（墨西哥牛肉卷）",
+        "zhHans": "夾緊上桌（墨西哥牛肉卷）",
+        "en": "Assemble firmly (Beef burrito)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "按大墨西哥薄餅、牛肉碎、配菜的次序組合，卷緊或合上後切半，趁外層仍暖時食用。",
+        "yue": "按大墨西哥薄餅、牛肉碎、配菜的次序組合，卷緊或合上後切半，趁外層仍暖時食用。",
+        "zhHans": "按大墨西哥薄饼、牛肉碎、配菜的次序組合，卷緊或合上后切半，趁外层仍暖時食用。",
+        "en": "Layer large tortillas, ground beef, and vegetables in order, close or roll firmly, halve, and serve while warm.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/beef-burrito/cover-1.png",
+      "alt": "Generated food photo of Beef burrito",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#beef-burrito/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#beef-burrito",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

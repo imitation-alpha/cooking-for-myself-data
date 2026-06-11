@@ -1,0 +1,329 @@
+{
+  "id": "cream-of-mushroom-soup-garlic-bread",
+  "status": "approved",
+  "names": {
+    "zhHant": "忌廉蘑菇湯配蒜蓉包",
+    "yue": "忌廉蘑菇湯配蒜蓉包",
+    "zhHans": "忌廉蘑菇汤配蒜蓉包",
+    "en": "Cream of mushroom soup with garlic bread",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "忌廉蘑菇湯配蒜蓉包 是一款湯和沙律，用 蘑菇 280、忌廉 120、牛奶 250、洋蔥半個、蒜頭 3 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "忌廉蘑菇湯配蒜蓉包 是一款湯和沙律，用 蘑菇 280、忌廉 120、牛奶 250、洋蔥半個、蒜頭 3 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "忌廉蘑菇汤配蒜蓉包 是一款汤和沙律，用 蘑菇 280、忌廉 120、牛奶 250、洋葱半个、蒜頭 3 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Cream of mushroom soup with garlic bread is a review-first candidate meal built around mushrooms, cream, milk, 1/2 onion."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 30,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "mushroom",
+      "amounts": {
+        "zhHant": "蘑菇 280 克",
+        "yue": "蘑菇 280 克",
+        "zhHans": "蘑菇 280 克",
+        "en": "280 g mushrooms",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 280,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cream",
+      "amounts": {
+        "zhHant": "忌廉 120 毫升",
+        "yue": "忌廉 120 毫升",
+        "zhHans": "忌廉 120 毫升",
+        "en": "120 ml cream",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 120,
+        "unit": "ml"
+      }
+    },
+    {
+      "ingredientId": "milk",
+      "amounts": {
+        "zhHant": "牛奶 250 毫升",
+        "yue": "牛奶 250 毫升",
+        "zhHans": "牛奶 250 毫升",
+        "en": "250 ml milk",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 250,
+        "unit": "ml"
+      }
+    },
+    {
+      "ingredientId": "onion",
+      "amounts": {
+        "zhHant": "洋蔥半個",
+        "yue": "洋蔥半個",
+        "zhHans": "洋葱半个",
+        "en": "1/2 onion",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 0.5,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "蒜頭 3 瓣",
+        "yue": "蒜頭 3 瓣",
+        "zhHans": "蒜頭 3 瓣",
+        "en": "3 garlic cloves",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 3,
+        "unit": "clove"
+      }
+    },
+    {
+      "ingredientId": "bread",
+      "amounts": {
+        "zhHant": "麵包 2 片",
+        "yue": "麵包 2 片",
+        "zhHans": "面包 2 片",
+        "en": "2 slices bread",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "slice"
+      }
+    },
+    {
+      "ingredientId": "butter",
+      "amounts": {
+        "zhHant": "牛油 25 克",
+        "yue": "牛油 25 克",
+        "zhHans": "牛油 25 克",
+        "en": "25 g butter",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 25,
+        "unit": "g"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "dairy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理忌廉和牛奶（忌廉蘑菇湯配蒜蓉包）",
+        "yue": "先處理忌廉和牛奶（忌廉蘑菇湯配蒜蓉包）",
+        "zhHans": "先處理忌廉和牛奶（忌廉蘑菇汤配蒜蓉包）",
+        "en": "Prep cream and milk (Cream of mushroom soup with garlic bread)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把忌廉抹乾或切成一口大小，牛奶和洋蔥分開放好；蘑菇按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把忌廉抹乾或切成一口大小，牛奶和洋蔥分開放好；蘑菇按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把忌廉抹干或切成一口大小，牛奶和洋葱分開放好；蘑菇按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the cream, keep the milk and onion separate, and get the mushrooms ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "炒軟蘑菇（忌廉蘑菇湯配蒜蓉包）",
+        "yue": "炒軟蘑菇（忌廉蘑菇湯配蒜蓉包）",
+        "zhHans": "炒软蘑菇（忌廉蘑菇汤配蒜蓉包）",
+        "en": "Soften mushrooms (Cream of mushroom soup with garlic bread)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蘑菇用牛油或油慢慢炒軟，加入洋蔥提香，這一步決定忌廉蘑菇湯配蒜蓉包的底味。",
+        "yue": "蘑菇用牛油或油慢慢炒軟，加入洋蔥提香，這一步決定忌廉蘑菇湯配蒜蓉包的底味。",
+        "zhHans": "蘑菇用牛油或油慢慢炒软，加入洋葱提香，这一步決定忌廉蘑菇汤配蒜蓉包的底味。",
+        "en": "Slowly soften mushrooms in butter or oil, add onion, and build the base flavor for Cream of mushroom soup with garlic bread.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "加入忌廉（忌廉蘑菇湯配蒜蓉包）",
+        "yue": "加入忌廉（忌廉蘑菇湯配蒜蓉包）",
+        "zhHans": "加入忌廉（忌廉蘑菇汤配蒜蓉包）",
+        "en": "Add cream (Cream of mushroom soup with garlic bread)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "忌廉下鍋後拌勻，再倒入牛奶或湯汁，小火煮到材料釋出甜味。 這一步看洋蔥和蒜頭的狀態決定時間，讓忌廉蘑菇湯配蒜蓉包完成時口感清楚。",
+        "yue": "忌廉下鍋後拌勻，再倒入牛奶或湯汁，小火煮到材料釋出甜味。 這一步看洋蔥和蒜頭的狀態決定時間，讓忌廉蘑菇湯配蒜蓉包完成時口感清楚。",
+        "zhHans": "忌廉下锅后拌勻，再倒入牛奶或汤汁，小火煮到材料釋出甜味。 这一步看洋葱和蒜頭的狀態決定時間，让忌廉蘑菇汤配蒜蓉包完成時口感清楚。",
+        "en": "Stir in cream, then add milk or stock and simmer gently until the ingredients give up their sweetness.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "調整湯身（忌廉蘑菇湯配蒜蓉包）",
+        "yue": "調整湯身（忌廉蘑菇湯配蒜蓉包）",
+        "zhHans": "调整汤身（忌廉蘑菇汤配蒜蓉包）",
+        "en": "Set the texture (Cream of mushroom soup with garlic bread)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "如果要幼滑就攪拌部分湯料；如果要有口感，就保留忌廉和蒜頭的粒狀。 這一步看蒜頭和麵包的狀態決定時間，讓忌廉蘑菇湯配蒜蓉包完成時口感清楚。",
+        "yue": "如果要幼滑就攪拌部分湯料；如果要有口感，就保留忌廉和蒜頭的粒狀。 這一步看蒜頭和麵包的狀態決定時間，讓忌廉蘑菇湯配蒜蓉包完成時口感清楚。",
+        "zhHans": "如果要幼滑就搅拌部分汤料；如果要有口感，就保留忌廉和蒜頭的粒狀。 这一步看蒜頭和面包的狀態決定時間，让忌廉蘑菇汤配蒜蓉包完成時口感清楚。",
+        "en": "Blend part of the soup for smoothness, or leave cream and garlic cloves chunky when texture matters.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "配麵包上桌（忌廉蘑菇湯配蒜蓉包）",
+        "yue": "配麵包上桌（忌廉蘑菇湯配蒜蓉包）",
+        "zhHans": "配面包上桌（忌廉蘑菇汤配蒜蓉包）",
+        "en": "Serve hot (Cream of mushroom soup with garlic bread)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "試味後趁熱盛碗，旁邊配麵包或多士，讓忌廉蘑菇湯配蒜蓉包有完整一餐的份量。",
+        "yue": "試味後趁熱盛碗，旁邊配麵包或多士，讓忌廉蘑菇湯配蒜蓉包有完整一餐的份量。",
+        "zhHans": "試味后趁热盛碗，旁边配面包或多士，让忌廉蘑菇汤配蒜蓉包有完整一餐的份量。",
+        "en": "Taste, bowl while hot, and serve with bread or toast so Cream of mushroom soup with garlic bread feels like a full meal.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/cream-of-mushroom-soup-garlic-bread/cover-1.png",
+      "alt": "Generated food photo of Cream of mushroom soup with garlic bread",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#cream-of-mushroom-soup-garlic-bread/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#cream-of-mushroom-soup-garlic-bread",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

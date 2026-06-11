@@ -16,7 +16,7 @@
     "tl"
   ],
   "counts": {
-    "ingredients": 126,
+    "ingredients": 132,
     "meals": 88
   },
   "licenses": {
@@ -150,6 +150,12 @@
     "bulgur",
     "harissa",
     "tahini",
-    "mustard-sauce"
+    "mustard-sauce",
+    "beef-steak",
+    "dried-shrimp",
+    "lasagna-noodle",
+    "pepperoni",
+    "pizza-dough",
+    "pork-shoulder"
   ]
 }

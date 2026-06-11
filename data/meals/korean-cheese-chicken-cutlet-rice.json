@@ -1,0 +1,332 @@
+{
+  "id": "korean-cheese-chicken-cutlet-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "韓式芝士雞扒飯",
+    "yue": "韓式芝士雞扒飯",
+    "zhHans": "韓式芝士鸡扒饭",
+    "en": "Korean cheese chicken cutlet rice",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "韓式芝士雞扒飯 是一款亞洲飯碟，用 白米 1、去骨雞腿扒 2、芝士 2、麵包糠 60、雞蛋 1 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "韓式芝士雞扒飯 是一款亞洲飯碟，用 白米 1、去骨雞腿扒 2、芝士 2、麵包糠 60、雞蛋 1 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "韓式芝士鸡扒饭 是一款亞洲饭碟，用 白米 1、去骨鸡腿扒 2、芝士 2、面包糠 60、鸡蛋 1 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Korean cheese chicken cutlet rice is a review-first candidate meal built around rice, 2 boneless chicken thighs, cheese, breadcrumbs."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 35,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "白米 1 杯",
+        "yue": "白米 1 杯",
+        "zhHans": "白米 1 杯",
+        "en": "1 cup rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "cup"
+      }
+    },
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "去骨雞腿扒 2 塊",
+        "yue": "去骨雞腿扒 2 塊",
+        "zhHans": "去骨鸡腿扒 2 块",
+        "en": "2 boneless chicken thighs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "cheese",
+      "amounts": {
+        "zhHant": "芝士 2 片",
+        "yue": "芝士 2 片",
+        "zhHans": "芝士 2 片",
+        "en": "2 slices cheese",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "slice"
+      }
+    },
+    {
+      "ingredientId": "breadcrumbs",
+      "amounts": {
+        "zhHant": "麵包糠 60 克",
+        "yue": "麵包糠 60 克",
+        "zhHans": "面包糠 60 克",
+        "en": "60 g breadcrumbs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 60,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "雞蛋 1 隻",
+        "yue": "雞蛋 1 隻",
+        "zhHans": "鸡蛋 1 只",
+        "en": "1 egg",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "gochujang",
+      "amounts": {
+        "zhHant": "韓式辣醬 1 湯匙",
+        "yue": "韓式辣醬 1 湯匙",
+        "zhHans": "韓式辣酱 1 汤匙",
+        "en": "1 tbsp gochujang",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "tbsp"
+      }
+    },
+    {
+      "ingredientId": "cabbage",
+      "amounts": {
+        "zhHant": "椰菜絲 120 克",
+        "yue": "椰菜絲 120 克",
+        "zhHans": "椰菜絲 120 克",
+        "en": "120 g shredded cabbage",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 120,
+        "unit": "g"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "egg",
+    "dairy",
+    "soy",
+    "wheatGluten",
+    "spicy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理去骨雞腿扒和芝士（韓式芝士雞扒飯）",
+        "yue": "先處理去骨雞腿扒和芝士（韓式芝士雞扒飯）",
+        "zhHans": "先處理去骨鸡腿扒和芝士（韓式芝士鸡扒饭）",
+        "en": "Prep boneless chicken thighs and cheese (Korean cheese chicken cutlet rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把去骨雞腿扒抹乾或切成一口大小，芝士和麵包糠分開放好；白米按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把去骨雞腿扒抹乾或切成一口大小，芝士和麵包糠分開放好；白米按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把去骨鸡腿扒抹干或切成一口大小，芝士和面包糠分開放好；白米按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the boneless chicken thighs, keep the cheese and breadcrumbs separate, and get the rice ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "先煮白米（韓式芝士雞扒飯）",
+        "yue": "先煮白米（韓式芝士雞扒飯）",
+        "zhHans": "先煮白米（韓式芝士鸡扒饭）",
+        "en": "Cook rice (Korean cheese chicken cutlet rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米先煮到可上碟的狀態並保溫；韓式芝士雞扒飯完成時就能直接組合。 這一步看芝士和麵包糠的狀態決定時間，讓韓式芝士雞扒飯完成時口感清楚。",
+        "yue": "白米先煮到可上碟的狀態並保溫；韓式芝士雞扒飯完成時就能直接組合。 這一步看芝士和麵包糠的狀態決定時間，讓韓式芝士雞扒飯完成時口感清楚。",
+        "zhHans": "白米先煮到可上碟的狀態並保溫；韓式芝士鸡扒饭完成時就能直接組合。 这一步看芝士和面包糠的狀態決定時間，让韓式芝士鸡扒饭完成時口感清楚。",
+        "en": "Cook rice until ready to serve and keep it warm so Korean cheese chicken cutlet rice can be assembled immediately. Check rice against boneless chicken thighs and keep the 35-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煎香去骨雞腿扒（韓式芝士雞扒飯）",
+        "yue": "煎香去骨雞腿扒（韓式芝士雞扒飯）",
+        "zhHans": "煎香去骨鸡腿扒（韓式芝士鸡扒饭）",
+        "en": "Sear boneless chicken thighs (Korean cheese chicken cutlet rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "去骨雞腿扒抹乾後下鍋，表面上色才翻動；加入芝士時轉中火，避免外焦內生。",
+        "yue": "去骨雞腿扒抹乾後下鍋，表面上色才翻動；加入芝士時轉中火，避免外焦內生。",
+        "zhHans": "去骨鸡腿扒抹干后下锅，表面上色才翻動；加入芝士時转中火，避免外焦内生。",
+        "en": "Dry boneless chicken thighs, sear until colored before moving it, then add cheese over medium heat for control.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "用芝士收味（韓式芝士雞扒飯）",
+        "yue": "用芝士收味（韓式芝士雞扒飯）",
+        "zhHans": "用芝士收味（韓式芝士鸡扒饭）",
+        "en": "Finish with cheese (Korean cheese chicken cutlet rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "同鍋加入芝士和麵包糠，刮起鍋底香味，小火煮到可以薄薄掛在去骨雞腿扒上。",
+        "yue": "同鍋加入芝士和麵包糠，刮起鍋底香味，小火煮到可以薄薄掛在去骨雞腿扒上。",
+        "zhHans": "同锅加入芝士和面包糠，刮起锅底香味，小火煮到可以薄薄掛在去骨鸡腿扒上。",
+        "en": "Add cheese and breadcrumbs to the same pan, scrape up browned bits, and simmer until it coats the boneless chicken thighs.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "排好韓式芝士雞扒飯（韓式芝士雞扒飯）",
+        "yue": "排好韓式芝士雞扒飯（韓式芝士雞扒飯）",
+        "zhHans": "排好韓式芝士鸡扒饭（韓式芝士鸡扒饭）",
+        "en": "Plate Korean cheese chicken cutlet rice (Korean cheese chicken cutlet rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米先放底，鋪上去骨雞腿扒和芝士，最後淋少量醬汁，保持份量清楚。 這一步看韓式辣醬和椰菜絲的狀態決定時間，讓韓式芝士雞扒飯完成時口感清楚。",
+        "yue": "白米先放底，鋪上去骨雞腿扒和芝士，最後淋少量醬汁，保持份量清楚。 這一步看韓式辣醬和椰菜絲的狀態決定時間，讓韓式芝士雞扒飯完成時口感清楚。",
+        "zhHans": "白米先放底，鋪上去骨鸡腿扒和芝士，最后淋少量酱汁，保持份量清楚。 这一步看韓式辣酱和椰菜絲的狀態決定時間，让韓式芝士鸡扒饭完成時口感清楚。",
+        "en": "Set down rice, add boneless chicken thighs and cheese, then spoon over a little sauce for a tidy plate.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/korean-cheese-chicken-cutlet-rice/cover-1.png",
+      "alt": "Generated food photo of Korean cheese chicken cutlet rice",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#korean-cheese-chicken-cutlet-rice/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#korean-cheese-chicken-cutlet-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

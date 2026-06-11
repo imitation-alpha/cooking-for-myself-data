@@ -1,0 +1,310 @@
+{
+  "id": "pan-seared-salmon-mashed-potatoes",
+  "status": "approved",
+  "names": {
+    "zhHant": "香煎三文魚配薯蓉",
+    "yue": "香煎三文魚配薯蓉",
+    "zhHans": "香煎三文鱼配薯蓉",
+    "en": "Pan-seared salmon with mashed potatoes",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "香煎三文魚配薯蓉 是一款西式碟飯和主菜，用 三文魚柳 2、薯仔 450、牛油 30、忌廉 60、蒜頭 1 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "香煎三文魚配薯蓉 是一款西式碟飯和主菜，用 三文魚柳 2、薯仔 450、牛油 30、忌廉 60、蒜頭 1 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "香煎三文鱼配薯蓉 是一款西式碟饭和主菜，用 三文鱼柳 2、薯仔 450、牛油 30、忌廉 60、蒜頭 1 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Pan-seared salmon with mashed potatoes is a review-first candidate meal built around 2 salmon fillets, potatoes, butter, cream."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 30,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "salmon-fillet",
+      "amounts": {
+        "zhHant": "三文魚柳 2 件",
+        "yue": "三文魚柳 2 件",
+        "zhHans": "三文鱼柳 2 件",
+        "en": "2 salmon fillets",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "potato",
+      "amounts": {
+        "zhHant": "薯仔 450 克",
+        "yue": "薯仔 450 克",
+        "zhHans": "薯仔 450 克",
+        "en": "450 g potatoes",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 450,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "butter",
+      "amounts": {
+        "zhHant": "牛油 30 克",
+        "yue": "牛油 30 克",
+        "zhHans": "牛油 30 克",
+        "en": "30 g butter",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 30,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cream",
+      "amounts": {
+        "zhHant": "忌廉 60 毫升",
+        "yue": "忌廉 60 毫升",
+        "zhHans": "忌廉 60 毫升",
+        "en": "60 ml cream",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 60,
+        "unit": "ml"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "蒜頭 1 瓣",
+        "yue": "蒜頭 1 瓣",
+        "zhHans": "蒜頭 1 瓣",
+        "en": "1 garlic clove",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "clove"
+      }
+    },
+    {
+      "ingredientId": "olive-oil",
+      "amounts": {
+        "zhHant": "橄欖油 1 湯匙",
+        "yue": "橄欖油 1 湯匙",
+        "zhHans": "橄欖油 1 汤匙",
+        "en": "1 tbsp olive oil",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "tbsp"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "fish",
+    "dairy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理薯仔和牛油（香煎三文魚配薯蓉）",
+        "yue": "先處理薯仔和牛油（香煎三文魚配薯蓉）",
+        "zhHans": "先處理薯仔和牛油（香煎三文鱼配薯蓉）",
+        "en": "Prep potatoes and butter (Pan-seared salmon with mashed potatoes)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把薯仔抹乾或切成一口大小，牛油和忌廉分開放好；三文魚柳按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把薯仔抹乾或切成一口大小，牛油和忌廉分開放好；三文魚柳按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把薯仔抹干或切成一口大小，牛油和忌廉分開放好；三文鱼柳按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the potatoes, keep the butter and cream separate, and get the salmon fillets ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "先煮三文魚柳（香煎三文魚配薯蓉）",
+        "yue": "先煮三文魚柳（香煎三文魚配薯蓉）",
+        "zhHans": "先煮三文鱼柳（香煎三文鱼配薯蓉）",
+        "en": "Cook salmon fillets (Pan-seared salmon with mashed potatoes)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "三文魚柳先煮到可上碟的狀態並保溫；香煎三文魚配薯蓉完成時就能直接組合。",
+        "yue": "三文魚柳先煮到可上碟的狀態並保溫；香煎三文魚配薯蓉完成時就能直接組合。",
+        "zhHans": "三文鱼柳先煮到可上碟的狀態並保溫；香煎三文鱼配薯蓉完成時就能直接組合。",
+        "en": "Cook salmon fillets until ready to serve and keep it warm so Pan-seared salmon with mashed potatoes can be assembled immediately.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煎香薯仔（香煎三文魚配薯蓉）",
+        "yue": "煎香薯仔（香煎三文魚配薯蓉）",
+        "zhHans": "煎香薯仔（香煎三文鱼配薯蓉）",
+        "en": "Sear potatoes (Pan-seared salmon with mashed potatoes)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "薯仔抹乾後下鍋，表面上色才翻動；加入牛油時轉中火，避免外焦內生。 這一步看忌廉和蒜頭的狀態決定時間，讓香煎三文魚配薯蓉完成時口感清楚。",
+        "yue": "薯仔抹乾後下鍋，表面上色才翻動；加入牛油時轉中火，避免外焦內生。 這一步看忌廉和蒜頭的狀態決定時間，讓香煎三文魚配薯蓉完成時口感清楚。",
+        "zhHans": "薯仔抹干后下锅，表面上色才翻動；加入牛油時转中火，避免外焦内生。 这一步看忌廉和蒜頭的狀態決定時間，让香煎三文鱼配薯蓉完成時口感清楚。",
+        "en": "Dry potatoes, sear until colored before moving it, then add butter over medium heat for control. Check salmon fillets against potatoes and keep the 30-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "用牛油收味（香煎三文魚配薯蓉）",
+        "yue": "用牛油收味（香煎三文魚配薯蓉）",
+        "zhHans": "用牛油收味（香煎三文鱼配薯蓉）",
+        "en": "Finish with butter (Pan-seared salmon with mashed potatoes)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "同鍋加入牛油和忌廉，刮起鍋底香味，小火煮到可以薄薄掛在薯仔上。 這一步看蒜頭和橄欖油的狀態決定時間，讓香煎三文魚配薯蓉完成時口感清楚。",
+        "yue": "同鍋加入牛油和忌廉，刮起鍋底香味，小火煮到可以薄薄掛在薯仔上。 這一步看蒜頭和橄欖油的狀態決定時間，讓香煎三文魚配薯蓉完成時口感清楚。",
+        "zhHans": "同锅加入牛油和忌廉，刮起锅底香味，小火煮到可以薄薄掛在薯仔上。 这一步看蒜頭和橄欖油的狀態決定時間，让香煎三文鱼配薯蓉完成時口感清楚。",
+        "en": "Add butter and cream to the same pan, scrape up browned bits, and simmer until it coats the potatoes.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "排好香煎三文魚配薯蓉（香煎三文魚配薯蓉）",
+        "yue": "排好香煎三文魚配薯蓉（香煎三文魚配薯蓉）",
+        "zhHans": "排好香煎三文鱼配薯蓉（香煎三文鱼配薯蓉）",
+        "en": "Plate Pan-seared salmon with mashed potatoes (Pan-seared salmon with mashed potatoes)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "三文魚柳先放底，鋪上薯仔和牛油，最後淋少量醬汁，保持份量清楚。 這一步看橄欖油和三文魚柳的狀態決定時間，讓香煎三文魚配薯蓉完成時口感清楚。",
+        "yue": "三文魚柳先放底，鋪上薯仔和牛油，最後淋少量醬汁，保持份量清楚。 這一步看橄欖油和三文魚柳的狀態決定時間，讓香煎三文魚配薯蓉完成時口感清楚。",
+        "zhHans": "三文鱼柳先放底，鋪上薯仔和牛油，最后淋少量酱汁，保持份量清楚。 这一步看橄欖油和三文鱼柳的狀態決定時間，让香煎三文鱼配薯蓉完成時口感清楚。",
+        "en": "Set down salmon fillets, add potatoes and butter, then spoon over a little sauce for a tidy plate.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/pan-seared-salmon-mashed-potatoes/cover-1.png",
+      "alt": "Generated food photo of Pan-seared salmon with mashed potatoes",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#pan-seared-salmon-mashed-potatoes/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#pan-seared-salmon-mashed-potatoes",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

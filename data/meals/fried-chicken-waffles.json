@@ -1,0 +1,311 @@
+{
+  "id": "fried-chicken-waffles",
+  "status": "approved",
+  "names": {
+    "zhHant": "炸雞窩夫",
+    "yue": "炸雞窩夫",
+    "zhHans": "炸鸡窩夫",
+    "en": "Fried chicken waffles",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "炸雞窩夫 是一款西式碟飯和主菜，用 雞腿扒 2、窩夫粉 180、雞蛋 2、牛奶 180、牛油 25 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "炸雞窩夫 是一款西式碟飯和主菜，用 雞腿扒 2、窩夫粉 180、雞蛋 2、牛奶 180、牛油 25 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "炸鸡窩夫 是一款西式碟饭和主菜，用 鸡腿扒 2、窩夫粉 180、鸡蛋 2、牛奶 180、牛油 25 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Fried chicken waffles is a review-first candidate meal built around 2 chicken thighs, pancake mix, 2 eggs, milk."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 40,
+  "difficulty": "需時",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "雞腿扒 2 塊",
+        "yue": "雞腿扒 2 塊",
+        "zhHans": "鸡腿扒 2 块",
+        "en": "2 chicken thighs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "pancake-mix",
+      "amounts": {
+        "zhHant": "窩夫粉 180 克",
+        "yue": "窩夫粉 180 克",
+        "zhHans": "窩夫粉 180 克",
+        "en": "180 g pancake mix",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 180,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "雞蛋 2 隻",
+        "yue": "雞蛋 2 隻",
+        "zhHans": "鸡蛋 2 只",
+        "en": "2 eggs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "milk",
+      "amounts": {
+        "zhHant": "牛奶 180 毫升",
+        "yue": "牛奶 180 毫升",
+        "zhHans": "牛奶 180 毫升",
+        "en": "180 ml milk",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 180,
+        "unit": "ml"
+      }
+    },
+    {
+      "ingredientId": "butter",
+      "amounts": {
+        "zhHant": "牛油 25 克",
+        "yue": "牛油 25 克",
+        "zhHans": "牛油 25 克",
+        "en": "25 g butter",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 25,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "flour",
+      "amounts": {
+        "zhHant": "麵粉 60 克",
+        "yue": "麵粉 60 克",
+        "zhHans": "面粉 60 克",
+        "en": "60 g flour",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 60,
+        "unit": "g"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "egg",
+    "dairy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "醃好雞腿扒（炸雞窩夫）",
+        "yue": "醃好雞腿扒（炸雞窩夫）",
+        "zhHans": "醃好鸡腿扒（炸鸡窩夫）",
+        "en": "Season chicken thighs (Fried chicken waffles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "雞腿扒抹乾後用鹽、胡椒和少量麵粉薄薄撲面，靜置十分鐘；外層乾身才容易炸出脆皮。",
+        "yue": "雞腿扒抹乾後用鹽、胡椒和少量麵粉薄薄撲面，靜置十分鐘；外層乾身才容易炸出脆皮。",
+        "zhHans": "鸡腿扒抹干后用盐、胡椒和少量面粉薄薄撲面，靜置十分钟；外层干身才容易炸出脆皮。",
+        "en": "Pat the chicken thighs dry, season it, dust lightly with flour, and rest for ten minutes so the crust fries crisp.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "拌好窩夫糊（炸雞窩夫）",
+        "yue": "拌好窩夫糊（炸雞窩夫）",
+        "zhHans": "拌好窩夫糊（炸鸡窩夫）",
+        "en": "Mix the waffle batter (Fried chicken waffles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "窩夫粉、雞蛋和牛奶拌至剛無乾粉，再加入融化牛油；不要過度攪拌，窩夫才會鬆。",
+        "yue": "窩夫粉、雞蛋和牛奶拌至剛無乾粉，再加入融化牛油；不要過度攪拌，窩夫才會鬆。",
+        "zhHans": "窩夫粉、鸡蛋和牛奶拌至剛無干粉，再加入融化牛油；不要過度搅拌，窩夫才会松。",
+        "en": "Mix pancake mix, eggs, and milk just until no dry streaks remain, then fold in melted butter.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煎出窩夫（炸雞窩夫）",
+        "yue": "煎出窩夫（炸雞窩夫）",
+        "zhHans": "煎出窩夫（炸鸡窩夫）",
+        "en": "Cook the waffles (Fried chicken waffles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "窩夫機或平底鍋先預熱並掃少量牛油，倒入麵糊煎至兩面金黃，取出放架上保持脆身。",
+        "yue": "窩夫機或平底鍋先預熱並掃少量牛油，倒入麵糊煎至兩面金黃，取出放架上保持脆身。",
+        "zhHans": "窩夫機或平底锅先預热並掃少量牛油，倒入面糊煎至兩面金黃，取出放架上保持脆身。",
+        "en": "Heat the waffle iron or pan, brush with a little butter, cook the batter until golden, and hold the waffles on a rack.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "炸香雞腿扒（炸雞窩夫）",
+        "yue": "炸香雞腿扒（炸雞窩夫）",
+        "zhHans": "炸香鸡腿扒（炸鸡窩夫）",
+        "en": "Fry the chicken thighs (Fried chicken waffles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "雞腿扒用中火炸或半煎炸至金黃熟透，瀝油後靜置兩分鐘，讓肉汁回穩再放上窩夫。",
+        "yue": "雞腿扒用中火炸或半煎炸至金黃熟透，瀝油後靜置兩分鐘，讓肉汁回穩再放上窩夫。",
+        "zhHans": "鸡腿扒用中火炸或半煎炸至金黃熟透，瀝油后靜置兩分钟，让肉汁回穩再放上窩夫。",
+        "en": "Fry or shallow-fry the chicken thighs over medium heat until golden and cooked through, then drain and rest for two minutes.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "疊好炸雞窩夫（炸雞窩夫）",
+        "yue": "疊好炸雞窩夫（炸雞窩夫）",
+        "zhHans": "疊好炸鸡窩夫（炸鸡窩夫）",
+        "en": "Assemble chicken and waffles (Fried chicken waffles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "窩夫先放底，放上雞腿扒，最後加少量牛油或糖漿；趁窩夫仍脆、炸雞仍熱時上桌。",
+        "yue": "窩夫先放底，放上雞腿扒，最後加少量牛油或糖漿；趁窩夫仍脆、炸雞仍熱時上桌。",
+        "zhHans": "窩夫先放底，放上鸡腿扒，最后加少量牛油或糖浆；趁窩夫仍脆、炸鸡仍热時上桌。",
+        "en": "Set the waffles down first, add the chicken thighs, finish with a little butter or syrup, and serve while crisp and hot.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/fried-chicken-waffles/cover-1.png",
+      "alt": "Generated food photo of Fried chicken waffles",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#fried-chicken-waffles/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#fried-chicken-waffles",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "id": "salt-crispy-chicken-scallion-pancake-wrap",
+  "status": "approved",
+  "names": {
+    "zhHant": "鹽酥雞蔥抓餅卷",
+    "yue": "鹽酥雞蔥抓餅卷",
+    "zhHans": "盐酥鸡葱抓饼卷",
+    "en": "Salt-crispy chicken scallion pancake wrap",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "鹽酥雞蔥抓餅卷 是一款亞洲卷餅，用 蔥抓餅 2、去骨雞腿肉 280、青瓜半條、海鮮醬 1、蒜頭 2 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "鹽酥雞蔥抓餅卷 是一款亞洲卷餅，用 蔥抓餅 2、去骨雞腿肉 280、青瓜半條、海鮮醬 1、蒜頭 2 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "盐酥鸡葱抓饼卷 是一款亞洲卷饼，用 葱抓饼 2、去骨鸡腿肉 280、青瓜半条、海鲜酱 1、蒜頭 2 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Salt-crispy chicken scallion pancake wrap is a review-first candidate meal built around 2 scallion pancakes, boneless chicken thigh, 1/2 cucumber, hoisin sauce."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 35,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "scallion-pancake",
+      "amounts": {
+        "zhHant": "蔥抓餅 2 張",
+        "yue": "蔥抓餅 2 張",
+        "zhHans": "葱抓饼 2 张",
+        "en": "2 scallion pancakes",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "去骨雞腿肉 280 克",
+        "yue": "去骨雞腿肉 280 克",
+        "zhHans": "去骨鸡腿肉 280 克",
+        "en": "280 g boneless chicken thigh",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 280,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cucumber",
+      "amounts": {
+        "zhHant": "青瓜半條",
+        "yue": "青瓜半條",
+        "zhHans": "青瓜半条",
+        "en": "1/2 cucumber",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 0.5,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "hoisin-sauce",
+      "amounts": {
+        "zhHant": "海鮮醬 1 湯匙",
+        "yue": "海鮮醬 1 湯匙",
+        "zhHans": "海鲜酱 1 汤匙",
+        "en": "1 tbsp hoisin sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "tbsp"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "蒜頭 2 瓣",
+        "yue": "蒜頭 2 瓣",
+        "zhHans": "蒜頭 2 瓣",
+        "en": "2 garlic cloves",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "clove"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理去骨雞腿肉和青瓜（鹽酥雞蔥抓餅卷）",
+        "yue": "先處理去骨雞腿肉和青瓜（鹽酥雞蔥抓餅卷）",
+        "zhHans": "先處理去骨鸡腿肉和青瓜（盐酥鸡葱抓饼卷）",
+        "en": "Prep boneless chicken thigh and cucumber (Salt-crispy chicken scallion pancake wrap)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把去骨雞腿肉抹乾或切成一口大小，青瓜和海鮮醬分開放好；蔥抓餅按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把去骨雞腿肉抹乾或切成一口大小，青瓜和海鮮醬分開放好；蔥抓餅按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把去骨鸡腿肉抹干或切成一口大小，青瓜和海鲜酱分開放好；葱抓饼按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the boneless chicken thigh, keep the cucumber and hoisin sauce separate, and get the scallion pancakes ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "煎好去骨雞腿肉（鹽酥雞蔥抓餅卷）",
+        "yue": "煎好去骨雞腿肉（鹽酥雞蔥抓餅卷）",
+        "zhHans": "煎好去骨鸡腿肉（盐酥鸡葱抓饼卷）",
+        "en": "Cook boneless chicken thigh (Salt-crispy chicken scallion pancake wrap)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "去骨雞腿肉先調味後煎至熟透，靜置兩分鐘才切或夾入，肉汁不會把蔥抓餅浸濕。",
+        "yue": "去骨雞腿肉先調味後煎至熟透，靜置兩分鐘才切或夾入，肉汁不會把蔥抓餅浸濕。",
+        "zhHans": "去骨鸡腿肉先调味后煎至熟透，靜置兩分钟才切或夾入，肉汁不会把葱抓饼浸湿。",
+        "en": "Season and cook boneless chicken thigh through, then rest for two minutes before slicing or filling so the scallion pancakes stays dry.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "整理青瓜配菜（鹽酥雞蔥抓餅卷）",
+        "yue": "整理青瓜配菜（鹽酥雞蔥抓餅卷）",
+        "zhHans": "整理青瓜配菜（盐酥鸡葱抓饼卷）",
+        "en": "Ready cucumber (Salt-crispy chicken scallion pancake wrap)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "青瓜、海鮮醬和蒜頭切好後抹乾，鹽酥雞蔥抓餅卷入口會爽口而不鬆散。 這一步看海鮮醬和蒜頭的狀態決定時間，讓鹽酥雞蔥抓餅卷完成時口感清楚。",
+        "yue": "青瓜、海鮮醬和蒜頭切好後抹乾，鹽酥雞蔥抓餅卷入口會爽口而不鬆散。 這一步看海鮮醬和蒜頭的狀態決定時間，讓鹽酥雞蔥抓餅卷完成時口感清楚。",
+        "zhHans": "青瓜、海鲜酱和蒜頭切好后抹干，盐酥鸡葱抓饼卷入口会爽口而不松散。 这一步看海鲜酱和蒜頭的狀態決定時間，让盐酥鸡葱抓饼卷完成時口感清楚。",
+        "en": "Cut and dry cucumber, hoisin sauce, and garlic cloves so Salt-crispy chicken scallion pancake wrap stays crisp and holds together.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "烘熱蔥抓餅（鹽酥雞蔥抓餅卷）",
+        "yue": "烘熱蔥抓餅（鹽酥雞蔥抓餅卷）",
+        "zhHans": "烘热葱抓饼（盐酥鸡葱抓饼卷）",
+        "en": "Toast scallion pancakes (Salt-crispy chicken scallion pancake wrap)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蔥抓餅用乾鍋烘至微脆，再抹上海鮮醬；熱餡料放上去也不會太快變軟。 這一步看蒜頭和蔥抓餅的狀態決定時間，讓鹽酥雞蔥抓餅卷完成時口感清楚。",
+        "yue": "蔥抓餅用乾鍋烘至微脆，再抹上海鮮醬；熱餡料放上去也不會太快變軟。 這一步看蒜頭和蔥抓餅的狀態決定時間，讓鹽酥雞蔥抓餅卷完成時口感清楚。",
+        "zhHans": "葱抓饼用干锅烘至微脆，再抹上海鲜酱；热餡料放上去也不会太快變软。 这一步看蒜頭和葱抓饼的狀態決定時間，让盐酥鸡葱抓饼卷完成時口感清楚。",
+        "en": "Toast the scallion pancakes until lightly crisp, then spread hoisin sauce so hot filling does not soften it too quickly.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "夾緊上桌（鹽酥雞蔥抓餅卷）",
+        "yue": "夾緊上桌（鹽酥雞蔥抓餅卷）",
+        "zhHans": "夾緊上桌（盐酥鸡葱抓饼卷）",
+        "en": "Assemble firmly (Salt-crispy chicken scallion pancake wrap)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "按蔥抓餅、去骨雞腿肉、配菜的次序組合，卷緊或合上後切半，趁外層仍暖時食用。",
+        "yue": "按蔥抓餅、去骨雞腿肉、配菜的次序組合，卷緊或合上後切半，趁外層仍暖時食用。",
+        "zhHans": "按葱抓饼、去骨鸡腿肉、配菜的次序組合，卷緊或合上后切半，趁外层仍暖時食用。",
+        "en": "Layer scallion pancakes, boneless chicken thigh, and vegetables in order, close or roll firmly, halve, and serve while warm.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/salt-crispy-chicken-scallion-pancake-wrap/cover-1.png",
+      "alt": "Generated food photo of Salt-crispy chicken scallion pancake wrap",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#salt-crispy-chicken-scallion-pancake-wrap/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#salt-crispy-chicken-scallion-pancake-wrap",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}
