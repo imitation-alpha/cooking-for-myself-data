@@ -29,7 +29,36 @@ let activeTag = null;
 
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) =>
   ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
-const loc = (obj, l = lang) => (obj && (obj[l] ?? obj.zhHant ?? obj.english)) || '';
+const LANG_LABEL = Object.fromEntries(LANGS);
+// Resolve a localized object, reporting which language actually supplied the
+// text. Translations are uneven (e.g. names exist in ko but steps don't), so
+// callers can flag when the chosen language fell back to another.
+const locF = (obj, l = lang) => {
+  if (!obj || typeof obj !== 'object') return { text: '', from: null };
+  for (const k of [l, 'zhHant', 'english']) if (obj[k]) return { text: obj[k], from: k };
+  return { text: '', from: null };
+};
+const loc = (obj, l = lang) => locF(obj, l).text;
+// A section-scoped localizer: fld() renders an escaped field, marking and
+// remembering any fallback so note() can summarize it next to the heading.
+const mkFld = () => {
+  const used = new Set();
+  return {
+    fld(obj) {
+      const { text, from } = locF(obj);
+      if (from && from !== lang) {
+        used.add(from);
+        return `<span class="fallback" title="${esc(LANG_LABEL[lang] || lang)} unavailable — showing ${esc(LANG_LABEL[from] || from)}">${esc(text)}</span>`;
+      }
+      return esc(text);
+    },
+    note() {
+      if (!used.size) return '';
+      const shown = [...used].map((k) => LANG_LABEL[k] || k).join(' / ');
+      return ` <span class="fallback-note">${esc(LANG_LABEL[lang] || lang)} translation pending — showing ${esc(shown)}</span>`;
+    }
+  };
+};
 
 async function boot() {
   try {
@@ -139,18 +168,20 @@ function renderDetail(id) {
   const prev = ordered[(i - 1 + ordered.length) % ordered.length];
   const nextR = ordered[(i + 1) % ordered.length];
   const en = r.names && r.names.english;
+  const iF = mkFld();
   const ings = (r.ingredients || []).map((u) => {
     const ing = ingredientsById.get(u.ingredientId);
-    const nm = ing ? loc(ing.names) : u.ingredientId;
-    const amt = loc(u.amounts) || u.amountEn || u.amountZh || '';
+    const nm = ing ? iF.fld(ing.names) : esc(u.ingredientId);
+    const amt = u.amounts ? iF.fld(u.amounts) : esc(u.amountEn || u.amountZh || '');
     return `<li>
       <img loading="lazy" alt="" src="./assets/ingredients/${esc(u.ingredientId)}.png"
            onerror="this.style.visibility='hidden'">
-      <span><strong>${esc(nm)}</strong>${amt ? ' — ' + esc(amt) : ''}</span></li>`;
+      <span><strong>${nm}</strong>${amt ? ' — ' + amt : ''}</span></li>`;
   }).join('');
+  const sF = mkFld();
   const steps = (r.steps || []).map((s, n) => `
-    <li><div class="st">${n + 1}. ${esc(loc(s.title))}</div>
-        <div class="sd">${esc(loc(s.instruction))}</div></li>`).join('');
+    <li><div class="st">${n + 1}. ${sF.fld(s.title)}</div>
+        <div class="sd">${sF.fld(s.instruction)}</div></li>`).join('');
   const tagChips = (r.tags || []).map((t) => `<span class="chip static">${esc(t)}</span>`).join(' ');
   const p = r.source || {};
   view.innerHTML = `
@@ -169,8 +200,8 @@ function renderDetail(id) {
         ${loc(r.summary) ? `<p>${esc(loc(r.summary))}</p>` : ''}
         ${loc(r.reason) ? `<p class="prov">${esc(loc(r.reason))}</p>` : ''}
       </div>
-      <section><h2>Ingredients</h2><ul class="ings">${ings}</ul></section>
-      <section><h2>Steps</h2><ol class="steps">${steps}</ol></section>
+      <section><h2>Ingredients${iF.note()}</h2><ul class="ings">${ings}</ul></section>
+      <section><h2>Steps${sF.note()}</h2><ol class="steps">${steps}</ol></section>
       <section><h2>Provenance</h2>
         <p class="prov">${esc(p.sourceName || '')} · ${esc(p.license || '')} ·
         ${esc(p.attribution || '')} · review: ${esc(p.reviewStatus || r.reviewStatus || '')}${
