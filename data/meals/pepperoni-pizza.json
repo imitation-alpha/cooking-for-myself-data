@@ -1,0 +1,311 @@
+{
+  "id": "pepperoni-pizza",
+  "status": "approved",
+  "names": {
+    "zhHant": "辣肉腸薄餅",
+    "yue": "辣肉腸薄餅",
+    "zhHans": "辣肉肠薄饼",
+    "en": "Pepperoni pizza",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "辣肉腸薄餅 是一款薄餅焗盤，用 薄餅麵糰 1、辣肉腸 80、芝士 130、番茄醬底 180、蘑菇 80 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "辣肉腸薄餅 是一款薄餅焗盤，用 薄餅麵糰 1、辣肉腸 80、芝士 130、番茄醬底 180、蘑菇 80 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "辣肉肠薄饼 是一款薄饼焗盘，用 薄饼面糰 1、辣肉肠 80、芝士 130、番茄酱底 180、蘑菇 80 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Pepperoni pizza is a review-first candidate meal built around 1 pizza dough, pepperoni, cheese, canned tomato sauce."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 30,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "pizza-dough",
+      "amounts": {
+        "zhHant": "薄餅麵糰 1 個",
+        "yue": "薄餅麵糰 1 個",
+        "zhHans": "薄饼面糰 1 个",
+        "en": "1 pizza dough",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "pepperoni",
+      "amounts": {
+        "zhHant": "辣肉腸 80 克",
+        "yue": "辣肉腸 80 克",
+        "zhHans": "辣肉肠 80 克",
+        "en": "80 g pepperoni",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 80,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cheese",
+      "amounts": {
+        "zhHant": "芝士 130 克",
+        "yue": "芝士 130 克",
+        "zhHans": "芝士 130 克",
+        "en": "130 g cheese",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 130,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "canned-tomato",
+      "amounts": {
+        "zhHant": "番茄醬底 180 克",
+        "yue": "番茄醬底 180 克",
+        "zhHans": "番茄酱底 180 克",
+        "en": "180 g canned tomato sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 180,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "mushroom",
+      "amounts": {
+        "zhHant": "蘑菇 80 克",
+        "yue": "蘑菇 80 克",
+        "zhHans": "蘑菇 80 克",
+        "en": "80 g mushrooms",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 80,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "bell-pepper",
+      "amounts": {
+        "zhHant": "甜椒半個",
+        "yue": "甜椒半個",
+        "zhHans": "甜椒半个",
+        "en": "1/2 bell pepper",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 0.5,
+        "unit": "piece"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "pork",
+    "dairy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理辣肉腸和芝士（辣肉腸薄餅）",
+        "yue": "先處理辣肉腸和芝士（辣肉腸薄餅）",
+        "zhHans": "先處理辣肉肠和芝士（辣肉肠薄饼）",
+        "en": "Prep pepperoni and cheese (Pepperoni pizza)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把辣肉腸抹乾或切成一口大小，芝士和番茄醬底分開放好；薄餅麵糰按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把辣肉腸抹乾或切成一口大小，芝士和番茄醬底分開放好；薄餅麵糰按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把辣肉肠抹干或切成一口大小，芝士和番茄酱底分開放好；薄饼面糰按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the pepperoni, keep the cheese and canned tomato sauce separate, and get the pizza dough ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "預熱焗盤（辣肉腸薄餅）",
+        "yue": "預熱焗盤（辣肉腸薄餅）",
+        "zhHans": "預热焗盘（辣肉肠薄饼）",
+        "en": "Heat the tray (Pepperoni pizza)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "焗爐和焗盤一起預熱，薄餅麵糰放上熱盤才容易焗出脆底。 這一步看芝士和番茄醬底的狀態決定時間，讓辣肉腸薄餅完成時口感清楚。",
+        "yue": "焗爐和焗盤一起預熱，薄餅麵糰放上熱盤才容易焗出脆底。 這一步看芝士和番茄醬底的狀態決定時間，讓辣肉腸薄餅完成時口感清楚。",
+        "zhHans": "焗爐和焗盘一起預热，薄饼面糰放上热盘才容易焗出脆底。 这一步看芝士和番茄酱底的狀態決定時間，让辣肉肠薄饼完成時口感清楚。",
+        "en": "Preheat the oven with the tray inside so the pizza dough starts crisping as soon as it lands. Check pizza dough against pepperoni and keep the 30-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "拉開薄餅麵糰（辣肉腸薄餅）",
+        "yue": "拉開薄餅麵糰（辣肉腸薄餅）",
+        "zhHans": "拉開薄饼面糰（辣肉肠薄饼）",
+        "en": "Shape pizza dough (Pepperoni pizza)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "薄餅麵糰回溫後拉開，中間薄、邊位稍厚，先薄薄抹上番茄醬底或油。 這一步看番茄醬底和蘑菇的狀態決定時間，讓辣肉腸薄餅完成時口感清楚。",
+        "yue": "薄餅麵糰回溫後拉開，中間薄、邊位稍厚，先薄薄抹上番茄醬底或油。 這一步看番茄醬底和蘑菇的狀態決定時間，讓辣肉腸薄餅完成時口感清楚。",
+        "zhHans": "薄饼面糰回溫后拉開，中間薄、边位稍厚，先薄薄抹上番茄酱底或油。 这一步看番茄酱底和蘑菇的狀態決定時間，让辣肉肠薄饼完成時口感清楚。",
+        "en": "Let pizza dough warm up, stretch it thin in the center with a thicker rim, then brush lightly with canned tomato sauce or oil.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "鋪辣肉腸和芝士（辣肉腸薄餅）",
+        "yue": "鋪辣肉腸和芝士（辣肉腸薄餅）",
+        "zhHans": "鋪辣肉肠和芝士（辣肉肠薄饼）",
+        "en": "Top with pepperoni and cheese (Pepperoni pizza)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先放蘑菇，再鋪辣肉腸和芝士；餡料保持一層，辣肉腸薄餅才不會出水。 這一步看蘑菇和甜椒的狀態決定時間，讓辣肉腸薄餅完成時口感清楚。",
+        "yue": "先放蘑菇，再鋪辣肉腸和芝士；餡料保持一層，辣肉腸薄餅才不會出水。 這一步看蘑菇和甜椒的狀態決定時間，讓辣肉腸薄餅完成時口感清楚。",
+        "zhHans": "先放蘑菇，再鋪辣肉肠和芝士；餡料保持一层，辣肉肠薄饼才不会出水。 这一步看蘑菇和甜椒的狀態決定時間，让辣肉肠薄饼完成時口感清楚。",
+        "en": "Add mushrooms first, then pepperoni and cheese in one even layer so Pepperoni pizza does not turn soggy.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "焗到邊位上色（辣肉腸薄餅）",
+        "yue": "焗到邊位上色（辣肉腸薄餅）",
+        "zhHans": "焗到边位上色（辣肉肠薄饼）",
+        "en": "Bake until browned (Pepperoni pizza)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "焗至邊位金黃、蘑菇冒泡後取出，靜置兩分鐘再切，保留薄餅底部口感。 這一步看甜椒和薄餅麵糰的狀態決定時間，讓辣肉腸薄餅完成時口感清楚。",
+        "yue": "焗至邊位金黃、蘑菇冒泡後取出，靜置兩分鐘再切，保留薄餅底部口感。 這一步看甜椒和薄餅麵糰的狀態決定時間，讓辣肉腸薄餅完成時口感清楚。",
+        "zhHans": "焗至边位金黃、蘑菇冒泡后取出，靜置兩分钟再切，保留薄饼底部口感。 这一步看甜椒和薄饼面糰的狀態決定時間，让辣肉肠薄饼完成時口感清楚。",
+        "en": "Bake until the edge browns and mushrooms bubbles, then rest for two minutes before slicing.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/pepperoni-pizza/cover-1.png",
+      "alt": "Generated food photo of Pepperoni pizza",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#pepperoni-pizza/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#pepperoni-pizza",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id": "tahini",
+  "status": "approved",
+  "names": {
+    "zhHant": "Tahini",
+    "yue": "Tahini",
+    "zhHans": null,
+    "en": "Tahini",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "section": "sauces",
+  "aliases": [
+    "sesame paste"
+  ],
+  "storeNotes": {
+    "zhHant": "Tahini is stocked in mainstream or international grocery stores; choose a plain, flexible version for weekly cooking.",
+    "yue": "Tahini is stocked in mainstream or international grocery stores; choose a plain, flexible version for weekly cooking.",
+    "zhHans": null,
+    "en": "Tahini is stocked in mainstream or international grocery stores; choose a plain, flexible version for weekly cooking.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "substitutions": {
+    "zhHant": "If Tahini is unavailable, use a similar ingredient from the same grocery section and adjust cooking time.",
+    "yue": "If Tahini is unavailable, use a similar ingredient from the same grocery section and adjust cooking time.",
+    "zhHans": null,
+    "en": "If Tahini is unavailable, use a similar ingredient from the same grocery section and adjust cooking time.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "tags": [
+    "sesame"
+  ],
+  "nutrition": {
+    "estimate": true,
+    "rangePercent": {
+      "low": 0.9,
+      "high": 1.15
+    },
+    "nutrientsPer100g": {
+      "kcal": 595,
+      "sodiumMg": 115
+    },
+    "unitWeights": [
+      {
+        "unit": "g",
+        "grams": 1
+      },
+      {
+        "unit": "tbsp",
+        "grams": 15
+      }
+    ],
+    "sourceRefs": [
+      {
+        "sourceType": "usda_fdc",
+        "sourceName": "USDA FoodData Central generic reference",
+        "sourceURL": "https://fdc.nal.usda.gov/",
+        "accessedAt": "2026-05-22",
+        "foodDescription": "Tahini",
+        "sourceNutrientsPer100g": {
+          "kcal": 595,
+          "sodiumMg": 115
+        }
+      }
+    ],
+    "confidence": "medium",
+    "reviewStatus": "reviewed"
+  },
+  "images": [
+    {
+      "path": "assets/ingredients/tahini.png",
+      "alt": "Generated ingredient image for Tahini",
+      "contentStyle": "realistic_ingredient_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "CookingForMyself generated image catalog",
+      "sourceName": "CookingForMyself global 520 meal expansion",
+      "sourceURL": "local://cooking-for-myself-data/docs/global-meal-expansion-candidates.json#ingredient-tahini",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself global 520 meal expansion",
+    "sourceURL": "local://cooking-for-myself-data/docs/global-meal-expansion-candidates.json#ingredient-tahini",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself original generated catalog",
+    "reviewStatus": "approved",
+    "generated": true,
+    "generatedAt": "2026-05-22T00:00:00.000Z"
+  }
+}

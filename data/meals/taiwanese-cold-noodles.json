@@ -1,0 +1,311 @@
+{
+  "id": "taiwanese-cold-noodles",
+  "status": "approved",
+  "names": {
+    "zhHant": "台式涼麵",
+    "yue": "台式涼麵",
+    "zhHans": "台式凉面",
+    "en": "Taiwanese cold noodles",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "台式涼麵 是一款亞洲麵粉，用 麵條 180、芝麻醬 3、青瓜半條、甘筍半條、雞蛋 1 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "台式涼麵 是一款亞洲麵粉，用 麵條 180、芝麻醬 3、青瓜半條、甘筍半條、雞蛋 1 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "台式凉面 是一款亞洲面粉，用 面条 180、芝麻酱 3、青瓜半条、甘筍半条、鸡蛋 1 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Taiwanese cold noodles is a review-first candidate meal built around dried noodles, sesame paste, 1/2 cucumber, 1/2 carrot."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 18,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "dried-noodle",
+      "amounts": {
+        "zhHant": "麵條 180 克",
+        "yue": "麵條 180 克",
+        "zhHans": "面条 180 克",
+        "en": "180 g dried noodles",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 180,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "tahini",
+      "amounts": {
+        "zhHant": "芝麻醬 3 湯匙",
+        "yue": "芝麻醬 3 湯匙",
+        "zhHans": "芝麻酱 3 汤匙",
+        "en": "3 tbsp sesame paste",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 3,
+        "unit": "tbsp"
+      }
+    },
+    {
+      "ingredientId": "cucumber",
+      "amounts": {
+        "zhHant": "青瓜半條",
+        "yue": "青瓜半條",
+        "zhHans": "青瓜半条",
+        "en": "1/2 cucumber",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 0.5,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "carrot",
+      "amounts": {
+        "zhHant": "甘筍半條",
+        "yue": "甘筍半條",
+        "zhHans": "甘筍半条",
+        "en": "1/2 carrot",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 0.5,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "雞蛋 1 隻",
+        "yue": "雞蛋 1 隻",
+        "zhHans": "鸡蛋 1 只",
+        "en": "1 egg",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "生抽 1 湯匙",
+        "yue": "生抽 1 湯匙",
+        "zhHans": "生抽 1 汤匙",
+        "en": "1 tbsp light soy sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "tbsp"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "egg",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理芝麻醬和青瓜（台式涼麵）",
+        "yue": "先處理芝麻醬和青瓜（台式涼麵）",
+        "zhHans": "先處理芝麻酱和青瓜（台式凉面）",
+        "en": "Prep sesame paste and cucumber (Taiwanese cold noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把芝麻醬抹乾或切成一口大小，青瓜和甘筍分開放好；麵條按包裝或平日做法先整理，避免下鍋時手忙腳亂。 補充檢查生抽和麵條，並按18分鐘節奏控制火候。",
+        "yue": "先把芝麻醬抹乾或切成一口大小，青瓜和甘筍分開放好；麵條按包裝或平日做法先整理，避免下鍋時手忙腳亂。 補充檢查生抽和麵條，並按18分鐘節奏控制火候。",
+        "zhHans": "先把芝麻酱抹干或切成一口大小，青瓜和甘筍分開放好；面条按包装或平日做法先整理，避免下锅時手忙腳亂。 補充檢查生抽和面条，並按18分钟節奏控制火候。",
+        "en": "Cut or dry the sesame paste, keep the cucumber and carrot separate, and get the dried noodles ready before heat goes on. Check light soy sauce against dried noodles and keep the 18-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "過冷麵條（台式涼麵）",
+        "yue": "過冷麵條（台式涼麵）",
+        "zhHans": "過冷面条（台式凉面）",
+        "en": "Chill dried noodles (Taiwanese cold noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "麵條煮熟後立即沖冷水，瀝乾再拌少量油；這一步決定台式涼麵是否爽身。 這一步看青瓜和甘筍的狀態決定時間，讓台式涼麵完成時口感清楚。 補充檢查麵條和芝麻醬，並按18分鐘節奏控制火候。",
+        "yue": "麵條煮熟後立即沖冷水，瀝乾再拌少量油；這一步決定台式涼麵是否爽身。 這一步看青瓜和甘筍的狀態決定時間，讓台式涼麵完成時口感清楚。 補充檢查麵條和芝麻醬，並按18分鐘節奏控制火候。",
+        "zhHans": "面条煮熟后立即沖冷水，瀝干再拌少量油；这一步決定台式凉面是否爽身。 这一步看青瓜和甘筍的狀態決定時間，让台式凉面完成時口感清楚。 補充檢查面条和芝麻酱，並按18分钟節奏控制火候。",
+        "en": "Rinse cooked dried noodles under cold water, drain thoroughly, and oil lightly so Taiwanese cold noodles stays springy. Check dried noodles against sesame paste and keep the 18-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "開稀芝麻醬（台式涼麵）",
+        "yue": "開稀芝麻醬（台式涼麵）",
+        "zhHans": "開稀芝麻酱（台式凉面）",
+        "en": "Loosen sesame paste (Taiwanese cold noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "芝麻醬先用少量水分次拌開，再加入芝麻醬調成可流動但能掛麵的醬汁。 這一步看甘筍和雞蛋的狀態決定時間，讓台式涼麵完成時口感清楚。",
+        "yue": "芝麻醬先用少量水分次拌開，再加入芝麻醬調成可流動但能掛麵的醬汁。 這一步看甘筍和雞蛋的狀態決定時間，讓台式涼麵完成時口感清楚。",
+        "zhHans": "芝麻酱先用少量水分次拌開，再加入芝麻酱调成可流動但能掛面的酱汁。 这一步看甘筍和鸡蛋的狀態決定時間，让台式凉面完成時口感清楚。",
+        "en": "Thin sesame paste gradually with water, then season with light soy sauce until it can coat the noodles without turning heavy. Check sesame paste against cucumber and keep the 18-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "切好青瓜和甘筍（台式涼麵）",
+        "yue": "切好青瓜和甘筍（台式涼麵）",
+        "zhHans": "切好青瓜和甘筍（台式凉面）",
+        "en": "Cut cucumber and carrot (Taiwanese cold noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "青瓜和甘筍切成幼條，雞蛋另外放；冰一會兒再拌，入口會更清爽。 這一步看雞蛋和生抽的狀態決定時間，讓台式涼麵完成時口感清楚。",
+        "yue": "青瓜和甘筍切成幼條，雞蛋另外放；冰一會兒再拌，入口會更清爽。 這一步看雞蛋和生抽的狀態決定時間，讓台式涼麵完成時口感清楚。",
+        "zhHans": "青瓜和甘筍切成幼条，鸡蛋另外放；冰一会兒再拌，入口会更清爽。 这一步看鸡蛋和生抽的狀態決定時間，让台式凉面完成時口感清楚。",
+        "en": "Cut cucumber and carrot into thin strips and keep egg separate until tossing for a fresher bite.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "臨食先拌（台式涼麵）",
+        "yue": "臨食先拌（台式涼麵）",
+        "zhHans": "臨食先拌（台式凉面）",
+        "en": "Toss just before serving (Taiwanese cold noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "上桌前才把麵條、醬汁和配料拌勻，分碗後再補少量芝麻醬，避免涼麵提早變腍。 補充檢查甘筍和雞蛋，並按18分鐘節奏控制火候。",
+        "yue": "上桌前才把麵條、醬汁和配料拌勻，分碗後再補少量芝麻醬，避免涼麵提早變腍。 補充檢查甘筍和雞蛋，並按18分鐘節奏控制火候。",
+        "zhHans": "上桌前才把面条、酱汁和配料拌勻，分碗后再補少量芝麻酱，避免凉面提早變腍。 補充檢查甘筍和鸡蛋，並按18分钟節奏控制火候。",
+        "en": "Toss dried noodles, dressing, and toppings right before serving, adding extra sesame paste after portioning if needed. Check carrot against egg and keep the 18-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/taiwanese-cold-noodles/cover-1.png",
+      "alt": "Generated food photo of Taiwanese cold noodles",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#taiwanese-cold-noodles/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#taiwanese-cold-noodles",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

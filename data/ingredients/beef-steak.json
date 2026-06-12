@@ -1,0 +1,59 @@
+{
+  "id": "beef-steak",
+  "status": "approved",
+  "names": {
+    "zhHant": "牛扒",
+    "yue": "牛扒",
+    "zhHans": "牛扒",
+    "en": "Beef steak",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "section": "meat",
+  "aliases": [
+    "sirloin",
+    "striploin",
+    "steak"
+  ],
+  "storeNotes": {
+    "zhHant": "牛扒 是這次 80 道候選菜式需要的補充食材，買餸時選擇份量清楚、狀態新鮮的版本。",
+    "yue": "牛扒 是這次 80 道候選菜式需要的補充食材，買餸時選擇份量清楚、狀態新鮮的版本。",
+    "zhHans": "牛扒 是这次 80 道候選菜式需要的補充食材，買餸時選擇份量清楚、狀態新鲜的版本。",
+    "en": "Beef steak was added as a reviewed supplemental ingredient for the 80-meal review batch."
+  },
+  "substitutions": {
+    "zhHant": "如買不到 牛扒，可用同類食材代替，並按厚薄或鹹度調整烹調時間。",
+    "yue": "如買不到 牛扒，可用同類食材代替，並按厚薄或鹹度調整烹調時間。",
+    "zhHans": "如買不到 牛扒，可用同類食材代替，並按厚薄或咸度调整烹调時間。",
+    "en": "If Beef steak is unavailable, use a close ingredient from the same section and adjust cooking time or seasoning."
+  },
+  "tags": [
+    "beef"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/beef-steak.png",
+      "alt": "Generated ingredient image for Beef steak",
+      "contentStyle": "realistic_ingredient_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#ingredients/beef-steak/image",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#ingredients/beef-steak",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

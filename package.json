@@ -7,6 +7,8 @@
     "validate": "node tools/validate.mjs",
     "export:app-seed": "node tools/export-app-seed.mjs",
     "test": "npm run validate && npm run export:app-seed",
+    "nutrition:gate": "node tools/nutrition-gate.mjs",
+    "audit:global-expansion": "node tools/audit-global-expansion.mjs",
     "build:site": "npm run test && node tools/build-site.mjs",
     "preview:site": "node tools/serve-site.mjs"
   }

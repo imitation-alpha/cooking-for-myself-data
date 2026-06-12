@@ -1,0 +1,312 @@
+{
+  "id": "chicken-spiced-skillet",
+  "status": "approved",
+  "names": {
+    "zhHant": "Chicken Spiced Skillet",
+    "yue": "Chicken Spiced Skillet",
+    "zhHans": null,
+    "en": "Chicken Spiced Skillet",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "Chicken Spiced Skillet is a practical two-person African dinner with clear grocery quantities and a home-cookable flow.",
+    "yue": "Chicken Spiced Skillet is a practical two-person African dinner with clear grocery quantities and a home-cookable flow.",
+    "zhHans": null,
+    "en": "Chicken Spiced Skillet is a practical two-person African dinner with clear grocery quantities and a home-cookable flow.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "reason": {
+    "zhHant": "African; selected for the 520-meal global expansion to broaden popular weeknight choices while staying grocery-list friendly.",
+    "yue": "African; selected for the 520-meal global expansion to broaden popular weeknight choices while staying grocery-list friendly.",
+    "zhHans": null,
+    "en": "African; selected for the 520-meal global expansion to broaden popular weeknight choices while staying grocery-list friendly.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "timeMinutes": 30,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "260 g",
+        "yue": "260 g",
+        "zhHans": null,
+        "en": "260 g",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 260,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "160 g",
+        "yue": "160 g",
+        "zhHans": null,
+        "en": "160 g",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 160,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "plantain",
+      "amounts": {
+        "zhHant": "200 g",
+        "yue": "200 g",
+        "zhHans": null,
+        "en": "200 g",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 200,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "olive-oil",
+      "amounts": {
+        "zhHant": "24 g",
+        "yue": "24 g",
+        "zhHans": null,
+        "en": "24 g",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 24,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "10 g",
+        "yue": "10 g",
+        "zhHans": null,
+        "en": "10 g",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 10,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "onion",
+      "amounts": {
+        "zhHant": "120 g",
+        "yue": "120 g",
+        "zhHans": null,
+        "en": "120 g",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 120,
+        "unit": "g"
+      }
+    }
+  ],
+  "restrictionTags": [],
+  "nutritionAssumptions": [
+    {
+      "id": "default-cooking-oil",
+      "kind": "cooking_oil",
+      "measure": {
+        "quantity": 1,
+        "unit": "tbsp"
+      },
+      "reason": "Included as a practical cooking-fat estimate for the two-person method."
+    },
+    {
+      "id": "default-salt",
+      "kind": "added_salt",
+      "measure": {
+        "quantity": 0.25,
+        "unit": "tsp"
+      },
+      "reason": "Included as a light seasoning estimate; users can reduce salt to taste."
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "Prep the ingredients",
+        "yue": "Prep the ingredients",
+        "zhHans": null,
+        "en": "Prep the ingredients",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "Set out Chicken thigh, White rice, Plantain, Olive oil, Garlic, cut vegetables into even pieces, and measure the seasoning base before the pan gets hot.",
+        "yue": "Set out Chicken thigh, White rice, Plantain, Olive oil, Garlic, cut vegetables into even pieces, and measure the seasoning base before the pan gets hot.",
+        "zhHans": null,
+        "en": "Set out Chicken thigh, White rice, Plantain, Olive oil, Garlic, cut vegetables into even pieces, and measure the seasoning base before the pan gets hot.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "Cook the main ingredient",
+        "yue": "Cook the main ingredient",
+        "zhHans": null,
+        "en": "Cook the main ingredient",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "Warm oil in a wide pan, add onion and garlic, then cook Chicken thigh until lightly browned and nearly cooked through.",
+        "yue": "Warm oil in a wide pan, add onion and garlic, then cook Chicken thigh until lightly browned and nearly cooked through.",
+        "zhHans": null,
+        "en": "Warm oil in a wide pan, add onion and garlic, then cook Chicken thigh until lightly browned and nearly cooked through.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "Bring the meal together",
+        "yue": "Bring the meal together",
+        "zhHans": null,
+        "en": "Bring the meal together",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "Add the vegetables and staple, tossing in short bursts so the pan stays hot and the pieces pick up flavor without turning watery.",
+        "yue": "Add the vegetables and staple, tossing in short bursts so the pan stays hot and the pieces pick up flavor without turning watery.",
+        "zhHans": null,
+        "en": "Add the vegetables and staple, tossing in short bursts so the pan stays hot and the pieces pick up flavor without turning watery.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "Finish and serve",
+        "yue": "Finish and serve",
+        "zhHans": null,
+        "en": "Finish and serve",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "Finish Chicken Spiced Skillet with the sauce or garnish, rest for 2 minutes, and serve two balanced portions with the main ingredient visible on top.",
+        "yue": "Finish Chicken Spiced Skillet with the sauce or garnish, rest for 2 minutes, and serve two balanced portions with the main ingredient visible on top.",
+        "zhHans": null,
+        "en": "Finish Chicken Spiced Skillet with the sauce or garnish, rest for 2 minutes, and serve two balanced portions with the main ingredient visible on top.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/chicken-spiced-skillet/cover-1.png",
+      "alt": "Generated meal cover image for Chicken Spiced Skillet",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "CookingForMyself generated image catalog",
+      "sourceName": "CookingForMyself global 520 meal expansion",
+      "sourceURL": "local://cooking-for-myself-data/docs/global-meal-expansion-candidates.json#chicken-spiced-skillet",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself global 520 meal expansion",
+    "sourceURL": "local://cooking-for-myself-data/docs/global-meal-expansion-candidates.json#chicken-spiced-skillet",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself original generated catalog",
+    "reviewStatus": "approved",
+    "generated": true,
+    "generatedAt": "2026-05-22T00:00:00.000Z"
+  }
+}

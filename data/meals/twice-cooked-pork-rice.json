@@ -1,0 +1,331 @@
+{
+  "id": "twice-cooked-pork-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "回鍋肉飯",
+    "yue": "回鍋肉飯",
+    "zhHans": "回锅肉饭",
+    "en": "Twice-cooked pork rice",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "回鍋肉飯 是一款亞洲飯碟，用 白米 1、豬肩肉 260、椰菜 160、甜椒 1、薑 4 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "回鍋肉飯 是一款亞洲飯碟，用 白米 1、豬肩肉 260、椰菜 160、甜椒 1、薑 4 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "回锅肉饭 是一款亞洲饭碟，用 白米 1、猪肩肉 260、椰菜 160、甜椒 1、姜 4 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Twice-cooked pork rice is a review-first candidate meal built around rice, pork shoulder, cabbage, 1 bell pepper."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 30,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "白米 1 杯",
+        "yue": "白米 1 杯",
+        "zhHans": "白米 1 杯",
+        "en": "1 cup rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "cup"
+      }
+    },
+    {
+      "ingredientId": "pork-shoulder",
+      "amounts": {
+        "zhHant": "豬肩肉 260 克",
+        "yue": "豬肩肉 260 克",
+        "zhHans": "猪肩肉 260 克",
+        "en": "260 g pork shoulder",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 260,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cabbage",
+      "amounts": {
+        "zhHant": "椰菜 160 克",
+        "yue": "椰菜 160 克",
+        "zhHans": "椰菜 160 克",
+        "en": "160 g cabbage",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 160,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "bell-pepper",
+      "amounts": {
+        "zhHant": "甜椒 1 個",
+        "yue": "甜椒 1 個",
+        "zhHans": "甜椒 1 个",
+        "en": "1 bell pepper",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "薑 4 片",
+        "yue": "薑 4 片",
+        "zhHans": "姜 4 片",
+        "en": "4 slices ginger",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 4,
+        "unit": "slice"
+      }
+    },
+    {
+      "ingredientId": "gochujang",
+      "amounts": {
+        "zhHant": "辣醬 1 湯匙",
+        "yue": "辣醬 1 湯匙",
+        "zhHans": "辣酱 1 汤匙",
+        "en": "1 tbsp chili paste",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "tbsp"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "生抽 2 茶匙",
+        "yue": "生抽 2 茶匙",
+        "zhHans": "生抽 2 茶匙",
+        "en": "2 tsp light soy sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "tsp"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "pork",
+    "soy",
+    "wheatGluten",
+    "spicy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理豬肩肉和椰菜（回鍋肉飯）",
+        "yue": "先處理豬肩肉和椰菜（回鍋肉飯）",
+        "zhHans": "先處理猪肩肉和椰菜（回锅肉饭）",
+        "en": "Prep pork shoulder and cabbage (Twice-cooked pork rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把豬肩肉抹乾或切成一口大小，椰菜和甜椒分開放好；白米按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把豬肩肉抹乾或切成一口大小，椰菜和甜椒分開放好；白米按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把猪肩肉抹干或切成一口大小，椰菜和甜椒分開放好；白米按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the pork shoulder, keep the cabbage and bell pepper separate, and get the rice ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "先煮白米（回鍋肉飯）",
+        "yue": "先煮白米（回鍋肉飯）",
+        "zhHans": "先煮白米（回锅肉饭）",
+        "en": "Cook rice (Twice-cooked pork rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米先煮到可上碟的狀態並保溫；回鍋肉飯完成時就能直接組合。 這一步看椰菜和甜椒的狀態決定時間，讓回鍋肉飯完成時口感清楚。",
+        "yue": "白米先煮到可上碟的狀態並保溫；回鍋肉飯完成時就能直接組合。 這一步看椰菜和甜椒的狀態決定時間，讓回鍋肉飯完成時口感清楚。",
+        "zhHans": "白米先煮到可上碟的狀態並保溫；回锅肉饭完成時就能直接組合。 这一步看椰菜和甜椒的狀態決定時間，让回锅肉饭完成時口感清楚。",
+        "en": "Cook rice until ready to serve and keep it warm so Twice-cooked pork rice can be assembled immediately. Check pork shoulder against cabbage and keep the 30-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煎香豬肩肉（回鍋肉飯）",
+        "yue": "煎香豬肩肉（回鍋肉飯）",
+        "zhHans": "煎香猪肩肉（回锅肉饭）",
+        "en": "Sear pork shoulder (Twice-cooked pork rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "豬肩肉抹乾後下鍋，表面上色才翻動；加入椰菜時轉中火，避免外焦內生。 這一步看甜椒和薑的狀態決定時間，讓回鍋肉飯完成時口感清楚。",
+        "yue": "豬肩肉抹乾後下鍋，表面上色才翻動；加入椰菜時轉中火，避免外焦內生。 這一步看甜椒和薑的狀態決定時間，讓回鍋肉飯完成時口感清楚。",
+        "zhHans": "猪肩肉抹干后下锅，表面上色才翻動；加入椰菜時转中火，避免外焦内生。 这一步看甜椒和姜的狀態決定時間，让回锅肉饭完成時口感清楚。",
+        "en": "Dry pork shoulder, sear until colored before moving it, then add cabbage over medium heat for control.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "用辣醬收味（回鍋肉飯）",
+        "yue": "用辣醬收味（回鍋肉飯）",
+        "zhHans": "用辣酱收味（回锅肉饭）",
+        "en": "Finish with light soy sauce (Twice-cooked pork rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "同鍋加入辣醬和甜椒，刮起鍋底香味，小火煮到可以薄薄掛在豬肩肉上。 這一步看薑和辣醬的狀態決定時間，讓回鍋肉飯完成時口感清楚。",
+        "yue": "同鍋加入辣醬和甜椒，刮起鍋底香味，小火煮到可以薄薄掛在豬肩肉上。 這一步看薑和辣醬的狀態決定時間，讓回鍋肉飯完成時口感清楚。",
+        "zhHans": "同锅加入辣酱和甜椒，刮起锅底香味，小火煮到可以薄薄掛在猪肩肉上。 这一步看姜和辣酱的狀態決定時間，让回锅肉饭完成時口感清楚。",
+        "en": "Add light soy sauce and bell pepper to the same pan, scrape up browned bits, and simmer until it coats the pork shoulder.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "排好回鍋肉飯（回鍋肉飯）",
+        "yue": "排好回鍋肉飯（回鍋肉飯）",
+        "zhHans": "排好回锅肉饭（回锅肉饭）",
+        "en": "Plate Twice-cooked pork rice (Twice-cooked pork rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米先放底，鋪上豬肩肉和椰菜，最後淋少量醬汁，保持份量清楚。 這一步看辣醬和生抽的狀態決定時間，讓回鍋肉飯完成時口感清楚。",
+        "yue": "白米先放底，鋪上豬肩肉和椰菜，最後淋少量醬汁，保持份量清楚。 這一步看辣醬和生抽的狀態決定時間，讓回鍋肉飯完成時口感清楚。",
+        "zhHans": "白米先放底，鋪上猪肩肉和椰菜，最后淋少量酱汁，保持份量清楚。 这一步看辣酱和生抽的狀態決定時間，让回锅肉饭完成時口感清楚。",
+        "en": "Set down rice, add pork shoulder and cabbage, then spoon over a little sauce for a tidy plate.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/twice-cooked-pork-rice/cover-1.png",
+      "alt": "Generated food photo of Twice-cooked pork rice",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#twice-cooked-pork-rice/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#twice-cooked-pork-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

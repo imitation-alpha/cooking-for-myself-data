@@ -1,0 +1,299 @@
+{
+  "id": "tomato-egg-tofu-udon",
+  "status": "approved",
+  "names": {
+    "zhHant": "番茄雞蛋滑豆腐烏冬",
+    "yue": "番茄雞蛋滑豆腐烏冬",
+    "zhHans": "番茄鸡蛋滑豆腐乌冬",
+    "en": "Tomato egg tofu udon",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": "Tomato egg tofu udon",
+    "tl": "Tomato egg tofu udon"
+  },
+  "summary": {
+    "zhHant": "番茄雞蛋滑豆腐烏冬是一個 25 分鐘完成的清爽主食碗，番茄湯汁、嫩蛋、滑豆腐和烏冬做到輕盈但有能量，適合兩個人下班後快煮。",
+    "yue": "番茄雞蛋滑豆腐烏冬係一個 25 分鐘完成嘅清爽主食碗，番茄汁、嫩蛋、滑豆腐同烏冬做到輕盈但夠能量，適合兩個人收工後快煮。",
+    "zhHans": "番茄鸡蛋滑豆腐乌冬是一个 25 分钟完成的清爽主食碗，番茄汤汁、嫩蛋、滑豆腐和乌冬做到轻盈但有能量，适合两个人下班后快煮。",
+    "en": "A fresh 25-minute udon bowl with juicy tomato broth, soft egg, silky tofu, and chewy noodles, built to feel light but fueled for two quick post-work servings.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": "A fresh 25-minute udon bowl with juicy tomato broth, soft egg, silky tofu, and chewy noodles for two quick post-work servings.",
+    "tl": "A fresh 25-minute udon bowl with juicy tomato broth, soft egg, silky tofu, and chewy noodles for two quick post-work servings."
+  },
+  "reason": {
+    "zhHant": "番茄帶來清甜酸香和水分，雞蛋與滑豆腐補足溫和蛋白，烏冬提供訓練日或忙碌日需要的主食能量；蔥和生抽收乾淨鹹香，不靠重油也有飽足感。",
+    "yue": "番茄有清甜酸香同水分，雞蛋同滑豆腐補足溫和蛋白，烏冬提供訓練日或者忙碌日需要嘅主食能量；蔥同生抽收乾淨鹹香，唔靠重油都有飽足感。",
+    "zhHans": "番茄带来清甜酸香和水分，鸡蛋与滑豆腐补足温和蛋白，乌冬提供训练日或忙碌日需要的主食能量；葱和生抽收干净咸香，不靠重油也有饱足感。",
+    "en": "Tomato keeps the bowl bright and hydrating, egg and soft tofu add gentle protein, and udon gives useful carbs for a training or busy workday; scallion and light soy keep it savory without making it heavy.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": "Tomato keeps the bowl bright, egg and soft tofu add gentle protein, and udon gives useful carbs while scallion and light soy keep it savory but not heavy.",
+    "tl": "Tomato keeps the bowl bright, egg and soft tofu add gentle protein, and udon gives useful carbs while scallion and light soy keep it savory but not heavy."
+  },
+  "timeMinutes": 25,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "tomato",
+      "amounts": {
+        "zhHant": "2 個中型",
+        "yue": "2 個中型",
+        "zhHans": "2 个中型",
+        "en": "2 medium tomatoes",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "2 medium tomatoes",
+        "tl": "2 medium tomatoes"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "3 隻",
+        "yue": "3 隻",
+        "zhHans": "3 只",
+        "en": "3 eggs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "3 eggs",
+        "tl": "3 eggs"
+      }
+    },
+    {
+      "ingredientId": "soft-tofu",
+      "amounts": {
+        "zhHant": "1 盒",
+        "yue": "1 盒",
+        "zhHans": "1 盒",
+        "en": "1 block",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "1 block",
+        "tl": "1 block"
+      }
+    },
+    {
+      "ingredientId": "udon",
+      "amounts": {
+        "zhHant": "2 份",
+        "yue": "2 份",
+        "zhHans": "2 份",
+        "en": "2 portions",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "2 portions",
+        "tl": "2 portions"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "yue": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "2 stalks",
+        "tl": "2 stalks"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "1 湯匙",
+        "yue": "1 湯匙",
+        "zhHans": "1 汤匙",
+        "en": "1 tbsp",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "1 tbsp",
+        "tl": "1 tbsp"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "egg",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "番茄切塊蛋液拌好",
+        "yue": "番茄切件蛋液拌好",
+        "zhHans": "番茄切块蛋液拌好",
+        "en": "Prep tomato, eggs, tofu and soy",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "番茄 2 個切成大塊，蔥 2 條分開蔥白和蔥綠切粒。雞蛋 3 隻打散至蛋白蛋黃均勻，滑豆腐 1 盒倒走多餘水分後切大粒。生抽 1 湯匙加 3 湯匙熱水拌成淡醬汁。",
+        "yue": "番茄 2 個切成大件，蔥 2 條分開蔥白同蔥綠切粒。雞蛋 3 隻打散至蛋白蛋黃均勻，滑豆腐 1 盒倒走多餘水分後切大粒。生抽 1 湯匙加 3 湯匙熱水拌成淡醬汁。",
+        "zhHans": "番茄 2 个切成大块，葱 2 条分开葱白和葱绿切粒。鸡蛋 3 只打散至蛋白蛋黄均匀，滑豆腐 1 盒倒走多余水分后切大粒。生抽 1 汤匙加 3 汤匙热水拌成淡酱汁。",
+        "en": "Cut 2 tomatoes into large chunks and slice 2 scallions, keeping whites and greens separate. Beat 3 eggs until even, drain 1 block soft tofu and cut it into large pieces. Stir 1 tbsp light soy sauce with 3 tbsp hot water for a light sauce.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "烏冬煮開豆腐暖透",
+        "yue": "烏冬煮開豆腐暖透",
+        "zhHans": "乌冬煮开豆腐暖透",
+        "en": "Loosen udon and warm the tofu",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "煲一鍋水，放入烏冬 2 份煮 1 至 2 分鐘至麵條鬆開。最後 30 秒加入滑豆腐輕輕暖透，然後用篩撈起瀝乾；豆腐不要大力攪動，保持完整嫩滑。",
+        "yue": "煲一鍋水，放入烏冬 2 份煮 1 至 2 分鐘至麵條鬆開。最後 30 秒加入滑豆腐輕輕暖透，然後用篩撈起瀝乾；豆腐唔好大力攪動，保持完整嫩滑。",
+        "zhHans": "烧一锅水，放入乌冬 2 份煮 1 至 2 分钟至面条松开。最后 30 秒加入滑豆腐轻轻暖透，然后用筛捞起沥干；豆腐不要大力搅动，保持完整嫩滑。",
+        "en": "Bring a pot of water to a boil, add 2 portions udon, and cook for 1-2 minutes until the noodles loosen. Add the soft tofu for the final 30 seconds just to warm it through, then lift everything out with a sieve and drain gently so the tofu stays silky.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "番茄煮出清甜湯汁",
+        "yue": "番茄煮出清甜湯汁",
+        "zhHans": "番茄煮出清甜汤汁",
+        "en": "Cook tomato into a light broth",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "不沾鍋用中火加熱，放入蔥白和番茄塊，加入 4 湯匙水幫助出汁。煮 3 至 4 分鐘，間中壓一兩塊番茄，讓鍋底有紅色清甜湯汁但仍保留番茄形狀。",
+        "yue": "不沾鍋用中火加熱，放入蔥白同番茄件，加入 4 湯匙水幫助出汁。煮 3 至 4 分鐘，間中壓一兩件番茄，令鍋底有紅色清甜湯汁但仍然保留番茄形狀。",
+        "zhHans": "不粘锅用中火加热，放入葱白和番茄块，加入 4 汤匙水帮助出汁。煮 3 至 4 分钟，间中压一两块番茄，让锅底有红色清甜汤汁但仍保留番茄形状。",
+        "en": "Heat a nonstick pan over medium heat, add the scallion whites and tomato chunks, then add 4 tbsp water to help the tomatoes release juice. Cook for 3-4 minutes, pressing one or two chunks, until a red light broth forms while some tomato pieces still hold their shape.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "蛋液滑入番茄汁",
+        "yue": "蛋液滑入番茄汁",
+        "zhHans": "蛋液滑入番茄汁",
+        "en": "Set soft egg ribbons",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "轉小火，把蛋液沿番茄汁表面慢慢倒入，停 20 秒讓底部定型，再用筷子或鍋鏟輕推成嫩蛋花。倒入淡生抽汁，輕輕推勻，保持蛋塊柔軟不要炒乾。",
+        "yue": "轉小火，將蛋液沿番茄汁表面慢慢倒入，停 20 秒令底部定型，再用筷子或者鍋鏟輕推成嫩蛋花。倒入淡生抽汁，輕輕推勻，保持蛋塊柔軟唔好炒乾。",
+        "zhHans": "转小火，把蛋液沿番茄汁表面慢慢倒入，停 20 秒让底部定型，再用筷子或锅铲轻推成嫩蛋花。倒入淡生抽汁，轻轻推匀，保持蛋块柔软不要炒干。",
+        "en": "Turn the heat to low and slowly pour the beaten eggs over the tomato broth. Pause for 20 seconds so the bottom sets, then gently push with chopsticks or a spatula into soft ribbons. Pour in the diluted light soy and fold lightly so the egg stays tender, not dry.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "烏冬豆腐回鍋裝碗",
+        "yue": "烏冬豆腐回鍋裝碗",
+        "zhHans": "乌冬豆腐回锅装碗",
+        "en": "Fold in udon and tofu",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把瀝乾的烏冬和滑豆腐放回鍋中，用小火輕輕兜 30 至 60 秒，讓麵條沾上番茄蛋汁而豆腐不碎。分入兩個碗，灑上蔥綠；完成時應該見到番茄、蛋、豆腐、烏冬和蔥都清楚分明。",
+        "yue": "將瀝乾嘅烏冬同滑豆腐放返入鍋，用小火輕輕兜 30 至 60 秒，令麵條沾上番茄蛋汁而豆腐唔碎。分入兩個碗，灑上蔥綠；完成時應該見到番茄、蛋、豆腐、烏冬同蔥都清楚分明。",
+        "zhHans": "把沥干的乌冬和滑豆腐放回锅中，用小火轻轻拌 30 至 60 秒，让面条沾上番茄蛋汁而豆腐不碎。分入两个碗，撒上葱绿；完成时应该看到番茄、蛋、豆腐、乌冬和葱都清楚分明。",
+        "en": "Return the drained udon and soft tofu to the pan and fold gently over low heat for 30-60 seconds so the noodles catch the tomato egg sauce without breaking the tofu. Divide into two bowls and finish with scallion greens; the tomato, egg, tofu, udon, and scallion should all remain visible.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/tomato-egg-tofu-udon/cover-1.png",
+      "alt": "Generated meal cover image for tomato-egg-tofu-udon",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself light-but-fueled image run",
+      "sourceURL": "local://cooking-for-myself-data/light-but-fueled-2026-05-18#tomato-egg-tofu-udon",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself light-but-fueled meal expansion",
+    "sourceURL": "local://cooking-for-myself-data/data/meals/tomato-egg-tofu-udon.json",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "approved",
+    "generated": true,
+    "generatedAt": "2026-05-18T00:00:00Z"
+  }
+}

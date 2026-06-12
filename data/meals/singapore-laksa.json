@@ -1,0 +1,331 @@
+{
+  "id": "singapore-laksa",
+  "status": "approved",
+  "names": {
+    "zhHant": "新加坡叻沙",
+    "yue": "新加坡叻沙",
+    "zhHans": "新加坡叻沙",
+    "en": "Singapore laksa",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "新加坡叻沙 是一款亞洲麵粉，用 米線 180、蝦仁 200、椰奶 300、叻沙咖喱醬 2、豆腐 150 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "新加坡叻沙 是一款亞洲麵粉，用 米線 180、蝦仁 200、椰奶 300、叻沙咖喱醬 2、豆腐 150 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "新加坡叻沙 是一款亞洲面粉，用 米線 180、虾仁 200、椰奶 300、叻沙咖喱酱 2、豆腐 150 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Singapore laksa is a review-first candidate meal built around rice noodles, shrimp, coconut milk, curry paste."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 32,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "rice-noodle",
+      "amounts": {
+        "zhHant": "米線 180 克",
+        "yue": "米線 180 克",
+        "zhHans": "米線 180 克",
+        "en": "180 g rice noodles",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 180,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "shrimp",
+      "amounts": {
+        "zhHant": "蝦仁 200 克",
+        "yue": "蝦仁 200 克",
+        "zhHans": "虾仁 200 克",
+        "en": "200 g shrimp",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 200,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "coconut-milk",
+      "amounts": {
+        "zhHant": "椰奶 300 毫升",
+        "yue": "椰奶 300 毫升",
+        "zhHans": "椰奶 300 毫升",
+        "en": "300 ml coconut milk",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 300,
+        "unit": "ml"
+      }
+    },
+    {
+      "ingredientId": "curry-paste",
+      "amounts": {
+        "zhHant": "叻沙咖喱醬 2 湯匙",
+        "yue": "叻沙咖喱醬 2 湯匙",
+        "zhHans": "叻沙咖喱酱 2 汤匙",
+        "en": "2 tbsp curry paste",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "tbsp"
+      }
+    },
+    {
+      "ingredientId": "tofu",
+      "amounts": {
+        "zhHant": "豆腐 150 克",
+        "yue": "豆腐 150 克",
+        "zhHans": "豆腐 150 克",
+        "en": "150 g tofu",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 150,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "bean-sprouts",
+      "amounts": {
+        "zhHant": "芽菜 120 克",
+        "yue": "芽菜 120 克",
+        "zhHans": "芽菜 120 克",
+        "en": "120 g bean sprouts",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 120,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "雞蛋 2 隻",
+        "yue": "雞蛋 2 隻",
+        "zhHans": "鸡蛋 2 只",
+        "en": "2 eggs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "piece"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "shellfish",
+    "egg",
+    "soy",
+    "spicy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理蝦仁和椰奶（新加坡叻沙）",
+        "yue": "先處理蝦仁和椰奶（新加坡叻沙）",
+        "zhHans": "先處理虾仁和椰奶（新加坡叻沙）",
+        "en": "Prep shrimp and coconut milk (Singapore laksa)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把蝦仁抹乾或切成一口大小，椰奶和叻沙咖喱醬分開放好；米線按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把蝦仁抹乾或切成一口大小，椰奶和叻沙咖喱醬分開放好；米線按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把虾仁抹干或切成一口大小，椰奶和叻沙咖喱酱分開放好；米線按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the shrimp, keep the coconut milk and curry paste separate, and get the rice noodles ready before heat goes on. Check bean sprouts against eggs and keep the 32-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "分碗放好米線（新加坡叻沙）",
+        "yue": "分碗放好米線（新加坡叻沙）",
+        "zhHans": "分碗放好米線（新加坡叻沙）",
+        "en": "Bowl the rice noodles (Singapore laksa)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "米線先煮至剛熟並分入碗中，避免直接在湯裡久煮，把新加坡叻沙的湯底拖得混濁。 補充檢查雞蛋和米線，並按32分鐘節奏控制火候。",
+        "yue": "米線先煮至剛熟並分入碗中，避免直接在湯裡久煮，把新加坡叻沙的湯底拖得混濁。 補充檢查雞蛋和米線，並按32分鐘節奏控制火候。",
+        "zhHans": "米線先煮至剛熟並分入碗中，避免直接在汤里久煮，把新加坡叻沙的汤底拖得混濁。 補充檢查鸡蛋和米線，並按32分钟節奏控制火候。",
+        "en": "Cook the rice noodles just until tender and place it in bowls so the broth for Singapore laksa stays clean. Check eggs against rice noodles and keep the 32-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煮出叻沙咖喱醬湯底（新加坡叻沙）",
+        "yue": "煮出叻沙咖喱醬湯底（新加坡叻沙）",
+        "zhHans": "煮出叻沙咖喱酱汤底（新加坡叻沙）",
+        "en": "Build the curry paste broth (Singapore laksa)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鍋中先炒香叻沙咖喱醬、叻沙咖喱醬和豆腐，再加水或湯，小火煮到香味融合。",
+        "yue": "鍋中先炒香叻沙咖喱醬、叻沙咖喱醬和豆腐，再加水或湯，小火煮到香味融合。",
+        "zhHans": "锅中先炒香叻沙咖喱酱、叻沙咖喱酱和豆腐，再加水或汤，小火煮到香味融合。",
+        "en": "Bloom curry paste, curry paste, and tofu, then add water or stock and simmer until the broth tastes integrated.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "下蝦仁和椰奶（新加坡叻沙）",
+        "yue": "下蝦仁和椰奶（新加坡叻沙）",
+        "zhHans": "下虾仁和椰奶（新加坡叻沙）",
+        "en": "Cook shrimp and coconut milk (Singapore laksa)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蝦仁先下鍋，快熟時加入椰奶；看到邊緣剛熟便停火，湯面保持清而有香氣。 這一步看豆腐和芽菜的狀態決定時間，讓新加坡叻沙完成時口感清楚。",
+        "yue": "蝦仁先下鍋，快熟時加入椰奶；看到邊緣剛熟便停火，湯面保持清而有香氣。 這一步看豆腐和芽菜的狀態決定時間，讓新加坡叻沙完成時口感清楚。",
+        "zhHans": "虾仁先下锅，快熟時加入椰奶；看到边緣剛熟便停火，汤面保持清而有香气。 这一步看豆腐和芽菜的狀態決定時間，让新加坡叻沙完成時口感清楚。",
+        "en": "Add shrimp first, then coconut milk near the end, stopping as soon as the edges are cooked through. Check shrimp against coconut milk and keep the 32-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "熱湯淋麵（新加坡叻沙）",
+        "yue": "熱湯淋麵（新加坡叻沙）",
+        "zhHans": "热汤淋面（新加坡叻沙）",
+        "en": "Ladle over noodles (Singapore laksa)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把湯和配料淋上米線，最後用叻沙咖喱醬或豆腐補香，新加坡叻沙要趁熱立即食用。",
+        "yue": "把湯和配料淋上米線，最後用叻沙咖喱醬或豆腐補香，新加坡叻沙要趁熱立即食用。",
+        "zhHans": "把汤和配料淋上米線，最后用叻沙咖喱酱或豆腐補香，新加坡叻沙要趁热立即食用。",
+        "en": "Ladle broth and toppings over the rice noodles, then finish with curry paste or tofu and serve Singapore laksa immediately.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/singapore-laksa/cover-1.png",
+      "alt": "Generated food photo of Singapore laksa",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#singapore-laksa/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#singapore-laksa",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

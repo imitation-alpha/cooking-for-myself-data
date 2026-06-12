@@ -1,0 +1,314 @@
+{
+  "id": "ginger-white-fish-rice-soup",
+  "status": "approved",
+  "names": {
+    "zhHant": "薑絲白魚飯湯",
+    "yue": "薑絲白魚飯湯",
+    "zhHans": "姜丝白鱼饭汤",
+    "en": "Ginger white fish rice soup",
+    "ja": "生姜白身魚ご飯スープ",
+    "ko": "생강 흰살생선 밥국",
+    "th": "ซุปข้าวปลาขาวขิง",
+    "vi": "Súp cơm cá trắng gừng",
+    "id": "Sup nasi ikan putih jahe",
+    "tl": "Sabaw na kanin at puting isda na may luya"
+  },
+  "summary": {
+    "zhHant": "清雞湯加入薑、蔥和少量生抽，輕輕煮熟白身魚柳、紹菜和冷飯，是 30 分鐘內完成的兩人清淡湯飯。",
+    "yue": "清雞湯加入薑、蔥同少量生抽，輕輕煮熟白身魚柳、紹菜同冷飯，係 30 分鐘內完成嘅兩人清淡湯飯。",
+    "zhHans": "清鸡汤加入姜、葱和少量生抽，轻轻煮熟白身鱼柳、绍菜和冷饭，是 30 分钟内完成的两人清淡汤饭。",
+    "en": "A light two-person rice soup with white fish gently poached in ginger scallion chicken broth, napa cabbage, cooked rice, and a small amount of light soy.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "reason": {
+    "zhHant": "白身魚柳快速熟成又不厚重，冷飯讓湯飯不用久煮；雞湯、薑、蔥和紹菜提供清甜鮮味，生抽只作輕調味，整體保持 light soup。",
+    "yue": "白身魚柳好快熟又唔厚重，冷飯令湯飯唔使煮好耐；雞湯、薑、蔥同紹菜提供清甜鮮味，生抽只做輕調味，整體保持 light soup。",
+    "zhHans": "白身鱼柳快速熟成又不厚重，冷饭让汤饭不用久煮；鸡汤、姜、葱和绍菜提供清甜鲜味，生抽只作轻调味，整体保持 light soup。",
+    "en": "White fish cooks quickly without weighing the bowl down, cooked rice keeps the meal fast, and chicken broth with ginger, scallion, napa cabbage, and light soy stays gentle and clear.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "timeMinutes": 25,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "white-fish-fillet",
+      "amounts": {
+        "zhHant": "2 件",
+        "yue": "2 件",
+        "zhHans": "2 件",
+        "en": "2 fillets",
+        "ja": "2枚",
+        "ko": "2조각",
+        "th": "2 ชิ้น",
+        "vi": "2 miếng phi lê",
+        "id": "2 fillet",
+        "tl": "2 fillet"
+      }
+    },
+    {
+      "ingredientId": "cooked-rice",
+      "amounts": {
+        "zhHant": "2 碗",
+        "yue": "2 碗",
+        "zhHans": "2 碗",
+        "en": "2 bowls cooked rice",
+        "ja": "ご飯2杯",
+        "ko": "밥 2공기",
+        "th": "ข้าวสุก 2 ชาม",
+        "vi": "2 chén cơm chín",
+        "id": "2 mangkuk nasi matang",
+        "tl": "2 mangkok cooked rice"
+      }
+    },
+    {
+      "ingredientId": "chicken-broth",
+      "amounts": {
+        "zhHant": "700 毫升",
+        "yue": "700 毫升",
+        "zhHans": "700 毫升",
+        "en": "700 ml",
+        "ja": "700 ml",
+        "ko": "700 ml",
+        "th": "700 มล.",
+        "vi": "700 ml",
+        "id": "700 ml",
+        "tl": "700 ml"
+      }
+    },
+    {
+      "ingredientId": "napa-cabbage",
+      "amounts": {
+        "zhHant": "250 克",
+        "yue": "250 克",
+        "zhHans": "250 克",
+        "en": "250 g",
+        "ja": "250 g",
+        "ko": "250 g",
+        "th": "250 กรัม",
+        "vi": "250 g",
+        "id": "250 g",
+        "tl": "250 g"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "5 片",
+        "yue": "5 片",
+        "zhHans": "5 片",
+        "en": "5 slices",
+        "ja": "5枚",
+        "ko": "5쪽",
+        "th": "5 แว่น",
+        "vi": "5 lát",
+        "id": "5 iris",
+        "tl": "5 hiwa"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "yue": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": "2 ต้น",
+        "vi": "2 nhánh",
+        "id": "2 batang",
+        "tl": "2 tangkay"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "2 茶匙",
+        "yue": "2 茶匙",
+        "zhHans": "2 茶匙",
+        "en": "2 tsp",
+        "ja": "小さじ2",
+        "ko": "2작은술",
+        "th": "2 ช้อนชา",
+        "vi": "2 muỗng cà phê",
+        "id": "2 sdt",
+        "tl": "2 kutsarita"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "fish",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "切好魚菜蔥薑",
+        "yue": "切好魚菜蔥薑",
+        "zhHans": "切好鱼菜葱姜",
+        "en": "Prep the fish, napa, scallion, and ginger",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白身魚柳 2 件抹乾後切成大塊，薄位可摺起避免過熟。紹菜 250 克分開白梗和葉，白梗斜切薄片、葉切大片；蔥 2 條分開蔥白和蔥綠切粒，薑 5 片拍鬆。",
+        "yue": "白身魚柳 2 件抹乾後切成大件，薄位可以摺起避免過熟。紹菜 250 克分開白梗同葉，白梗斜切薄片、葉切大片；蔥 2 條分開蔥白同蔥綠切粒，薑 5 片拍鬆。",
+        "zhHans": "白身鱼柳 2 件抹干后切成大块，薄位可折起避免过熟。绍菜 250 克分开白梗和叶，白梗斜切薄片、叶切大片；葱 2 条分开葱白和葱绿切粒，姜 5 片拍松。",
+        "en": "Pat 2 white fish fillets dry and cut them into large pieces, folding very thin parts under so they do not overcook. Separate 250 g napa cabbage into ribs and leaves, thinly slice the ribs and cut the leaves large; slice 2 scallions, keeping whites and greens separate, and bruise 5 ginger slices.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "煮清薑蔥雞湯",
+        "yue": "煮清薑蔥雞湯",
+        "zhHans": "煮清姜葱鸡汤",
+        "en": "Simmer a clear ginger scallion broth",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鍋中加入雞湯 700 毫升、薑片和蔥白，中火煮至微滾後轉小火 3 分鐘。加入生抽 2 茶匙拌勻，湯面保持細泡，不要大滾。",
+        "yue": "鍋中加入雞湯 700 毫升、薑片同蔥白，中火煮至微滾後轉小火 3 分鐘。加入生抽 2 茶匙拌勻，湯面保持細泡，唔好大滾。",
+        "zhHans": "锅中加入鸡汤 700 毫升、姜片和葱白，中火煮至微滚后转小火 3 分钟。加入生抽 2 茶匙拌匀，汤面保持细泡，不要大滚。",
+        "en": "Add 700 ml chicken broth, the ginger slices, and scallion whites to a pot. Bring to a gentle simmer over medium heat, then lower the heat for 3 minutes. Stir in 2 tsp light soy sauce and keep the broth at small bubbles, not a hard boil.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "紹菜煮至清甜",
+        "yue": "紹菜煮至清甜",
+        "zhHans": "绍菜煮至清甜",
+        "en": "Simmer napa until sweet",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先放入紹菜白梗，小火煮 3 分鐘至邊位半透明；再加入紹菜葉煮 1 分鐘。菜應變軟但仍有淡綠色，湯保持清澈。",
+        "yue": "先放入紹菜白梗，小火煮 3 分鐘至邊位半透明；再加入紹菜葉煮 1 分鐘。菜應該變軟但仍有淡綠色，湯保持清澈。",
+        "zhHans": "先放入绍菜白梗，小火煮 3 分钟至边位半透明；再加入绍菜叶煮 1 分钟。菜应变软但仍有淡绿色，汤保持清澈。",
+        "en": "Add the napa ribs first and simmer gently for 3 minutes, until the edges turn translucent. Add the leafy tops and cook 1 minute more. The cabbage should soften while still showing pale green, and the broth should stay clear.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "白魚輕輕浸熟",
+        "yue": "白魚輕輕浸熟",
+        "zhHans": "白鱼轻轻浸熟",
+        "en": "Poach the white fish gently",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把白魚塊滑入微滾湯中，保持小火 4 至 5 分鐘，中途只輕推一次。魚肉變白、用筷子輕推會按紋理分開即可，不要大力攪拌以免魚塊散開。",
+        "yue": "將白魚件滑入微滾湯中，保持小火 4 至 5 分鐘，中途只輕推一次。魚肉變白、用筷子輕推會按紋理分開就得，唔好大力攪拌以免魚件散開。",
+        "zhHans": "把白鱼块滑入微滚汤中，保持小火 4 至 5 分钟，中途只轻推一次。鱼肉变白、用筷子轻推会按纹理分开即可，不要大力搅拌以免鱼块散开。",
+        "en": "Slide the white fish pieces into the gently bubbling broth and keep the heat low for 4-5 minutes, nudging only once halfway through. Stop when the fish turns white and flakes along the grain with a gentle push; avoid hard stirring so the pieces stay intact.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "熱湯飯碗上桌",
+        "yue": "熱湯飯碗上桌",
+        "zhHans": "热汤饭碗上桌",
+        "en": "Serve the hot rice soup bowls",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把熟飯 2 碗分入兩個深湯碗，平均放上白魚和紹菜，再淋入熱薑蔥雞湯至剛蓋過飯面。灑上蔥綠後立即上桌；飯粒應吸到清湯但不糊，魚肉保持嫩滑完整。",
+        "yue": "將熟飯 2 碗分入兩個深湯碗，平均放上白魚同紹菜，再淋入熱薑蔥雞湯至剛蓋過飯面。灑上蔥綠後即刻上桌；飯粒應該吸到清湯但唔糊，魚肉保持嫩滑完整。",
+        "zhHans": "把熟饭 2 碗分入两个深汤碗，平均放上白鱼和绍菜，再淋入热姜葱鸡汤至刚盖过饭面。撒上葱绿后立即上桌；饭粒应吸到清汤但不糊，鱼肉保持嫩滑完整。",
+        "en": "Divide 2 bowls cooked rice between two deep soup bowls, top evenly with the white fish and napa cabbage, then ladle in hot ginger scallion chicken broth until it just covers the rice. Finish with scallion greens and serve immediately; the grains should absorb the light soup without turning mushy, and the fish should stay tender and intact.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/ginger-white-fish-rice-soup/cover-1.png",
+      "alt": "Generated meal cover image for ginger-white-fish-rice-soup",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself light meals image run",
+      "sourceURL": "local://cooking-for-myself-data/light-meals-2026-05-18#ginger-white-fish-rice-soup",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself light meals expansion",
+    "sourceURL": "local://cooking-for-myself-data/data/meals/ginger-white-fish-rice-soup.json",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "approved",
+    "generated": true,
+    "generatedAt": "2026-05-18T00:00:00Z"
+  }
+}

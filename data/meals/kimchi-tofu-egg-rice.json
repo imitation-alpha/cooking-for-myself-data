@@ -1,0 +1,311 @@
+{
+  "id": "kimchi-tofu-egg-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "泡菜豆腐蛋飯",
+    "yue": "泡菜豆腐蛋飯",
+    "zhHans": "泡菜豆腐蛋饭",
+    "en": "Kimchi tofu egg rice",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "泡菜豆腐蛋飯 是一款亞洲飯碟，用 白米 1、泡菜 180、嫩豆腐 250、雞蛋 2、韓式辣醬 1 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "泡菜豆腐蛋飯 是一款亞洲飯碟，用 白米 1、泡菜 180、嫩豆腐 250、雞蛋 2、韓式辣醬 1 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "泡菜豆腐蛋饭 是一款亞洲饭碟，用 白米 1、泡菜 180、嫩豆腐 250、鸡蛋 2、韓式辣酱 1 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Kimchi tofu egg rice is a review-first candidate meal built around rice, kimchi, soft tofu, 2 eggs."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 18,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "白米 1 杯",
+        "yue": "白米 1 杯",
+        "zhHans": "白米 1 杯",
+        "en": "1 cup rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "cup"
+      }
+    },
+    {
+      "ingredientId": "kimchi",
+      "amounts": {
+        "zhHant": "泡菜 180 克",
+        "yue": "泡菜 180 克",
+        "zhHans": "泡菜 180 克",
+        "en": "180 g kimchi",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 180,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "soft-tofu",
+      "amounts": {
+        "zhHant": "嫩豆腐 250 克",
+        "yue": "嫩豆腐 250 克",
+        "zhHans": "嫩豆腐 250 克",
+        "en": "250 g soft tofu",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 250,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "雞蛋 2 隻",
+        "yue": "雞蛋 2 隻",
+        "zhHans": "鸡蛋 2 只",
+        "en": "2 eggs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "gochujang",
+      "amounts": {
+        "zhHant": "韓式辣醬 1 湯匙",
+        "yue": "韓式辣醬 1 湯匙",
+        "zhHans": "韓式辣酱 1 汤匙",
+        "en": "1 tbsp gochujang",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "tbsp"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "蔥 2 條",
+        "yue": "蔥 2 條",
+        "zhHans": "葱 2 条",
+        "en": "2 scallions",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "stalk"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "egg",
+    "soy",
+    "spicy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理泡菜和嫩豆腐（泡菜豆腐蛋飯）",
+        "yue": "先處理泡菜和嫩豆腐（泡菜豆腐蛋飯）",
+        "zhHans": "先處理泡菜和嫩豆腐（泡菜豆腐蛋饭）",
+        "en": "Prep kimchi and soft tofu (Kimchi tofu egg rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把泡菜抹乾或切成一口大小，嫩豆腐和雞蛋分開放好；白米按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把泡菜抹乾或切成一口大小，嫩豆腐和雞蛋分開放好；白米按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把泡菜抹干或切成一口大小，嫩豆腐和鸡蛋分開放好；白米按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the kimchi, keep the soft tofu and eggs separate, and get the rice ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "先煮白米（泡菜豆腐蛋飯）",
+        "yue": "先煮白米（泡菜豆腐蛋飯）",
+        "zhHans": "先煮白米（泡菜豆腐蛋饭）",
+        "en": "Cook rice (Kimchi tofu egg rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米先煮到可上碟的狀態並保溫；泡菜豆腐蛋飯完成時就能直接組合。 這一步看嫩豆腐和雞蛋的狀態決定時間，讓泡菜豆腐蛋飯完成時口感清楚。",
+        "yue": "白米先煮到可上碟的狀態並保溫；泡菜豆腐蛋飯完成時就能直接組合。 這一步看嫩豆腐和雞蛋的狀態決定時間，讓泡菜豆腐蛋飯完成時口感清楚。",
+        "zhHans": "白米先煮到可上碟的狀態並保溫；泡菜豆腐蛋饭完成時就能直接組合。 这一步看嫩豆腐和鸡蛋的狀態決定時間，让泡菜豆腐蛋饭完成時口感清楚。",
+        "en": "Cook rice until ready to serve and keep it warm so Kimchi tofu egg rice can be assembled immediately. Check soft tofu against eggs and keep the 18-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煎香泡菜（泡菜豆腐蛋飯）",
+        "yue": "煎香泡菜（泡菜豆腐蛋飯）",
+        "zhHans": "煎香泡菜（泡菜豆腐蛋饭）",
+        "en": "Sear kimchi (Kimchi tofu egg rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "泡菜抹乾後下鍋，表面上色才翻動；加入嫩豆腐時轉中火，避免外焦內生。 這一步看雞蛋和韓式辣醬的狀態決定時間，讓泡菜豆腐蛋飯完成時口感清楚。",
+        "yue": "泡菜抹乾後下鍋，表面上色才翻動；加入嫩豆腐時轉中火，避免外焦內生。 這一步看雞蛋和韓式辣醬的狀態決定時間，讓泡菜豆腐蛋飯完成時口感清楚。",
+        "zhHans": "泡菜抹干后下锅，表面上色才翻動；加入嫩豆腐時转中火，避免外焦内生。 这一步看鸡蛋和韓式辣酱的狀態決定時間，让泡菜豆腐蛋饭完成時口感清楚。",
+        "en": "Dry kimchi, sear until colored before moving it, then add soft tofu over medium heat for control.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "用韓式辣醬收味（泡菜豆腐蛋飯）",
+        "yue": "用韓式辣醬收味（泡菜豆腐蛋飯）",
+        "zhHans": "用韓式辣酱收味（泡菜豆腐蛋饭）",
+        "en": "Finish with gochujang (Kimchi tofu egg rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "同鍋加入韓式辣醬和雞蛋，刮起鍋底香味，小火煮到可以薄薄掛在泡菜上。 這一步看韓式辣醬和蔥的狀態決定時間，讓泡菜豆腐蛋飯完成時口感清楚。",
+        "yue": "同鍋加入韓式辣醬和雞蛋，刮起鍋底香味，小火煮到可以薄薄掛在泡菜上。 這一步看韓式辣醬和蔥的狀態決定時間，讓泡菜豆腐蛋飯完成時口感清楚。",
+        "zhHans": "同锅加入韓式辣酱和鸡蛋，刮起锅底香味，小火煮到可以薄薄掛在泡菜上。 这一步看韓式辣酱和葱的狀態決定時間，让泡菜豆腐蛋饭完成時口感清楚。",
+        "en": "Add gochujang and eggs to the same pan, scrape up browned bits, and simmer until it coats the kimchi.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "排好泡菜豆腐蛋飯（泡菜豆腐蛋飯）",
+        "yue": "排好泡菜豆腐蛋飯（泡菜豆腐蛋飯）",
+        "zhHans": "排好泡菜豆腐蛋饭（泡菜豆腐蛋饭）",
+        "en": "Plate Kimchi tofu egg rice (Kimchi tofu egg rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米先放底，鋪上泡菜和嫩豆腐，最後淋少量醬汁，保持份量清楚。 這一步看蔥和白米的狀態決定時間，讓泡菜豆腐蛋飯完成時口感清楚。",
+        "yue": "白米先放底，鋪上泡菜和嫩豆腐，最後淋少量醬汁，保持份量清楚。 這一步看蔥和白米的狀態決定時間，讓泡菜豆腐蛋飯完成時口感清楚。",
+        "zhHans": "白米先放底，鋪上泡菜和嫩豆腐，最后淋少量酱汁，保持份量清楚。 这一步看葱和白米的狀態決定時間，让泡菜豆腐蛋饭完成時口感清楚。",
+        "en": "Set down rice, add kimchi and soft tofu, then spoon over a little sauce for a tidy plate.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/kimchi-tofu-egg-rice/cover-1.png",
+      "alt": "Generated food photo of Kimchi tofu egg rice",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#kimchi-tofu-egg-rice/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#kimchi-tofu-egg-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

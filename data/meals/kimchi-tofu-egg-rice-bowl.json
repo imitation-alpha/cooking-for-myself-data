@@ -1,0 +1,287 @@
+{
+  "id": "kimchi-tofu-egg-rice-bowl",
+  "status": "approved",
+  "names": {
+    "zhHant": "泡菜豆腐蛋飯碗",
+    "yue": "泡菜豆腐蛋飯碗",
+    "zhHans": "泡菜豆腐蛋饭碗",
+    "en": "Kimchi tofu egg rice bowl",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": "Kimchi tofu egg rice bowl",
+    "tl": "Kimchi tofu egg rice bowl"
+  },
+  "summary": {
+    "zhHant": "泡菜、滑豆腐和嫩蛋蓋在熱飯上，生抽輕調味、蔥花收尾；酸辣、柔滑、夠飽但不厚重。",
+    "yue": "泡菜、滑豆腐同嫩蛋蓋喺熱飯上，生抽輕輕調味、蔥花收尾；酸辣、柔滑、夠飽但唔厚重。",
+    "en": "Kimchi, soft tofu and tender eggs sit over hot rice with light soy and scallions; bright, silky, filling and not heavy."
+  },
+  "reason": {
+    "zhHant": "用現成飯和泡菜做快手一碗餐，豆腐和蛋補蛋白質，調味只靠泡菜汁與少量生抽，30 分鐘內完成。",
+    "yue": "用現成飯同泡菜做快手一碗餐，豆腐同蛋補蛋白質，調味只靠泡菜汁同少量生抽，30 分鐘內完成。",
+    "en": "Cooked rice and kimchi make a fast bowl base, while soft tofu and eggs add protein; kimchi brine and a little light soy keep it flavorful within 30 minutes."
+  },
+  "timeMinutes": 20,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "kimchi",
+      "amounts": {
+        "zhHant": "180 克",
+        "yue": "180 克",
+        "zhHans": "180 克",
+        "en": "180 g",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "180 g",
+        "tl": "180 g"
+      }
+    },
+    {
+      "ingredientId": "soft-tofu",
+      "amounts": {
+        "zhHant": "1 盒",
+        "yue": "1 盒",
+        "zhHans": "1 盒",
+        "en": "1 package",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "1 package",
+        "tl": "1 package"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "2 隻",
+        "yue": "2 隻",
+        "zhHans": "2 只",
+        "en": "2 eggs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "2 eggs",
+        "tl": "2 eggs"
+      }
+    },
+    {
+      "ingredientId": "cooked-rice",
+      "amounts": {
+        "zhHant": "2 碗",
+        "yue": "2 碗",
+        "zhHans": "2 碗",
+        "en": "2 bowls",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "2 bowls",
+        "tl": "2 bowls"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "yue": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "2 stalks",
+        "tl": "2 stalks"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "2 茶匙",
+        "yue": "2 茶匙",
+        "zhHans": "2 茶匙",
+        "en": "2 tsp",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "2 tsp",
+        "tl": "2 tsp"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "fish",
+    "shellfish",
+    "soy",
+    "egg",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "備好飯、豆腐和蔥",
+        "yue": "備好飯、豆腐同蔥",
+        "zhHans": "备好饭、豆腐和葱",
+        "en": "Prep rice, tofu and scallions",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "熟飯 2 碗翻鬆並保持溫熱。滑豆腐 1 盒瀝去盒中水，切成大塊；泡菜 180 克若太大片就剪短。蔥 2 條切粒，蔥白和蔥綠分開。",
+        "yue": "熟飯 2 碗翻鬆並保持溫熱。滑豆腐 1 盒瀝走盒中水，切成大件；泡菜 180 克如果太大片就剪短。蔥 2 條切粒，蔥白同蔥綠分開。",
+        "zhHans": "熟饭 2 碗翻松并保持温热。滑豆腐 1 盒沥去盒中水，切成大块；泡菜 180 克如果太大片就剪短。葱 2 条切粒，葱白和葱绿分开。",
+        "en": "Fluff 2 bowls cooked rice and keep it warm. Drain 1 package soft tofu and cut it into large pieces; snip 180 g kimchi shorter if the pieces are large. Slice 2 stalks scallions, keeping whites and greens separate.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "煮出泡菜生抽汁",
+        "yue": "煮出泡菜生抽汁",
+        "zhHans": "煮出泡菜生抽汁",
+        "en": "Make the kimchi soy base",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "平底鍋放入泡菜、蔥白、生抽 2 茶匙和 4 湯匙水，用中火煮 2 分鐘。泡菜汁要變成薄薄紅色湯汁，不需要煮乾。",
+        "yue": "平底鍋放入泡菜、蔥白、生抽 2 茶匙同 4 湯匙水，用中火煮 2 分鐘。泡菜汁要變成薄薄紅色湯汁，唔需要煮乾。",
+        "zhHans": "平底锅放入泡菜、葱白、生抽 2 茶匙和 4 汤匙水，用中火煮 2 分钟。泡菜汁要变成薄薄红色汤汁，不需要煮干。",
+        "en": "Add the kimchi, scallion whites, 2 tsp light soy sauce and 4 tbsp water to a skillet. Simmer over medium heat for 2 minutes, just until the kimchi juices become a thin red sauce; do not cook it dry.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "豆腐入鍋煮熱",
+        "yue": "豆腐入鍋煮熱",
+        "zhHans": "豆腐入锅煮热",
+        "en": "Warm the tofu in the sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把滑豆腐大塊輕放入鍋中，用匙羹把泡菜汁淋上表面。轉中小火煮 3 分鐘，期間少翻動，讓豆腐保持完整而中心熱透。",
+        "yue": "將滑豆腐大件輕放入鍋，用匙羹將泡菜汁淋上表面。轉中小火煮 3 分鐘，期間少翻動，令豆腐保持完整而中心熱透。",
+        "zhHans": "把滑豆腐大块轻放入锅中，用匙羹把泡菜汁淋上表面。转中小火煮 3 分钟，期间少翻动，让豆腐保持完整而中心热透。",
+        "en": "Nestle the large tofu pieces into the skillet and spoon the kimchi sauce over the top. Lower to medium-low and cook for 3 minutes, moving the tofu as little as possible so it stays intact and warms through.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "打蛋加蓋蒸熟",
+        "yue": "打蛋加蓋蒸熟",
+        "zhHans": "打蛋加盖蒸熟",
+        "en": "Steam the eggs in the pan",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "在豆腐和泡菜之間留兩個小空位，各打入 1 隻蛋。蓋上鍋蓋煮 4 至 5 分鐘，至蛋白凝固、蛋黃仍柔軟；喜歡全熟可多煮 1 分鐘。",
+        "yue": "喺豆腐同泡菜之間留兩個小空位，各打入 1 隻蛋。蓋上鍋蓋煮 4 至 5 分鐘，至蛋白凝固、蛋黃仍然柔軟；鍾意全熟可以多煮 1 分鐘。",
+        "zhHans": "在豆腐和泡菜之间留两个小空位，各打入 1 只蛋。盖上锅盖煮 4 至 5 分钟，至蛋白凝固、蛋黄仍柔软；喜欢全熟可以多煮 1 分钟。",
+        "en": "Make two small spaces between the tofu and kimchi, then crack 1 egg into each space. Cover and cook for 4-5 minutes, until the whites are set and the yolks are still soft; cook 1 minute longer for firm yolks.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "蓋飯灑蔥綠",
+        "yue": "蓋飯灑蔥綠",
+        "zhHans": "盖饭撒葱绿",
+        "en": "Bowl over rice and finish with scallions",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把熱飯分入 2 個碗，輕手把泡菜、豆腐、蛋和汁蓋在飯上。灑上蔥綠，趁豆腐滑、蛋仍嫩、泡菜汁剛好滲入飯粒時食用。",
+        "yue": "將熱飯分入 2 個碗，輕手將泡菜、豆腐、蛋同汁蓋喺飯上。灑上蔥綠，趁豆腐滑、蛋仍嫩、泡菜汁剛好滲入飯粒時食用。",
+        "zhHans": "把热饭分入 2 个碗，轻手把泡菜、豆腐、蛋和汁盖在饭上。撒上葱绿，趁豆腐滑、蛋仍嫩、泡菜汁刚好渗入饭粒时食用。",
+        "en": "Divide the hot rice between 2 bowls, then gently slide the kimchi, tofu, eggs and sauce over the rice. Scatter with scallion greens and eat while the tofu is silky, the eggs are tender and the kimchi sauce is just soaking into the grains.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/kimchi-tofu-egg-rice-bowl/cover-1.png",
+      "alt": "Generated meal cover image for kimchi tofu egg rice bowl",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself light-but-fueled image run",
+      "sourceURL": "local://cooking-for-myself-data/light-but-fueled-2026-05-18#kimchi-tofu-egg-rice-bowl",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself light-but-fueled meal expansion",
+    "sourceURL": "local://cooking-for-myself-data/data/meals/kimchi-tofu-egg-rice-bowl.json",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "approved",
+    "generated": true,
+    "generatedAt": "2026-05-18T00:00:00Z"
+  }
+}

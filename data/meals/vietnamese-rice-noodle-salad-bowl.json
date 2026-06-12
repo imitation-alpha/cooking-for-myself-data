@@ -1,0 +1,328 @@
+{
+  "id": "vietnamese-rice-noodle-salad-bowl",
+  "status": "approved",
+  "names": {
+    "zhHant": "越式米粉沙律碗",
+    "yue": "越式米粉沙律碗",
+    "zhHans": "越式米粉沙律碗",
+    "en": "Vietnamese rice noodle salad bowl",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "越式米粉沙律碗 是一款亞洲麵粉，用 米粉 180、蝦仁 220、生菜 120、青瓜半條、甘筍半條 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "越式米粉沙律碗 是一款亞洲麵粉，用 米粉 180、蝦仁 220、生菜 120、青瓜半條、甘筍半條 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "越式米粉沙律碗 是一款亞洲面粉，用 米粉 180、虾仁 220、生菜 120、青瓜半条、甘筍半条 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Vietnamese rice noodle salad bowl is a review-first candidate meal built around rice noodles, shrimp, lettuce, 1/2 cucumber."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 28,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "rice-noodle",
+      "amounts": {
+        "zhHant": "米粉 180 克",
+        "yue": "米粉 180 克",
+        "zhHans": "米粉 180 克",
+        "en": "180 g rice noodles",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 180,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "shrimp",
+      "amounts": {
+        "zhHant": "蝦仁 220 克",
+        "yue": "蝦仁 220 克",
+        "zhHans": "虾仁 220 克",
+        "en": "220 g shrimp",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 220,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "lettuce",
+      "amounts": {
+        "zhHant": "生菜 120 克",
+        "yue": "生菜 120 克",
+        "zhHans": "生菜 120 克",
+        "en": "120 g lettuce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 120,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cucumber",
+      "amounts": {
+        "zhHant": "青瓜半條",
+        "yue": "青瓜半條",
+        "zhHans": "青瓜半条",
+        "en": "1/2 cucumber",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 0.5,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "carrot",
+      "amounts": {
+        "zhHant": "甘筍半條",
+        "yue": "甘筍半條",
+        "zhHans": "甘筍半条",
+        "en": "1/2 carrot",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 0.5,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "cilantro",
+      "amounts": {
+        "zhHant": "芫荽 15 克",
+        "yue": "芫荽 15 克",
+        "zhHans": "芫荽 15 克",
+        "en": "15 g cilantro",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 15,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "lime",
+      "amounts": {
+        "zhHant": "青檸 1 個",
+        "yue": "青檸 1 個",
+        "zhHans": "青柠 1 个",
+        "en": "1 lime",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "piece"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "shellfish"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理蝦仁和生菜（越式米粉沙律碗）",
+        "yue": "先處理蝦仁和生菜（越式米粉沙律碗）",
+        "zhHans": "先處理虾仁和生菜（越式米粉沙律碗）",
+        "en": "Prep shrimp and lettuce (Vietnamese rice noodle salad bowl)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把蝦仁抹乾或切成一口大小，生菜和青瓜分開放好；米粉按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把蝦仁抹乾或切成一口大小，生菜和青瓜分開放好；米粉按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把虾仁抹干或切成一口大小，生菜和青瓜分開放好；米粉按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the shrimp, keep the lettuce and cucumber separate, and get the rice noodles ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "過冷米粉（越式米粉沙律碗）",
+        "yue": "過冷米粉（越式米粉沙律碗）",
+        "zhHans": "過冷米粉（越式米粉沙律碗）",
+        "en": "Chill rice noodles (Vietnamese rice noodle salad bowl)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "米粉煮熟後立即沖冷水，瀝乾再拌少量油；這一步決定越式米粉沙律碗是否爽身。",
+        "yue": "米粉煮熟後立即沖冷水，瀝乾再拌少量油；這一步決定越式米粉沙律碗是否爽身。",
+        "zhHans": "米粉煮熟后立即沖冷水，瀝干再拌少量油；这一步決定越式米粉沙律碗是否爽身。",
+        "en": "Rinse cooked rice noodles under cold water, drain thoroughly, and oil lightly so Vietnamese rice noodle salad bowl stays springy.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "開稀蝦仁（越式米粉沙律碗）",
+        "yue": "開稀蝦仁（越式米粉沙律碗）",
+        "zhHans": "開稀虾仁（越式米粉沙律碗）",
+        "en": "Loosen shrimp (Vietnamese rice noodle salad bowl)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蝦仁先用少量水分次拌開，再加入甘筍調成可流動但能掛麵的醬汁。 這一步看青瓜和甘筍的狀態決定時間，讓越式米粉沙律碗完成時口感清楚。",
+        "yue": "蝦仁先用少量水分次拌開，再加入甘筍調成可流動但能掛麵的醬汁。 這一步看青瓜和甘筍的狀態決定時間，讓越式米粉沙律碗完成時口感清楚。",
+        "zhHans": "虾仁先用少量水分次拌開，再加入甘筍调成可流動但能掛面的酱汁。 这一步看青瓜和甘筍的狀態決定時間，让越式米粉沙律碗完成時口感清楚。",
+        "en": "Thin shrimp gradually with water, then season with carrot until it can coat the noodles without turning heavy.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "切好生菜和青瓜（越式米粉沙律碗）",
+        "yue": "切好生菜和青瓜（越式米粉沙律碗）",
+        "zhHans": "切好生菜和青瓜（越式米粉沙律碗）",
+        "en": "Cut lettuce and cucumber (Vietnamese rice noodle salad bowl)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "生菜和青瓜切成幼條，甘筍另外放；冰一會兒再拌，入口會更清爽。 這一步看甘筍和芫荽的狀態決定時間，讓越式米粉沙律碗完成時口感清楚。",
+        "yue": "生菜和青瓜切成幼條，甘筍另外放；冰一會兒再拌，入口會更清爽。 這一步看甘筍和芫荽的狀態決定時間，讓越式米粉沙律碗完成時口感清楚。",
+        "zhHans": "生菜和青瓜切成幼条，甘筍另外放；冰一会兒再拌，入口会更清爽。 这一步看甘筍和芫荽的狀態決定時間，让越式米粉沙律碗完成時口感清楚。",
+        "en": "Cut lettuce and cucumber into thin strips and keep carrot separate until tossing for a fresher bite.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "臨食先拌（越式米粉沙律碗）",
+        "yue": "臨食先拌（越式米粉沙律碗）",
+        "zhHans": "臨食先拌（越式米粉沙律碗）",
+        "en": "Toss just before serving (Vietnamese rice noodle salad bowl)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "上桌前才把米粉、醬汁和配料拌勻，分碗後再補少量蝦仁，避免涼麵提早變腍。",
+        "yue": "上桌前才把米粉、醬汁和配料拌勻，分碗後再補少量蝦仁，避免涼麵提早變腍。",
+        "zhHans": "上桌前才把米粉、酱汁和配料拌勻，分碗后再補少量虾仁，避免凉面提早變腍。",
+        "en": "Toss rice noodles, dressing, and toppings right before serving, adding extra shrimp after portioning if needed.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/vietnamese-rice-noodle-salad-bowl/cover-1.png",
+      "alt": "Generated food photo of Vietnamese rice noodle salad bowl",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#vietnamese-rice-noodle-salad-bowl/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#vietnamese-rice-noodle-salad-bowl",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "id": "pickled-cabbage-fish-rice-noodle-soup",
+  "status": "approved",
+  "names": {
+    "zhHant": "酸菜魚片米線",
+    "yue": "酸菜魚片米線",
+    "zhHans": "酸菜鱼片米線",
+    "en": "Pickled cabbage fish rice noodle soup",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "酸菜魚片米線 是一款亞洲麵粉，用 米線 180、白魚柳 300、酸菜風椰菜 150、雞湯 700、薑 5 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "酸菜魚片米線 是一款亞洲麵粉，用 米線 180、白魚柳 300、酸菜風椰菜 150、雞湯 700、薑 5 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "酸菜鱼片米線 是一款亞洲面粉，用 米線 180、白鱼柳 300、酸菜風椰菜 150、鸡汤 700、姜 5 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Pickled cabbage fish rice noodle soup is a review-first candidate meal built around rice noodles, white fish fillet, pickled-style cabbage, chicken broth."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 30,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "rice-noodle",
+      "amounts": {
+        "zhHant": "米線 180 克",
+        "yue": "米線 180 克",
+        "zhHans": "米線 180 克",
+        "en": "180 g rice noodles",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 180,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "white-fish-fillet",
+      "amounts": {
+        "zhHant": "白魚柳 300 克",
+        "yue": "白魚柳 300 克",
+        "zhHans": "白鱼柳 300 克",
+        "en": "300 g white fish fillet",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 300,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cabbage",
+      "amounts": {
+        "zhHant": "酸菜風椰菜 150 克",
+        "yue": "酸菜風椰菜 150 克",
+        "zhHans": "酸菜風椰菜 150 克",
+        "en": "150 g pickled-style cabbage",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 150,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "chicken-broth",
+      "amounts": {
+        "zhHant": "雞湯 700 毫升",
+        "yue": "雞湯 700 毫升",
+        "zhHans": "鸡汤 700 毫升",
+        "en": "700 ml chicken broth",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 700,
+        "unit": "ml"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "薑 5 片",
+        "yue": "薑 5 片",
+        "zhHans": "姜 5 片",
+        "en": "5 slices ginger",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 5,
+        "unit": "slice"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "蒜頭 3 瓣",
+        "yue": "蒜頭 3 瓣",
+        "zhHans": "蒜頭 3 瓣",
+        "en": "3 garlic cloves",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 3,
+        "unit": "clove"
+      }
+    },
+    {
+      "ingredientId": "mushroom",
+      "amounts": {
+        "zhHant": "蘑菇 100 克",
+        "yue": "蘑菇 100 克",
+        "zhHans": "蘑菇 100 克",
+        "en": "100 g mushrooms",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 100,
+        "unit": "g"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "fish"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理白魚柳和酸菜風椰菜（酸菜魚片米線）",
+        "yue": "先處理白魚柳和酸菜風椰菜（酸菜魚片米線）",
+        "zhHans": "先處理白鱼柳和酸菜風椰菜（酸菜鱼片米線）",
+        "en": "Prep white fish fillet and pickled-style cabbage (Pickled cabbage fish rice noodle soup)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把白魚柳抹乾或切成一口大小，酸菜風椰菜和雞湯分開放好；米線按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把白魚柳抹乾或切成一口大小，酸菜風椰菜和雞湯分開放好；米線按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把白鱼柳抹干或切成一口大小，酸菜風椰菜和鸡汤分開放好；米線按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the white fish fillet, keep the pickled-style cabbage and chicken broth separate, and get the rice noodles ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "分碗放好米線（酸菜魚片米線）",
+        "yue": "分碗放好米線（酸菜魚片米線）",
+        "zhHans": "分碗放好米線（酸菜鱼片米線）",
+        "en": "Bowl the rice noodles (Pickled cabbage fish rice noodle soup)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "米線先煮至剛熟並分入碗中，避免直接在湯裡久煮，把酸菜魚片米線的湯底拖得混濁。 補充檢查米線和白魚柳，並按30分鐘節奏控制火候。",
+        "yue": "米線先煮至剛熟並分入碗中，避免直接在湯裡久煮，把酸菜魚片米線的湯底拖得混濁。 補充檢查米線和白魚柳，並按30分鐘節奏控制火候。",
+        "zhHans": "米線先煮至剛熟並分入碗中，避免直接在汤里久煮，把酸菜鱼片米線的汤底拖得混濁。 補充檢查米線和白鱼柳，並按30分钟節奏控制火候。",
+        "en": "Cook the rice noodles just until tender and place it in bowls so the broth for Pickled cabbage fish rice noodle soup stays clean. Check rice noodles against white fish fillet and keep the 30-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煮出薑湯底（酸菜魚片米線）",
+        "yue": "煮出薑湯底（酸菜魚片米線）",
+        "zhHans": "煮出姜汤底（酸菜鱼片米線）",
+        "en": "Build the ginger broth (Pickled cabbage fish rice noodle soup)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鍋中先炒香薑、雞湯和薑，再加水或湯，小火煮到香味融合。 這一步看雞湯和薑的狀態決定時間，讓酸菜魚片米線完成時口感清楚。",
+        "yue": "鍋中先炒香薑、雞湯和薑，再加水或湯，小火煮到香味融合。 這一步看雞湯和薑的狀態決定時間，讓酸菜魚片米線完成時口感清楚。",
+        "zhHans": "锅中先炒香姜、鸡汤和姜，再加水或汤，小火煮到香味融合。 这一步看鸡汤和姜的狀態決定時間，让酸菜鱼片米線完成時口感清楚。",
+        "en": "Bloom ginger, chicken broth, and ginger, then add water or stock and simmer until the broth tastes integrated.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "下白魚柳和酸菜風椰菜（酸菜魚片米線）",
+        "yue": "下白魚柳和酸菜風椰菜（酸菜魚片米線）",
+        "zhHans": "下白鱼柳和酸菜風椰菜（酸菜鱼片米線）",
+        "en": "Cook white fish fillet and pickled-style cabbage (Pickled cabbage fish rice noodle soup)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白魚柳先下鍋，快熟時加入酸菜風椰菜；看到邊緣剛熟便停火，湯面保持清而有香氣。",
+        "yue": "白魚柳先下鍋，快熟時加入酸菜風椰菜；看到邊緣剛熟便停火，湯面保持清而有香氣。",
+        "zhHans": "白鱼柳先下锅，快熟時加入酸菜風椰菜；看到边緣剛熟便停火，汤面保持清而有香气。",
+        "en": "Add white fish fillet first, then pickled-style cabbage near the end, stopping as soon as the edges are cooked through.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "熱湯淋麵（酸菜魚片米線）",
+        "yue": "熱湯淋麵（酸菜魚片米線）",
+        "zhHans": "热汤淋面（酸菜鱼片米線）",
+        "en": "Ladle over noodles (Pickled cabbage fish rice noodle soup)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把湯和配料淋上米線，最後用雞湯或薑補香，酸菜魚片米線要趁熱立即食用。 這一步看蒜頭和蘑菇的狀態決定時間，讓酸菜魚片米線完成時口感清楚。",
+        "yue": "把湯和配料淋上米線，最後用雞湯或薑補香，酸菜魚片米線要趁熱立即食用。 這一步看蒜頭和蘑菇的狀態決定時間，讓酸菜魚片米線完成時口感清楚。",
+        "zhHans": "把汤和配料淋上米線，最后用鸡汤或姜補香，酸菜鱼片米線要趁热立即食用。 这一步看蒜頭和蘑菇的狀態決定時間，让酸菜鱼片米線完成時口感清楚。",
+        "en": "Ladle broth and toppings over the rice noodles, then finish with chicken broth or ginger and serve Pickled cabbage fish rice noodle soup immediately.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/pickled-cabbage-fish-rice-noodle-soup/cover-1.png",
+      "alt": "Generated food photo of Pickled cabbage fish rice noodle soup",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#pickled-cabbage-fish-rice-noodle-soup/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#pickled-cabbage-fish-rice-noodle-soup",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

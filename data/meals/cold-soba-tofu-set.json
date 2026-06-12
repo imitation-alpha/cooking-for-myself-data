@@ -1,0 +1,313 @@
+{
+  "id": "cold-soba-tofu-set",
+  "status": "approved",
+  "names": {
+    "zhHant": "冷蕎麥豆腐定食",
+    "yue": "冷蕎麥豆腐定食",
+    "zhHans": "冷荞麦豆腐定食",
+    "en": "Cold soba tofu set",
+    "ja": "冷やしそば豆腐セット",
+    "ko": "차가운 소바 두부 세트",
+    "th": "ชุดโซบะเย็นเต้าหู้",
+    "vi": "Set soba lạnh với đậu hũ",
+    "id": "Set soba dingin tahu",
+    "tl": "Cold soba tofu set"
+  },
+  "summary": {
+    "zhHant": "冷蕎麥、凍豆腐、青瓜、紫菜和薑蔥生抽放成簡單定食，一鍋煮麵後只需切配和組裝，30 分鐘內完成兩人清爽晚餐。",
+    "yue": "冷蕎麥、凍豆腐、青瓜、紫菜同薑蔥生抽放成簡單定食，一鍋煮麵之後只要切配同組裝，30 分鐘內完成兩人清爽晚餐。",
+    "zhHans": "冷荞麦、冷豆腐、青瓜、紫菜和姜葱生抽组成简单定食，一锅煮面后只需切配和组装，30 分钟内完成两人清爽晚餐。",
+    "en": "Cold soba, chilled tofu, cucumber, nori, and ginger scallion light-soy dip make a simple set meal: one pot for noodles, then slicing and assembly for a fresh two-person dinner under 30 minutes.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "reason": {
+    "zhHant": "蕎麥麵提供主食份量，豆腐補足植物蛋白，青瓜和紫菜讓口感清爽分明；薑蔥生抽作小碟蘸汁，味道夠清楚但不需要炒鑊或多個器皿。",
+    "yue": "蕎麥麵提供主食份量，豆腐補足植物蛋白，青瓜同紫菜令口感清爽分明；薑蔥生抽做小碟蘸汁，味道夠清楚但唔需要炒鑊或者好多器皿。",
+    "zhHans": "荞麦面提供主食份量，豆腐补足植物蛋白，青瓜和紫菜让口感清爽分明；姜葱生抽作小碟蘸汁，味道够清楚但不需要炒锅或多个器皿。",
+    "en": "Soba provides the main-meal base, tofu adds plant protein, and cucumber plus nori keep the texture crisp and clear. A small ginger scallion light-soy dip gives enough flavor without a wok or extra pans.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "timeMinutes": 20,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "soba",
+      "amounts": {
+        "zhHant": "180 克",
+        "yue": "180 克",
+        "zhHans": "180 克",
+        "en": "180 g",
+        "ja": "180 g",
+        "ko": "180 g",
+        "th": "180 กรัม",
+        "vi": "180 g",
+        "id": "180 g",
+        "tl": "180 g"
+      }
+    },
+    {
+      "ingredientId": "tofu",
+      "amounts": {
+        "zhHant": "300 克",
+        "yue": "300 克",
+        "zhHans": "300 克",
+        "en": "300 g",
+        "ja": "300 g",
+        "ko": "300 g",
+        "th": "300 กรัม",
+        "vi": "300 g",
+        "id": "300 g",
+        "tl": "300 g"
+      }
+    },
+    {
+      "ingredientId": "cucumber",
+      "amounts": {
+        "zhHant": "1 條",
+        "yue": "1 條",
+        "zhHans": "1 条",
+        "en": "1 cucumber",
+        "ja": "1本",
+        "ko": "1개",
+        "th": "1 ลูก",
+        "vi": "1 quả",
+        "id": "1 mentimun",
+        "tl": "1 pipino"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "yue": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": "2 ต้น",
+        "vi": "2 nhánh",
+        "id": "2 batang",
+        "tl": "2 tangkay"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "2 片",
+        "yue": "2 片",
+        "zhHans": "2 片",
+        "en": "2 slices",
+        "ja": "2枚",
+        "ko": "2쪽",
+        "th": "2 แว่น",
+        "vi": "2 lát",
+        "id": "2 iris",
+        "tl": "2 hiwa"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "2 湯匙",
+        "yue": "2 湯匙",
+        "zhHans": "2 汤匙",
+        "en": "2 tbsp",
+        "ja": "大さじ2",
+        "ko": "2큰술",
+        "th": "2 ช้อนโต๊ะ",
+        "vi": "2 muỗng canh",
+        "id": "2 sdm",
+        "tl": "2 kutsara"
+      }
+    },
+    {
+      "ingredientId": "nori",
+      "amounts": {
+        "zhHant": "1 張",
+        "yue": "1 張",
+        "zhHans": "1 张",
+        "en": "1 sheet",
+        "ja": "1枚",
+        "ko": "1장",
+        "th": "1 แผ่น",
+        "vi": "1 lá",
+        "id": "1 lembar",
+        "tl": "1 piraso"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "wheatGluten",
+    "soy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先調薑蔥生抽蘸汁",
+        "yue": "先調薑蔥生抽蘸汁",
+        "zhHans": "先调姜葱生抽蘸汁",
+        "en": "Mix the ginger scallion soy dip",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "薑 2 片磨蓉或切得很碎，蔥 2 條切粒，分開蔥白和蔥綠。小碗內拌勻生抽 2 湯匙和 4 湯匙冷開水，加入薑蓉和一半蔥白，放旁邊讓味道融合。",
+        "yue": "薑 2 片磨蓉或者切到好碎，蔥 2 條切粒，分開蔥白同蔥綠。小碗入面拌勻生抽 2 湯匙同 4 湯匙凍滾水，加入薑蓉同一半蔥白，放埋一邊等味道融合。",
+        "zhHans": "姜 2 片磨蓉或切得很碎，葱 2 条切粒，分开葱白和葱绿。小碗内拌匀生抽 2 汤匙和 4 汤匙冷开水，加入姜蓉和一半葱白，放旁边让味道融合。",
+        "en": "Grate or very finely mince 2 slices ginger. Slice 2 scallions, keeping whites and greens separate. In a small bowl, stir 2 tbsp light soy sauce with 4 tbsp cold boiled water, then add the ginger and half the scallion whites so the dip can settle.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "蕎麥麵煮熟沖冷",
+        "yue": "蕎麥麵煮熟沖凍",
+        "zhHans": "荞麦面煮熟冲冷",
+        "en": "Cook soba and rinse cold",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "煲一鍋水，放入蕎麥麵 180 克，按包裝或約 4 至 5 分鐘煮至中心無硬芯。撈起後立刻用冷水沖洗，輕輕搓走表面黏性，瀝乾到不滴水。",
+        "yue": "煲一鍋水，放入蕎麥麵 180 克，按包裝或者約 4 至 5 分鐘煮到中心無硬芯。撈起後即刻用凍水沖洗，輕輕搓走表面黏性，瀝乾到唔滴水。",
+        "zhHans": "烧一锅水，放入荞麦面 180 克，按包装或约 4 至 5 分钟煮至中心没有硬芯。捞起后立刻用冷水冲洗，轻轻搓走表面黏性，沥干到不滴水。",
+        "en": "Bring one pot of water to a boil, add 180 g soba, and cook according to the package, or about 4-5 minutes, until the center is no longer hard. Drain, rinse immediately under cold water, gently rub away surface starch, and drain until not dripping.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "切好豆腐青瓜紫菜",
+        "yue": "切好豆腐青瓜紫菜",
+        "zhHans": "切好豆腐青瓜紫菜",
+        "en": "Cut tofu, cucumber, and nori",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "豆腐 300 克用廚房紙輕輕印乾，切成可一口吃的厚件。青瓜 1 條切幼條，紫菜 1 張剪成幼絲或撕成小片，全部放在同一個砧板旁備用。",
+        "yue": "豆腐 300 克用廚房紙輕輕印乾，切成一啖食到嘅厚件。青瓜 1 條切幼條，紫菜 1 張剪成幼絲或者撕成小片，全部放喺同一塊砧板旁邊備用。",
+        "zhHans": "豆腐 300 克用厨房纸轻轻印干，切成可一口吃的厚块。青瓜 1 条切细条，紫菜 1 张剪成细丝或撕成小片，全部放在同一个砧板旁备用。",
+        "en": "Gently blot 300 g tofu dry with paper towels and cut it into thick bite-size pieces. Cut 1 cucumber into thin sticks, snip or tear 1 sheet nori into thin strips or small pieces, and keep everything ready beside the same cutting board.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "分成兩份冷蕎麥豆腐",
+        "yue": "分成兩份冷蕎麥豆腐",
+        "zhHans": "分成两份冷荞麦豆腐",
+        "en": "Divide into two cold soba tofu sets",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把瀝乾的蕎麥麵分成兩個盤或淺碗，旁邊放豆腐厚件和青瓜條。每份保留一小角放蘸汁，讓麵、豆腐和配菜分明，不需要另外拌大碗。",
+        "yue": "將瀝乾嘅蕎麥麵分成兩個碟或者淺碗，旁邊放豆腐厚件同青瓜條。每份留一小角放蘸汁，令麵、豆腐同配菜分明，唔需要另外拌大碗。",
+        "zhHans": "把沥干的荞麦面分成两个盘或浅碗，旁边放豆腐厚块和青瓜条。每份保留一小角放蘸汁，让面、豆腐和配菜分明，不需要另外拌大碗。",
+        "en": "Divide the drained soba between two plates or shallow bowls. Set the tofu pieces and cucumber sticks beside the noodles. Leave a small corner for the dipping sauce on each portion so the noodles, tofu, and vegetables stay distinct without a separate mixing bowl.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "灑紫菜蔥綠即食",
+        "yue": "灑紫菜蔥綠即食",
+        "zhHans": "撒紫菜葱绿即食",
+        "en": "Finish with nori and scallion greens",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把薑蔥生抽分入兩個小碟或盤角，蕎麥麵上灑紫菜和蔥綠。食用時把麵和豆腐少量蘸汁即可，完成時應見到冷蕎麥、豆腐、青瓜、紫菜和清亮生抽汁。",
+        "yue": "將薑蔥生抽分入兩個小碟或者碟角，蕎麥麵上灑紫菜同蔥綠。食嘅時候將麵同豆腐少量蘸汁就得，完成時應該見到冷蕎麥、豆腐、青瓜、紫菜同清亮生抽汁。",
+        "zhHans": "把姜葱生抽分入两个小碟或盘角，荞麦面上撒紫菜和葱绿。食用时把面和豆腐少量蘸汁即可，完成时应看到冷荞麦、豆腐、青瓜、紫菜和清亮生抽汁。",
+        "en": "Divide the ginger scallion soy into two small dishes or plate corners, then scatter nori and scallion greens over the soba. Dip small bites of noodles and tofu as you eat; the finished set should clearly show cold soba, tofu, cucumber, nori, and a clean light-soy dip.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/cold-soba-tofu-set/cover-1.png",
+      "alt": "Generated meal cover image for cold-soba-tofu-set",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself light meals image run",
+      "sourceURL": "local://cooking-for-myself-data/light-meals-2026-05-18#cold-soba-tofu-set",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself light meals expansion",
+    "sourceURL": "local://cooking-for-myself-data/data/meals/cold-soba-tofu-set.json",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "approved",
+    "generated": true,
+    "generatedAt": "2026-05-18T00:00:00Z"
+  }
+}

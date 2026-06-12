@@ -1,0 +1,314 @@
+{
+  "id": "napa-tofu-egg-drop-soup",
+  "status": "approved",
+  "names": {
+    "zhHant": "紹菜豆腐蛋花湯",
+    "yue": "紹菜豆腐蛋花湯",
+    "zhHans": "绍菜豆腐蛋花汤",
+    "en": "Napa tofu egg drop soup",
+    "ja": "白菜と豆腐のかきたまスープ",
+    "ko": "배추 두부 달걀국",
+    "th": "ซุปผักกาดขาวเต้าหู้ไข่",
+    "vi": "Canh cải thảo đậu hũ trứng",
+    "id": "Sup napa tofu telur",
+    "tl": "Napa tofu egg drop soup"
+  },
+  "summary": {
+    "zhHant": "清雞湯底煮軟紹菜和滑豆腐，最後拉成幼滑蛋花；薑、蔥和少量生抽令湯味清甜有層次，30 分鐘內可完成兩人份。",
+    "yue": "清雞湯底煮軟紹菜同滑豆腐，最後拉成幼滑蛋花；薑、蔥同少量生抽令湯味清甜有層次，30 分鐘內可完成兩人份。",
+    "zhHans": "清鸡汤底煮软绍菜和滑豆腐，最后拉成幼滑蛋花；姜、葱和少量生抽让汤味清甜有层次，30 分钟内可完成两人份。",
+    "en": "A light two-person soup with napa cabbage and soft tofu simmered in chicken broth, finished with silky egg ribbons, scallion, ginger, and a little light soy.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "reason": {
+    "zhHant": "雞湯提供清爽鮮味，紹菜帶甜、滑豆腐和蛋花補蛋白質；調味只用薑、蔥和生抽，成品是 light soup 而不是濃重煲仔菜。",
+    "yue": "雞湯提供清爽鮮味，紹菜帶甜、滑豆腐同蛋花補蛋白質；調味只用薑、蔥同生抽，成品係 light soup 而唔係濃重煲仔菜。",
+    "zhHans": "鸡汤提供清爽鲜味，绍菜带甜、滑豆腐和蛋花补蛋白质；调味只用姜、葱和生抽，成品是 light soup 而不是浓重煲仔菜。",
+    "en": "Chicken broth keeps the base clear and savory, napa adds sweetness, and soft tofu plus egg ribbons add protein without making the bowl heavy.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "timeMinutes": 20,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "napa-cabbage",
+      "amounts": {
+        "zhHant": "5 片",
+        "yue": "5 片",
+        "zhHans": "5 片",
+        "en": "5 leaves",
+        "ja": "5枚",
+        "ko": "5장",
+        "th": null,
+        "vi": null,
+        "id": "5 lembar",
+        "tl": "5 dahon"
+      }
+    },
+    {
+      "ingredientId": "soft-tofu",
+      "amounts": {
+        "zhHant": "1 盒",
+        "yue": "1 盒",
+        "zhHans": "1 盒",
+        "en": "1 package",
+        "ja": "1パック",
+        "ko": "1팩",
+        "th": null,
+        "vi": null,
+        "id": "1 package",
+        "tl": "1 package"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "2 隻",
+        "yue": "2 隻",
+        "zhHans": "2 只",
+        "en": "2 eggs",
+        "ja": "卵2個",
+        "ko": "달걀 2개",
+        "th": null,
+        "vi": null,
+        "id": "2 telur",
+        "tl": "2 itlog"
+      }
+    },
+    {
+      "ingredientId": "chicken-broth",
+      "amounts": {
+        "zhHant": "700 毫升",
+        "yue": "700 毫升",
+        "zhHans": "700 毫升",
+        "en": "700 ml",
+        "ja": "700 ml",
+        "ko": "700 ml",
+        "th": null,
+        "vi": null,
+        "id": "700 ml",
+        "tl": "700 ml"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "yue": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": null,
+        "vi": null,
+        "id": "2 batang",
+        "tl": "2 tangkay"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "4 片",
+        "yue": "4 片",
+        "zhHans": "4 片",
+        "en": "4 slices",
+        "ja": "4枚",
+        "ko": "4장",
+        "th": null,
+        "vi": null,
+        "id": "4 iris",
+        "tl": "4 hiwa"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "2 茶匙",
+        "yue": "2 茶匙",
+        "zhHans": "2 茶匙",
+        "en": "2 tsp",
+        "ja": "小さじ2",
+        "ko": "2작은술",
+        "th": null,
+        "vi": null,
+        "id": "2 sdt",
+        "tl": "2 kutsarita"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "soy",
+    "egg",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "切紹菜豆腐蔥薑",
+        "yue": "切紹菜豆腐蔥薑",
+        "zhHans": "切绍菜豆腐葱姜",
+        "en": "Cut napa, tofu, scallion, and ginger",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "紹菜 5 片分開白梗和葉，白梗斜切成薄片、葉切大片。滑豆腐 1 盒瀝去盒中水，用匙羹分成大塊；蔥 2 條分開蔥白和蔥綠切粒，薑 4 片拍鬆。",
+        "yue": "紹菜 5 片分開白梗同葉，白梗斜切成薄片、葉切大片。滑豆腐 1 盒瀝走盒中水，用匙羹分成大件；蔥 2 條分開蔥白同蔥綠切粒，薑 4 片拍鬆。",
+        "zhHans": "绍菜 5 片分开白梗和叶，白梗斜切成薄片、叶切大片。滑豆腐 1 盒沥去盒中水，用匙羹分成大块；葱 2 条分开葱白和葱绿切粒，姜 4 片拍松。",
+        "en": "Separate 5 napa cabbage leaves into ribs and leafy tops. Slice the ribs thinly on the diagonal and cut the leaves into large pieces. Drain 1 package soft tofu and spoon it into large pieces; slice 2 scallions, keeping whites and greens separate, and bruise 4 ginger slices.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "煮清薑蔥雞湯",
+        "yue": "煮清薑蔥雞湯",
+        "zhHans": "煮清姜葱鸡汤",
+        "en": "Simmer a clear ginger scallion broth",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鍋中加入雞湯 700 毫升、薑片和蔥白，中火煮至微滾後轉小火 3 分鐘。加入生抽 2 茶匙拌勻，湯面保持細泡，不要大滾。",
+        "yue": "鍋中加入雞湯 700 毫升、薑片同蔥白，中火煮至微滾後轉小火 3 分鐘。加入生抽 2 茶匙拌勻，湯面保持細泡，唔好大滾。",
+        "zhHans": "锅中加入鸡汤 700 毫升、姜片和葱白，中火煮至微滚后转小火 3 分钟。加入生抽 2 茶匙拌匀，汤面保持细泡，不要大滚。",
+        "en": "Add 700 ml chicken broth, the ginger slices, and scallion whites to a pot. Bring to a gentle simmer over medium heat, then lower the heat for 3 minutes. Stir in 2 tsp light soy sauce and keep the broth at small bubbles, not a hard boil.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "紹菜煮至清甜",
+        "yue": "紹菜煮至清甜",
+        "zhHans": "绍菜煮至清甜",
+        "en": "Simmer napa until sweet and tender",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先放入紹菜白梗，煮 3 分鐘至邊位半透明；再加入紹菜葉煮 1 分鐘。菜應該變軟但仍看得到淡綠色，湯保持清澈。",
+        "yue": "先放入紹菜白梗，煮 3 分鐘至邊位半透明；再加入紹菜葉煮 1 分鐘。菜應該變軟但仍睇到淡綠色，湯保持清澈。",
+        "zhHans": "先放入绍菜白梗，煮 3 分钟至边位半透明；再加入绍菜叶煮 1 分钟。菜应该变软但仍看得到淡绿色，汤保持清澈。",
+        "en": "Add the napa ribs first and simmer for 3 minutes, until the edges turn translucent. Add the leafy tops and cook 1 minute more. The cabbage should soften while still showing pale green, and the broth should stay clear.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "豆腐輕輕煮熱",
+        "yue": "豆腐輕輕煮熱",
+        "zhHans": "豆腐轻轻煮热",
+        "en": "Warm the soft tofu gently",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把滑豆腐大塊滑入湯中，用匙羹把湯淋上豆腐表面。小火煮 2 至 3 分鐘至中心熱透，期間不要大力攪拌，讓豆腐保持完整。",
+        "yue": "將滑豆腐大件滑入湯中，用匙羹將湯淋上豆腐表面。小火煮 2 至 3 分鐘至中心熱透，期間唔好大力攪拌，令豆腐保持完整。",
+        "zhHans": "把滑豆腐大块滑入汤中，用匙羹把汤淋上豆腐表面。小火煮 2 至 3 分钟至中心热透，期间不要大力搅拌，让豆腐保持完整。",
+        "en": "Slide the large soft tofu pieces into the soup and spoon broth over the tops. Simmer gently for 2-3 minutes until the centers are hot, avoiding hard stirring so the tofu stays intact.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "拉入幼滑蛋花",
+        "yue": "拉入幼滑蛋花",
+        "zhHans": "拉入幼滑蛋花",
+        "en": "Stream in silky egg ribbons",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "雞蛋 2 隻打勻。把火調至湯面只有細泡，用筷子或匙羹慢慢攪出小漩渦，沿鍋邊細線倒入蛋液。等 20 秒至蛋花定型後關火，灑上蔥綠即成。",
+        "yue": "雞蛋 2 隻打勻。將火調至湯面只有細泡，用筷子或匙羹慢慢攪出小漩渦，沿鍋邊細線倒入蛋液。等 20 秒至蛋花定型後關火，灑上蔥綠即成。",
+        "zhHans": "鸡蛋 2 只打匀。把火调至汤面只有细泡，用筷子或匙羹慢慢搅出小漩涡，沿锅边细线倒入蛋液。等 20 秒至蛋花定型后关火，撒上葱绿即成。",
+        "en": "Beat 2 eggs. Adjust the heat so the broth only has small bubbles, then use chopsticks or a spoon to make a slow swirl and pour the eggs in a thin stream around the pot. Wait 20 seconds for the ribbons to set, turn off the heat, and finish with scallion greens.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/napa-tofu-egg-drop-soup/cover-1.png",
+      "alt": "Generated meal cover image for napa-tofu-egg-drop-soup",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself light-but-fueled image run",
+      "sourceURL": "local://cooking-for-myself-data/light-but-fueled-2026-05-18#napa-tofu-egg-drop-soup",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself light-but-fueled meal expansion",
+    "sourceURL": "local://cooking-for-myself-data/data/meals/napa-tofu-egg-drop-soup.json",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "approved",
+    "generated": true,
+    "generatedAt": "2026-05-18T00:00:00Z"
+  }
+}

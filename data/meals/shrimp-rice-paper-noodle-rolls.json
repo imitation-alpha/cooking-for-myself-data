@@ -1,0 +1,314 @@
+{
+  "id": "shrimp-rice-paper-noodle-rolls",
+  "status": "approved",
+  "names": {
+    "zhHant": "鮮蝦米紙粉卷",
+    "yue": "鮮蝦米紙粉卷",
+    "zhHans": "鲜虾米纸粉卷",
+    "en": "Shrimp rice paper noodle rolls",
+    "ja": "エビとライスヌードルの生春巻き",
+    "ko": "새우 라이스페이퍼 누들롤",
+    "th": "ปอเปี๊ยะสดกุ้งเส้นหมี่",
+    "vi": "Gỏi cuốn tôm bún",
+    "id": "Gulungan rice paper udang dan bihun",
+    "tl": "Shrimp rice paper noodle rolls"
+  },
+  "summary": {
+    "zhHant": "鮮蝦米紙粉卷是 25 分鐘低洗碗組裝餐，熟蝦、米粉、青瓜、生菜和蔥捲入米紙，配清淡生抽蘸汁，清爽但有主食份量。",
+    "yue": "鮮蝦米紙粉卷係 25 分鐘低洗碗組裝餐，熟蝦、米粉、青瓜、生菜同蔥捲入米紙，配清淡生抽蘸汁，清爽但有主食份量。",
+    "zhHans": "鲜虾米纸粉卷是 25 分钟低洗碗组装餐，熟虾、米粉、青瓜、生菜和葱卷入米纸，配清淡生抽蘸汁，清爽但有主食份量。",
+    "en": "A 25-minute low-dish assembly meal with cooked shrimp, rice noodles, cucumber, lettuce, and scallion rolled in rice paper, served with a light-soy dipping sauce so it stays fresh but still filling.",
+    "ja": "ゆでエビ、ライスヌードル、きゅうり、レタス、ねぎをライスペーパーで巻き、薄口しょうゆのつけだれで食べる、洗い物が少ない25分の組み立てごはんです。",
+    "ko": "익힌 새우, 쌀국수, 오이, 양상추, 파를 라이스페이퍼에 말고 연한 간장 디핑 소스를 곁들이는 25분 저설거지 조립식 식사입니다.",
+    "th": "มื้อประกอบง่ายล้างจานน้อยใน 25 นาที ใช้กุ้งสุก เส้นหมี่ แตงกวา ผักกาดหอม และต้นหอมห่อด้วยแผ่นแป้งญวน เสิร์ฟกับซอสซีอิ๊วใสเบา ๆ",
+    "vi": "Món cuốn ít phải rửa dọn trong 25 phút với tôm chín, bún, dưa leo, xà lách và hành lá cuốn trong bánh tráng, ăn cùng nước chấm xì dầu nhạt.",
+    "id": "Menu rakit 25 menit dengan cucian minimal: udang matang, bihun beras, mentimun, selada, dan daun bawang digulung dalam rice paper lalu disajikan dengan saus celup kecap asin ringan.",
+    "tl": "Isang 25 minutong low-dish assembly meal na may lutong shrimp, rice noodles, cucumber, lettuce, at scallion na binalot sa rice paper at inihain kasama ng light-soy dipping sauce."
+  },
+  "reason": {
+    "zhHant": "蝦提供輕盈蛋白，米粉補足能量，青瓜和生菜保持爽脆水分，蔥和生抽帶鹹香；全餐主要靠同一鍋和一個裝配盤完成。",
+    "yue": "蝦有輕盈蛋白，米粉補足能量，青瓜同生菜保持爽脆水分，蔥同生抽帶鹹香；成餐主要用同一個鍋同一隻裝配碟完成。",
+    "zhHans": "虾提供轻盈蛋白，米粉补足能量，青瓜和生菜保持爽脆水分，葱和生抽带咸香；全餐主要靠同一锅和一个装配盘完成。",
+    "en": "Shrimp gives lean protein, rice noodles add practical fuel, cucumber and lettuce keep the rolls crisp and hydrated, and scallion with light soy supplies a clean savory finish using only one pot and one assembly plate.",
+    "ja": "エビで軽いタンパク質、ライスヌードルで主食の満足感を出し、きゅうりとレタスでみずみずしく、ねぎと薄口しょうゆで塩味を足します。鍋ひとつと組み立て用の皿で作れます。",
+    "ko": "새우는 가벼운 단백질을, 쌀국수는 든든한 탄수화물을 더하고, 오이와 양상추는 아삭함을 살립니다. 파와 연한 간장으로 깔끔한 감칠맛을 내며 냄비 하나와 조립 접시 하나면 충분합니다.",
+    "th": "กุ้งให้โปรตีนเบา ๆ เส้นหมี่ช่วยให้อิ่ม แตงกวาและผักกาดหอมเพิ่มความกรอบสด ส่วนต้นหอมกับซีอิ๊วใสให้รสเค็มหอมโดยใช้เพียงหม้อหนึ่งใบและจานประกอบหนึ่งใบ",
+    "vi": "Tôm cho đạm nhẹ, bún giúp no, dưa leo và xà lách giữ độ giòn mát, còn hành lá với xì dầu nhạt tạo vị mặn thơm sạch; chỉ cần một nồi và một đĩa để cuốn.",
+    "id": "Udang memberi protein ringan, bihun beras menambah energi, mentimun dan selada menjaga rasa segar renyah, sementara daun bawang dan kecap asin ringan memberi rasa gurih dengan satu panci dan satu piring rakit.",
+    "tl": "Nagbibigay ng lean protein ang shrimp, praktikal na carbs ang rice noodles, sariwa at malutong ang cucumber at lettuce, at malinis na alat-umami ang scallion at light soy gamit lang ang isang kaldero at isang assembly plate."
+  },
+  "timeMinutes": 25,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "shrimp",
+      "amounts": {
+        "zhHant": "180 克",
+        "yue": "180 克",
+        "zhHans": "180 克",
+        "en": "180 g",
+        "ja": "180 g",
+        "ko": "180 g",
+        "th": "180 กรัม",
+        "vi": "180 g",
+        "id": "180 g",
+        "tl": "180 g"
+      }
+    },
+    {
+      "ingredientId": "rice-paper",
+      "amounts": {
+        "zhHant": "8 張",
+        "yue": "8 張",
+        "zhHans": "8 张",
+        "en": "8 sheets",
+        "ja": "8枚",
+        "ko": "8장",
+        "th": "8 แผ่น",
+        "vi": "8 tấm",
+        "id": "8 lembar",
+        "tl": "8 piraso"
+      }
+    },
+    {
+      "ingredientId": "rice-noodle",
+      "amounts": {
+        "zhHant": "120 克",
+        "yue": "120 克",
+        "zhHans": "120 克",
+        "en": "120 g",
+        "ja": "120 g",
+        "ko": "120 g",
+        "th": "120 กรัม",
+        "vi": "120 g",
+        "id": "120 g",
+        "tl": "120 g"
+      }
+    },
+    {
+      "ingredientId": "cucumber",
+      "amounts": {
+        "zhHant": "1 條",
+        "yue": "1 條",
+        "zhHans": "1 条",
+        "en": "1 cucumber",
+        "ja": "1本",
+        "ko": "1개",
+        "th": "1 ลูก",
+        "vi": "1 quả",
+        "id": "1 buah",
+        "tl": "1 piraso"
+      }
+    },
+    {
+      "ingredientId": "lettuce",
+      "amounts": {
+        "zhHant": "4 至 6 片",
+        "yue": "4 至 6 片",
+        "zhHans": "4 至 6 片",
+        "en": "4-6 leaves",
+        "ja": "4-6枚",
+        "ko": "4-6장",
+        "th": "4-6 ใบ",
+        "vi": "4-6 lá",
+        "id": "4-6 lembar",
+        "tl": "4-6 dahon"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "yue": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": "2本",
+        "ko": "2대",
+        "th": "2 ต้น",
+        "vi": "2 nhánh",
+        "id": "2 batang",
+        "tl": "2 tangkay"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "2 湯匙",
+        "yue": "2 湯匙",
+        "zhHans": "2 汤匙",
+        "en": "2 tbsp",
+        "ja": "大さじ2",
+        "ko": "2큰술",
+        "th": "2 ช้อนโต๊ะ",
+        "vi": "2 muỗng canh",
+        "id": "2 sdm",
+        "tl": "2 kutsara"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "shellfish",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "煮粉切菜調蘸汁",
+        "yue": "煮粉切菜調蘸汁",
+        "zhHans": "煮粉切菜调蘸汁",
+        "en": "Cook noodles, prep vegetables, and mix dip",
+        "ja": "麺をゆで野菜とたれを用意する",
+        "ko": "면을 삶고 채소와 소스를 준비하기",
+        "th": "ลวกเส้น เตรียมผัก และผสมน้ำจิ้ม",
+        "vi": "Luộc bún, chuẩn bị rau và pha nước chấm",
+        "id": "Masak bihun, siapkan sayur, dan campur saus",
+        "tl": "Lutuin ang noodles, ihanda ang gulay, at ihalo ang sawsawan"
+      },
+      "detail": {
+        "zhHant": "用一小鍋水把米粉 120 克按包裝煮熟，撈起沖冷水並瀝乾。青瓜 1 條切幼條，生菜 4 至 6 片洗淨瀝乾，蔥 2 條切幼絲。生抽 2 湯匙加 2 湯匙暖水拌成清淡蘸汁。",
+        "yue": "用一小鍋水將米粉 120 克按包裝煮熟，撈起沖凍水並瀝乾。青瓜 1 條切幼條，生菜 4 至 6 片洗淨瀝乾，蔥 2 條切幼絲。生抽 2 湯匙加 2 湯匙暖水拌成清淡蘸汁。",
+        "zhHans": "用一小锅水把米粉 120 克按包装煮熟，捞起冲冷水并沥干。青瓜 1 条切细条，生菜 4 至 6 片洗净沥干，葱 2 条切细丝。生抽 2 汤匙加 2 汤匙温水拌成清淡蘸汁。",
+        "en": "Cook 120 g rice noodles in a small pot of water according to the package, then drain, rinse cool, and drain again. Cut 1 cucumber into thin sticks, wash and dry 4-6 lettuce leaves, and slice 2 scallions thinly. Stir 2 tbsp light soy with 2 tbsp warm water for a clean dipping sauce.",
+        "ja": "小鍋の湯でライスヌードル120 gを表示どおりにゆで、湯を切って冷水で洗い、もう一度水気を切ります。きゅうり1本は細切り、レタス4-6枚は洗ってよく水気を切り、ねぎ2本は細切りにします。薄口しょうゆ大さじ2とぬるま湯大さじ2を混ぜて軽いつけだれにします。",
+        "ko": "작은 냄비의 물에 쌀국수 120 g을 포장 지시에 맞게 삶고, 건져 찬물에 헹군 뒤 다시 물기를 뺍니다. 오이 1개는 가늘게 썰고, 양상추 4-6장은 씻어 물기를 빼며, 파 2대는 얇게 썹니다. 연한 간장 2큰술과 따뜻한 물 2큰술을 섞어 깔끔한 디핑 소스를 만듭니다.",
+        "th": "ต้มเส้นหมี่ 120 กรัมในหม้อเล็กตามคำแนะนำบนซอง แล้วสะเด็ดน้ำ ล้างน้ำเย็น และสะเด็ดอีกครั้ง หั่นแตงกวา 1 ลูกเป็นแท่งบาง ล้างและผึ่งผักกาดหอม 4-6 ใบให้แห้ง ซอยต้นหอม 2 ต้น ผสมซีอิ๊วใส 2 ช้อนโต๊ะกับน้ำอุ่น 2 ช้อนโต๊ะเป็นน้ำจิ้มเบา ๆ",
+        "vi": "Luộc 120 g bún trong nồi nhỏ theo hướng dẫn, sau đó vớt ra, xả nước lạnh và để ráo. Cắt 1 quả dưa leo thành que mảnh, rửa và để thật ráo 4-6 lá xà lách, thái mỏng 2 nhánh hành lá. Khuấy 2 muỗng canh xì dầu nhạt với 2 muỗng canh nước ấm làm nước chấm nhẹ.",
+        "id": "Masak 120 g bihun beras dalam panci kecil sesuai petunjuk kemasan, lalu tiriskan, bilas dingin, dan tiriskan lagi. Potong 1 mentimun menjadi batang tipis, cuci dan keringkan 4-6 lembar selada, lalu iris tipis 2 batang daun bawang. Aduk 2 sdm kecap asin ringan dengan 2 sdm air hangat untuk saus celup bersih.",
+        "tl": "Lutuin ang 120 g rice noodles sa maliit na kaldero ayon sa package, saka salain, banlawan ng malamig na tubig, at patuluin muli. Hiwain nang manipis ang 1 cucumber, hugasan at patuyuin ang 4-6 dahon ng lettuce, at hiwain nang pino ang 2 tangkay scallion. Ihalo ang 2 kutsara light soy sa 2 kutsara maligamgam na tubig para sa magaan na sawsawan."
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "同鍋灼熟蝦仁",
+        "yue": "同鍋灼熟蝦仁",
+        "zhHans": "同锅烫熟虾仁",
+        "en": "Poach the shrimp in the same pot",
+        "ja": "同じ鍋でエビをゆでる",
+        "ko": "같은 냄비에 새우 데치기",
+        "th": "ลวกกุ้งในหม้อเดิม",
+        "vi": "Luộc tôm trong cùng nồi",
+        "id": "Rebus udang di panci yang sama",
+        "tl": "Pakuluan ang shrimp sa parehong kaldero"
+      },
+      "detail": {
+        "zhHant": "保持同一鍋水微滾，放入蝦仁 180 克灼 2 至 3 分鐘，至蝦仁捲起、轉粉紅且中心不透明。撈起瀝乾放涼；大隻蝦可從厚位片開，捲起後會較整齊。",
+        "yue": "保持同一鍋水微滾，放入蝦仁 180 克灼 2 至 3 分鐘，至蝦仁捲起、轉粉紅而中心唔透明。撈起瀝乾放涼；大隻蝦可以從厚位片開，捲起後會較整齊。",
+        "zhHans": "保持同一锅水微滚，放入虾仁 180 克烫 2 至 3 分钟，至虾仁卷起、转粉红且中心不透明。捞起沥干放凉；大只虾可从厚位片开，卷起后会较整齐。",
+        "en": "Keep the same pot at a gentle boil, add 180 g shrimp, and poach for 2-3 minutes until curled, pink, and opaque in the center. Drain and cool; split larger shrimp through the thick side so the finished rolls sit neater.",
+        "ja": "同じ鍋を軽く沸かした状態にし、エビ180 gを入れて2-3分、丸まりピンク色になり中心が不透明になるまでゆでます。水気を切って冷まし、大きいエビは厚い部分から開くと巻いた時に整います。",
+        "ko": "같은 냄비를 약하게 끓인 상태로 두고 새우 180 g을 넣어 2-3분, 말리고 분홍색이 되며 가운데가 불투명해질 때까지 데칩니다. 건져 식히고, 큰 새우는 두꺼운 쪽을 갈라 주면 롤 모양이 더 단정합니다.",
+        "th": "ใช้หม้อเดิมให้เดือดเบา ๆ ใส่กุ้ง 180 กรัม ลวก 2-3 นาทีจนกุ้งงอ สีชมพู และเนื้อตรงกลางทึบ ตักขึ้นสะเด็ดน้ำและพักให้เย็น ถ้ากุ้งตัวใหญ่ให้ผ่าด้านหนาเพื่อให้ม้วนได้เรียบร้อยขึ้น",
+        "vi": "Giữ nồi nước cũ sôi nhẹ, cho 180 g tôm vào luộc 2-3 phút đến khi tôm cong lại, chuyển hồng và phần giữa đục. Vớt ra để ráo và nguội; tôm lớn có thể chẻ dọc phần dày để cuốn gọn hơn.",
+        "id": "Biarkan panci yang sama mendidih pelan, masukkan 180 g udang, dan rebus 2-3 menit sampai melengkung, merah muda, dan bagian tengahnya tidak bening. Tiriskan dan dinginkan; belah udang besar dari sisi tebal agar gulungan lebih rapi.",
+        "tl": "Panatilihing mahinang kumukulo ang parehong kaldero, ilagay ang 180 g shrimp, at pakuluan ng 2-3 minuto hanggang mabaluktot, maging pink, at opaque ang gitna. Salain at palamigin; hatiin sa makapal na bahagi ang malalaking shrimp para mas maayos ang rolls."
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "逐張浸軟米紙",
+        "yue": "逐張浸軟米紙",
+        "zhHans": "逐张浸软米纸",
+        "en": "Soften one rice paper sheet at a time",
+        "ja": "ライスペーパーを一枚ずつ戻す",
+        "ko": "라이스페이퍼를 한 장씩 불리기",
+        "th": "แช่แผ่นแป้งทีละแผ่น",
+        "vi": "Làm mềm từng tấm bánh tráng",
+        "id": "Lunakkan rice paper satu per satu",
+        "tl": "Palambutin ang rice paper isa-isa"
+      },
+      "detail": {
+        "zhHant": "淺碟加室溫水，每次只放米紙 1 張，浸 5 至 8 秒至剛開始變軟，取出平放在濕潤砧板或大碟上。不要一次浸多張，避免黏住和破裂。",
+        "yue": "淺碟加室溫水，每次只放米紙 1 張，浸 5 至 8 秒至剛開始變軟，攞出平放喺濕潤砧板或者大碟上。唔好一次浸多張，避免黐住同穿。",
+        "zhHans": "浅碟加室温水，每次只放米纸 1 张，浸 5 至 8 秒至刚开始变软，取出平放在湿润砧板或大碟上。不要一次浸多张，避免黏住和破裂。",
+        "en": "Fill a shallow plate with room-temperature water. Dip only 1 rice paper sheet at a time for 5-8 seconds, just until it starts to soften, then lay it flat on a damp board or large plate. Do not soak multiple sheets at once or they will stick and tear.",
+        "ja": "浅い皿に常温の水を入れます。ライスペーパーは一度に1枚だけ5-8秒浸し、少し柔らかくなったら湿らせたまな板か大皿に平らに置きます。複数枚を同時に戻すとくっついて破れやすくなります。",
+        "ko": "얕은 접시에 실온 물을 담습니다. 라이스페이퍼는 한 번에 1장씩 5-8초만 담가 막 부드러워지기 시작하면 젖은 도마나 큰 접시에 평평하게 놓습니다. 여러 장을 한꺼번에 불리면 달라붙고 찢어집니다.",
+        "th": "ใส่น้ำอุณหภูมิห้องในจานตื้น แช่แผ่นแป้งครั้งละ 1 แผ่น 5-8 วินาที แค่เริ่มนิ่ม แล้ววางบนเขียงชื้นหรือจานใหญ่ อย่าแช่หลายแผ่นพร้อมกันเพราะจะติดและฉีกง่าย",
+        "vi": "Cho nước nhiệt độ phòng vào đĩa nông. Nhúng mỗi lần chỉ 1 tấm bánh tráng trong 5-8 giây, vừa bắt đầu mềm thì đặt phẳng lên thớt ẩm hoặc đĩa lớn. Không ngâm nhiều tấm cùng lúc vì dễ dính và rách.",
+        "id": "Isi piring dangkal dengan air suhu ruang. Celupkan hanya 1 lembar rice paper setiap kali selama 5-8 detik, sampai baru mulai lunak, lalu letakkan rata di talenan lembap atau piring besar. Jangan merendam beberapa lembar sekaligus karena akan lengket dan sobek.",
+        "tl": "Lagyan ng room-temperature water ang mababaw na plato. Isawsaw ang 1 pirasong rice paper bawat beses sa loob ng 5-8 segundo, hanggang magsimulang lumambot, saka ilatag sa mamasa-masang board o malaking plato. Huwag sabay-sabayin para hindi dumikit at mapunit."
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "鋪餡料後捲緊",
+        "yue": "鋪餡料後捲緊",
+        "zhHans": "铺馅料后卷紧",
+        "en": "Layer the fillings and roll firmly",
+        "ja": "具を重ねてしっかり巻く",
+        "ko": "속재료를 올리고 단단히 말기",
+        "th": "วางไส้แล้วม้วนให้แน่น",
+        "vi": "Xếp nhân và cuốn chắc tay",
+        "id": "Susun isian dan gulung rapat",
+        "tl": "Ilatag ang palaman at igulong nang mahigpit"
+      },
+      "detail": {
+        "zhHant": "在米紙下半部放一片生菜、一小撮米粉、幾條青瓜和蔥絲；蝦仁排在前方，切面向外。把下方向上蓋住餡料，左右兩邊摺入，再向前捲緊。",
+        "yue": "喺米紙下半部放一片生菜、一小撮米粉、幾條青瓜同蔥絲；蝦仁排喺前方，切面向外。將下方向上蓋住餡料，左右兩邊摺入，再向前捲緊。",
+        "zhHans": "在米纸下半部放一片生菜、一小撮米粉、几条青瓜和葱丝；虾仁排在前方，切面向外。把下方向上盖住馅料，左右两边折入，再向前卷紧。",
+        "en": "Place one lettuce piece, a small bundle of rice noodles, a few cucumber sticks, and scallion strips on the lower half of the rice paper. Line shrimp near the front with cut sides facing out. Fold the bottom over the filling, tuck in both sides, and roll forward firmly.",
+        "ja": "ライスペーパーの下半分にレタス1枚、ライスヌードル少量、きゅうり数本、ねぎをのせます。エビは前側に切り口を外向きに並べます。手前を具にかぶせ、左右を折り込み、前へしっかり巻きます。",
+        "ko": "라이스페이퍼 아래쪽 절반에 양상추 한 조각, 쌀국수 한 줌, 오이 몇 줄, 파채를 올립니다. 새우는 앞쪽에 자른 면이 밖을 향하게 놓습니다. 아래쪽을 속재료 위로 덮고 양옆을 접은 뒤 앞으로 단단히 말아 줍니다.",
+        "th": "วางผักกาดหอมหนึ่งชิ้น เส้นหมี่หยิบเล็ก ๆ แตงกวาสองสามแท่ง และต้นหอมซอยบนครึ่งล่างของแผ่นแป้ง เรียงกุ้งไว้ด้านหน้าโดยให้ด้านที่ผ่าออกหันออก พับด้านล่างคลุมไส้ พับซ้ายขวา แล้วม้วนไปข้างหน้าให้แน่น",
+        "vi": "Đặt một miếng xà lách, một nắm bún nhỏ, vài que dưa leo và hành lá trên nửa dưới bánh tráng. Xếp tôm gần mép trước, mặt cắt hướng ra ngoài. Gấp mép dưới phủ nhân, gấp hai bên vào rồi cuốn chặt về phía trước.",
+        "id": "Letakkan satu potong selada, sedikit bihun, beberapa batang mentimun, dan irisan daun bawang di setengah bawah rice paper. Susun udang di bagian depan dengan sisi potong menghadap keluar. Lipat bagian bawah menutup isian, masukkan kedua sisi, lalu gulung rapat ke depan.",
+        "tl": "Maglagay ng isang pirasong lettuce, maliit na kumpol ng rice noodles, ilang pirasong cucumber, at scallion strips sa ibabang kalahati ng rice paper. Ihanay ang shrimp sa harap na nakaharap palabas ang hiniwang bahagi. Itupi ang ibaba sa palaman, ipasok ang magkabilang gilid, at igulong nang mahigpit."
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "排碟配生抽蘸汁",
+        "yue": "排碟配生抽蘸汁",
+        "zhHans": "排碟配生抽蘸汁",
+        "en": "Plate with the light-soy dip",
+        "ja": "薄口しょうゆだれを添えて盛る",
+        "ko": "연한 간장 소스와 함께 담기",
+        "th": "จัดจานพร้อมน้ำจิ้มซีอิ๊วใส",
+        "vi": "Bày ra với nước chấm xì dầu nhạt",
+        "id": "Sajikan dengan saus celup kecap asin ringan",
+        "tl": "Ihain kasama ang light-soy dip"
+      },
+      "detail": {
+        "zhHant": "重複至完成 8 條米紙卷，排在碟上並把生抽蘸汁放旁邊。即食口感最好；卷身應柔軟透亮，能看見蝦、青瓜、生菜和米粉，但不會鬆散漏餡。",
+        "yue": "重複至完成 8 條米紙卷，排喺碟上並將生抽蘸汁放旁邊。即食口感最好；卷身應該柔軟透亮，睇到蝦、青瓜、生菜同米粉，但唔會鬆散漏餡。",
+        "zhHans": "重复至完成 8 条米纸卷，排在碟上并把生抽蘸汁放旁边。即食口感最好；卷身应柔软透亮，能看见虾、青瓜、生菜和米粉，但不会松散漏馅。",
+        "en": "Repeat until you have 8 rolls, arrange them on a plate, and set the light-soy dip alongside. They are best eaten right away; the wrappers should look soft and translucent, showing shrimp, cucumber, lettuce, and noodles without loosening or leaking filling.",
+        "ja": "8本分を同じように巻き、皿に並べて薄口しょうゆだれを添えます。すぐ食べるのが一番です。皮は柔らかく透け、エビ、きゅうり、レタス、麺が見えつつ、具がゆるんでこぼれない状態が目安です。",
+        "ko": "총 8개가 될 때까지 반복하고 접시에 담은 뒤 연한 간장 소스를 곁들입니다. 바로 먹는 것이 가장 좋습니다. 피는 부드럽고 반투명해 새우, 오이, 양상추, 면이 보이되 속재료가 풀리거나 새지 않아야 합니다.",
+        "th": "ทำซ้ำจนได้ 8 ชิ้น จัดใส่จานและวางน้ำจิ้มซีอิ๊วใสไว้ข้าง ๆ ควรกินทันที แผ่นแป้งควรนุ่มใส เห็นกุ้ง แตงกวา ผักกาดหอม และเส้นด้านใน โดยไม่หลวมจนไส้หลุด",
+        "vi": "Lặp lại đến khi có 8 cuốn, xếp lên đĩa và đặt nước chấm xì dầu nhạt bên cạnh. Ngon nhất khi ăn ngay; vỏ bánh nên mềm, trong nhẹ, thấy tôm, dưa leo, xà lách và bún nhưng không bị lỏng hay rơi nhân.",
+        "id": "Ulangi sampai menjadi 8 gulungan, tata di piring, dan letakkan saus celup kecap asin ringan di sampingnya. Paling enak dimakan segera; kulitnya harus lembut dan agak transparan, memperlihatkan udang, mentimun, selada, dan bihun tanpa longgar atau bocor.",
+        "tl": "Ulitin hanggang makabuo ng 8 rolls, ayusin sa plato, at ilagay sa tabi ang light-soy dip. Pinakamainam kainin agad; dapat malambot at translucent ang wrapper, kita ang shrimp, cucumber, lettuce, at noodles, pero hindi maluwag o tumatagas ang palaman."
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/shrimp-rice-paper-noodle-rolls/cover-1.png",
+      "alt": "Generated meal cover image for shrimp-rice-paper-noodle-rolls",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself light-but-fueled image run",
+      "sourceURL": "local://cooking-for-myself-data/light-but-fueled-2026-05-18#shrimp-rice-paper-noodle-rolls",
+      "reviewStatus": "approved",
+      "contentStyle": "realistic_food_photo"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself light-but-fueled meal expansion",
+    "sourceURL": "local://cooking-for-myself-data/data/meals/shrimp-rice-paper-noodle-rolls.json",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "approved",
+    "generated": true,
+    "generatedAt": "2026-05-18T00:00:00Z"
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "id": "spaghetti-carbonara",
+  "status": "approved",
+  "names": {
+    "zhHant": "卡邦尼意粉",
+    "yue": "卡邦尼意粉",
+    "zhHans": "卡邦尼意粉",
+    "en": "Spaghetti carbonara",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "卡邦尼意粉 是一款西式意粉，用 意粉 180、煙肉 3、雞蛋 2、忌廉 60、巴馬臣芝士 30 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "卡邦尼意粉 是一款西式意粉，用 意粉 180、煙肉 3、雞蛋 2、忌廉 60、巴馬臣芝士 30 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "卡邦尼意粉 是一款西式意粉，用 意粉 180、烟肉 3、鸡蛋 2、忌廉 60、巴马臣芝士 30 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Spaghetti carbonara is a review-first candidate meal built around spaghetti, bacon, 2 eggs, cream."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 25,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "pasta",
+      "amounts": {
+        "zhHant": "意粉 180 克",
+        "yue": "意粉 180 克",
+        "zhHans": "意粉 180 克",
+        "en": "180 g spaghetti",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 180,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "bacon",
+      "amounts": {
+        "zhHant": "煙肉 3 片",
+        "yue": "煙肉 3 片",
+        "zhHans": "烟肉 3 片",
+        "en": "3 slices bacon",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 3,
+        "unit": "slice"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "雞蛋 2 隻",
+        "yue": "雞蛋 2 隻",
+        "zhHans": "鸡蛋 2 只",
+        "en": "2 eggs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "cream",
+      "amounts": {
+        "zhHant": "忌廉 60 毫升",
+        "yue": "忌廉 60 毫升",
+        "zhHans": "忌廉 60 毫升",
+        "en": "60 ml cream",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 60,
+        "unit": "ml"
+      }
+    },
+    {
+      "ingredientId": "parmesan",
+      "amounts": {
+        "zhHant": "巴馬臣芝士 30 克",
+        "yue": "巴馬臣芝士 30 克",
+        "zhHans": "巴马臣芝士 30 克",
+        "en": "30 g parmesan",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 30,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "蒜頭 1 瓣",
+        "yue": "蒜頭 1 瓣",
+        "zhHans": "蒜頭 1 瓣",
+        "en": "1 garlic clove",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "clove"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "pork",
+    "egg",
+    "dairy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理煙肉和雞蛋（卡邦尼意粉）",
+        "yue": "先處理煙肉和雞蛋（卡邦尼意粉）",
+        "zhHans": "先處理烟肉和鸡蛋（卡邦尼意粉）",
+        "en": "Prep bacon and eggs (Spaghetti carbonara)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把煙肉抹乾或切成一口大小，雞蛋和忌廉分開放好；意粉按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把煙肉抹乾或切成一口大小，雞蛋和忌廉分開放好；意粉按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把烟肉抹干或切成一口大小，鸡蛋和忌廉分開放好；意粉按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the bacon, keep the eggs and cream separate, and get the spaghetti ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "煮意粉留麵水（卡邦尼意粉）",
+        "yue": "煮意粉留麵水（卡邦尼意粉）",
+        "zhHans": "煮意粉留面水（卡邦尼意粉）",
+        "en": "Boil spaghetti (Spaghetti carbonara)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "意粉煮至彈牙，先留半杯煮麵水；卡邦尼意粉最後靠這些麵水把醬汁拉滑。 這一步看雞蛋和忌廉的狀態決定時間，讓卡邦尼意粉完成時口感清楚。",
+        "yue": "意粉煮至彈牙，先留半杯煮麵水；卡邦尼意粉最後靠這些麵水把醬汁拉滑。 這一步看雞蛋和忌廉的狀態決定時間，讓卡邦尼意粉完成時口感清楚。",
+        "zhHans": "意粉煮至彈牙，先留半杯煮面水；卡邦尼意粉最后靠这些面水把酱汁拉滑。 这一步看鸡蛋和忌廉的狀態決定時間，让卡邦尼意粉完成時口感清楚。",
+        "en": "Boil spaghetti until al dente and reserve cooking water so Spaghetti carbonara can be loosened at the end. Check spaghetti against bacon and keep the 25-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煎香煙肉（卡邦尼意粉）",
+        "yue": "煎香煙肉（卡邦尼意粉）",
+        "zhHans": "煎香烟肉（卡邦尼意粉）",
+        "en": "Brown bacon (Spaghetti carbonara)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "煙肉先用中火煎出香味，再加入雞蛋和忌廉，等鍋底留下焦香才做醬。 這一步看忌廉和巴馬臣芝士的狀態決定時間，讓卡邦尼意粉完成時口感清楚。",
+        "yue": "煙肉先用中火煎出香味，再加入雞蛋和忌廉，等鍋底留下焦香才做醬。 這一步看忌廉和巴馬臣芝士的狀態決定時間，讓卡邦尼意粉完成時口感清楚。",
+        "zhHans": "烟肉先用中火煎出香味，再加入鸡蛋和忌廉，等锅底留下焦香才做酱。 这一步看忌廉和巴马臣芝士的狀態決定時間，让卡邦尼意粉完成時口感清楚。",
+        "en": "Brown bacon, then add eggs and cream; let the pan pick up flavor before building the sauce.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "煮成忌廉醬（卡邦尼意粉）",
+        "yue": "煮成忌廉醬（卡邦尼意粉）",
+        "zhHans": "煮成忌廉酱（卡邦尼意粉）",
+        "en": "Make the cream sauce (Spaghetti carbonara)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入忌廉並用小火煮至剛稠，太厚就逐匙加入麵水，讓醬汁可黏在意粉上。 這一步看巴馬臣芝士和蒜頭的狀態決定時間，讓卡邦尼意粉完成時口感清楚。 補充檢查煙肉和雞蛋，並按25分鐘節奏控制火候。",
+        "yue": "加入忌廉並用小火煮至剛稠，太厚就逐匙加入麵水，讓醬汁可黏在意粉上。 這一步看巴馬臣芝士和蒜頭的狀態決定時間，讓卡邦尼意粉完成時口感清楚。 補充檢查煙肉和雞蛋，並按25分鐘節奏控制火候。",
+        "zhHans": "加入忌廉並用小火煮至剛稠，太厚就逐匙加入面水，让酱汁可黏在意粉上。 这一步看巴马臣芝士和蒜頭的狀態決定時間，让卡邦尼意粉完成時口感清楚。 補充檢查烟肉和鸡蛋，並按25分钟節奏控制火候。",
+        "en": "Add cream and simmer until just thick, loosening spoon by spoon with pasta water until it coats the spaghetti.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "拌入意粉（卡邦尼意粉）",
+        "yue": "拌入意粉（卡邦尼意粉）",
+        "zhHans": "拌入意粉（卡邦尼意粉）",
+        "en": "Toss the spaghetti (Spaghetti carbonara)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把意粉放回鍋中拌一分鐘，最後加巴馬臣芝士收尾，趁醬汁仍亮身時上碟。 這一步看蒜頭和意粉的狀態決定時間，讓卡邦尼意粉完成時口感清楚。 補充檢查雞蛋和忌廉，並按25分鐘節奏控制火候。",
+        "yue": "把意粉放回鍋中拌一分鐘，最後加巴馬臣芝士收尾，趁醬汁仍亮身時上碟。 這一步看蒜頭和意粉的狀態決定時間，讓卡邦尼意粉完成時口感清楚。 補充檢查雞蛋和忌廉，並按25分鐘節奏控制火候。",
+        "zhHans": "把意粉放回锅中拌一分钟，最后加巴马臣芝士收尾，趁酱汁仍亮身時上碟。 这一步看蒜頭和意粉的狀態決定時間，让卡邦尼意粉完成時口感清楚。 補充檢查鸡蛋和忌廉，並按25分钟節奏控制火候。",
+        "en": "Toss the spaghetti in the pan for one minute, finish with parmesan, and plate while the sauce is glossy.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/spaghetti-carbonara/cover-1.png",
+      "alt": "Generated food photo of Spaghetti carbonara",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#spaghetti-carbonara/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#spaghetti-carbonara",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

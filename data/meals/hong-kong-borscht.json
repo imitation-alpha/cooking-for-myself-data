@@ -14,89 +14,166 @@
     "yue": "羅宋湯"
   },
   "summary": {
-    "zhHant": "羅宋湯 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。",
-    "en": "羅宋湯 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。",
-    "yue": "羅宋湯 的本地買餸版本。湯水／湯麵方向，重點是先出味再校正鹹淡。"
+    "zhHant": "港式茶餐廳羅宋湯的家常版本。用番茄、椰菜、甘筍、薯仔和牛腩煮成紅橙色酸甜湯底。",
+    "en": "A home version of Hong Kong cafe borscht with tomato, cabbage, carrot, potato, and beef brisket in a red-orange sweet-sour broth.",
+    "yue": "港式茶餐廳羅宋湯的家常版本。用番茄、椰菜、甘筍、薯仔同牛腩煮成紅橙色酸甜湯底。"
   },
   "reason": {
-    "zhHant": "Hong Kong cafe cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
-    "en": "Hong Kong cafe cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。",
-    "yue": "Hong Kong cafe cooking；納入已驗圖 all90 本地菜單，適合本地亞洲超市買餸。"
+    "zhHant": "Hong Kong cafe cooking；番茄牛肉雜菜湯方向，適合一次煮兩碗作晚餐湯品。",
+    "en": "Hong Kong cafe cooking; a tomato beef vegetable soup suitable for two dinner bowls.",
+    "yue": "Hong Kong cafe cooking；番茄牛肉雜菜湯方向，適合一次煮兩碗作晚餐湯品。"
   },
-  "timeMinutes": 55,
+  "timeMinutes": 75,
   "difficulty": "中等",
   "servings": "2 人",
   "ingredients": [
     {
-      "ingredientId": "garlic",
+      "ingredientId": "beef-brisket",
       "amounts": {
-        "zhHant": "3 瓣",
-        "zhHans": "3 瓣",
-        "en": "3 cloves",
-        "ja": "3片",
-        "ko": "3쪽",
+        "zhHant": "300 克",
+        "zhHans": "300 克",
+        "en": "300 g",
+        "ja": "300 g",
+        "ko": "300 g",
         "th": null,
         "vi": null,
-        "id": "3 siung",
-        "tl": "3 butil",
-        "yue": "3 瓣"
+        "id": "300 g",
+        "tl": "300 g",
+        "yue": "300 克"
       }
     },
     {
-      "ingredientId": "scallion",
+      "ingredientId": "tomato",
       "amounts": {
-        "zhHant": "2 條",
-        "zhHans": "2 条",
-        "en": "2 stalks",
-        "ja": "2本",
-        "ko": "2대",
+        "zhHant": "2 個",
+        "zhHans": "2 个",
+        "en": "2 medium",
+        "ja": "2個",
+        "ko": "2개",
         "th": null,
         "vi": null,
-        "id": "2 batang",
-        "tl": "2 tangkay",
-        "yue": "2 條"
+        "id": "2 buah",
+        "tl": "2 piraso",
+        "yue": "2 個"
       }
     },
     {
-      "ingredientId": "ginger",
+      "ingredientId": "canned-tomato",
       "amounts": {
-        "zhHant": "4 片",
-        "zhHans": "4 片",
-        "en": "4 slices",
-        "ja": "4枚",
-        "ko": "4장",
+        "zhHant": "200 克",
+        "zhHans": "200 克",
+        "en": "200 g",
+        "ja": "200 g",
+        "ko": "200 g",
         "th": null,
         "vi": null,
-        "id": "4 iris",
-        "tl": "4 hiwa",
-        "yue": "4 片"
+        "id": "200 g",
+        "tl": "200 g",
+        "yue": "200 克"
+      }
+    },
+    {
+      "ingredientId": "cabbage",
+      "amounts": {
+        "zhHant": "150 克",
+        "zhHans": "150 克",
+        "en": "150 g",
+        "ja": "150 g",
+        "ko": "150 g",
+        "th": null,
+        "vi": null,
+        "id": "150 g",
+        "tl": "150 g",
+        "yue": "150 克"
+      }
+    },
+    {
+      "ingredientId": "carrot",
+      "amounts": {
+        "zhHant": "1 條",
+        "zhHans": "1 条",
+        "en": "1 medium",
+        "ja": "1本",
+        "ko": "1개",
+        "th": null,
+        "vi": null,
+        "id": "1 buah",
+        "tl": "1 piraso",
+        "yue": "1 條"
+      }
+    },
+    {
+      "ingredientId": "potato",
+      "amounts": {
+        "zhHant": "1 個",
+        "zhHans": "1 个",
+        "en": "1 medium",
+        "ja": "1個",
+        "ko": "1개",
+        "th": null,
+        "vi": null,
+        "id": "1 buah",
+        "tl": "1 piraso",
+        "yue": "1 個"
+      }
+    },
+    {
+      "ingredientId": "onion",
+      "amounts": {
+        "zhHant": "1 個",
+        "zhHans": "1 个",
+        "en": "1 medium",
+        "ja": "1個",
+        "ko": "1개",
+        "th": null,
+        "vi": null,
+        "id": "1 buah",
+        "tl": "1 piraso",
+        "yue": "1 個"
       }
     },
     {
       "ingredientId": "chicken-broth",
       "amounts": {
-        "zhHant": "600 毫升",
-        "zhHans": "600 毫升",
-        "en": "600 ml",
-        "ja": "600 ml",
-        "ko": "600 ml",
+        "zhHant": "800 毫升",
+        "zhHans": "800 毫升",
+        "en": "800 ml",
+        "ja": "800 ml",
+        "ko": "800 ml",
         "th": null,
         "vi": null,
-        "id": "600 ml",
-        "tl": "600 ml",
-        "yue": "600 毫升"
+        "id": "800 ml",
+        "tl": "800 ml",
+        "yue": "800 毫升"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "2 瓣",
+        "zhHans": "2 瓣",
+        "en": "2 cloves",
+        "ja": "2片",
+        "ko": "2쪽",
+        "th": null,
+        "vi": null,
+        "id": "2 siung",
+        "tl": "2 butil",
+        "yue": "2 瓣"
       }
     }
   ],
-  "restrictionTags": [],
+  "restrictionTags": [
+    "beef"
+  ],
   "steps": [
     {
       "order": 1,
       "title": {
-        "zhHant": "拍蒜切薑蔥",
-        "yue": "拍蒜切薑蔥",
-        "zhHans": "拍蒜切薑蔥",
-        "en": "Smash garlic and cut ginger scallions",
+        "zhHant": "切好牛腩和雜菜",
+        "yue": "切好牛腩同雜菜",
+        "zhHans": "切好牛腩和杂菜",
+        "en": "Cut the beef and vegetables",
         "ja": null,
         "ko": null,
         "th": null,
@@ -105,10 +182,10 @@
         "tl": null
       },
       "detail": {
-        "zhHant": "蒜頭 3 瓣拍扁；薑 4 片保持原片；蔥 2 條把蔥白切段、蔥綠切幼粒。雞湯 600 毫升倒入湯鍋旁邊備用。",
-        "yue": "蒜頭 3 瓣拍扁；薑 4 片保持原片；蔥 2 條把蔥白切段、蔥綠切幼粒。雞湯 600 毫升倒入湯鍋旁邊備用。",
-        "zhHans": "蒜頭 3 瓣拍扁；薑 4 片保持原片；蔥 2 條把蔥白切段、蔥綠切幼粒。雞湯 600 毫升倒入湯鍋旁邊備用。",
-        "en": "Smash 3 cloves Garlic; keep 4 slices Ginger whole; cut 2 stalks Scallions into white sections and fine green rounds. Keep 600 ml Chicken broth beside the soup pot.",
+        "zhHant": "牛腩 300 克切成約 2 至 3 厘米件。番茄 2 個切角，洋蔥 1 個切件，甘筍 1 條和薯仔 1 個切滾刀件，椰菜 150 克切大片；蒜頭 2 瓣拍裂。",
+        "yue": "牛腩 300 克切成約 2 至 3 厘米件。番茄 2 個切角，洋蔥 1 個切件，甘筍 1 條同薯仔 1 個切滾刀件，椰菜 150 克切大片；蒜頭 2 瓣拍裂。",
+        "zhHans": "牛腩 300 克切成约 2 至 3 厘米件。番茄 2 个切角，洋葱 1 个切件，甘笋 1 条和薯仔 1 个切滚刀件，椰菜 150 克切大片；蒜头 2 瓣拍裂。",
+        "en": "Cut 300 g beef brisket into 2-3 cm pieces. Cut 2 tomatoes into wedges, 1 onion into chunks, 1 carrot and 1 potato into rolling-cut pieces, and 150 g cabbage into large pieces; crack 2 cloves garlic.",
         "ja": null,
         "ko": null,
         "th": null,
@@ -120,10 +197,10 @@
     {
       "order": 2,
       "title": {
-        "zhHant": "爆香清湯底",
-        "yue": "爆香清湯底",
-        "zhHans": "爆香清湯底",
-        "en": "Bloom the clear broth base",
+        "zhHant": "牛腩汆水去雜味",
+        "yue": "牛腩汆水去雜味",
+        "zhHans": "牛腩汆水去杂味",
+        "en": "Blanch the brisket",
         "ja": null,
         "ko": null,
         "th": null,
@@ -132,10 +209,10 @@
         "tl": null
       },
       "detail": {
-        "zhHant": "湯鍋用中火燒熱，落少許油，先炒蒜頭、薑片和蔥白 45 至 60 秒，聞到香味但蒜頭未焦就倒入雞湯 600 毫升。",
-        "yue": "湯鍋用中火燒熱，落少許油，先炒蒜頭、薑片和蔥白 45 至 60 秒，聞到香味但蒜頭未焦就倒入雞湯 600 毫升。",
-        "zhHans": "湯鍋用中火燒熱，落少許油，先炒蒜頭、薑片和蔥白 45 至 60 秒，聞到香味但蒜頭未焦就倒入雞湯 600 毫升。",
-        "en": "Heat a soup pot over medium heat, add a little oil, and cook the Garlic, Ginger, and scallion whites for 45-60 seconds. When fragrant but not browned, pour in 600 ml Chicken broth.",
+        "zhHant": "牛腩放入冷水鍋中用中火煮滾，滾起後多煮 2 分鐘。撈出牛腩，用暖水沖走浮沫，倒走汆水並抹乾湯鍋，湯味會較清爽。",
+        "yue": "牛腩放入冷水鍋中用中火煮滾，滾起後多煮 2 分鐘。撈出牛腩，用暖水沖走浮沫，倒走汆水並抹乾湯鍋，湯味會較清爽。",
+        "zhHans": "牛腩放入冷水锅中用中火煮滚，滚起后多煮 2 分钟。捞出牛腩，用暖水冲走浮沫，倒走汆水并抹干汤锅，汤味会较清爽。",
+        "en": "Place the brisket in a pot of cold water and bring it to a boil over medium heat. Boil for 2 more minutes, lift out the beef, rinse away foam with warm water, discard the blanching water, and wipe the pot clean.",
         "ja": null,
         "ko": null,
         "th": null,
@@ -147,10 +224,10 @@
     {
       "order": 3,
       "title": {
-        "zhHant": "細滾出薑蔥味",
-        "yue": "細滾出薑蔥味",
-        "zhHans": "細滾出薑蔥味",
-        "en": "Simmer for ginger scallion aroma",
+        "zhHant": "炒香番茄湯底",
+        "yue": "炒香番茄湯底",
+        "zhHans": "炒香番茄汤底",
+        "en": "Build the tomato soup base",
         "ja": null,
         "ko": null,
         "th": null,
@@ -159,10 +236,10 @@
         "tl": null
       },
       "detail": {
-        "zhHant": "把湯煮滾後轉細火，保持輕微冒泡 12 至 15 分鐘；見湯面有蒜薑香氣，蒜頭變軟但湯仍清，就可以試味。",
-        "yue": "把湯煮滾後轉細火，保持輕微冒泡 12 至 15 分鐘；見湯面有蒜薑香氣，蒜頭變軟但湯仍清，就可以試味。",
-        "zhHans": "把湯煮滾後轉細火，保持輕微冒泡 12 至 15 分鐘；見湯面有蒜薑香氣，蒜頭變軟但湯仍清，就可以試味。",
-        "en": "Bring the broth to a boil, then lower the heat to a gentle simmer for 12-15 minutes. It is ready to taste when the Garlic softens, the Ginger and Scallions smell clear, and the broth stays light.",
+        "zhHant": "湯鍋加少許油，用中火炒洋蔥和蒜頭 1 分鐘。加入番茄和罐裝番茄 200 克，炒到番茄邊緣變軟出汁，再倒入雞湯 800 毫升。",
+        "yue": "湯鍋加少許油，用中火炒洋蔥同蒜頭 1 分鐘。加入番茄同罐裝番茄 200 克，炒到番茄邊緣變軟出汁，再倒入雞湯 800 毫升。",
+        "zhHans": "汤锅加少许油，用中火炒洋葱和蒜头 1 分钟。加入番茄和罐装番茄 200 克，炒到番茄边缘变软出汁，再倒入鸡汤 800 毫升。",
+        "en": "Add a little oil to the soup pot and cook the onion and garlic over medium heat for 1 minute. Add the fresh tomatoes and 200 g canned tomatoes, cook until the tomato edges soften and release juice, then pour in 800 ml chicken broth.",
         "ja": null,
         "ko": null,
         "th": null,
@@ -174,10 +251,10 @@
     {
       "order": 4,
       "title": {
-        "zhHant": "蔥綠點起清湯",
-        "yue": "蔥綠點起清湯",
-        "zhHans": "蔥綠點起清湯",
-        "en": "Lift the broth with scallion greens",
+        "zhHant": "細火煮出牛肉味",
+        "yue": "細火煮出牛肉味",
+        "zhHans": "小火煮出牛肉味",
+        "en": "Simmer the beef in the tomato broth",
         "ja": null,
         "ko": null,
         "th": null,
@@ -186,10 +263,37 @@
         "tl": null
       },
       "detail": {
-        "zhHant": "熄火前撒入蔥綠，等 20 秒讓香味散開；把蒜頭、薑片和熱湯一同盛入碗，趁熱飲，口感應是清、暖、帶薑蔥香。",
-        "yue": "熄火前撒入蔥綠，等 20 秒讓香味散開；把蒜頭、薑片和熱湯一同盛入碗，趁熱飲，口感應是清、暖、帶薑蔥香。",
-        "zhHans": "熄火前撒入蔥綠，等 20 秒讓香味散開；把蒜頭、薑片和熱湯一同盛入碗，趁熱飲，口感應是清、暖、帶薑蔥香。",
-        "en": "Scatter in the scallion greens for the final 20 seconds. Ladle the hot broth with the Garlic and Ginger into bowls and serve hot; it should taste clear, warm, and scallion-ginger scented.",
+        "zhHant": "把汆好的牛腩放回湯鍋，煮滾後轉小火，半蓋煮 45 分鐘。中途保持微微冒泡，湯面有浮油或泡沫就撇走，湯色應逐漸變紅橙。",
+        "yue": "把汆好的牛腩放回湯鍋，煮滾後轉小火，半蓋煮 45 分鐘。中途保持微微冒泡，湯面有浮油或泡沫就撇走，湯色應逐漸變紅橙。",
+        "zhHans": "把汆好的牛腩放回汤锅，煮滚后转小火，半盖煮 45 分钟。中途保持微微冒泡，汤面有浮油或泡沫就撇走，汤色应逐渐变红橙。",
+        "en": "Return the blanched brisket to the pot, bring to a boil, then lower to a gentle simmer and half-cover for 45 minutes. Keep it barely bubbling, skim foam or excess oil as needed, and let the broth turn red-orange.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "加入薯仔甘筍椰菜",
+        "yue": "加入薯仔甘筍椰菜",
+        "zhHans": "加入薯仔甘笋椰菜",
+        "en": "Finish with potato, carrot, and cabbage",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入甘筍、薯仔和椰菜，再細火煮 18 至 22 分鐘，直到薯仔剛好軟身、椰菜仍有形。最後按需要用鹽和少量黑胡椒調味，成品應是番茄酸甜、帶牛肉和雜菜味的港式羅宋湯。",
+        "yue": "加入甘筍、薯仔同椰菜，再細火煮 18 至 22 分鐘，直到薯仔剛好軟身、椰菜仍有形。最後按需要用鹽同少量黑胡椒調味，成品應是番茄酸甜、帶牛肉同雜菜味的港式羅宋湯。",
+        "zhHans": "加入甘笋、薯仔和椰菜，再小火煮 18 至 22 分钟，直到薯仔刚好软身、椰菜仍有形。最后按需要用盐和少量黑胡椒调味，成品应是番茄酸甜、带牛肉和杂菜味的港式罗宋汤。",
+        "en": "Add the carrot, potato, and cabbage, then simmer gently for 18-22 minutes until the potato is just tender and the cabbage still holds its shape. Season with salt and a little black pepper as needed; it should taste like Hong Kong-style tomato beef vegetable soup.",
         "ja": null,
         "ko": null,
         "th": null,

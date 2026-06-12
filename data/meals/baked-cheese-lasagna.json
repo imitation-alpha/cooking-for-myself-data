@@ -1,0 +1,311 @@
+{
+  "id": "baked-cheese-lasagna",
+  "status": "approved",
+  "names": {
+    "zhHant": "焗芝士千層麵",
+    "yue": "焗芝士千層麵",
+    "zhHans": "焗芝士千层面",
+    "en": "Baked cheese lasagna",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "焗芝士千層麵 是一款薄餅焗盤，用 千層麵片 8、牛肉碎 280、罐頭番茄 350、芝士 140、巴馬臣芝士 30 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "焗芝士千層麵 是一款薄餅焗盤，用 千層麵片 8、牛肉碎 280、罐頭番茄 350、芝士 140、巴馬臣芝士 30 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "焗芝士千层面 是一款薄饼焗盘，用 千层面片 8、牛肉碎 280、罐頭番茄 350、芝士 140、巴马臣芝士 30 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Baked cheese lasagna is a review-first candidate meal built around 8 lasagna sheets, ground beef, canned tomato, cheese."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 50,
+  "difficulty": "需時",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "lasagna-noodle",
+      "amounts": {
+        "zhHant": "千層麵片 8 片",
+        "yue": "千層麵片 8 片",
+        "zhHans": "千层面片 8 片",
+        "en": "8 lasagna sheets",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 8,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "ground-beef",
+      "amounts": {
+        "zhHant": "牛肉碎 280 克",
+        "yue": "牛肉碎 280 克",
+        "zhHans": "牛肉碎 280 克",
+        "en": "280 g ground beef",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 280,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "canned-tomato",
+      "amounts": {
+        "zhHant": "罐頭番茄 350 克",
+        "yue": "罐頭番茄 350 克",
+        "zhHans": "罐頭番茄 350 克",
+        "en": "350 g canned tomato",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 350,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cheese",
+      "amounts": {
+        "zhHant": "芝士 140 克",
+        "yue": "芝士 140 克",
+        "zhHans": "芝士 140 克",
+        "en": "140 g cheese",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 140,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "parmesan",
+      "amounts": {
+        "zhHant": "巴馬臣芝士 30 克",
+        "yue": "巴馬臣芝士 30 克",
+        "zhHans": "巴马臣芝士 30 克",
+        "en": "30 g parmesan",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 30,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "onion",
+      "amounts": {
+        "zhHant": "洋蔥半個",
+        "yue": "洋蔥半個",
+        "zhHans": "洋葱半个",
+        "en": "1/2 onion",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 0.5,
+        "unit": "piece"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "beef",
+    "dairy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理牛肉碎和罐頭番茄（焗芝士千層麵）",
+        "yue": "先處理牛肉碎和罐頭番茄（焗芝士千層麵）",
+        "zhHans": "先處理牛肉碎和罐頭番茄（焗芝士千层面）",
+        "en": "Prep ground beef and canned tomato (Baked cheese lasagna)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把牛肉碎抹乾或切成一口大小，罐頭番茄和芝士分開放好；千層麵片按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把牛肉碎抹乾或切成一口大小，罐頭番茄和芝士分開放好；千層麵片按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把牛肉碎抹干或切成一口大小，罐頭番茄和芝士分開放好；千层面片按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the ground beef, keep the canned tomato and cheese separate, and get the lasagna sheets ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "煮香牛肉碎（焗芝士千層麵）",
+        "yue": "煮香牛肉碎（焗芝士千層麵）",
+        "zhHans": "煮香牛肉碎（焗芝士千层面）",
+        "en": "Cook ground beef (Baked cheese lasagna)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "牛肉碎先炒至出香味，加入罐頭番茄和芝士煮到水分收緊，焗後才不會太稀。 這一步看罐頭番茄和芝士的狀態決定時間，讓焗芝士千層麵完成時口感清楚。",
+        "yue": "牛肉碎先炒至出香味，加入罐頭番茄和芝士煮到水分收緊，焗後才不會太稀。 這一步看罐頭番茄和芝士的狀態決定時間，讓焗芝士千層麵完成時口感清楚。",
+        "zhHans": "牛肉碎先炒至出香味，加入罐頭番茄和芝士煮到水分收緊，焗后才不会太稀。 这一步看罐頭番茄和芝士的狀態決定時間，让焗芝士千层面完成時口感清楚。",
+        "en": "Cook ground beef until aromatic, add canned tomato and cheese, and reduce moisture so the bake sets cleanly.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "處理千層麵片（焗芝士千層麵）",
+        "yue": "處理千層麵片（焗芝士千層麵）",
+        "zhHans": "處理千层面片（焗芝士千层面）",
+        "en": "Prepare lasagna sheets (Baked cheese lasagna)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "千層麵片先煮到可焗的狀態，再拌入芝士或巴馬臣芝士，讓每一層都有味道。 這一步看芝士和巴馬臣芝士的狀態決定時間，讓焗芝士千層麵完成時口感清楚。",
+        "yue": "千層麵片先煮到可焗的狀態，再拌入芝士或巴馬臣芝士，讓每一層都有味道。 這一步看芝士和巴馬臣芝士的狀態決定時間，讓焗芝士千層麵完成時口感清楚。",
+        "zhHans": "千层面片先煮到可焗的狀態，再拌入芝士或巴马臣芝士，让每一层都有味道。 这一步看芝士和巴马臣芝士的狀態決定時間，让焗芝士千层面完成時口感清楚。",
+        "en": "Prepare lasagna sheets until ready for baking, then mix with cheese or parmesan so the layers are seasoned.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "分層入盤（焗芝士千層麵）",
+        "yue": "分層入盤（焗芝士千層麵）",
+        "zhHans": "分层入盘（焗芝士千层面）",
+        "en": "Layer the dish (Baked cheese lasagna)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把牛肉碎餡和千層麵片分層放入焗盤，表面鋪上巴馬臣芝士，邊位壓實避免切開時散開。",
+        "yue": "把牛肉碎餡和千層麵片分層放入焗盤，表面鋪上巴馬臣芝士，邊位壓實避免切開時散開。",
+        "zhHans": "把牛肉碎餡和千层面片分层放入焗盘，表面鋪上巴马臣芝士，边位压實避免切開時散開。",
+        "en": "Layer the ground beef filling with lasagna sheets, top with parmesan, and press the edges so portions hold together.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "焗後靜置（焗芝士千層麵）",
+        "yue": "焗後靜置（焗芝士千層麵）",
+        "zhHans": "焗后靜置（焗芝士千层面）",
+        "en": "Bake and rest (Baked cheese lasagna)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "焗至表面金黃後先放五分鐘，焗芝士千層麵稍為定型再分份，口感會更完整。 這一步看洋蔥和千層麵片的狀態決定時間，讓焗芝士千層麵完成時口感清楚。",
+        "yue": "焗至表面金黃後先放五分鐘，焗芝士千層麵稍為定型再分份，口感會更完整。 這一步看洋蔥和千層麵片的狀態決定時間，讓焗芝士千層麵完成時口感清楚。",
+        "zhHans": "焗至表面金黃后先放五分钟，焗芝士千层面稍为定型再分份，口感会更完整。 这一步看洋葱和千层面片的狀態決定時間，让焗芝士千层面完成時口感清楚。",
+        "en": "Bake until browned, then rest Baked cheese lasagna for five minutes before portioning so the filling settles. Check canned tomato against cheese and keep the 50-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/baked-cheese-lasagna/cover-1.png",
+      "alt": "Generated food photo of Baked cheese lasagna",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#baked-cheese-lasagna/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#baked-cheese-lasagna",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

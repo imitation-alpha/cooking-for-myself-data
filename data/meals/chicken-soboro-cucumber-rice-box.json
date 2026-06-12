@@ -1,0 +1,314 @@
+{
+  "id": "chicken-soboro-cucumber-rice-box",
+  "status": "approved",
+  "names": {
+    "zhHant": "雞肉鬆青瓜飯盒",
+    "yue": "雞肉鬆青瓜飯盒",
+    "zhHans": "鸡肉松青瓜饭盒",
+    "en": "Chicken soboro cucumber rice box",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": "Chicken soboro cucumber rice box",
+    "tl": "Chicken soboro cucumber rice box"
+  },
+  "summary": {
+    "zhHant": "切碎雞髀肉用薑、蔥和生抽炒成鬆散肉碎，配嫩蛋、青瓜和熟飯，適合午餐飯盒。",
+    "yue": "切碎雞髀肉用薑、蔥同生抽炒成鬆散肉碎，配嫩蛋、青瓜同熟飯，啱做午餐飯盒。",
+    "zhHans": "切碎鸡髀肉用姜、葱和生抽炒成松散肉碎，配嫩蛋、青瓜和熟饭，适合午餐饭盒。",
+    "en": "Finely chopped chicken thigh is cooked into ginger-scallion soy soboro, then packed with tender egg, cucumber and cooked rice for an easy lunchbox.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "reason": {
+    "zhHant": "用熟飯縮短時間，雞髀肉和蛋提供蛋白質，青瓜保持清爽；分格裝好後可作 meal-prep 午餐。",
+    "yue": "用熟飯慳時間，雞髀肉同蛋有蛋白質，青瓜保持清爽；分格裝好後可以做 meal-prep 午餐。",
+    "zhHans": "用熟饭缩短时间，鸡髀肉和蛋提供蛋白质，青瓜保持清爽；分格装好后可作 meal-prep 午餐。",
+    "en": "Cooked rice keeps the prep fast, chicken thigh and egg add protein, and cucumber keeps the box fresh; it packs cleanly for meal-prep lunches.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "timeMinutes": 25,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "chicken-thigh",
+      "amounts": {
+        "zhHant": "2 件",
+        "yue": "2 件",
+        "zhHans": "2 件",
+        "en": "2 thighs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "2 thighs",
+        "tl": "2 thighs"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "2 隻",
+        "yue": "2 隻",
+        "zhHans": "2 只",
+        "en": "2 eggs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "2 eggs",
+        "tl": "2 eggs"
+      }
+    },
+    {
+      "ingredientId": "cooked-rice",
+      "amounts": {
+        "zhHant": "2 碗",
+        "yue": "2 碗",
+        "zhHans": "2 碗",
+        "en": "2 bowls",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "2 bowls",
+        "tl": "2 bowls"
+      }
+    },
+    {
+      "ingredientId": "cucumber",
+      "amounts": {
+        "zhHant": "1 條",
+        "yue": "1 條",
+        "zhHans": "1 条",
+        "en": "1 cucumber",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "1 cucumber",
+        "tl": "1 cucumber"
+      }
+    },
+    {
+      "ingredientId": "scallion",
+      "amounts": {
+        "zhHant": "2 條",
+        "yue": "2 條",
+        "zhHans": "2 条",
+        "en": "2 stalks",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "2 stalks",
+        "tl": "2 stalks"
+      }
+    },
+    {
+      "ingredientId": "ginger",
+      "amounts": {
+        "zhHant": "1 小塊",
+        "yue": "1 小塊",
+        "zhHans": "1 小块",
+        "en": "1 small piece",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "1 small piece",
+        "tl": "1 small piece"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "2 湯匙",
+        "yue": "2 湯匙",
+        "zhHans": "2 汤匙",
+        "en": "2 tbsp",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": "2 tbsp",
+        "tl": "2 tbsp"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "egg",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "切碎雞肉和配料",
+        "yue": "切碎雞肉同配料",
+        "zhHans": "切碎鸡肉和配料",
+        "en": "Finely chop the chicken and toppings",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "雞髀肉 2 件抹乾後切成細粒，再用刀略剁成粗肉碎。青瓜 1 條切薄片或細條；薑 1 小塊磨蓉，蔥 2 條切粒並分開蔥白和蔥綠。熟飯 2 碗先弄鬆。",
+        "yue": "雞髀肉 2 件抹乾後切成細粒，再用刀略剁成粗肉碎。青瓜 1 條切薄片或細條；薑 1 小塊磨蓉，蔥 2 條切粒並分開蔥白同蔥綠。熟飯 2 碗先整鬆。",
+        "zhHans": "鸡髀肉 2 件抹干后切成细粒，再用刀略剁成粗肉碎。青瓜 1 条切薄片或细条；姜 1 小块磨蓉，葱 2 条切粒并分开葱白和葱绿。熟饭 2 碗先拨松。",
+        "en": "Pat 2 chicken thighs dry, cut them into small pieces, then chop briefly into coarse mince. Slice 1 cucumber into thin rounds or sticks; grate 1 small piece ginger, slice 2 scallions, and keep whites and greens separate. Fluff 2 bowls cooked rice.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "炒鬆雞肉碎",
+        "yue": "炒鬆雞肉碎",
+        "zhHans": "炒松鸡肉碎",
+        "en": "Cook the chicken into loose crumbles",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "防黏平底鍋用中火預熱，放入雞肉碎、薑蓉和蔥白。用鑊鏟壓散並翻炒 5 至 6 分鐘，至雞肉完全轉白、邊位微金黃。",
+        "yue": "防黏平底鑊用中火預熱，放入雞肉碎、薑蓉同蔥白。用鑊鏟壓散並翻炒 5 至 6 分鐘，至雞肉完全轉白、邊位微金黃。",
+        "zhHans": "防粘平底锅用中火预热，放入鸡肉碎、姜蓉和葱白。用锅铲压散并翻炒 5 至 6 分钟，至鸡肉完全转白、边缘微金黄。",
+        "en": "Preheat a nonstick skillet over medium heat. Add the chopped chicken, ginger and scallion whites, then press and stir for 5-6 minutes until the chicken is fully opaque and lightly golden at the edges.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "生抽收成雞肉碎",
+        "yue": "生抽收成雞肉碎",
+        "zhHans": "生抽收成鸡肉碎",
+        "en": "Season the chicken soboro with soy",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入生抽 1 湯匙和清水 3 湯匙，轉中小火拌炒 2 至 3 分鐘。汁液只需薄薄包住雞肉，讓肉碎保持鬆散濕潤，不要煮到全乾。",
+        "yue": "加入生抽 1 湯匙同清水 3 湯匙，轉中小火拌炒 2 至 3 分鐘。汁液只需要薄薄包住雞肉，令肉碎保持鬆散濕潤，唔好煮到全乾。",
+        "zhHans": "加入生抽 1 汤匙和清水 3 汤匙，转中小火拌炒 2 至 3 分钟。汁液只需薄薄包住鸡肉，让肉碎保持松散湿润，不要煮到全干。",
+        "en": "Add 1 tbsp light soy sauce and 3 tbsp water, lower to medium-low, and stir for 2-3 minutes. The liquid should lightly coat the chicken so the crumbles stay loose and moist, not dry.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "做嫩蛋碎",
+        "yue": "做嫩蛋碎",
+        "zhHans": "做嫩蛋碎",
+        "en": "Make tender egg curds",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把雞肉撥到一邊或盛起。雞蛋 2 隻打散，倒入同一個鍋，用小火慢慢推成細小嫩蛋碎；若鍋太乾，可加 1 湯匙水幫助蛋保持柔軟。",
+        "yue": "將雞肉撥到一邊或盛起。雞蛋 2 隻打散，倒入同一個鑊，用小火慢慢推成細小嫩蛋碎；如果鑊太乾，可以加 1 湯匙水令蛋保持柔軟。",
+        "zhHans": "把鸡肉拨到一边或盛起。鸡蛋 2 只打散，倒入同一个锅，用小火慢慢推成细小嫩蛋碎；若锅太干，可加 1 汤匙水帮助蛋保持柔软。",
+        "en": "Push the chicken to one side or lift it out. Beat 2 eggs, pour them into the same pan, and gently push over low heat into small tender curds; if the pan looks dry, add 1 tbsp water to keep the eggs soft.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "組成飯盒",
+        "yue": "組成飯盒",
+        "zhHans": "组成饭盒",
+        "en": "Pack the rice boxes",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把熟飯分入 2 個飯盒，分區鋪上雞肉鬆、嫩蛋碎和青瓜。淋上餘下 1 湯匙生抽，灑蔥綠；若預備翌日午餐，先放涼再蓋好冷藏，青瓜可分格保存。",
+        "yue": "將熟飯分入 2 個飯盒，分區鋪上雞肉鬆、嫩蛋碎同青瓜。淋上餘下 1 湯匙生抽，灑蔥綠；如果預備聽日午餐，先放涼再蓋好冷藏，青瓜可以分格保存。",
+        "zhHans": "把熟饭分入 2 个饭盒，分区铺上鸡肉松、嫩蛋碎和青瓜。淋上余下 1 汤匙生抽，撒葱绿；若预备翌日午餐，先放凉再盖好冷藏，青瓜可分格保存。",
+        "en": "Divide the cooked rice between 2 lunchboxes, then arrange the chicken soboro, egg curds and cucumber in sections. Drizzle with the remaining 1 tbsp light soy sauce and scatter scallion greens; for next-day lunch, cool before covering and chill with the cucumber in its own section.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/chicken-soboro-cucumber-rice-box/cover-1.png",
+      "alt": "Generated meal cover image for chicken-soboro-cucumber-rice-box",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself light-but-fueled image run",
+      "sourceURL": "local://cooking-for-myself-data/light-but-fueled-2026-05-18#chicken-soboro-cucumber-rice-box",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself light-but-fueled meal expansion",
+    "sourceURL": "local://cooking-for-myself-data/data/meals/chicken-soboro-cucumber-rice-box.json",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "approved",
+    "generated": true,
+    "generatedAt": "2026-05-18T00:00:00Z"
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "id": "hot-and-sour-soup-noodles",
+  "status": "approved",
+  "names": {
+    "zhHant": "酸辣湯麵",
+    "yue": "酸辣湯麵",
+    "zhHans": "酸辣汤面",
+    "en": "Hot and sour soup noodles",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "酸辣湯麵 是一款亞洲麵粉，用 麵條 180、嫩豆腐 200、雞蛋 2、蘑菇 100、椰菜 100 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "酸辣湯麵 是一款亞洲麵粉，用 麵條 180、嫩豆腐 200、雞蛋 2、蘑菇 100、椰菜 100 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "酸辣汤面 是一款亞洲面粉，用 面条 180、嫩豆腐 200、鸡蛋 2、蘑菇 100、椰菜 100 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Hot and sour soup noodles is a review-first candidate meal built around dried noodles, soft tofu, 2 eggs, mushrooms."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 22,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "dried-noodle",
+      "amounts": {
+        "zhHant": "麵條 180 克",
+        "yue": "麵條 180 克",
+        "zhHans": "面条 180 克",
+        "en": "180 g dried noodles",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 180,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "soft-tofu",
+      "amounts": {
+        "zhHant": "嫩豆腐 200 克",
+        "yue": "嫩豆腐 200 克",
+        "zhHans": "嫩豆腐 200 克",
+        "en": "200 g soft tofu",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 200,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "雞蛋 2 隻",
+        "yue": "雞蛋 2 隻",
+        "zhHans": "鸡蛋 2 只",
+        "en": "2 eggs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "mushroom",
+      "amounts": {
+        "zhHant": "蘑菇 100 克",
+        "yue": "蘑菇 100 克",
+        "zhHans": "蘑菇 100 克",
+        "en": "100 g mushrooms",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 100,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cabbage",
+      "amounts": {
+        "zhHant": "椰菜 100 克",
+        "yue": "椰菜 100 克",
+        "zhHans": "椰菜 100 克",
+        "en": "100 g cabbage",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 100,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "生抽 1 湯匙",
+        "yue": "生抽 1 湯匙",
+        "zhHans": "生抽 1 汤匙",
+        "en": "1 tbsp light soy sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "tbsp"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "egg",
+    "soy",
+    "wheatGluten",
+    "spicy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理嫩豆腐和雞蛋（酸辣湯麵）",
+        "yue": "先處理嫩豆腐和雞蛋（酸辣湯麵）",
+        "zhHans": "先處理嫩豆腐和鸡蛋（酸辣汤面）",
+        "en": "Prep soft tofu and eggs (Hot and sour soup noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把嫩豆腐抹乾或切成一口大小，雞蛋和蘑菇分開放好；麵條按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把嫩豆腐抹乾或切成一口大小，雞蛋和蘑菇分開放好；麵條按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把嫩豆腐抹干或切成一口大小，鸡蛋和蘑菇分開放好；面条按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the soft tofu, keep the eggs and mushrooms separate, and get the dried noodles ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "分碗放好麵條（酸辣湯麵）",
+        "yue": "分碗放好麵條（酸辣湯麵）",
+        "zhHans": "分碗放好面条（酸辣汤面）",
+        "en": "Bowl the dried noodles (Hot and sour soup noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "麵條先煮至剛熟並分入碗中，避免直接在湯裡久煮，把酸辣湯麵的湯底拖得混濁。",
+        "yue": "麵條先煮至剛熟並分入碗中，避免直接在湯裡久煮，把酸辣湯麵的湯底拖得混濁。",
+        "zhHans": "面条先煮至剛熟並分入碗中，避免直接在汤里久煮，把酸辣汤面的汤底拖得混濁。",
+        "en": "Cook the dried noodles just until tender and place it in bowls so the broth for Hot and sour soup noodles stays clean.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煮出生抽湯底（酸辣湯麵）",
+        "yue": "煮出生抽湯底（酸辣湯麵）",
+        "zhHans": "煮出生抽汤底（酸辣汤面）",
+        "en": "Build the light soy sauce broth (Hot and sour soup noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "鍋中先炒香生抽、蘑菇和椰菜，再加水或湯，小火煮到香味融合。 這一步看蘑菇和椰菜的狀態決定時間，讓酸辣湯麵完成時口感清楚。",
+        "yue": "鍋中先炒香生抽、蘑菇和椰菜，再加水或湯，小火煮到香味融合。 這一步看蘑菇和椰菜的狀態決定時間，讓酸辣湯麵完成時口感清楚。",
+        "zhHans": "锅中先炒香生抽、蘑菇和椰菜，再加水或汤，小火煮到香味融合。 这一步看蘑菇和椰菜的狀態決定時間，让酸辣汤面完成時口感清楚。",
+        "en": "Bloom light soy sauce, mushrooms, and cabbage, then add water or stock and simmer until the broth tastes integrated.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "下嫩豆腐和雞蛋（酸辣湯麵）",
+        "yue": "下嫩豆腐和雞蛋（酸辣湯麵）",
+        "zhHans": "下嫩豆腐和鸡蛋（酸辣汤面）",
+        "en": "Cook soft tofu and eggs (Hot and sour soup noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "嫩豆腐先下鍋，快熟時加入雞蛋；看到邊緣剛熟便停火，湯面保持清而有香氣。",
+        "yue": "嫩豆腐先下鍋，快熟時加入雞蛋；看到邊緣剛熟便停火，湯面保持清而有香氣。",
+        "zhHans": "嫩豆腐先下锅，快熟時加入鸡蛋；看到边緣剛熟便停火，汤面保持清而有香气。",
+        "en": "Add soft tofu first, then eggs near the end, stopping as soon as the edges are cooked through.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "熱湯淋麵（酸辣湯麵）",
+        "yue": "熱湯淋麵（酸辣湯麵）",
+        "zhHans": "热汤淋面（酸辣汤面）",
+        "en": "Ladle over noodles (Hot and sour soup noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把湯和配料淋上麵條，最後用蘑菇或椰菜補香，酸辣湯麵要趁熱立即食用。 這一步看生抽和麵條的狀態決定時間，讓酸辣湯麵完成時口感清楚。",
+        "yue": "把湯和配料淋上麵條，最後用蘑菇或椰菜補香，酸辣湯麵要趁熱立即食用。 這一步看生抽和麵條的狀態決定時間，讓酸辣湯麵完成時口感清楚。",
+        "zhHans": "把汤和配料淋上面条，最后用蘑菇或椰菜補香，酸辣汤面要趁热立即食用。 这一步看生抽和面条的狀態決定時間，让酸辣汤面完成時口感清楚。",
+        "en": "Ladle broth and toppings over the dried noodles, then finish with mushrooms or cabbage and serve Hot and sour soup noodles immediately.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/hot-and-sour-soup-noodles/cover-1.png",
+      "alt": "Generated food photo of Hot and sour soup noodles",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#hot-and-sour-soup-noodles/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#hot-and-sour-soup-noodles",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

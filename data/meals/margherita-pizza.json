@@ -1,0 +1,310 @@
+{
+  "id": "margherita-pizza",
+  "status": "approved",
+  "names": {
+    "zhHant": "薄餅瑪格麗特",
+    "yue": "薄餅瑪格麗特",
+    "zhHans": "薄饼玛格丽特",
+    "en": "Margherita pizza",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "薄餅瑪格麗特 是一款薄餅焗盤，用 薄餅麵糰 1、芝士 120、番茄 2、羅勒 10、橄欖油 1 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "薄餅瑪格麗特 是一款薄餅焗盤，用 薄餅麵糰 1、芝士 120、番茄 2、羅勒 10、橄欖油 1 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "薄饼玛格丽特 是一款薄饼焗盘，用 薄饼面糰 1、芝士 120、番茄 2、羅勒 10、橄欖油 1 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Margherita pizza is a review-first candidate meal built around 1 pizza dough, cheese, 2 tomatoes, basil."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 30,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "pizza-dough",
+      "amounts": {
+        "zhHant": "薄餅麵糰 1 個",
+        "yue": "薄餅麵糰 1 個",
+        "zhHans": "薄饼面糰 1 个",
+        "en": "1 pizza dough",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "cheese",
+      "amounts": {
+        "zhHant": "芝士 120 克",
+        "yue": "芝士 120 克",
+        "zhHans": "芝士 120 克",
+        "en": "120 g cheese",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 120,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "tomato",
+      "amounts": {
+        "zhHant": "番茄 2 個",
+        "yue": "番茄 2 個",
+        "zhHans": "番茄 2 个",
+        "en": "2 tomatoes",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "basil",
+      "amounts": {
+        "zhHant": "羅勒 10 克",
+        "yue": "羅勒 10 克",
+        "zhHans": "羅勒 10 克",
+        "en": "10 g basil",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 10,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "olive-oil",
+      "amounts": {
+        "zhHant": "橄欖油 1 湯匙",
+        "yue": "橄欖油 1 湯匙",
+        "zhHans": "橄欖油 1 汤匙",
+        "en": "1 tbsp olive oil",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "tbsp"
+      }
+    },
+    {
+      "ingredientId": "parmesan",
+      "amounts": {
+        "zhHant": "巴馬臣芝士 20 克",
+        "yue": "巴馬臣芝士 20 克",
+        "zhHans": "巴马臣芝士 20 克",
+        "en": "20 g parmesan",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 20,
+        "unit": "g"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "dairy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理芝士和番茄（薄餅瑪格麗特）",
+        "yue": "先處理芝士和番茄（薄餅瑪格麗特）",
+        "zhHans": "先處理芝士和番茄（薄饼玛格丽特）",
+        "en": "Prep cheese and tomatoes (Margherita pizza)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把芝士抹乾或切成一口大小，番茄和羅勒分開放好；薄餅麵糰按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把芝士抹乾或切成一口大小，番茄和羅勒分開放好；薄餅麵糰按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把芝士抹干或切成一口大小，番茄和羅勒分開放好；薄饼面糰按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the cheese, keep the tomatoes and basil separate, and get the pizza dough ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "預熱焗盤（薄餅瑪格麗特）",
+        "yue": "預熱焗盤（薄餅瑪格麗特）",
+        "zhHans": "預热焗盘（薄饼玛格丽特）",
+        "en": "Heat the tray (Margherita pizza)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "焗爐和焗盤一起預熱，薄餅麵糰放上熱盤才容易焗出脆底。 這一步看番茄和羅勒的狀態決定時間，讓薄餅瑪格麗特完成時口感清楚。",
+        "yue": "焗爐和焗盤一起預熱，薄餅麵糰放上熱盤才容易焗出脆底。 這一步看番茄和羅勒的狀態決定時間，讓薄餅瑪格麗特完成時口感清楚。",
+        "zhHans": "焗爐和焗盘一起預热，薄饼面糰放上热盘才容易焗出脆底。 这一步看番茄和羅勒的狀態決定時間，让薄饼玛格丽特完成時口感清楚。",
+        "en": "Preheat the oven with the tray inside so the pizza dough starts crisping as soon as it lands. Check parmesan against pizza dough and keep the 30-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "拉開薄餅麵糰（薄餅瑪格麗特）",
+        "yue": "拉開薄餅麵糰（薄餅瑪格麗特）",
+        "zhHans": "拉開薄饼面糰（薄饼玛格丽特）",
+        "en": "Shape pizza dough (Margherita pizza)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "薄餅麵糰回溫後拉開，中間薄、邊位稍厚，先薄薄抹上羅勒或油。 這一步看羅勒和橄欖油的狀態決定時間，讓薄餅瑪格麗特完成時口感清楚。",
+        "yue": "薄餅麵糰回溫後拉開，中間薄、邊位稍厚，先薄薄抹上羅勒或油。 這一步看羅勒和橄欖油的狀態決定時間，讓薄餅瑪格麗特完成時口感清楚。",
+        "zhHans": "薄饼面糰回溫后拉開，中間薄、边位稍厚，先薄薄抹上羅勒或油。 这一步看羅勒和橄欖油的狀態決定時間，让薄饼玛格丽特完成時口感清楚。",
+        "en": "Let pizza dough warm up, stretch it thin in the center with a thicker rim, then brush lightly with basil or oil.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "鋪芝士和番茄（薄餅瑪格麗特）",
+        "yue": "鋪芝士和番茄（薄餅瑪格麗特）",
+        "zhHans": "鋪芝士和番茄（薄饼玛格丽特）",
+        "en": "Top with cheese and tomatoes (Margherita pizza)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先放橄欖油，再鋪芝士和番茄；餡料保持一層，薄餅瑪格麗特才不會出水。 這一步看橄欖油和巴馬臣芝士的狀態決定時間，讓薄餅瑪格麗特完成時口感清楚。",
+        "yue": "先放橄欖油，再鋪芝士和番茄；餡料保持一層，薄餅瑪格麗特才不會出水。 這一步看橄欖油和巴馬臣芝士的狀態決定時間，讓薄餅瑪格麗特完成時口感清楚。",
+        "zhHans": "先放橄欖油，再鋪芝士和番茄；餡料保持一层，薄饼玛格丽特才不会出水。 这一步看橄欖油和巴马臣芝士的狀態決定時間，让薄饼玛格丽特完成時口感清楚。",
+        "en": "Add olive oil first, then cheese and tomatoes in one even layer so Margherita pizza does not turn soggy.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "焗到邊位上色（薄餅瑪格麗特）",
+        "yue": "焗到邊位上色（薄餅瑪格麗特）",
+        "zhHans": "焗到边位上色（薄饼玛格丽特）",
+        "en": "Bake until browned (Margherita pizza)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "焗至邊位金黃、橄欖油冒泡後取出，靜置兩分鐘再切，保留薄餅底部口感。 這一步看巴馬臣芝士和薄餅麵糰的狀態決定時間，讓薄餅瑪格麗特完成時口感清楚。",
+        "yue": "焗至邊位金黃、橄欖油冒泡後取出，靜置兩分鐘再切，保留薄餅底部口感。 這一步看巴馬臣芝士和薄餅麵糰的狀態決定時間，讓薄餅瑪格麗特完成時口感清楚。",
+        "zhHans": "焗至边位金黃、橄欖油冒泡后取出，靜置兩分钟再切，保留薄饼底部口感。 这一步看巴马臣芝士和薄饼面糰的狀態決定時間，让薄饼玛格丽特完成時口感清楚。",
+        "en": "Bake until the edge browns and olive oil bubbles, then rest for two minutes before slicing.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/margherita-pizza/cover-1.png",
+      "alt": "Generated food photo of Margherita pizza",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#margherita-pizza/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#margherita-pizza",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

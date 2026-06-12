@@ -1,0 +1,311 @@
+{
+  "id": "spaghetti-bolognese",
+  "status": "approved",
+  "names": {
+    "zhHant": "肉醬意粉",
+    "yue": "肉醬意粉",
+    "zhHans": "肉酱意粉",
+    "en": "Spaghetti bolognese",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "肉醬意粉 是一款西式意粉，用 意粉 180、牛肉碎 250、罐頭番茄 300、洋蔥半個、蒜頭 2 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "肉醬意粉 是一款西式意粉，用 意粉 180、牛肉碎 250、罐頭番茄 300、洋蔥半個、蒜頭 2 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "肉酱意粉 是一款西式意粉，用 意粉 180、牛肉碎 250、罐頭番茄 300、洋葱半个、蒜頭 2 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Spaghetti bolognese is a review-first candidate meal built around spaghetti, ground beef, canned tomato, 1/2 onion."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 35,
+  "difficulty": "中等",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "pasta",
+      "amounts": {
+        "zhHant": "意粉 180 克",
+        "yue": "意粉 180 克",
+        "zhHans": "意粉 180 克",
+        "en": "180 g spaghetti",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 180,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "ground-beef",
+      "amounts": {
+        "zhHant": "牛肉碎 250 克",
+        "yue": "牛肉碎 250 克",
+        "zhHans": "牛肉碎 250 克",
+        "en": "250 g ground beef",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 250,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "canned-tomato",
+      "amounts": {
+        "zhHant": "罐頭番茄 300 克",
+        "yue": "罐頭番茄 300 克",
+        "zhHans": "罐頭番茄 300 克",
+        "en": "300 g canned tomato",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 300,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "onion",
+      "amounts": {
+        "zhHant": "洋蔥半個",
+        "yue": "洋蔥半個",
+        "zhHans": "洋葱半个",
+        "en": "1/2 onion",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 0.5,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "蒜頭 2 瓣",
+        "yue": "蒜頭 2 瓣",
+        "zhHans": "蒜頭 2 瓣",
+        "en": "2 garlic cloves",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "clove"
+      }
+    },
+    {
+      "ingredientId": "parmesan",
+      "amounts": {
+        "zhHant": "巴馬臣芝士 20 克",
+        "yue": "巴馬臣芝士 20 克",
+        "zhHans": "巴马臣芝士 20 克",
+        "en": "20 g parmesan",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 20,
+        "unit": "g"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "beef",
+    "dairy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理牛肉碎和罐頭番茄（肉醬意粉）",
+        "yue": "先處理牛肉碎和罐頭番茄（肉醬意粉）",
+        "zhHans": "先處理牛肉碎和罐頭番茄（肉酱意粉）",
+        "en": "Prep ground beef and canned tomato (Spaghetti bolognese)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把牛肉碎抹乾或切成一口大小，罐頭番茄和洋蔥分開放好；意粉按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把牛肉碎抹乾或切成一口大小，罐頭番茄和洋蔥分開放好；意粉按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把牛肉碎抹干或切成一口大小，罐頭番茄和洋葱分開放好；意粉按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the ground beef, keep the canned tomato and onion separate, and get the spaghetti ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "煮意粉留麵水（肉醬意粉）",
+        "yue": "煮意粉留麵水（肉醬意粉）",
+        "zhHans": "煮意粉留面水（肉酱意粉）",
+        "en": "Boil spaghetti (Spaghetti bolognese)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "意粉煮至彈牙，先留半杯煮麵水；肉醬意粉最後靠這些麵水把醬汁拉滑。 這一步看罐頭番茄和洋蔥的狀態決定時間，讓肉醬意粉完成時口感清楚。",
+        "yue": "意粉煮至彈牙，先留半杯煮麵水；肉醬意粉最後靠這些麵水把醬汁拉滑。 這一步看罐頭番茄和洋蔥的狀態決定時間，讓肉醬意粉完成時口感清楚。",
+        "zhHans": "意粉煮至彈牙，先留半杯煮面水；肉酱意粉最后靠这些面水把酱汁拉滑。 这一步看罐頭番茄和洋葱的狀態決定時間，让肉酱意粉完成時口感清楚。",
+        "en": "Boil spaghetti until al dente and reserve cooking water so Spaghetti bolognese can be loosened at the end. Check parmesan against spaghetti and keep the 35-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煎香牛肉碎（肉醬意粉）",
+        "yue": "煎香牛肉碎（肉醬意粉）",
+        "zhHans": "煎香牛肉碎（肉酱意粉）",
+        "en": "Brown ground beef (Spaghetti bolognese)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "牛肉碎先用中火煎出香味，再加入罐頭番茄和洋蔥，等鍋底留下焦香才做醬。 這一步看洋蔥和蒜頭的狀態決定時間，讓肉醬意粉完成時口感清楚。",
+        "yue": "牛肉碎先用中火煎出香味，再加入罐頭番茄和洋蔥，等鍋底留下焦香才做醬。 這一步看洋蔥和蒜頭的狀態決定時間，讓肉醬意粉完成時口感清楚。",
+        "zhHans": "牛肉碎先用中火煎出香味，再加入罐頭番茄和洋葱，等锅底留下焦香才做酱。 这一步看洋葱和蒜頭的狀態決定時間，让肉酱意粉完成時口感清楚。",
+        "en": "Brown ground beef, then add canned tomato and onion; let the pan pick up flavor before building the sauce.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "煮成巴馬臣芝士醬（肉醬意粉）",
+        "yue": "煮成巴馬臣芝士醬（肉醬意粉）",
+        "zhHans": "煮成巴马臣芝士酱（肉酱意粉）",
+        "en": "Make the garlic cloves sauce (Spaghetti bolognese)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "加入巴馬臣芝士並用小火煮至剛稠，太厚就逐匙加入麵水，讓醬汁可黏在意粉上。 補充檢查牛肉碎和罐頭番茄，並按35分鐘節奏控制火候。",
+        "yue": "加入巴馬臣芝士並用小火煮至剛稠，太厚就逐匙加入麵水，讓醬汁可黏在意粉上。 補充檢查牛肉碎和罐頭番茄，並按35分鐘節奏控制火候。",
+        "zhHans": "加入巴马臣芝士並用小火煮至剛稠，太厚就逐匙加入面水，让酱汁可黏在意粉上。 補充檢查牛肉碎和罐頭番茄，並按35分钟節奏控制火候。",
+        "en": "Add garlic cloves and simmer until just thick, loosening spoon by spoon with pasta water until it coats the spaghetti.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "拌入意粉（肉醬意粉）",
+        "yue": "拌入意粉（肉醬意粉）",
+        "zhHans": "拌入意粉（肉酱意粉）",
+        "en": "Toss the spaghetti (Spaghetti bolognese)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把意粉放回鍋中拌一分鐘，最後加蒜頭收尾，趁醬汁仍亮身時上碟。 這一步看巴馬臣芝士和意粉的狀態決定時間，讓肉醬意粉完成時口感清楚。 補充檢查罐頭番茄和洋蔥，並按35分鐘節奏控制火候。",
+        "yue": "把意粉放回鍋中拌一分鐘，最後加蒜頭收尾，趁醬汁仍亮身時上碟。 這一步看巴馬臣芝士和意粉的狀態決定時間，讓肉醬意粉完成時口感清楚。 補充檢查罐頭番茄和洋蔥，並按35分鐘節奏控制火候。",
+        "zhHans": "把意粉放回锅中拌一分钟，最后加蒜頭收尾，趁酱汁仍亮身時上碟。 这一步看巴马臣芝士和意粉的狀態決定時間，让肉酱意粉完成時口感清楚。 補充檢查罐頭番茄和洋葱，並按35分钟節奏控制火候。",
+        "en": "Toss the spaghetti in the pan for one minute, finish with garlic cloves, and plate while the sauce is glossy.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/spaghetti-bolognese/cover-1.png",
+      "alt": "Generated food photo of Spaghetti bolognese",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#spaghetti-bolognese/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#spaghetti-bolognese",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

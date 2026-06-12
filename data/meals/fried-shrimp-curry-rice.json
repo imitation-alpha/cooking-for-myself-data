@@ -1,0 +1,350 @@
+{
+  "id": "fried-shrimp-curry-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "炸蝦咖喱飯",
+    "yue": "炸蝦咖喱飯",
+    "zhHans": "炸虾咖喱饭",
+    "en": "Fried shrimp curry rice",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "炸蝦咖喱飯 是一款亞洲飯碟，用 白米 1、蝦 10、日式咖喱磚 2、薯仔 1、甘筍半條 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "炸蝦咖喱飯 是一款亞洲飯碟，用 白米 1、蝦 10、日式咖喱磚 2、薯仔 1、甘筍半條 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "炸虾咖喱饭 是一款亞洲饭碟，用 白米 1、虾 10、日式咖喱磚 2、薯仔 1、甘筍半条 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Fried shrimp curry rice is a review-first candidate meal built around rice, 10 shrimp, 2 curry roux blocks, 1 potato."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 40,
+  "difficulty": "需時",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "rice",
+      "amounts": {
+        "zhHant": "白米 1 杯",
+        "yue": "白米 1 杯",
+        "zhHans": "白米 1 杯",
+        "en": "1 cup rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "cup"
+      }
+    },
+    {
+      "ingredientId": "shrimp",
+      "amounts": {
+        "zhHant": "蝦 10 隻",
+        "yue": "蝦 10 隻",
+        "zhHans": "虾 10 只",
+        "en": "10 shrimp",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 10,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "curry-block",
+      "amounts": {
+        "zhHant": "日式咖喱磚 2 塊",
+        "yue": "日式咖喱磚 2 塊",
+        "zhHans": "日式咖喱磚 2 块",
+        "en": "2 curry roux blocks",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "potato",
+      "amounts": {
+        "zhHant": "薯仔 1 個",
+        "yue": "薯仔 1 個",
+        "zhHans": "薯仔 1 个",
+        "en": "1 potato",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "carrot",
+      "amounts": {
+        "zhHant": "甘筍半條",
+        "yue": "甘筍半條",
+        "zhHans": "甘筍半条",
+        "en": "1/2 carrot",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 0.5,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "雞蛋 1 隻",
+        "yue": "雞蛋 1 隻",
+        "zhHans": "鸡蛋 1 只",
+        "en": "1 egg",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "breadcrumbs",
+      "amounts": {
+        "zhHant": "麵包糠 60 克",
+        "yue": "麵包糠 60 克",
+        "zhHans": "面包糠 60 克",
+        "en": "60 g breadcrumbs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 60,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "flour",
+      "amounts": {
+        "zhHant": "麵粉 40 克",
+        "yue": "麵粉 40 克",
+        "zhHans": "面粉 40 克",
+        "en": "40 g flour",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 40,
+        "unit": "g"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "shellfish",
+    "egg",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理蝦和日式咖喱磚（炸蝦咖喱飯）",
+        "yue": "先處理蝦和日式咖喱磚（炸蝦咖喱飯）",
+        "zhHans": "先處理虾和日式咖喱磚（炸虾咖喱饭）",
+        "en": "Prep shrimp and curry roux blocks (Fried shrimp curry rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把蝦抹乾或切成一口大小，日式咖喱磚和薯仔分開放好；白米按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把蝦抹乾或切成一口大小，日式咖喱磚和薯仔分開放好；白米按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把虾抹干或切成一口大小，日式咖喱磚和薯仔分開放好；白米按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the shrimp, keep the curry roux blocks and potato separate, and get the rice ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "先煮白米（炸蝦咖喱飯）",
+        "yue": "先煮白米（炸蝦咖喱飯）",
+        "zhHans": "先煮白米（炸虾咖喱饭）",
+        "en": "Cook rice (Fried shrimp curry rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米先煮到可上碟的狀態並保溫；炸蝦咖喱飯完成時就能直接組合。 這一步看日式咖喱磚和薯仔的狀態決定時間，讓炸蝦咖喱飯完成時口感清楚。",
+        "yue": "白米先煮到可上碟的狀態並保溫；炸蝦咖喱飯完成時就能直接組合。 這一步看日式咖喱磚和薯仔的狀態決定時間，讓炸蝦咖喱飯完成時口感清楚。",
+        "zhHans": "白米先煮到可上碟的狀態並保溫；炸虾咖喱饭完成時就能直接組合。 这一步看日式咖喱磚和薯仔的狀態決定時間，让炸虾咖喱饭完成時口感清楚。",
+        "en": "Cook rice until ready to serve and keep it warm so Fried shrimp curry rice can be assembled immediately. Check carrot against egg and keep the 40-minute timing in mind.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "煎香蝦（炸蝦咖喱飯）",
+        "yue": "煎香蝦（炸蝦咖喱飯）",
+        "zhHans": "煎香虾（炸虾咖喱饭）",
+        "en": "Sear shrimp (Fried shrimp curry rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蝦抹乾後下鍋，表面上色才翻動；加入日式咖喱磚時轉中火，避免外焦內生。 這一步看薯仔和甘筍的狀態決定時間，讓炸蝦咖喱飯完成時口感清楚。",
+        "yue": "蝦抹乾後下鍋，表面上色才翻動；加入日式咖喱磚時轉中火，避免外焦內生。 這一步看薯仔和甘筍的狀態決定時間，讓炸蝦咖喱飯完成時口感清楚。",
+        "zhHans": "虾抹干后下锅，表面上色才翻動；加入日式咖喱磚時转中火，避免外焦内生。 这一步看薯仔和甘筍的狀態決定時間，让炸虾咖喱饭完成時口感清楚。",
+        "en": "Dry shrimp, sear until colored before moving it, then add curry roux blocks over medium heat for control.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "用日式咖喱磚收味（炸蝦咖喱飯）",
+        "yue": "用日式咖喱磚收味（炸蝦咖喱飯）",
+        "zhHans": "用日式咖喱磚收味（炸虾咖喱饭）",
+        "en": "Finish with curry roux blocks (Fried shrimp curry rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "同鍋加入日式咖喱磚和薯仔，刮起鍋底香味，小火煮到可以薄薄掛在蝦上。 這一步看甘筍和雞蛋的狀態決定時間，讓炸蝦咖喱飯完成時口感清楚。",
+        "yue": "同鍋加入日式咖喱磚和薯仔，刮起鍋底香味，小火煮到可以薄薄掛在蝦上。 這一步看甘筍和雞蛋的狀態決定時間，讓炸蝦咖喱飯完成時口感清楚。",
+        "zhHans": "同锅加入日式咖喱磚和薯仔，刮起锅底香味，小火煮到可以薄薄掛在虾上。 这一步看甘筍和鸡蛋的狀態決定時間，让炸虾咖喱饭完成時口感清楚。",
+        "en": "Add curry roux blocks and potato to the same pan, scrape up browned bits, and simmer until it coats the shrimp.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "排好炸蝦咖喱飯（炸蝦咖喱飯）",
+        "yue": "排好炸蝦咖喱飯（炸蝦咖喱飯）",
+        "zhHans": "排好炸虾咖喱饭（炸虾咖喱饭）",
+        "en": "Plate Fried shrimp curry rice (Fried shrimp curry rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "白米先放底，鋪上蝦和日式咖喱磚，最後淋少量醬汁，保持份量清楚。 這一步看雞蛋和麵包糠的狀態決定時間，讓炸蝦咖喱飯完成時口感清楚。",
+        "yue": "白米先放底，鋪上蝦和日式咖喱磚，最後淋少量醬汁，保持份量清楚。 這一步看雞蛋和麵包糠的狀態決定時間，讓炸蝦咖喱飯完成時口感清楚。",
+        "zhHans": "白米先放底，鋪上虾和日式咖喱磚，最后淋少量酱汁，保持份量清楚。 这一步看鸡蛋和面包糠的狀態決定時間，让炸虾咖喱饭完成時口感清楚。",
+        "en": "Set down rice, add shrimp and curry roux blocks, then spoon over a little sauce for a tidy plate.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/fried-shrimp-curry-rice/cover-1.png",
+      "alt": "Generated food photo of Fried shrimp curry rice",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#fried-shrimp-curry-rice/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#fried-shrimp-curry-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

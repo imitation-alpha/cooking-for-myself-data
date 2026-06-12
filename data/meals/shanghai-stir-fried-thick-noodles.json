@@ -1,0 +1,312 @@
+{
+  "id": "shanghai-stir-fried-thick-noodles",
+  "status": "approved",
+  "names": {
+    "zhHant": "上海粗炒",
+    "yue": "上海粗炒",
+    "zhHans": "上海粗炒",
+    "en": "Shanghai stir-fried thick noodles",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "上海粗炒 是一款亞洲麵粉，用 粗麵 220、豬肉片 200、椰菜 160、蘑菇 100、生抽 1 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "上海粗炒 是一款亞洲麵粉，用 粗麵 220、豬肉片 200、椰菜 160、蘑菇 100、生抽 1 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "上海粗炒 是一款亞洲面粉，用 粗面 220、猪肉片 200、椰菜 160、蘑菇 100、生抽 1 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Shanghai stir-fried thick noodles is a review-first candidate meal built around thick noodles, sliced pork, cabbage, mushrooms."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 25,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "udon",
+      "amounts": {
+        "zhHant": "粗麵 220 克",
+        "yue": "粗麵 220 克",
+        "zhHans": "粗面 220 克",
+        "en": "220 g thick noodles",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 220,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "pork-shoulder",
+      "amounts": {
+        "zhHant": "豬肉片 200 克",
+        "yue": "豬肉片 200 克",
+        "zhHans": "猪肉片 200 克",
+        "en": "200 g sliced pork",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 200,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cabbage",
+      "amounts": {
+        "zhHant": "椰菜 160 克",
+        "yue": "椰菜 160 克",
+        "zhHans": "椰菜 160 克",
+        "en": "160 g cabbage",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 160,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "mushroom",
+      "amounts": {
+        "zhHant": "蘑菇 100 克",
+        "yue": "蘑菇 100 克",
+        "zhHans": "蘑菇 100 克",
+        "en": "100 g mushrooms",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 100,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "生抽 1 湯匙",
+        "yue": "生抽 1 湯匙",
+        "zhHans": "生抽 1 汤匙",
+        "en": "1 tbsp light soy sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "tbsp"
+      }
+    },
+    {
+      "ingredientId": "oyster-sauce",
+      "amounts": {
+        "zhHant": "蠔油 1 湯匙",
+        "yue": "蠔油 1 湯匙",
+        "zhHans": "蠔油 1 汤匙",
+        "en": "1 tbsp oyster sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "tbsp"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "pork",
+    "shellfish",
+    "soy",
+    "wheatGluten"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理豬肉片和椰菜（上海粗炒）",
+        "yue": "先處理豬肉片和椰菜（上海粗炒）",
+        "zhHans": "先處理猪肉片和椰菜（上海粗炒）",
+        "en": "Prep sliced pork and cabbage (Shanghai stir-fried thick noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把豬肉片抹乾或切成一口大小，椰菜和蘑菇分開放好；粗麵按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把豬肉片抹乾或切成一口大小，椰菜和蘑菇分開放好；粗麵按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把猪肉片抹干或切成一口大小，椰菜和蘑菇分開放好；粗面按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the sliced pork, keep the cabbage and mushrooms separate, and get the thick noodles ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "燙開粗麵（上海粗炒）",
+        "yue": "燙開粗麵（上海粗炒）",
+        "zhHans": "燙開粗面（上海粗炒）",
+        "en": "Soften thick noodles (Shanghai stir-fried thick noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "粗麵煮到剛散開就瀝乾，趁熱拌少量油；這樣再炒上海粗炒時不會黏成一團。 這一步看椰菜和蘑菇的狀態決定時間，讓上海粗炒完成時口感清楚。",
+        "yue": "粗麵煮到剛散開就瀝乾，趁熱拌少量油；這樣再炒上海粗炒時不會黏成一團。 這一步看椰菜和蘑菇的狀態決定時間，讓上海粗炒完成時口感清楚。",
+        "zhHans": "粗面煮到剛散開就瀝干，趁热拌少量油；这樣再炒上海粗炒時不会黏成一團。 这一步看椰菜和蘑菇的狀態決定時間，让上海粗炒完成時口感清楚。",
+        "en": "Cook the thick noodles only until loosened, drain well, and oil lightly so Shanghai stir-fried thick noodles can be tossed without clumping.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "快炒豬肉片（上海粗炒）",
+        "yue": "快炒豬肉片（上海粗炒）",
+        "zhHans": "快炒猪肉片（上海粗炒）",
+        "en": "Sear sliced pork (Shanghai stir-fried thick noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "豬肉片用大火先炒至轉色，加入椰菜和蘑菇兜兩下便盛起，保留鑊氣但不要炒老。",
+        "yue": "豬肉片用大火先炒至轉色，加入椰菜和蘑菇兜兩下便盛起，保留鑊氣但不要炒老。",
+        "zhHans": "猪肉片用大火先炒至转色，加入椰菜和蘑菇兜兩下便盛起，保留锅气但不要炒老。",
+        "en": "Sear the sliced pork hard, add cabbage and mushrooms briefly, then lift everything out before it overcooks.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "用生抽掛住麵身（上海粗炒）",
+        "yue": "用生抽掛住麵身（上海粗炒）",
+        "zhHans": "用生抽掛住面身（上海粗炒）",
+        "en": "Coat with light soy sauce (Shanghai stir-fried thick noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "原鑊放入生抽和少量水，倒回粗麵快速翻炒，等每條麵都沾到醬色再回放豬肉片。",
+        "yue": "原鑊放入生抽和少量水，倒回粗麵快速翻炒，等每條麵都沾到醬色再回放豬肉片。",
+        "zhHans": "原锅放入生抽和少量水，倒回粗面快速翻炒，等每条面都沾到酱色再回放猪肉片。",
+        "en": "Loosen light soy sauce in the pan with a splash of water, toss in the thick noodles, then return the sliced pork once the noodles are glossy.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "炒到乾身上碟（上海粗炒）",
+        "yue": "炒到乾身上碟（上海粗炒）",
+        "zhHans": "炒到干身上碟（上海粗炒）",
+        "en": "Finish with wok aroma (Shanghai stir-fried thick noodles)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "上海粗炒最後用大火多兜三十秒，試味後立即上碟，讓粗麵保持爽口而不是濕軟。",
+        "yue": "上海粗炒最後用大火多兜三十秒，試味後立即上碟，讓粗麵保持爽口而不是濕軟。",
+        "zhHans": "上海粗炒最后用大火多兜三十秒，試味后立即上碟，让粗面保持爽口而不是湿软。",
+        "en": "Finish Shanghai stir-fried thick noodles over high heat for about 30 seconds, taste, and plate while the thick noodles still has bounce.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/shanghai-stir-fried-thick-noodles/cover-1.png",
+      "alt": "Generated food photo of Shanghai stir-fried thick noodles",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#shanghai-stir-fried-thick-noodles/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#shanghai-stir-fried-thick-noodles",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

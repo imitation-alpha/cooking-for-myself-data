@@ -1,0 +1,351 @@
+{
+  "id": "indonesian-fried-rice",
+  "status": "approved",
+  "names": {
+    "zhHant": "印尼炒飯",
+    "yue": "印尼炒飯",
+    "zhHans": "印尼炒饭",
+    "en": "Indonesian fried rice",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "summary": {
+    "zhHant": "印尼炒飯 是一款亞洲飯碟，用 冷飯 400、雞蛋 2、蝦仁 160、洋蔥半個、蒜頭 3 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "yue": "印尼炒飯 是一款亞洲飯碟，用 冷飯 400、雞蛋 2、蝦仁 160、洋蔥半個、蒜頭 3 做成主食、蛋白質和醬汁比例清楚的一餐。",
+    "zhHans": "印尼炒饭 是一款亞洲饭碟，用 冷饭 400、鸡蛋 2、虾仁 160、洋葱半个、蒜頭 3 做成主食、蛋白質和酱汁比例清楚的一餐。",
+    "en": "Indonesian fried rice is a review-first candidate meal built around cold cooked rice, 2 eggs, shrimp, 1/2 onion."
+  },
+  "reason": {
+    "zhHant": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "yue": "這道菜補足亞洲與西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "zhHans": "这道菜補足亞洲与西式常見餐廳菜式的覆蓋，材料容易在一般超市或亞洲超市買到，適合先放入審核流程。",
+    "en": "This fills a common Asian or Western restaurant-style slot while keeping the ingredient list practical for home cooking and review."
+  },
+  "timeMinutes": 24,
+  "difficulty": "容易",
+  "servings": "2 人",
+  "ingredients": [
+    {
+      "ingredientId": "cooked-rice",
+      "amounts": {
+        "zhHant": "冷飯 400 克",
+        "yue": "冷飯 400 克",
+        "zhHans": "冷饭 400 克",
+        "en": "400 g cold cooked rice",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 400,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "egg",
+      "amounts": {
+        "zhHant": "雞蛋 2 隻",
+        "yue": "雞蛋 2 隻",
+        "zhHans": "鸡蛋 2 只",
+        "en": "2 eggs",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 2,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "shrimp",
+      "amounts": {
+        "zhHant": "蝦仁 160 克",
+        "yue": "蝦仁 160 克",
+        "zhHans": "虾仁 160 克",
+        "en": "160 g shrimp",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 160,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "onion",
+      "amounts": {
+        "zhHant": "洋蔥半個",
+        "yue": "洋蔥半個",
+        "zhHans": "洋葱半个",
+        "en": "1/2 onion",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 0.5,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "garlic",
+      "amounts": {
+        "zhHant": "蒜頭 3 瓣",
+        "yue": "蒜頭 3 瓣",
+        "zhHans": "蒜頭 3 瓣",
+        "en": "3 garlic cloves",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 3,
+        "unit": "clove"
+      }
+    },
+    {
+      "ingredientId": "carrot",
+      "amounts": {
+        "zhHant": "甘筍半條",
+        "yue": "甘筍半條",
+        "zhHans": "甘筍半条",
+        "en": "1/2 carrot",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 0.5,
+        "unit": "piece"
+      }
+    },
+    {
+      "ingredientId": "gochujang",
+      "amounts": {
+        "zhHant": "辣醬 1 茶匙",
+        "yue": "辣醬 1 茶匙",
+        "zhHans": "辣酱 1 茶匙",
+        "en": "1 tsp chili paste",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "tsp"
+      }
+    },
+    {
+      "ingredientId": "light-soy",
+      "amounts": {
+        "zhHant": "生抽 1 湯匙",
+        "yue": "生抽 1 湯匙",
+        "zhHans": "生抽 1 汤匙",
+        "en": "1 tbsp light soy sauce",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "measure": {
+        "quantity": 1,
+        "unit": "tbsp"
+      }
+    }
+  ],
+  "restrictionTags": [
+    "egg",
+    "shellfish",
+    "soy",
+    "wheatGluten",
+    "spicy"
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": {
+        "zhHant": "先處理雞蛋和蝦仁（印尼炒飯）",
+        "yue": "先處理雞蛋和蝦仁（印尼炒飯）",
+        "zhHans": "先處理鸡蛋和虾仁（印尼炒饭）",
+        "en": "Prep eggs and shrimp (Indonesian fried rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "先把雞蛋抹乾或切成一口大小，蝦仁和洋蔥分開放好；冷飯按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "yue": "先把雞蛋抹乾或切成一口大小，蝦仁和洋蔥分開放好；冷飯按包裝或平日做法先整理，避免下鍋時手忙腳亂。",
+        "zhHans": "先把鸡蛋抹干或切成一口大小，虾仁和洋葱分開放好；冷饭按包装或平日做法先整理，避免下锅時手忙腳亂。",
+        "en": "Cut or dry the eggs, keep the shrimp and onion separate, and get the cold cooked rice ready before heat goes on.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 2,
+      "title": {
+        "zhHant": "撥散冷飯（印尼炒飯）",
+        "yue": "撥散冷飯（印尼炒飯）",
+        "zhHans": "撥散冷饭（印尼炒饭）",
+        "en": "Break up cold cooked rice (Indonesian fried rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "冷飯先撥散，太濕就攤開吹五分鐘；印尼炒飯需要飯粒乾身才有香氣。 這一步看蝦仁和洋蔥的狀態決定時間，讓印尼炒飯完成時口感清楚。",
+        "yue": "冷飯先撥散，太濕就攤開吹五分鐘；印尼炒飯需要飯粒乾身才有香氣。 這一步看蝦仁和洋蔥的狀態決定時間，讓印尼炒飯完成時口感清楚。",
+        "zhHans": "冷饭先撥散，太湿就攤開吹五分钟；印尼炒饭需要饭粒干身才有香气。 这一步看虾仁和洋葱的狀態決定時間，让印尼炒饭完成時口感清楚。",
+        "en": "Break up the cold cooked rice; if damp, spread it out for five minutes so Indonesian fried rice fries instead of steaming.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 3,
+      "title": {
+        "zhHant": "炒香雞蛋和蝦仁（印尼炒飯）",
+        "yue": "炒香雞蛋和蝦仁（印尼炒飯）",
+        "zhHans": "炒香鸡蛋和虾仁（印尼炒饭）",
+        "en": "Cook eggs and shrimp (Indonesian fried rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "蝦仁先炒到剛凝固，雞蛋另用大火炒香，兩者盛起保留，避免之後回鍋過熟。 這一步看洋蔥和蒜頭的狀態決定時間，讓印尼炒飯完成時口感清楚。",
+        "yue": "蝦仁先炒到剛凝固，雞蛋另用大火炒香，兩者盛起保留，避免之後回鍋過熟。 這一步看洋蔥和蒜頭的狀態決定時間，讓印尼炒飯完成時口感清楚。",
+        "zhHans": "虾仁先炒到剛凝固，鸡蛋另用大火炒香，兩者盛起保留，避免之后回锅過熟。 这一步看洋葱和蒜頭的狀態決定時間，让印尼炒饭完成時口感清楚。",
+        "en": "Scramble shrimp until barely set, sear eggs separately, and hold both aside so they stay tender.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 4,
+      "title": {
+        "zhHant": "用辣醬炒飯（印尼炒飯）",
+        "yue": "用辣醬炒飯（印尼炒飯）",
+        "zhHans": "用辣酱炒饭（印尼炒饭）",
+        "en": "Season with light soy sauce (Indonesian fried rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "原鑊加入洋蔥和辣醬，倒入冷飯壓散快炒，讓飯粒均勻吸到醬香。 這一步看蒜頭和甘筍的狀態決定時間，讓印尼炒飯完成時口感清楚。",
+        "yue": "原鑊加入洋蔥和辣醬，倒入冷飯壓散快炒，讓飯粒均勻吸到醬香。 這一步看蒜頭和甘筍的狀態決定時間，讓印尼炒飯完成時口感清楚。",
+        "zhHans": "原锅加入洋葱和辣酱，倒入冷饭压散快炒，让饭粒均勻吸到酱香。 这一步看蒜頭和甘筍的狀態決定時間，让印尼炒饭完成時口感清楚。",
+        "en": "Cook onion with light soy sauce, add the cold cooked rice, and press-toss until each grain is seasoned.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    },
+    {
+      "order": 5,
+      "title": {
+        "zhHant": "回放配料（印尼炒飯）",
+        "yue": "回放配料（印尼炒飯）",
+        "zhHans": "回放配料（印尼炒饭）",
+        "en": "Return the toppings (Indonesian fried rice)",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      },
+      "detail": {
+        "zhHant": "把雞蛋、蝦仁和蒜頭回鑊，最後大火兜勻，印尼炒飯要乾身上碟。 這一步看甘筍和辣醬的狀態決定時間，讓印尼炒飯完成時口感清楚。",
+        "yue": "把雞蛋、蝦仁和蒜頭回鑊，最後大火兜勻，印尼炒飯要乾身上碟。 這一步看甘筍和辣醬的狀態決定時間，讓印尼炒飯完成時口感清楚。",
+        "zhHans": "把鸡蛋、虾仁和蒜頭回锅，最后大火兜勻，印尼炒饭要干身上碟。 这一步看甘筍和辣酱的狀態決定時間，让印尼炒饭完成時口感清楚。",
+        "en": "Return eggs, shrimp, and garlic cloves, toss over high heat, and plate Indonesian fried rice while the rice is dry and aromatic.",
+        "ja": null,
+        "ko": null,
+        "th": null,
+        "vi": null,
+        "id": null,
+        "tl": null
+      }
+    }
+  ],
+  "images": [
+    {
+      "path": "assets/meals/indonesian-fried-rice/cover-1.png",
+      "alt": "Generated food photo of Indonesian fried rice",
+      "contentStyle": "realistic_food_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors via Codex proxy image generation",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#indonesian-fried-rice/cover-1",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#indonesian-fried-rice",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pizza-dough",
+  "status": "approved",
+  "names": {
+    "zhHant": "薄餅麵糰",
+    "yue": "薄餅麵糰",
+    "zhHans": "薄饼面糰",
+    "en": "Pizza dough",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "section": "frozen",
+  "aliases": [
+    "pizza base",
+    "pizza crust"
+  ],
+  "storeNotes": {
+    "zhHant": "薄餅麵糰 是這次 80 道候選菜式需要的補充食材，買餸時選擇份量清楚、狀態新鮮的版本。",
+    "yue": "薄餅麵糰 是這次 80 道候選菜式需要的補充食材，買餸時選擇份量清楚、狀態新鮮的版本。",
+    "zhHans": "薄饼面糰 是这次 80 道候選菜式需要的補充食材，買餸時選擇份量清楚、狀態新鲜的版本。",
+    "en": "Pizza dough was added as a reviewed supplemental ingredient for the 80-meal review batch."
+  },
+  "substitutions": {
+    "zhHant": "如買不到 薄餅麵糰，可用同類食材代替，並按厚薄或鹹度調整烹調時間。",
+    "yue": "如買不到 薄餅麵糰，可用同類食材代替，並按厚薄或鹹度調整烹調時間。",
+    "zhHans": "如買不到 薄饼面糰，可用同類食材代替，並按厚薄或咸度调整烹调時間。",
+    "en": "If Pizza dough is unavailable, use a close ingredient from the same section and adjust cooking time or seasoning."
+  },
+  "tags": [
+    "wheatGluten"
+  ],
+  "images": [
+    {
+      "path": "assets/ingredients/pizza-dough.png",
+      "alt": "Generated ingredient image for Pizza dough",
+      "contentStyle": "realistic_ingredient_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#ingredients/pizza-dough/image",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself review-first 80 meal expansion",
+    "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#ingredients/pizza-dough",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-06-07T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "cilantro",
+  "status": "approved",
+  "names": {
+    "zhHant": "Cilantro",
+    "yue": "Cilantro",
+    "zhHans": null,
+    "en": "Cilantro",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "section": "produce",
+  "aliases": [
+    "coriander leaves"
+  ],
+  "storeNotes": {
+    "zhHant": "Cilantro is stocked in mainstream or international grocery stores; choose a plain, flexible version for weekly cooking.",
+    "yue": "Cilantro is stocked in mainstream or international grocery stores; choose a plain, flexible version for weekly cooking.",
+    "zhHans": null,
+    "en": "Cilantro is stocked in mainstream or international grocery stores; choose a plain, flexible version for weekly cooking.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "substitutions": {
+    "zhHant": "If Cilantro is unavailable, use a similar ingredient from the same grocery section and adjust cooking time.",
+    "yue": "If Cilantro is unavailable, use a similar ingredient from the same grocery section and adjust cooking time.",
+    "zhHans": null,
+    "en": "If Cilantro is unavailable, use a similar ingredient from the same grocery section and adjust cooking time.",
+    "ja": null,
+    "ko": null,
+    "th": null,
+    "vi": null,
+    "id": null,
+    "tl": null
+  },
+  "tags": [],
+  "nutrition": {
+    "estimate": true,
+    "rangePercent": {
+      "low": 0.9,
+      "high": 1.15
+    },
+    "nutrientsPer100g": {
+      "kcal": 23,
+      "sodiumMg": 46
+    },
+    "unitWeights": [
+      {
+        "unit": "g",
+        "grams": 1
+      },
+      {
+        "unit": "bunch",
+        "grams": 16
+      }
+    ],
+    "sourceRefs": [
+      {
+        "sourceType": "usda_fdc",
+        "sourceName": "USDA FoodData Central generic reference",
+        "sourceURL": "https://fdc.nal.usda.gov/",
+        "accessedAt": "2026-05-22",
+        "foodDescription": "Cilantro",
+        "sourceNutrientsPer100g": {
+          "kcal": 23,
+          "sodiumMg": 46
+        }
+      }
+    ],
+    "confidence": "medium",
+    "reviewStatus": "reviewed"
+  },
+  "images": [
+    {
+      "path": "assets/ingredients/cilantro.png",
+      "alt": "Generated ingredient image for Cilantro",
+      "contentStyle": "realistic_ingredient_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "CookingForMyself generated image catalog",
+      "sourceName": "CookingForMyself global 520 meal expansion",
+      "sourceURL": "local://cooking-for-myself-data/docs/global-meal-expansion-candidates.json#ingredient-cilantro",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "CookingForMyself global 520 meal expansion",
+    "sourceURL": "local://cooking-for-myself-data/docs/global-meal-expansion-candidates.json#ingredient-cilantro",
+    "license": "ODC-BY-1.0",
+    "attribution": "CookingForMyself original generated catalog",
+    "reviewStatus": "approved",
+    "generated": true,
+    "generatedAt": "2026-05-22T00:00:00.000Z"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "pork-shoulder",
+  "status": "approved",
+  "names": {
+    "zhHant": "梅頭豬肉",
+    "yue": "梅頭豬肉",
+    "zhHans": "梅花猪肉",
+    "en": "Pork shoulder",
+    "ja": "Pork shoulder",
+    "ko": "Pork shoulder",
+    "th": "Pork shoulder",
+    "vi": "Pork shoulder",
+    "id": "Pork shoulder",
+    "tl": "Pork shoulder"
+  },
+  "section": "meat",
+  "aliases": [
+    "pork collar",
+    "pork butt",
+    "梅頭肉",
+    "梅花肉"
+  ],
+  "storeNotes": {
+    "zhHant": "肉檔或超市豬肉區；做叉燒風味飯時選帶少量脂肪、厚薄平均的梅頭或豬肩肉。",
+    "en": "肉檔或超市豬肉區；做叉燒風味飯時選帶少量脂肪、厚薄平均的梅頭或豬肩肉。",
+    "yue": "肉檔或超市豬肉區；做叉燒風味飯時選帶少量脂肪、厚薄平均的梅頭或豬肩肉。"
+  },
+  "substitutions": {
+    "zhHant": "可用豬扒或瘦肉代替，但要縮短烹調時間並避免煮乾。",
+    "en": "可用豬扒或瘦肉代替，但要縮短烹調時間並避免煮乾。",
+    "yue": "可用豬扒或瘦肉代替，但要縮短烹調時間並避免煮乾。"
+  },
+  "tags": [],
+  "images": [
+    {
+      "path": "assets/ingredients/pork-shoulder.png",
+      "alt": "Generated ingredient image for Pork shoulder",
+      "contentStyle": "realistic_ingredient_photo",
+      "disclosure": "generated",
+      "license": "CC-BY-4.0",
+      "attribution": "Cooking For Myself contributors",
+      "sourceName": "Cooking For Myself Codex proxy image generation",
+      "sourceURL": "local://cooking-for-myself/content/review-batches/2026-06-07-asian-western-restaurant-80#ingredients/pork-shoulder/image",
+      "reviewStatus": "approved"
+    }
+  ],
+  "provenance": {
+    "sourceName": "Cooking For Myself app seed bootstrap",
+    "sourceURL": "local://cooking-for-myself/content/app-seed/recipes.json#ingredients/pork-shoulder",
+    "license": "ODC-BY-1.0",
+    "attribution": "Cooking For Myself contributors",
+    "reviewStatus": "reviewed",
+    "generated": true,
+    "generatedAt": "2026-05-28T23:22:58.542Z"
+  },
+  "nutrition": {
+    "estimate": true,
+    "rangePercent": {
+      "low": 0.9,
+      "high": 1.15
+    },
+    "nutrientsPer100g": {
+      "kcal": 235,
+      "sodiumMg": 70
+    },
+    "unitWeights": [
+      {
+        "unit": "g",
+        "grams": 1,
+        "sourceRefId": "baseline-pork-shoulder",
+        "note": "Planning conversion estimate from app seed."
+      }
+    ],
+    "sourceRefs": [
+      {
+        "id": "baseline-pork-shoulder",
+        "sourceType": "other_reviewed",
+        "sourceName": "Cooking For Myself baseline nutrition estimate",
+        "sourceURL": "local://cooking-for-myself/nutrition-baseline-v1#pork-shoulder",
+        "accessedAt": "2026-05-28",
+        "foodDescription": "Pork shoulder baseline estimate",
+        "sourceNutrientsPer100g": {
+          "kcal": 235,
+          "sodiumMg": 70
+        }
+      }
+    ],
+    "confidence": "medium",
+    "reviewStatus": "reviewed"
+  }
+}
